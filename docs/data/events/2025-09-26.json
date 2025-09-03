@@ -1,12 +1,11 @@
 {
   "date": "2025-09-26",
-  "total_events": 14,
-  "new_events": 14,
+  "total_events": 5,
+  "new_events": 0,
   "platforms": {
     "cls": 2,
     "jiuyangongshe": 1,
-    "investing": 2,
-    "eastmoney": 9
+    "investing": 2
   },
   "events": [
     {
@@ -26,7 +25,7 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
+      "is_new": false,
       "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315382,
@@ -52,7 +51,7 @@
         "holiday": null,
         "title": "美国8月核心PCE物价指数年率"
       },
-      "created_at": "2025-09-03T07:58:27.986629"
+      "created_at": "2025-09-03T09:00:07.567854"
     },
     {
       "platform": "cls",
@@ -71,7 +70,7 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
+      "is_new": false,
       "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315365,
@@ -97,7 +96,7 @@
         "holiday": null,
         "title": "美国9月密歇根大学消费者信心指数终值"
       },
-      "created_at": "2025-09-03T07:58:27.986639"
+      "created_at": "2025-09-03T09:00:07.567865"
     },
     {
       "platform": "jiuyangongshe",
@@ -118,7 +117,7 @@
         "农业农村"
       ],
       "data_status": "ACTIVE",
-      "is_new": true,
+      "is_new": false,
       "discovery_date": "2025-09-03",
       "raw_data": {
         "article_id": "4a1d967a8d92480995bfdae2705dff33",
@@ -149,7 +148,7 @@
           ]
         }
       },
-      "created_at": "2025-09-03T07:58:29.342212"
+      "created_at": "2025-09-03T09:00:09.305895"
     },
     {
       "platform": "investing",
@@ -168,7 +167,7 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
+      "is_new": false,
       "discovery_date": "2025-09-03",
       "raw_data": {
         "event_id": "eventRowId_528835",
@@ -180,7 +179,7 @@
         "event_name": "西班牙GDP季率(%) (季度环比)  (第二季度)",
         "previous": "0.6%"
       },
-      "created_at": "2025-09-03T07:58:44.363464"
+      "created_at": "2025-09-03T09:00:23.648061"
     },
     {
       "platform": "investing",
@@ -199,7 +198,7 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
+      "is_new": false,
       "discovery_date": "2025-09-03",
       "raw_data": {
         "event_id": "eventRowId_526760",
@@ -210,232 +209,7 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第三季度)"
       },
-      "created_at": "2025-09-03T07:58:44.363598"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20250926000000_-665027849682091140",
-      "original_id": "2025-09-26 00:00:00_日本：CPI：东京：同比(报告期:2025年09月)",
-      "event_date": "2025-09-26",
-      "event_time": null,
-      "event_datetime": "2025-09-26 00:00:00",
-      "title": "日本：CPI：东京：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "日本",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
-      "raw_data": {
-        "Name": "日本：CPI：东京：同比(报告期:2025年09月)",
-        "City": "日本"
-      },
-      "created_at": "2025-09-03T07:58:59.995130"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20250926000000_-1415390848333680596",
-      "original_id": "2025-09-26 00:00:00_日本：核心CPI：东京：同比(报告期:2025年09月)",
-      "event_date": "2025-09-26",
-      "event_time": null,
-      "event_datetime": "2025-09-26 00:00:00",
-      "title": "日本：核心CPI：东京：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "日本",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
-      "raw_data": {
-        "Name": "日本：核心CPI：东京：同比(报告期:2025年09月)",
-        "City": "日本"
-      },
-      "created_at": "2025-09-03T07:58:59.995139"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20250926000000_5837440034407716509",
-      "original_id": "2025-09-26 00:00:00_中国澳门：失业率(报告期:2025年08月)",
-      "event_date": "2025-09-26",
-      "event_time": null,
-      "event_datetime": "2025-09-26 00:00:00",
-      "title": "中国澳门：失业率(报告期:2025年08月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国澳门",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
-      "raw_data": {
-        "Name": "中国澳门：失业率(报告期:2025年08月)",
-        "City": "中国澳门"
-      },
-      "created_at": "2025-09-03T07:58:59.995147"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20250926000000_-1158924907253166257",
-      "original_id": "2025-09-26 00:00:00_中国澳门：CPI：综合：同比(报告期:2025年08月)",
-      "event_date": "2025-09-26",
-      "event_time": null,
-      "event_datetime": "2025-09-26 00:00:00",
-      "title": "中国澳门：CPI：综合：同比(报告期:2025年08月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国澳门",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
-      "raw_data": {
-        "Name": "中国澳门：CPI：综合：同比(报告期:2025年08月)",
-        "City": "中国澳门"
-      },
-      "created_at": "2025-09-03T07:58:59.995154"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20250926203000_-8212626414172527067",
-      "original_id": "2025-09-26 20:30:00_美国：个人消费支出：季调(报告期:2025年08月)",
-      "event_date": "2025-09-26",
-      "event_time": "20:30:00",
-      "event_datetime": "2025-09-26 20:30:00",
-      "title": "美国：个人消费支出：季调(报告期:2025年08月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
-      "raw_data": {
-        "Name": "美国：个人消费支出：季调(报告期:2025年08月)",
-        "City": "美国"
-      },
-      "created_at": "2025-09-03T07:58:59.995164"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20250926203000_8068892535505007500",
-      "original_id": "2025-09-26 20:30:00_美国：个人总收入：季调(报告期:2025年08月)",
-      "event_date": "2025-09-26",
-      "event_time": "20:30:00",
-      "event_datetime": "2025-09-26 20:30:00",
-      "title": "美国：个人总收入：季调(报告期:2025年08月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
-      "raw_data": {
-        "Name": "美国：个人总收入：季调(报告期:2025年08月)",
-        "City": "美国"
-      },
-      "created_at": "2025-09-03T07:58:59.995171"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20250926203000_5077612435626830001",
-      "original_id": "2025-09-26 20:30:00_美国：人均可支配收入:季调(报告期:2025年08月)",
-      "event_date": "2025-09-26",
-      "event_time": "20:30:00",
-      "event_datetime": "2025-09-26 20:30:00",
-      "title": "美国：人均可支配收入:季调(报告期:2025年08月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
-      "raw_data": {
-        "Name": "美国：人均可支配收入:季调(报告期:2025年08月)",
-        "City": "美国"
-      },
-      "created_at": "2025-09-03T07:58:59.995180"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20250926203000_-2078019678128467066",
-      "original_id": "2025-09-26 20:30:00_美国：核心PCE物价指数：当月同比(报告期:2025年08月)",
-      "event_date": "2025-09-26",
-      "event_time": "20:30:00",
-      "event_datetime": "2025-09-26 20:30:00",
-      "title": "美国：核心PCE物价指数：当月同比(报告期:2025年08月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
-      "raw_data": {
-        "Name": "美国：核心PCE物价指数：当月同比(报告期:2025年08月)",
-        "City": "美国"
-      },
-      "created_at": "2025-09-03T07:58:59.995188"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20250926203000_-6629778336766444536",
-      "original_id": "2025-09-26 20:30:00_加拿大：GDP：不变价：季调：环比(报告期:2025年07月)",
-      "event_date": "2025-09-26",
-      "event_time": "20:30:00",
-      "event_datetime": "2025-09-26 20:30:00",
-      "title": "加拿大：GDP：不变价：季调：环比(报告期:2025年07月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "加拿大",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
-      "raw_data": {
-        "Name": "加拿大：GDP：不变价：季调：环比(报告期:2025年07月)",
-        "City": "加拿大"
-      },
-      "created_at": "2025-09-03T07:58:59.995195"
+      "created_at": "2025-09-03T09:00:23.648196"
     }
   ]
 }
