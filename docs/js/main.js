@@ -211,7 +211,7 @@ class CalendarApp {
 
     triggerManualUpdate() {
         const repoOwner = 'lijiang-0920';
-        const repoName = 'calendar';
+        const repoName = 'simple-investment-calendar';
         const workflowFile = 'daily_update.yml';
         
         // 构建GitHub Actions手动触发URL
@@ -226,7 +226,7 @@ class CalendarApp {
             '3. 点击绿色的 "Run workflow" 按钮\n' +
             '4. 等待3-5分钟后回到本页面刷新\n\n' +
             '是否继续？'
-        );        
+        );
         
         if (confirmed) {
             // 临时改变按钮状态
@@ -250,7 +250,7 @@ class CalendarApp {
             }, 1000);
         }
     }
-}
+        
 
 // 页面加载完成后初始化应用
 document.addEventListener('DOMContentLoaded', () => {
