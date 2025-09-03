@@ -222,11 +222,11 @@ class CalendarApp {
             '即将跳转到GitHub Actions页面进行手动更新。\n\n' +
             '操作步骤：\n' +
             '1. 点击 "Run workflow" 按钮\n' +
-            '2. 选择 "main" 分支\
+            '2. 选择 "main" 分支\n' +
             '3. 点击绿色的 "Run workflow" 按钮\n' +
             '4. 等待3-5分钟后回到本页面刷新\n\n' +
             '是否继续？'
-        );
+        );        
         
         if (confirmed) {
             // 临时改变按钮状态
