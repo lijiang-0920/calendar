@@ -1,12 +1,13 @@
 {
   "date": "2025-09-24",
-  "total_events": 12,
-  "new_events": 12,
+  "total_events": 16,
+  "new_events": 16,
   "platforms": {
     "cls": 3,
+    "jiuyangongshe": 2,
     "tonghuashun": 1,
     "investing": 5,
-    "eastmoney": 3
+    "eastmoney": 5
   },
   "events": [
     {
@@ -43,7 +44,7 @@
         "holiday": null,
         "title": "2025云栖大会将于9月24日至26日举办"
       },
-      "created_at": "2025-09-03T07:49:35.498403"
+      "created_at": "2025-09-03T07:58:27.986570"
     },
     {
       "platform": "cls",
@@ -79,7 +80,7 @@
         "holiday": null,
         "title": "俄罗斯央行公布货币政策会议纪要"
       },
-      "created_at": "2025-09-03T07:49:35.498413"
+      "created_at": "2025-09-03T07:58:27.986580"
     },
     {
       "platform": "cls",
@@ -124,7 +125,97 @@
         "holiday": null,
         "title": "美国至9月19日当周EIA原油库存(万桶)"
       },
-      "created_at": "2025-09-03T07:49:35.498423"
+      "created_at": "2025-09-03T07:58:27.986589"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_10tpmr15cfm_c8871318e675461b85c955e2a09c3d89_20250924",
+      "original_id": "10tpmr15cfm",
+      "event_date": "2025-09-24",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "上海国际电力元件、可再生能源管理展览会",
+      "content": "PCIM Asia 国际电力元件、可再生能源管理展览会是一场在亚洲领先的电力电子国际展览会及研讨会。PCIM Asia 作为一个涵盖组件、驱动控制、散热管理及终端智能系统的全方位展示平台，向业界人士呈现一条完整的产业价值链。来自电力电子、电动交通、国家电网、轨道交通、新能源发电（光伏、风能）等领域的买家齐聚一堂，参与这场年度电力电子盛会!",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "article_id": "10tpmr15cfm",
+        "user_id": "00525773fe47467cac470afac1e73909",
+        "title": "上海国际电力元件、可再生能源管理展览会",
+        "content": "PCIM Asia 国际电力元件、可再生能源管理展览会是一场在亚洲领先的电力电子国际展览会及研讨会。PCIM Asia 作为一个涵盖组件、驱动控制、散热管理及终端智能系统的全方位展示平台，向业界人士呈现一条完整的产业价值链。来自电力电子、电动交通、国家电网、轨道交通、新能源发电（光伏、风能）等领域的买家齐聚一堂，参与这场年度电力电子盛会!",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 1,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "00525773fe47467cac470afac1e73909",
+          "nickname": "无名小韭73650717"
+        },
+        "timeline": {
+          "article_id": "10tpmr15cfm",
+          "timeline_id": "c8871318e675461b85c955e2a09c3d89",
+          "date": "2025-09-24",
+          "grade": 6,
+          "source": "1",
+          "create_time": "2025-08-10 13:03:25",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-03T07:58:29.342171"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_0ff0326c642b4fe89123513d11dd18a7_e8e424d565474bbea4686f29171cce3d_20250924",
+      "original_id": "0ff0326c642b4fe89123513d11dd18a7",
+      "event_date": "2025-09-24",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025杭州·云栖大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "article_id": "0ff0326c642b4fe89123513d11dd18a7",
+        "user_id": "1",
+        "title": "2025杭州·云栖大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "0ff0326c642b4fe89123513d11dd18a7",
+          "timeline_id": "e8e424d565474bbea4686f29171cce3d",
+          "date": "2025-09-24",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:57:21",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-03T07:58:29.342178"
     },
     {
       "platform": "tonghuashun",
@@ -165,7 +256,7 @@
           }
         ]
       },
-      "created_at": "2025-09-03T07:49:52.911023"
+      "created_at": "2025-09-03T07:58:35.498215"
     },
     {
       "platform": "investing",
@@ -196,7 +287,7 @@
         "event_name": "韩国消费者信心指数  (九月)",
         "previous": "111.4"
       },
-      "created_at": "2025-09-03T07:50:00.891664"
+      "created_at": "2025-09-03T07:58:43.650900"
     },
     {
       "platform": "investing",
@@ -227,7 +318,7 @@
         "event_name": "澳大利亚RBA加权中值CPI季率(%) (同比)  (八月)",
         "previous": "2.80%"
       },
-      "created_at": "2025-09-03T07:50:00.891805"
+      "created_at": "2025-09-03T07:58:43.651033"
     },
     {
       "platform": "investing",
@@ -258,7 +349,7 @@
         "event_name": "Manufacturing & Services PMI (月度环比)  (九月)",
         "previous": "52.00%"
       },
-      "created_at": "2025-09-03T07:50:00.891927"
+      "created_at": "2025-09-03T07:58:43.651152"
     },
     {
       "platform": "investing",
@@ -289,7 +380,7 @@
         "event_name": "日本日经/Markit制造业PMI  (九月)",
         "previous": "49.7"
       },
-      "created_at": "2025-09-03T07:50:00.892045"
+      "created_at": "2025-09-03T07:58:43.651265"
     },
     {
       "platform": "investing",
@@ -320,11 +411,61 @@
         "event_name": "日本服务业PMI  (九月)",
         "previous": "53.1"
       },
-      "created_at": "2025-09-03T07:50:00.892163"
+      "created_at": "2025-09-03T07:58:43.651377"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250924220000_3863266759333119775",
+      "event_id": "em_jjsj_20250924163000_-8967447860835045618",
+      "original_id": "2025-09-24 16:30:00_德国：Ifo商业景气指数(报告期:2025年09月)",
+      "event_date": "2025-09-24",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-09-24 16:30:00",
+      "title": "德国：Ifo商业景气指数(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "德国：Ifo商业景气指数(报告期:2025年09月)",
+        "City": "德国"
+      },
+      "created_at": "2025-09-03T07:58:59.995028"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250924163000_5583522025538470358",
+      "original_id": "2025-09-24 16:30:00_德国：Ifo现况指数(报告期:2025年09月)",
+      "event_date": "2025-09-24",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-09-24 16:30:00",
+      "title": "德国：Ifo现况指数(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "德国：Ifo现况指数(报告期:2025年09月)",
+        "City": "德国"
+      },
+      "created_at": "2025-09-03T07:58:59.995037"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250924220000_4907839215103294600",
       "original_id": "2025-09-24 22:00:00_美国：新建住房销售(报告期:2025年08月)",
       "event_date": "2025-09-24",
       "event_time": "22:00:00",
@@ -345,11 +486,11 @@
         "Name": "美国：新建住房销售(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T07:50:14.993179"
+      "created_at": "2025-09-03T07:58:59.995045"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250924220000_-1557576182520366663",
+      "event_id": "em_jjsj_20250924220000_6647794045504921529",
       "original_id": "2025-09-24 22:00:00_美国：新建住房销售：环比(报告期:2025年08月)",
       "event_date": "2025-09-24",
       "event_time": "22:00:00",
@@ -370,7 +511,7 @@
         "Name": "美国：新建住房销售：环比(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T07:50:14.993186"
+      "created_at": "2025-09-03T07:58:59.995052"
     },
     {
       "platform": "eastmoney",
@@ -401,7 +542,7 @@
         "city": "杭州",
         "content": "2025云栖大会是由阿里云主办的科技会议,于2025年9月24日至26日在杭州云栖小镇国际会展中心举办。"
       },
-      "created_at": "2025-09-03T07:50:14.996179"
+      "created_at": "2025-09-03T07:58:59.997973"
     }
   ]
 }
