@@ -211,7 +211,7 @@ class CalendarApp {
 
     triggerManualUpdate() {
         const repoOwner = 'lijiang-0920';
-        const repoName = 'simple-investment-calendar';
+        const repoName = 'calendar';
         const workflowFile = 'daily_update.yml';
         
         // 构建GitHub Actions手动触发URL
@@ -250,10 +250,9 @@ class CalendarApp {
             }, 1000);
         }
     }
-        
+}
 
 // 页面加载完成后初始化应用
 document.addEventListener('DOMContentLoaded', () => {
     new CalendarApp();
 });
-          
