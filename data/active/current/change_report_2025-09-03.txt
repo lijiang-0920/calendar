@@ -1,9 +1,9 @@
 {
-  "detection_time": "2025-09-03T09:00:48.588750",
+  "detection_time": "2025-09-03T14:15:49.943881",
   "summary": {
-    "total_new": 1,
-    "total_updated": 10,
-    "total_cancelled": 575
+    "total_new": 580,
+    "total_updated": 20,
+    "total_cancelled": 4
   },
   "platforms": {
     "cls": {
@@ -15,7 +15,7 @@
     "jiuyangongshe": {
       "new_events": 0,
       "updated_events": 0,
-      "cancelled_events": 0,
+      "cancelled_events": 1,
       "sample_new_titles": []
     },
     "tonghuashun": {
@@ -25,27 +25,96 @@
       "sample_new_titles": []
     },
     "investing": {
-      "new_events": 1,
-      "updated_events": 10,
-      "cancelled_events": 0,
+      "new_events": 5,
+      "updated_events": 20,
+      "cancelled_events": 3,
       "sample_new_titles": [
-        "中国台湾地区工业产出指数年率(%) (同比)  (八月)"
+        "西班牙7年期国债拍卖",
+        "美国MBA抵押贷款再融资活动指数",
+        "加拿大央行利率决议"
       ]
     },
     "eastmoney": {
-      "new_events": 0,
+      "new_events": 575,
       "updated_events": 0,
-      "cancelled_events": 575,
-      "sample_new_titles": []
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "港股通(沪)、港股通(深) - 新年前夕半日市",
+        "港股 - 元旦前夕(13:00收市)",
+        "港股 - 圣诞节后第一个周日"
+      ]
     }
   },
   "top_new_events": [
     {
-      "platform": "investing",
-      "date": "2025-09-24",
-      "title": "中国台湾地区工业产出指数年率(%) (同比)  (八月)",
-      "importance": 1,
-      "country": "中国台湾"
+      "platform": "eastmoney",
+      "date": "2025-09-03",
+      "title": "中国香港：港口货物吞吐量：当季同比(报告期:2025年06月)",
+      "importance": 4,
+      "country": "中国香港"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-03",
+      "title": "澳大利亚：GDP：不变价：同比(报告期:2025年06月)",
+      "importance": 4,
+      "country": "澳大利亚"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-03",
+      "title": "英国：央行外币储备(报告期:2025年08月)",
+      "importance": 4,
+      "country": "英国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-03",
+      "title": "欧盟:PPI:当月同比(报告期:2025年07月)",
+      "importance": 4,
+      "country": "欧盟"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-03",
+      "title": "美国：货物进口金额：当月值(报告期:2025年07月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-03",
+      "title": "美国：对外贸易差额(报告期:2025年07月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-03",
+      "title": "美国：货物出口金额：当月值(报告期:2025年07月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-04",
+      "title": "中国香港：楼宇买卖合约：数量：当月值(报告期:2025年08月)",
+      "importance": 4,
+      "country": "中国香港"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-04",
+      "title": "中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年08月)",
+      "importance": 4,
+      "country": "中国香港"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-04",
+      "title": "泰国：PPI(报告期:2025年08月)",
+      "importance": 4,
+      "country": "泰国"
     }
   ]
 }

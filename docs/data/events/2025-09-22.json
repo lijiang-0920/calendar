@@ -1,10 +1,11 @@
 {
   "date": "2025-09-22",
-  "total_events": 13,
-  "new_events": 0,
+  "total_events": 18,
+  "new_events": 5,
   "platforms": {
     "cls": 2,
-    "investing": 11
+    "investing": 11,
+    "eastmoney": 5
   },
   "events": [
     {
@@ -50,7 +51,7 @@
         "holiday": null,
         "title": "中国至9月22日五年期贷款市场报价利率"
       },
-      "created_at": "2025-09-03T09:00:07.567701"
+      "created_at": "2025-09-03T14:15:14.575788"
     },
     {
       "platform": "cls",
@@ -95,7 +96,7 @@
         "holiday": null,
         "title": "中国至9月22日一年期贷款市场报价利率"
       },
-      "created_at": "2025-09-03T09:00:07.567711"
+      "created_at": "2025-09-03T14:15:14.575798"
     },
     {
       "platform": "investing",
@@ -126,7 +127,7 @@
         "event_name": "中国央行贷款市场报价利率(LPR)  (九月)",
         "previous": "3.50%"
       },
-      "created_at": "2025-09-03T09:00:23.055682"
+      "created_at": "2025-09-03T14:15:33.522488"
     },
     {
       "platform": "investing",
@@ -157,7 +158,7 @@
         "event_name": "欧元区货币供应M3年率(%)  (八月)",
         "previous": "1,193,413.0B"
       },
-      "created_at": "2025-09-03T09:00:23.055825"
+      "created_at": "2025-09-03T14:15:33.522637"
     },
     {
       "platform": "investing",
@@ -188,7 +189,7 @@
         "event_name": "中国台湾失业率(%)  (八月)",
         "previous": "3.33%"
       },
-      "created_at": "2025-09-03T09:00:23.055944"
+      "created_at": "2025-09-03T14:15:33.522753"
     },
     {
       "platform": "investing",
@@ -219,7 +220,7 @@
         "event_name": "英国CPI年率(%) (月度环比)  (八月)",
         "previous": "0.60%"
       },
-      "created_at": "2025-09-03T09:00:23.056066"
+      "created_at": "2025-09-03T14:15:33.522870"
     },
     {
       "platform": "investing",
@@ -250,7 +251,7 @@
         "event_name": "中国香港综合CPI年率(%) (同比)  (八月)",
         "previous": "1.00%"
       },
-      "created_at": "2025-09-03T09:00:23.056178"
+      "created_at": "2025-09-03T14:15:33.522980"
     },
     {
       "platform": "investing",
@@ -281,7 +282,7 @@
         "event_name": "美国芝加哥联储全国活动指数  (八月)",
         "previous": "-0.19"
       },
-      "created_at": "2025-09-03T09:00:23.056288"
+      "created_at": "2025-09-03T14:15:33.523089"
     },
     {
       "platform": "investing",
@@ -312,7 +313,7 @@
         "event_name": "加拿大工业品物价指数月率(%) (月度环比)  (八月)",
         "previous": "0.7%"
       },
-      "created_at": "2025-09-03T09:00:23.056397"
+      "created_at": "2025-09-03T14:15:33.523197"
     },
     {
       "platform": "investing",
@@ -343,7 +344,7 @@
         "event_name": "加拿大工业品物价指数年率(%) (同比)  (八月)",
         "previous": "2.6%"
       },
-      "created_at": "2025-09-03T09:00:23.056510"
+      "created_at": "2025-09-03T14:15:33.523303"
     },
     {
       "platform": "investing",
@@ -374,7 +375,7 @@
         "event_name": "加拿大原材料价格指数月率(%) (月度环比)  (八月)",
         "previous": "0.3%"
       },
-      "created_at": "2025-09-03T09:00:23.056620"
+      "created_at": "2025-09-03T14:15:33.523411"
     },
     {
       "platform": "investing",
@@ -405,7 +406,7 @@
         "event_name": "加拿大原材料价格指数年率(%) (同比)  (八月)",
         "previous": "0.8%"
       },
-      "created_at": "2025-09-03T09:00:23.056735"
+      "created_at": "2025-09-03T14:15:33.523521"
     },
     {
       "platform": "investing",
@@ -436,7 +437,132 @@
         "event_name": "欧元区消费者信心指数  (九月)",
         "previous": "-15.5"
       },
-      "created_at": "2025-09-03T09:00:23.056867"
+      "created_at": "2025-09-03T14:15:33.523648"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250922000000_-1237726917608985177",
+      "original_id": "2025-09-22 00:00:00_俄罗斯：M2(报告期:2025年09月)",
+      "event_date": "2025-09-22",
+      "event_time": null,
+      "event_datetime": "2025-09-22 00:00:00",
+      "title": "俄罗斯：M2(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "俄罗斯",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "俄罗斯：M2(报告期:2025年09月)",
+        "City": "俄罗斯"
+      },
+      "created_at": "2025-09-03T14:15:49.922249"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250922090000_-4538505334971896848",
+      "original_id": "2025-09-22 09:00:00_中国：贷款市场报价利率(LPR):1年:月(报告期:2025年09月)",
+      "event_date": "2025-09-22",
+      "event_time": "09:00:00",
+      "event_datetime": "2025-09-22 09:00:00",
+      "title": "中国：贷款市场报价利率(LPR):1年:月(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "中国：贷款市场报价利率(LPR):1年:月(报告期:2025年09月)",
+        "City": "中国"
+      },
+      "created_at": "2025-09-03T14:15:49.922257"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250922090000_-152416730516350658",
+      "original_id": "2025-09-22 09:00:00_中国：贷款市场报价利率(LPR):5年:月(报告期:2025年09月)",
+      "event_date": "2025-09-22",
+      "event_time": "09:00:00",
+      "event_datetime": "2025-09-22 09:00:00",
+      "title": "中国：贷款市场报价利率(LPR):5年:月(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "中国：贷款市场报价利率(LPR):5年:月(报告期:2025年09月)",
+        "City": "中国"
+      },
+      "created_at": "2025-09-03T14:15:49.922264"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250922163000_1575534185054205029",
+      "original_id": "2025-09-22 16:30:00_中国香港：CPI:综合类:当月同比(报告期:2025年08月)",
+      "event_date": "2025-09-22",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-09-22 16:30:00",
+      "title": "中国香港：CPI:综合类:当月同比(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "中国香港：CPI:综合类:当月同比(报告期:2025年08月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-09-03T14:15:49.922272"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250922163000_4962896972373097827",
+      "original_id": "2025-09-22 16:30:00_中国香港：CPI:综合类(报告期:2025年08月)",
+      "event_date": "2025-09-22",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-09-22 16:30:00",
+      "title": "中国香港：CPI:综合类(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "中国香港：CPI:综合类(报告期:2025年08月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-09-03T14:15:49.922279"
     }
   ]
 }

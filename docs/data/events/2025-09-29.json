@@ -1,11 +1,12 @@
 {
   "date": "2025-09-29",
-  "total_events": 10,
-  "new_events": 0,
+  "total_events": 20,
+  "new_events": 10,
   "platforms": {
     "cls": 4,
     "jiuyangongshe": 3,
-    "tonghuashun": 3
+    "tonghuashun": 3,
+    "eastmoney": 10
   },
   "events": [
     {
@@ -42,7 +43,7 @@
         "holiday": null,
         "title": "第二届北京数字人才发展大会将于9月29日至30日举办"
       },
-      "created_at": "2025-09-03T09:00:07.567897"
+      "created_at": "2025-09-03T14:15:14.575944"
     },
     {
       "platform": "cls",
@@ -78,7 +79,7 @@
         "holiday": null,
         "title": "韩国9月29日起对中国团队游客实行临时免签政策"
       },
-      "created_at": "2025-09-03T09:00:07.567907"
+      "created_at": "2025-09-03T14:15:14.575954"
     },
     {
       "platform": "cls",
@@ -114,7 +115,7 @@
         "holiday": null,
         "title": "辽宁省航空产业发展大会将于9月29日至10月1日在沈阳举办"
       },
-      "created_at": "2025-09-03T09:00:07.567918"
+      "created_at": "2025-09-03T14:15:14.575964"
     },
     {
       "platform": "cls",
@@ -150,7 +151,7 @@
         "holiday": null,
         "title": "全球智能汽车产业大会（GIV2024）将于9月29日在合肥召开"
       },
-      "created_at": "2025-09-03T09:00:07.567928"
+      "created_at": "2025-09-03T14:15:14.575974"
     },
     {
       "platform": "jiuyangongshe",
@@ -195,7 +196,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-03T09:00:09.305947"
+      "created_at": "2025-09-03T14:15:16.597397"
     },
     {
       "platform": "jiuyangongshe",
@@ -240,7 +241,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-03T09:00:09.305955"
+      "created_at": "2025-09-03T14:15:16.597403"
     },
     {
       "platform": "jiuyangongshe",
@@ -285,7 +286,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-03T09:00:09.305963"
+      "created_at": "2025-09-03T14:15:16.597410"
     },
     {
       "platform": "tonghuashun",
@@ -326,7 +327,7 @@
           }
         ]
       },
-      "created_at": "2025-09-03T09:00:15.959338"
+      "created_at": "2025-09-03T14:15:24.981232"
     },
     {
       "platform": "tonghuashun",
@@ -367,7 +368,7 @@
           }
         ]
       },
-      "created_at": "2025-09-03T09:00:15.959347"
+      "created_at": "2025-09-03T14:15:24.981241"
     },
     {
       "platform": "tonghuashun",
@@ -408,7 +409,269 @@
           }
         ]
       },
-      "created_at": "2025-09-03T09:00:15.959356"
+      "created_at": "2025-09-03T14:15:24.981249"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250929000000_-4550230433254876330",
+      "original_id": "2025-09-29 00:00:00_马来西亚：PPI：同比(报告期:2025年08月)",
+      "event_date": "2025-09-29",
+      "event_time": null,
+      "event_datetime": "2025-09-29 00:00:00",
+      "title": "马来西亚：PPI：同比(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "马来西亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "马来西亚：PPI：同比(报告期:2025年08月)",
+        "City": "马来西亚"
+      },
+      "created_at": "2025-09-03T14:15:49.922542"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250929170000_-4862553713494062858",
+      "original_id": "2025-09-29 17:00:00_意大利：经济景气指数(报告期:2025年09月)",
+      "event_date": "2025-09-29",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-09-29 17:00:00",
+      "title": "意大利：经济景气指数(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "意大利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "意大利：经济景气指数(报告期:2025年09月)",
+        "City": "意大利"
+      },
+      "created_at": "2025-09-03T14:15:49.922549"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250929170000_-6970670558851724560",
+      "original_id": "2025-09-29 17:00:00_意大利：服务业信心指数(报告期:2025年09月)",
+      "event_date": "2025-09-29",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-09-29 17:00:00",
+      "title": "意大利：服务业信心指数(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "意大利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "意大利：服务业信心指数(报告期:2025年09月)",
+        "City": "意大利"
+      },
+      "created_at": "2025-09-03T14:15:49.922556"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250929170000_-4642343053163947397",
+      "original_id": "2025-09-29 17:00:00_意大利：工业信心指数(报告期:2025年09月)",
+      "event_date": "2025-09-29",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-09-29 17:00:00",
+      "title": "意大利：工业信心指数(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "意大利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "意大利：工业信心指数(报告期:2025年09月)",
+        "City": "意大利"
+      },
+      "created_at": "2025-09-03T14:15:49.922563"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250929170000_-3376395958930035208",
+      "original_id": "2025-09-29 17:00:00_意大利：消费者信心指数(报告期:2025年09月)",
+      "event_date": "2025-09-29",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-09-29 17:00:00",
+      "title": "意大利：消费者信心指数(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "意大利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "意大利：消费者信心指数(报告期:2025年09月)",
+        "City": "意大利"
+      },
+      "created_at": "2025-09-03T14:15:49.922581"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250929170000_682306529154255352",
+      "original_id": "2025-09-29 17:00:00_意大利：零售信心指数(报告期:2025年09月)",
+      "event_date": "2025-09-29",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-09-29 17:00:00",
+      "title": "意大利：零售信心指数(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "意大利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "意大利：零售信心指数(报告期:2025年09月)",
+        "City": "意大利"
+      },
+      "created_at": "2025-09-03T14:15:49.922590"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250929170000_-1343885586525671513",
+      "original_id": "2025-09-29 17:00:00_意大利：营建信心指数(报告期:2025年09月)",
+      "event_date": "2025-09-29",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-09-29 17:00:00",
+      "title": "意大利：营建信心指数(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "意大利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "意大利：营建信心指数(报告期:2025年09月)",
+        "City": "意大利"
+      },
+      "created_at": "2025-09-03T14:15:49.922597"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250929220000_6006846974273131891",
+      "original_id": "2025-09-29 22:00:00_美国：成屋签约销售指数(报告期:2025年08月)",
+      "event_date": "2025-09-29",
+      "event_time": "22:00:00",
+      "event_datetime": "2025-09-29 22:00:00",
+      "title": "美国：成屋签约销售指数(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "美国：成屋签约销售指数(报告期:2025年08月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-03T14:15:49.922605"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10864781",
+      "original_id": "10864781",
+      "event_date": "2025-09-29",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "韩国9月29日起对中国团队游客实行临时免签政策",
+      "content": "总台记者当地时间8月6日下午获悉,韩国政府将从9月29日起针对中国团队游客实行临时免签政策,政策先期将持续至明年6月。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "fe_code": "10864781",
+        "fe_name": "韩国9月29日起对中国团队游客实行临时免签政策",
+        "start_date": "2025-09-29",
+        "end_date": "2025-09-29",
+        "fe_type": "其他会议",
+        "sponsor": null,
+        "city": null,
+        "content": "总台记者当地时间8月6日下午获悉,韩国政府将从9月29日起针对中国团队游客实行临时免签政策,政策先期将持续至明年6月。"
+      },
+      "created_at": "2025-09-03T14:15:49.925131"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10864783",
+      "original_id": "10864783",
+      "event_date": "2025-09-29",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "辽宁省航空产业发展大会",
+      "content": "今年,聚焦产业提升与动能转换,我们将辽宁省航空产业发展大会与已举办多年并享誉全国的沈阳法库国际飞行大会合并,9月29日至10月1日在沈阳举办2025辽宁省航空产业发展大会暨沈阳法库国际飞行大会,推动辽宁航空产业发展再上新台阶。本次大会以“做强航空产业壮大发展动能”为主题,立足辽宁、辐射东北、面向全国,紧跟国家低空经济发展战略,采用“1+1+4”系列活动架构,即1个大会开幕式、1个飞行大会,以及辽宁航空产业协同发展、低空经济融合创新发展、先进航空制造技术与装备发展和辽宁省航空产业发展促进会年会4个专题活动,联动打造“会+展+演”三位一体的航空盛会。9月29日上午在法库财湖机场举办开幕式,同步举办“飞行大会”以及低空装备产品展览等,9月29日下午在辽宁友谊宾馆并行举办4个专题活动。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "沈阳",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "fe_code": "10864783",
+        "fe_name": "辽宁省航空产业发展大会",
+        "start_date": "2025-09-29",
+        "end_date": "2025-10-01",
+        "fe_type": "行业会议",
+        "sponsor": "辽宁省航空产业发展促进会",
+        "city": "沈阳",
+        "content": "今年,聚焦产业提升与动能转换,我们将辽宁省航空产业发展大会与已举办多年并享誉全国的沈阳法库国际飞行大会合并,9月29日至10月1日在沈阳举办2025辽宁省航空产业发展大会暨沈阳法库国际飞行大会,推动辽宁航空产业发展再上新台阶。本次大会以“做强航空产业壮大发展动能”为主题,立足辽宁、辐射东北、面向全国,紧跟国家低空经济发展战略,采用“1+1+4”系列活动架构,即1个大会开幕式、1个飞行大会,以及辽宁航空产业协同发展、低空经济融合创新发展、先进航空制造技术与装备发展和辽宁省航空产业发展促进会年会4个专题活动,联动打造“会+展+演”三位一体的航空盛会。9月29日上午在法库财湖机场举办开幕式,同步举办“飞行大会”以及低空装备产品展览等,9月29日下午在辽宁友谊宾馆并行举办4个专题活动。"
+      },
+      "created_at": "2025-09-03T14:15:49.925140"
     }
   ]
 }

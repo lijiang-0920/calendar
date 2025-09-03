@@ -1,11 +1,12 @@
 {
   "date": "2025-09-19",
-  "total_events": 27,
-  "new_events": 0,
+  "total_events": 36,
+  "new_events": 9,
   "platforms": {
     "cls": 3,
     "jiuyangongshe": 2,
-    "investing": 22
+    "investing": 22,
+    "eastmoney": 9
   },
   "events": [
     {
@@ -42,7 +43,7 @@
         "holiday": null,
         "title": "华为将于9月19日在法国巴黎举办主题为“Ride the Wind”创新产品发布会"
       },
-      "created_at": "2025-09-03T09:00:07.567648"
+      "created_at": "2025-09-03T14:15:14.575738"
     },
     {
       "platform": "cls",
@@ -78,7 +79,7 @@
         "holiday": null,
         "title": "日本央行公布利率决议"
       },
-      "created_at": "2025-09-03T09:00:07.567658"
+      "created_at": "2025-09-03T14:15:14.575748"
     },
     {
       "platform": "cls",
@@ -123,7 +124,7 @@
         "holiday": null,
         "title": "德国8月PPI月率"
       },
-      "created_at": "2025-09-03T09:00:07.567669"
+      "created_at": "2025-09-03T14:15:14.575758"
     },
     {
       "platform": "jiuyangongshe",
@@ -168,7 +169,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-03T09:00:09.305732"
+      "created_at": "2025-09-03T14:15:16.597218"
     },
     {
       "platform": "jiuyangongshe",
@@ -213,7 +214,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-03T09:00:09.305740"
+      "created_at": "2025-09-03T14:15:16.597225"
     },
     {
       "platform": "investing",
@@ -244,7 +245,7 @@
         "event_name": "美国外资净买入美国公债(美元)  (七月)",
         "previous": "-5.00B"
       },
-      "created_at": "2025-09-03T09:00:23.239218"
+      "created_at": "2025-09-03T14:15:32.690090"
     },
     {
       "platform": "investing",
@@ -275,7 +276,7 @@
         "event_name": "美国国际资本净流入(美元)  (七月)",
         "previous": "77.80B"
       },
-      "created_at": "2025-09-03T09:00:23.239352"
+      "created_at": "2025-09-03T14:15:32.690234"
     },
     {
       "platform": "investing",
@@ -306,7 +307,7 @@
         "event_name": "美国TIC长期资本净流入  (七月)",
         "previous": "150.8B"
       },
-      "created_at": "2025-09-03T09:00:23.239466"
+      "created_at": "2025-09-03T14:15:32.690354"
     },
     {
       "platform": "investing",
@@ -337,7 +338,7 @@
         "event_name": "美国TIC净长期交易(包括掉期)  (七月)",
         "previous": "150.80B"
       },
-      "created_at": "2025-09-03T09:00:23.239577"
+      "created_at": "2025-09-03T14:15:32.690473"
     },
     {
       "platform": "investing",
@@ -368,7 +369,7 @@
         "event_name": "新西兰出口(纽元)  (八月)",
         "previous": "6.71B"
       },
-      "created_at": "2025-09-03T09:00:23.239688"
+      "created_at": "2025-09-03T14:15:32.690603"
     },
     {
       "platform": "investing",
@@ -399,38 +400,7 @@
         "event_name": "新西兰进口(纽元)  (八月)",
         "previous": "7.28B"
       },
-      "created_at": "2025-09-03T09:00:23.239814"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20250919064500",
-      "original_id": "eventRowId_530912",
-      "event_date": "2025-09-19",
-      "event_time": "06:45",
-      "event_datetime": "2025/09/19 06:45:00",
-      "title": "新西兰十二个月贸易帐(纽元) (同比)  (八月)",
-      "content": "前值: -3,940M",
-      "category": null,
-      "importance": 2,
-      "country": "新西兰",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-03",
-      "raw_data": {
-        "event_id": "eventRowId_530912",
-        "event_attr_id": "",
-        "datetime": "2025/09/19 06:45:00",
-        "time": "06:45",
-        "country": "新西兰",
-        "importance": 2,
-        "event_name": "新西兰十二个月贸易帐(纽元) (同比)  (八月)",
-        "previous": "-3,940M"
-      },
-      "created_at": "2025-09-03T09:00:23.239930"
+      "created_at": "2025-09-03T14:15:32.690720"
     },
     {
       "platform": "investing",
@@ -461,7 +431,38 @@
         "event_name": "新西兰贸易帐(纽元) (月度环比)  (八月)",
         "previous": "-578M"
       },
-      "created_at": "2025-09-03T09:00:23.240039"
+      "created_at": "2025-09-03T14:15:32.690840"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250919064500",
+      "original_id": "eventRowId_530912",
+      "event_date": "2025-09-19",
+      "event_time": "06:45",
+      "event_datetime": "2025/09/19 06:45:00",
+      "title": "新西兰十二个月贸易帐(纽元) (同比)  (八月)",
+      "content": "前值: -3,940M",
+      "category": null,
+      "importance": 2,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "event_id": "eventRowId_530912",
+        "event_attr_id": "",
+        "datetime": "2025/09/19 06:45:00",
+        "time": "06:45",
+        "country": "新西兰",
+        "importance": 2,
+        "event_name": "新西兰十二个月贸易帐(纽元) (同比)  (八月)",
+        "previous": "-3,940M"
+      },
+      "created_at": "2025-09-03T14:15:32.690953"
     },
     {
       "platform": "investing",
@@ -492,7 +493,7 @@
         "event_name": "英国Gfk消费者信心指数  (九月)",
         "previous": "-17"
       },
-      "created_at": "2025-09-03T09:00:23.240148"
+      "created_at": "2025-09-03T14:15:32.691068"
     },
     {
       "platform": "investing",
@@ -523,7 +524,7 @@
         "event_name": "美国未季调CPI月率 (月度环比)  (八月)",
         "previous": "0.2%"
       },
-      "created_at": "2025-09-03T09:00:23.240255"
+      "created_at": "2025-09-03T14:15:32.691189"
     },
     {
       "platform": "investing",
@@ -554,7 +555,7 @@
         "event_name": "日本全国核心CPI年率(%) (同比)  (八月)",
         "previous": "3.1%"
       },
-      "created_at": "2025-09-03T09:00:23.240362"
+      "created_at": "2025-09-03T14:15:32.691304"
     },
     {
       "platform": "investing",
@@ -585,7 +586,7 @@
         "event_name": "日本全国CPI年率(%) (同比)  (八月)",
         "previous": "3.1%"
       },
-      "created_at": "2025-09-03T09:00:23.240469"
+      "created_at": "2025-09-03T14:15:32.691417"
     },
     {
       "platform": "investing",
@@ -616,7 +617,7 @@
         "event_name": "日本央行利率决议",
         "previous": "0.50%"
       },
-      "created_at": "2025-09-03T09:00:23.240581"
+      "created_at": "2025-09-03T14:15:32.691531"
     },
     {
       "platform": "investing",
@@ -647,7 +648,7 @@
         "event_name": "马来西亚出口年率(%) (同比)  (八月)",
         "previous": "6.8%"
       },
-      "created_at": "2025-09-03T09:00:23.240687"
+      "created_at": "2025-09-03T14:15:32.691668"
     },
     {
       "platform": "investing",
@@ -678,7 +679,7 @@
         "event_name": "马来西亚进口年率(%) (同比)  (八月)",
         "previous": "0.6%"
       },
-      "created_at": "2025-09-03T09:00:23.240806"
+      "created_at": "2025-09-03T14:15:32.691782"
     },
     {
       "platform": "investing",
@@ -709,7 +710,7 @@
         "event_name": "马来西亚贸易帐(林吉特)  (八月)",
         "previous": "15.00B"
       },
-      "created_at": "2025-09-03T09:00:23.240919"
+      "created_at": "2025-09-03T14:15:32.691892"
     },
     {
       "platform": "investing",
@@ -740,7 +741,7 @@
         "event_name": "英国公共部门净现金需求(英镑)  (八月)",
         "previous": "3.002B"
       },
-      "created_at": "2025-09-03T09:00:23.241027"
+      "created_at": "2025-09-03T14:15:32.692001"
     },
     {
       "platform": "investing",
@@ -771,7 +772,7 @@
         "event_name": "法国Insee制造业信心指数  (九月)",
         "previous": "96"
       },
-      "created_at": "2025-09-03T09:00:23.241133"
+      "created_at": "2025-09-03T14:15:32.692110"
     },
     {
       "platform": "investing",
@@ -802,7 +803,7 @@
         "event_name": "德国PPI月率(%) (月度环比)  (八月)",
         "previous": "-0.1%"
       },
-      "created_at": "2025-09-03T09:00:23.241241"
+      "created_at": "2025-09-03T14:15:32.692219"
     },
     {
       "platform": "investing",
@@ -833,7 +834,7 @@
         "event_name": "德国PPI年率(%) (同比)  (八月)",
         "previous": "-1.5%"
       },
-      "created_at": "2025-09-03T09:00:23.241348"
+      "created_at": "2025-09-03T14:15:32.692326"
     },
     {
       "platform": "investing",
@@ -864,7 +865,7 @@
         "event_name": "加拿大核心零售销售月率(%) (月度环比)  (七月)",
         "previous": "1.9%"
       },
-      "created_at": "2025-09-03T09:00:23.241455"
+      "created_at": "2025-09-03T14:15:32.692441"
     },
     {
       "platform": "investing",
@@ -895,7 +896,232 @@
         "event_name": "加拿大零售销售月率(%) (月度环比)  (七月)",
         "previous": "1.5%"
       },
-      "created_at": "2025-09-03T09:00:23.241562"
+      "created_at": "2025-09-03T14:15:32.692555"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250919073000_7888390058915732545",
+      "original_id": "2025-09-19 07:30:00_日本：CPI：同比(报告期:2025年08月)",
+      "event_date": "2025-09-19",
+      "event_time": "07:30:00",
+      "event_datetime": "2025-09-19 07:30:00",
+      "title": "日本：CPI：同比(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "日本：CPI：同比(报告期:2025年08月)",
+        "City": "日本"
+      },
+      "created_at": "2025-09-03T14:15:49.922181"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250919073000_1121971404390769213",
+      "original_id": "2025-09-19 07:30:00_日本：核心CPI：同比(报告期:2025年08月)",
+      "event_date": "2025-09-19",
+      "event_time": "07:30:00",
+      "event_datetime": "2025-09-19 07:30:00",
+      "title": "日本：核心CPI：同比(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "日本：核心CPI：同比(报告期:2025年08月)",
+        "City": "日本"
+      },
+      "created_at": "2025-09-03T14:15:49.922188"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250919110000_-3547019027642445633",
+      "original_id": "2025-09-19 11:00:00_日本：央行公布利率决议(报告期:2025年09月)",
+      "event_date": "2025-09-19",
+      "event_time": "11:00:00",
+      "event_datetime": "2025-09-19 11:00:00",
+      "title": "日本：央行公布利率决议(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "日本：央行公布利率决议(报告期:2025年09月)",
+        "City": "日本"
+      },
+      "created_at": "2025-09-03T14:15:49.922196"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250919120000_3649555835044665542",
+      "original_id": "2025-09-19 12:00:00_马来西亚：对外贸易：贸易差额(报告期:2025年08月)",
+      "event_date": "2025-09-19",
+      "event_time": "12:00:00",
+      "event_datetime": "2025-09-19 12:00:00",
+      "title": "马来西亚：对外贸易：贸易差额(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "马来西亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "马来西亚：对外贸易：贸易差额(报告期:2025年08月)",
+        "City": "马来西亚"
+      },
+      "created_at": "2025-09-03T14:15:49.922204"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250919140000_7554861607290483869",
+      "original_id": "2025-09-19 14:00:00_英国：政府经常账预算(报告期:2025年08月)",
+      "event_date": "2025-09-19",
+      "event_time": "14:00:00",
+      "event_datetime": "2025-09-19 14:00:00",
+      "title": "英国：政府经常账预算(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "英国：政府经常账预算(报告期:2025年08月)",
+        "City": "英国"
+      },
+      "created_at": "2025-09-03T14:15:49.922212"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250919140000_-1299012519116034716",
+      "original_id": "2025-09-19 14:00:00_英国：政府净借款(报告期:2025年08月)",
+      "event_date": "2025-09-19",
+      "event_time": "14:00:00",
+      "event_datetime": "2025-09-19 14:00:00",
+      "title": "英国：政府净借款(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "英国：政府净借款(报告期:2025年08月)",
+        "City": "英国"
+      },
+      "created_at": "2025-09-03T14:15:49.922219"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250919140000_-6934713351930045014",
+      "original_id": "2025-09-19 14:00:00_英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年08月)",
+      "event_date": "2025-09-19",
+      "event_time": "14:00:00",
+      "event_datetime": "2025-09-19 14:00:00",
+      "title": "英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年08月)",
+        "City": "英国"
+      },
+      "created_at": "2025-09-03T14:15:49.922226"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250919140000_617679125644011664",
+      "original_id": "2025-09-19 14:00:00_英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年08月)",
+      "event_date": "2025-09-19",
+      "event_time": "14:00:00",
+      "event_datetime": "2025-09-19 14:00:00",
+      "title": "英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年08月)",
+        "City": "英国"
+      },
+      "created_at": "2025-09-03T14:15:49.922234"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250919140000_-5340515047268869842",
+      "original_id": "2025-09-19 14:00:00_英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年08月)",
+      "event_date": "2025-09-19",
+      "event_time": "14:00:00",
+      "event_datetime": "2025-09-19 14:00:00",
+      "title": "英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "Name": "英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年08月)",
+        "City": "英国"
+      },
+      "created_at": "2025-09-03T14:15:49.922241"
     }
   ]
 }
