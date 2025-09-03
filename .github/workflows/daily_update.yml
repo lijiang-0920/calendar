@@ -2,15 +2,12 @@ name: Daily Calendar Update
 
 on:
   schedule:
-    - cron: '0 14 * * *'  # 每天北京时间10点
+    - cron: '0 14 * * *'  # 每天凌晨2点运行
   workflow_dispatch:      # 手动触发
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    
-    permissions:
-      contents: write
     
     steps:
     - name: Checkout repository
@@ -24,6 +21,20 @@ jobs:
     - name: Install dependencies
       run: |
         pip install requests beautifulsoup4
+        
+    - name: Check if first run
+      id: check_data
+      run: |
+        if [ ! -d "./data/active/current" ] || [ -z "$(ls -A ./data/active/current/ 2>/dev/null)" ]; then
+          echo "first_run=true" >> $GITHUB_OUTPUT
+        else
+          echo "first_run=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Run historical data collection (first time only)
+      if: steps.check_data.outputs.first_run == 'true'
+      run: |
+        python scripts/historical_collector.py
         
     - name: Run daily data collection
       run: |
