@@ -1,14 +1,14 @@
 {
   "date": "2025-10-09",
   "total_events": 2,
-  "new_events": 2,
+  "new_events": 0,
   "platforms": {
     "eastmoney": 2
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251009140000_-8669665340152898883",
+      "event_id": "em_jjsj_20251009140000_6462242308941910616",
       "original_id": "2025-10-09 14:00:00_德国：贸易顺差：季调(报告期:2025年08月)",
       "event_date": "2025-10-09",
       "event_time": "14:00:00",
@@ -23,17 +23,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "德国：贸易顺差：季调(报告期:2025年08月)",
         "City": "德国"
       },
-      "created_at": "2025-09-03T14:15:49.922961"
+      "created_at": "2025-09-04T14:15:11.248086"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251009190000_-5843969846295303299",
+      "event_id": "em_jjsj_20251009190000_2359997832032087069",
       "original_id": "2025-10-09 19:00:00_巴西：CPI：同比(报告期:2025年09月)",
       "event_date": "2025-10-09",
       "event_time": "19:00:00",
@@ -48,13 +48,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "巴西：CPI：同比(报告期:2025年09月)",
         "City": "巴西"
       },
-      "created_at": "2025-09-03T14:15:49.922968"
+      "created_at": "2025-09-04T14:15:11.248094"
     }
   ]
 }

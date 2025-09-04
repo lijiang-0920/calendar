@@ -1,12 +1,12 @@
 {
   "date": "2025-09-30",
-  "total_events": 13,
-  "new_events": 9,
+  "total_events": 14,
+  "new_events": 1,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
     "tonghuashun": 1,
-    "investing": 1,
+    "investing": 2,
     "eastmoney": 9
   },
   "events": [
@@ -28,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "id": 315452,
         "calendar_time": "2025-09-30 00:00:00",
@@ -44,7 +44,7 @@
         "holiday": null,
         "title": "第二届培育钻石研讨会将于9月30日在迪拜举行"
       },
-      "created_at": "2025-09-03T14:15:14.575984"
+      "created_at": "2025-09-04T14:14:40.036223"
     },
     {
       "platform": "jiuyangongshe",
@@ -66,7 +66,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "article_id": "37966828b6fc4c53ab0bee8e0bda4532",
         "user_id": "1",
@@ -96,7 +96,7 @@
           ]
         }
       },
-      "created_at": "2025-09-03T14:15:16.597426"
+      "created_at": "2025-09-04T14:14:41.781889"
     },
     {
       "platform": "tonghuashun",
@@ -121,7 +121,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "event": [
           "第二届培育钻石研讨会将于9月30日在迪拜举行",
@@ -137,7 +137,38 @@
           }
         ]
       },
-      "created_at": "2025-09-03T14:15:24.981266"
+      "created_at": "2025-09-04T14:14:48.152235"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250930094500",
+      "original_id": "eventRowId_531274",
+      "event_date": "2025-09-30",
+      "event_time": "09:45",
+      "event_datetime": "2025/09/30 09:45:00",
+      "title": "中国财新服务业PMI  (九月)",
+      "content": "前值: 53.0",
+      "category": null,
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "event_id": "eventRowId_531274",
+        "event_attr_id": "",
+        "datetime": "2025/09/30 09:45:00",
+        "time": "09:45",
+        "country": "中国",
+        "importance": 2,
+        "event_name": "中国财新服务业PMI  (九月)",
+        "previous": "53.0"
+      },
+      "created_at": "2025-09-04T14:14:56.859708"
     },
     {
       "platform": "investing",
@@ -157,7 +188,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "event_id": "eventRowId_530945",
         "event_attr_id": "",
@@ -168,11 +199,11 @@
         "event_name": "德国季调后失业人数变动  (九月)",
         "previous": "-9K"
       },
-      "created_at": "2025-09-03T14:15:35.175445"
+      "created_at": "2025-09-04T14:14:56.859835"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250930000000_-2183671409246816226",
+      "event_id": "em_jjsj_20250930000000_5756079684502033872",
       "original_id": "2025-09-30 00:00:00_菲律宾：进口额：同比(报告期:2025年08月)",
       "event_date": "2025-09-30",
       "event_time": null,
@@ -187,17 +218,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "菲律宾：进口额：同比(报告期:2025年08月)",
         "City": "菲律宾"
       },
-      "created_at": "2025-09-03T14:15:49.922613"
+      "created_at": "2025-09-04T14:15:11.247707"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250930000000_-4253115571074572806",
+      "event_id": "em_jjsj_20250930000000_2763301449783175003",
       "original_id": "2025-09-30 00:00:00_菲律宾：PPI：同比(报告期:2025年08月)",
       "event_date": "2025-09-30",
       "event_time": null,
@@ -212,17 +243,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "菲律宾：PPI：同比(报告期:2025年08月)",
         "City": "菲律宾"
       },
-      "created_at": "2025-09-03T14:15:49.922620"
+      "created_at": "2025-09-04T14:15:11.247714"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250930092000_3399644949253611982",
+      "event_id": "em_jjsj_20250930092000_-1434319712215441744",
       "original_id": "2025-09-30 09:20:00_中国：人民币汇率(报告期:2025年09月)",
       "event_date": "2025-09-30",
       "event_time": "09:20:00",
@@ -237,17 +268,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "中国：人民币汇率(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-03T14:15:49.922628"
+      "created_at": "2025-09-04T14:15:11.247721"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250930093000_5437783553735001866",
+      "event_id": "em_jjsj_20250930093000_-3353328491093904064",
       "original_id": "2025-09-30 09:30:00_中国：制造业PMI(报告期:2025年09月)",
       "event_date": "2025-09-30",
       "event_time": "09:30:00",
@@ -262,17 +293,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "中国：制造业PMI(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-03T14:15:49.922636"
+      "created_at": "2025-09-04T14:15:11.247729"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250930093000_-1686488165243020815",
+      "event_id": "em_jjsj_20250930093000_-2310800608930321207",
       "original_id": "2025-09-30 09:30:00_中国：PMI(报告期:2025年09月)",
       "event_date": "2025-09-30",
       "event_time": "09:30:00",
@@ -287,17 +318,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "中国：PMI(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-03T14:15:49.922643"
+      "created_at": "2025-09-04T14:15:11.247736"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250930093000_-2672038754040219133",
+      "event_id": "em_jjsj_20250930093000_-4626286214259145326",
       "original_id": "2025-09-30 09:30:00_中国：非制造业PMI(报告期:2025年09月)",
       "event_date": "2025-09-30",
       "event_time": "09:30:00",
@@ -312,17 +343,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "中国：非制造业PMI(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-03T14:15:49.922651"
+      "created_at": "2025-09-04T14:15:11.247743"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250930140000_4961982583345460800",
+      "event_id": "em_jjsj_20250930140000_1518693981411187566",
       "original_id": "2025-09-30 14:00:00_英国：GDP：不变价：季调：环比(报告期:2025年06月)",
       "event_date": "2025-09-30",
       "event_time": "14:00:00",
@@ -337,17 +368,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "英国：GDP：不变价：季调：环比(报告期:2025年06月)",
         "City": "英国"
       },
-      "created_at": "2025-09-03T14:15:49.922659"
+      "created_at": "2025-09-04T14:15:11.247751"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250930140000_5021308075893047250",
+      "event_id": "em_jjsj_20250930140000_-376991719528992072",
       "original_id": "2025-09-30 14:00:00_英国：GDP：现价：季调：同比(修正值)(报告期:2025年06月)",
       "event_date": "2025-09-30",
       "event_time": "14:00:00",
@@ -362,17 +393,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "英国：GDP：现价：季调：同比(修正值)(报告期:2025年06月)",
         "City": "英国"
       },
-      "created_at": "2025-09-03T14:15:49.922666"
+      "created_at": "2025-09-04T14:15:11.247759"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250930150000_-5331191019077727499",
+      "event_id": "em_jjsj_20250930150000_69937877731344829",
       "original_id": "2025-09-30 15:00:00_土耳其：出口金额(报告期:2025年08月)",
       "event_date": "2025-09-30",
       "event_time": "15:00:00",
@@ -387,13 +418,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "土耳其：出口金额(报告期:2025年08月)",
         "City": "土耳其"
       },
-      "created_at": "2025-09-03T14:15:49.922674"
+      "created_at": "2025-09-04T14:15:11.247767"
     }
   ]
 }

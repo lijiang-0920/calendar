@@ -1,14 +1,14 @@
 {
   "date": "2025-11-19",
-  "total_events": 4,
-  "new_events": 4,
+  "total_events": 5,
+  "new_events": 1,
   "platforms": {
-    "eastmoney": 4
+    "eastmoney": 5
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119000000_-732902953881470115",
+      "event_id": "em_jjsj_20251119000000_1803177266882674590",
       "original_id": "2025-11-19 00:00:00_阿根廷：进口金额(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": null,
@@ -23,17 +23,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "阿根廷：进口金额(报告期:2025年10月)",
         "City": "阿根廷"
       },
-      "created_at": "2025-09-03T14:15:49.924783"
+      "created_at": "2025-09-04T14:15:11.249884"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_1614517416632363447",
+      "event_id": "em_jjsj_20251119075000_-65236343955671695",
       "original_id": "2025-11-19 07:50:00_日本：进口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -48,17 +48,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "日本：进口金额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-09-03T14:15:49.924790"
+      "created_at": "2025-09-04T14:15:11.249892"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_813531552278180488",
+      "event_id": "em_jjsj_20251119075000_-3311510511495851160",
       "original_id": "2025-11-19 07:50:00_日本：贸易差额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -73,17 +73,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "日本：贸易差额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-09-03T14:15:49.924797"
+      "created_at": "2025-09-04T14:15:11.249899"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_4998637104600126650",
+      "event_id": "em_jjsj_20251119075000_8922876602552112855",
       "original_id": "2025-11-19 07:50:00_日本：出口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -98,13 +98,38 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "日本：出口金额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-09-03T14:15:49.924805"
+      "created_at": "2025-09-04T14:15:11.249906"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251119120000_-3532644586294887305",
+      "original_id": "2025-11-19 12:00:00_马来西亚：对外贸易：贸易差额(报告期:2025年10月)",
+      "event_date": "2025-11-19",
+      "event_time": "12:00:00",
+      "event_datetime": "2025-11-19 12:00:00",
+      "title": "马来西亚：对外贸易：贸易差额(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "马来西亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "Name": "马来西亚：对外贸易：贸易差额(报告期:2025年10月)",
+        "City": "马来西亚"
+      },
+      "created_at": "2025-09-04T14:15:11.249914"
     }
   ]
 }
