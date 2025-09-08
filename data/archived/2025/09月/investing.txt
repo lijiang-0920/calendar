@@ -2,10 +2,10 @@
   "platform": "investing",
   "year": 2025,
   "month": 9,
-  "total_events": 120,
+  "total_events": 121,
   "data_status": "ARCHIVED",
   "date_type": "HISTORICAL",
-  "last_update": "2025-09-07T14:11:57.671409",
+  "last_update": "2025-09-08T14:16:17.395456",
   "immutable": true,
   "events": [
     {
@@ -3871,6 +3871,38 @@
         "previous": "0.11%"
       },
       "created_at": "2025-09-06T14:12:11.971638"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250907100427",
+      "original_id": "eventRowId_530106",
+      "event_date": "2025-09-07",
+      "event_time": "10:04",
+      "event_datetime": "2025/09/07 10:04:27",
+      "title": "中国外汇储备(美元)  (八月)",
+      "content": "实际值: 3.322T | 前值: 3.292T",
+      "category": null,
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-09-07",
+      "raw_data": {
+        "event_id": "eventRowId_530106",
+        "event_attr_id": "",
+        "datetime": "2025/09/07 10:04:27",
+        "time": "10:04",
+        "country": "中国",
+        "importance": 2,
+        "event_name": "中国外汇储备(美元)  (八月)",
+        "actual": "3.322T",
+        "previous": "3.292T"
+      },
+      "created_at": "2025-09-07T14:12:13.880067"
     }
   ]
 }
