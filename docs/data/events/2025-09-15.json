@@ -1,12 +1,13 @@
 {
   "date": "2025-09-15",
-  "total_events": 50,
-  "new_events": 8,
+  "total_events": 52,
+  "new_events": 3,
   "platforms": {
-    "cls": 6,
+    "cls": 5,
+    "jiuyangongshe": 1,
     "tonghuashun": 2,
     "investing": 30,
-    "eastmoney": 12
+    "eastmoney": 14
   },
   "events": [
     {
@@ -26,8 +27,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-08",
+      "is_new": false,
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "id": 319976,
         "calendar_time": "2025-09-15 00:00:00",
@@ -43,7 +44,7 @@
         "holiday": null,
         "title": "外交部：自2025年9月15日至2026年9月14日，对俄罗斯持普通护照人员试行免签政策"
       },
-      "created_at": "2025-09-08T14:16:18.753656"
+      "created_at": "2025-09-09T14:14:01.100217"
     },
     {
       "platform": "cls",
@@ -62,8 +63,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-08",
+      "is_new": false,
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "id": 319977,
         "calendar_time": "2025-09-15 00:00:00",
@@ -79,7 +80,7 @@
         "holiday": null,
         "title": "《农村公路条例》自2025年9月15日起施行"
       },
-      "created_at": "2025-09-08T14:16:18.753667"
+      "created_at": "2025-09-09T14:14:01.100227"
     },
     {
       "platform": "cls",
@@ -98,8 +99,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-08",
+      "is_new": false,
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "id": 319978,
         "calendar_time": "2025-09-15 00:00:00",
@@ -115,7 +116,7 @@
         "holiday": null,
         "title": "《住房租赁条例》自2025年9月15日起施行"
       },
-      "created_at": "2025-09-08T14:16:18.753677"
+      "created_at": "2025-09-09T14:14:01.100237"
     },
     {
       "platform": "cls",
@@ -134,8 +135,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-08",
+      "is_new": false,
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "id": 319979,
         "calendar_time": "2025-09-15 00:00:00",
@@ -151,43 +152,7 @@
         "holiday": null,
         "title": "《重要军工设施保护条例》自2025年9月15日起施行"
       },
-      "created_at": "2025-09-08T14:16:18.753687"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_311579_20250915_2",
-      "original_id": "311579",
-      "event_date": "2025-09-15",
-      "event_time": "10:00:00",
-      "event_datetime": "2025-09-15 10:00:00",
-      "title": "国新办就国民经济运行情况举行新闻发布会",
-      "content": null,
-      "category": "事件公告",
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-08",
-      "raw_data": {
-        "id": 311579,
-        "calendar_time": "2025-09-15 10:00:00",
-        "data_id": 18809,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "国新办就国民经济运行情况举行新闻发布会",
-          "country": "中国",
-          "country_icon": "",
-          "star": 3
-        },
-        "holiday": null,
-        "title": "国新办就国民经济运行情况举行新闻发布会"
-      },
-      "created_at": "2025-09-08T14:16:18.753697"
+      "created_at": "2025-09-09T14:14:01.100247"
     },
     {
       "platform": "cls",
@@ -207,7 +172,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "id": 311567,
         "calendar_time": "2025-09-15 17:00:00",
@@ -232,7 +197,59 @@
         "holiday": null,
         "title": "欧元区7月季调后贸易帐(亿欧元)"
       },
-      "created_at": "2025-09-08T14:16:18.753706"
+      "created_at": "2025-09-09T14:14:01.100257"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_82fcdb649b94439f86ef0661ef8676db_79f76a30d85b4af288332e3d6a698747_20250915",
+      "original_id": "82fcdb649b94439f86ef0661ef8676db",
+      "event_date": "2025-09-15",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "光伏产业大会暨光伏入市发展研讨会",
+      "content": "9月15-17日，光伏产业大会暨光伏入市发展研讨会，聚焦全产业链，预期讨论包括“光伏入市”，探讨如何应对电力市场化交易，还包括N型等新技术。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "光伏"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "article_id": "82fcdb649b94439f86ef0661ef8676db",
+        "user_id": "1",
+        "title": "光伏产业大会暨光伏入市发展研讨会",
+        "content": "9月15-17日，光伏产业大会暨光伏入市发展研讨会，聚焦全产业链，预期讨论包括“光伏入市”，探讨如何应对电力市场化交易，还包括N型等新技术。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "82fcdb649b94439f86ef0661ef8676db",
+          "timeline_id": "79f76a30d85b4af288332e3d6a698747",
+          "date": "2025-09-15",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-09-08 23:38:42",
+          "theme_list": [
+            {
+              "timeline_theme_id": "4b25064f2f4f46acaa77cddd2a30e73a",
+              "name": "光伏"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-09-09T14:14:02.882765"
     },
     {
       "platform": "tonghuashun",
@@ -256,8 +273,8 @@
       ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-08",
+      "is_new": false,
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event": [
           "《住房租赁条例》自2025年9月15日起施行",
@@ -273,7 +290,7 @@
           }
         ]
       },
-      "created_at": "2025-09-08T14:16:27.323846"
+      "created_at": "2025-09-09T14:14:09.591512"
     },
     {
       "platform": "tonghuashun",
@@ -297,8 +314,8 @@
       ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-08",
+      "is_new": false,
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event": [
           "《重要军工设施保护条例》自2025年9月15日起施行",
@@ -314,7 +331,7 @@
           }
         ]
       },
-      "created_at": "2025-09-08T14:16:27.323856"
+      "created_at": "2025-09-09T14:14:09.591521"
     },
     {
       "platform": "investing",
@@ -334,7 +351,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530557",
         "event_attr_id": "",
@@ -345,7 +362,7 @@
         "event_name": "英国Rightmove平均房屋要价指数月率(%) (同比)  (九月)",
         "previous": "0.3%"
       },
-      "created_at": "2025-09-08T14:16:33.560634"
+      "created_at": "2025-09-09T14:14:15.386299"
     },
     {
       "platform": "investing",
@@ -365,7 +382,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530559",
         "event_attr_id": "",
@@ -377,7 +394,7 @@
         "forecast": "1.3%",
         "previous": "1.3%"
       },
-      "created_at": "2025-09-08T14:16:33.560793"
+      "created_at": "2025-09-09T14:14:15.386448"
     },
     {
       "platform": "investing",
@@ -397,7 +414,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530558",
         "event_attr_id": "",
@@ -409,7 +426,7 @@
         "forecast": "-4.0%",
         "previous": "-4.0%"
       },
-      "created_at": "2025-09-08T14:16:33.560916"
+      "created_at": "2025-09-09T14:14:15.386662"
     },
     {
       "platform": "investing",
@@ -429,7 +446,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530560",
         "event_attr_id": "",
@@ -441,7 +458,7 @@
         "forecast": "6.51B",
         "previous": "6.51B"
       },
-      "created_at": "2025-09-08T14:16:33.561032"
+      "created_at": "2025-09-09T14:14:15.386814"
     },
     {
       "platform": "investing",
@@ -461,7 +478,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530561",
         "event_attr_id": "",
@@ -472,7 +489,7 @@
         "event_name": "中国70个大中城市房价指数年率(%) (同比)  (八月)",
         "previous": "-2.8%"
       },
-      "created_at": "2025-09-08T14:16:33.561144"
+      "created_at": "2025-09-09T14:14:15.386936"
     },
     {
       "platform": "investing",
@@ -492,7 +509,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530567",
         "event_attr_id": "",
@@ -503,7 +520,7 @@
         "event_name": "中国城镇固定资产投资年率-YTD (同比)  (八月)",
         "previous": "1.6%"
       },
-      "created_at": "2025-09-08T14:16:33.561256"
+      "created_at": "2025-09-09T14:14:15.387050"
     },
     {
       "platform": "investing",
@@ -523,7 +540,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530564",
         "event_attr_id": "",
@@ -534,7 +551,7 @@
         "event_name": "中国规模以上工业增加值年率(%) (同比)  (八月)",
         "previous": "5.7%"
       },
-      "created_at": "2025-09-08T14:16:33.561367"
+      "created_at": "2025-09-09T14:14:15.387164"
     },
     {
       "platform": "investing",
@@ -554,7 +571,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530563",
         "event_attr_id": "",
@@ -565,7 +582,7 @@
         "event_name": "中国年初至今规模以上工业增加值年率(%) (同比)  (八月)",
         "previous": "6.3%"
       },
-      "created_at": "2025-09-08T14:16:33.561478"
+      "created_at": "2025-09-09T14:14:15.387278"
     },
     {
       "platform": "investing",
@@ -585,7 +602,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530565",
         "event_attr_id": "",
@@ -596,7 +613,7 @@
         "event_name": "中国社会消费品零售总额年率(%) (同比)  (八月)",
         "previous": "3.7%"
       },
-      "created_at": "2025-09-08T14:16:33.561587"
+      "created_at": "2025-09-09T14:14:15.387394"
     },
     {
       "platform": "investing",
@@ -616,7 +633,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530566",
         "event_attr_id": "",
@@ -627,7 +644,7 @@
         "event_name": "中国年初至今社会消费品零售总额年率(%) (同比)  (八月)",
         "previous": "3.84%"
       },
-      "created_at": "2025-09-08T14:16:33.561696"
+      "created_at": "2025-09-09T14:14:15.387511"
     },
     {
       "platform": "investing",
@@ -647,7 +664,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530562",
         "event_attr_id": "",
@@ -658,7 +675,7 @@
         "event_name": "中国失业率  (八月)",
         "previous": "5.2%"
       },
-      "created_at": "2025-09-08T14:16:33.561875"
+      "created_at": "2025-09-09T14:14:15.387654"
     },
     {
       "platform": "investing",
@@ -678,7 +695,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530586",
         "event_attr_id": "",
@@ -689,7 +706,7 @@
         "event_name": "德国WPI月率(%) (月度环比)  (八月)",
         "previous": "-0.1%"
       },
-      "created_at": "2025-09-08T14:16:33.561991"
+      "created_at": "2025-09-09T14:14:15.387769"
     },
     {
       "platform": "investing",
@@ -709,7 +726,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530585",
         "event_attr_id": "",
@@ -720,38 +737,7 @@
         "event_name": "德国批发价格指数(WPI)年率(%) (同比)  (八月)",
         "previous": "0.5%"
       },
-      "created_at": "2025-09-08T14:16:33.562099"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20250915143000",
-      "original_id": "eventRowId_530590",
-      "event_date": "2025-09-15",
-      "event_time": "14:30",
-      "event_datetime": "2025/09/15 14:30:00",
-      "title": "瑞士PPI年率(%) (同比)  (八月)",
-      "content": "前值: -0.9%",
-      "category": null,
-      "importance": 1,
-      "country": "瑞士",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-08",
-      "raw_data": {
-        "event_id": "eventRowId_530590",
-        "event_attr_id": "",
-        "datetime": "2025/09/15 14:30:00",
-        "time": "14:30",
-        "country": "瑞士",
-        "importance": 1,
-        "event_name": "瑞士PPI年率(%) (同比)  (八月)",
-        "previous": "-0.9%"
-      },
-      "created_at": "2025-09-08T14:16:33.562208"
+      "created_at": "2025-09-09T14:14:15.387883"
     },
     {
       "platform": "investing",
@@ -771,7 +757,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530592",
         "event_attr_id": "",
@@ -782,7 +768,38 @@
         "event_name": "瑞士PPI月率(%) (月度环比)  (八月)",
         "previous": "-0.2%"
       },
-      "created_at": "2025-09-08T14:16:33.562316"
+      "created_at": "2025-09-09T14:14:15.387998"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250915143000",
+      "original_id": "eventRowId_530590",
+      "event_date": "2025-09-15",
+      "event_time": "14:30",
+      "event_datetime": "2025/09/15 14:30:00",
+      "title": "瑞士PPI年率(%) (同比)  (八月)",
+      "content": "前值: -0.9%",
+      "category": null,
+      "importance": 1,
+      "country": "瑞士",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "event_id": "eventRowId_530590",
+        "event_attr_id": "",
+        "datetime": "2025/09/15 14:30:00",
+        "time": "14:30",
+        "country": "瑞士",
+        "importance": 1,
+        "event_name": "瑞士PPI年率(%) (同比)  (八月)",
+        "previous": "-0.9%"
+      },
+      "created_at": "2025-09-09T14:14:15.388118"
     },
     {
       "platform": "investing",
@@ -802,7 +819,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530588",
         "event_attr_id": "",
@@ -813,7 +830,7 @@
         "event_name": "印度食品批发价格指数年率(%) (同比)  (八月)",
         "previous": "-6.29%"
       },
-      "created_at": "2025-09-08T14:16:33.562427"
+      "created_at": "2025-09-09T14:14:15.388237"
     },
     {
       "platform": "investing",
@@ -833,7 +850,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530589",
         "event_attr_id": "",
@@ -844,7 +861,7 @@
         "event_name": "印度燃料批发价格指数年率(%) (同比)  (八月)",
         "previous": "-2.43%"
       },
-      "created_at": "2025-09-08T14:16:33.562535"
+      "created_at": "2025-09-09T14:14:15.388351"
     },
     {
       "platform": "investing",
@@ -864,7 +881,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530591",
         "event_attr_id": "",
@@ -875,7 +892,7 @@
         "event_name": "印度批发价格指数(WPI) 年率(%) (同比)  (八月)",
         "previous": "-0.58%"
       },
-      "created_at": "2025-09-08T14:16:33.562662"
+      "created_at": "2025-09-09T14:14:15.388466"
     },
     {
       "platform": "investing",
@@ -895,7 +912,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530587",
         "event_attr_id": "",
@@ -906,7 +923,7 @@
         "event_name": "印度制造业批发价格指数通胀年率(%) (同比)  (八月)",
         "previous": "2.05%"
       },
-      "created_at": "2025-09-08T14:16:33.562786"
+      "created_at": "2025-09-09T14:14:15.388599"
     },
     {
       "platform": "investing",
@@ -926,7 +943,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530601",
         "event_attr_id": "",
@@ -937,7 +954,7 @@
         "event_name": "意大利贸易帐(亿欧元)  (七月)",
         "previous": "5.409B"
       },
-      "created_at": "2025-09-08T14:16:33.562897"
+      "created_at": "2025-09-09T14:14:15.388718"
     },
     {
       "platform": "investing",
@@ -957,7 +974,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530598",
         "event_attr_id": "",
@@ -968,7 +985,7 @@
         "event_name": "意大利对欧盟贸易帐(欧元)  (七月)",
         "previous": "-0.07B"
       },
-      "created_at": "2025-09-08T14:16:33.563008"
+      "created_at": "2025-09-09T14:14:15.388829"
     },
     {
       "platform": "investing",
@@ -988,7 +1005,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_531033",
         "event_attr_id": "",
@@ -999,7 +1016,7 @@
         "event_name": "意大利非欧盟贸易帐(欧元)  (七月)",
         "previous": "5.39B"
       },
-      "created_at": "2025-09-08T14:16:33.563115"
+      "created_at": "2025-09-09T14:14:15.388945"
     },
     {
       "platform": "investing",
@@ -1019,7 +1036,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530604",
         "event_attr_id": "",
@@ -1030,7 +1047,7 @@
         "event_name": "英国工业产出月率(%) (同比)  (第二季度)",
         "previous": "0.70%"
       },
-      "created_at": "2025-09-08T14:16:33.563227"
+      "created_at": "2025-09-09T14:14:15.389061"
     },
     {
       "platform": "investing",
@@ -1050,7 +1067,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530603",
         "event_attr_id": "",
@@ -1061,7 +1078,7 @@
         "event_name": "日本国内企业商品物价指数年率(%) (同比)  (第二季度)",
         "previous": "4.80%"
       },
-      "created_at": "2025-09-08T14:16:33.563341"
+      "created_at": "2025-09-09T14:14:15.389174"
     },
     {
       "platform": "investing",
@@ -1081,7 +1098,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530605",
         "event_attr_id": "",
@@ -1092,7 +1109,7 @@
         "event_name": "欧元区贸易帐(欧元)  (七月)",
         "previous": "7.0B"
       },
-      "created_at": "2025-09-08T14:16:33.563450"
+      "created_at": "2025-09-09T14:14:15.389283"
     },
     {
       "platform": "investing",
@@ -1112,7 +1129,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530608",
         "event_attr_id": "",
@@ -1123,7 +1140,7 @@
         "event_name": "欧元区储备资产总值  (八月)",
         "previous": "1,498.95B"
       },
-      "created_at": "2025-09-08T14:16:33.563558"
+      "created_at": "2025-09-09T14:14:15.389394"
     },
     {
       "platform": "investing",
@@ -1142,8 +1159,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-08",
+      "is_new": false,
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_531464",
         "event_attr_id": "",
@@ -1153,7 +1170,7 @@
         "importance": 1,
         "event_name": "巴西央行焦点市场报告"
       },
-      "created_at": "2025-09-08T14:16:33.563665"
+      "created_at": "2025-09-09T14:14:15.389506"
     },
     {
       "platform": "investing",
@@ -1173,7 +1190,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530611",
         "event_attr_id": "",
@@ -1184,7 +1201,7 @@
         "event_name": "美国纽约联储制造业指数  (九月)",
         "previous": "11.90"
       },
-      "created_at": "2025-09-08T14:16:33.563789"
+      "created_at": "2025-09-09T14:14:15.389637"
     },
     {
       "platform": "investing",
@@ -1204,7 +1221,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530612",
         "event_attr_id": "",
@@ -1215,7 +1232,7 @@
         "event_name": "加拿大制造业装船月率(%) (月度环比)  (七月)",
         "previous": "0.3%"
       },
-      "created_at": "2025-09-08T14:16:33.563903"
+      "created_at": "2025-09-09T14:14:15.389750"
     },
     {
       "platform": "investing",
@@ -1235,7 +1252,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530610",
         "event_attr_id": "",
@@ -1246,11 +1263,11 @@
         "event_name": "加拿大批发销售月率(%) (月度环比)  (七月)",
         "previous": "0.7%"
       },
-      "created_at": "2025-09-08T14:16:33.564014"
+      "created_at": "2025-09-09T14:14:15.389867"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915070100_-5126727312351879235",
+      "event_id": "em_jjsj_20250915070100_6353450508520727300",
       "original_id": "2025-09-15 07:01:00_英国：Rightmove房价指数：同比(报告期:2025年09月)",
       "event_date": "2025-09-15",
       "event_time": "07:01:00",
@@ -1266,16 +1283,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "英国：Rightmove房价指数：同比(报告期:2025年09月)",
         "City": "英国"
       },
-      "created_at": "2025-09-08T14:16:50.275218"
+      "created_at": "2025-09-09T14:14:32.794314"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915070100_-5719599843534881499",
+      "event_id": "em_jjsj_20250915070100_-7917737298639585464",
       "original_id": "2025-09-15 07:01:00_英国：Rightmove房价指数：环比(报告期:2025年09月)",
       "event_date": "2025-09-15",
       "event_time": "07:01:00",
@@ -1291,16 +1308,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "英国：Rightmove房价指数：环比(报告期:2025年09月)",
         "City": "英国"
       },
-      "created_at": "2025-09-08T14:16:50.275225"
+      "created_at": "2025-09-09T14:14:32.794321"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915100000_-5384326345459999957",
+      "event_id": "em_jjsj_20250915100000_199011677318534662",
       "original_id": "2025-09-15 10:00:00_中国：工业增加值:累计同比(报告期:2025年08月)",
       "event_date": "2025-09-15",
       "event_time": "10:00:00",
@@ -1316,16 +1333,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国：工业增加值:累计同比(报告期:2025年08月)",
         "City": "中国"
       },
-      "created_at": "2025-09-08T14:16:50.275233"
+      "created_at": "2025-09-09T14:14:32.794329"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915100000_-4753945177364340261",
+      "event_id": "em_jjsj_20250915100000_-5289629256227620905",
       "original_id": "2025-09-15 10:00:00_中国：工业增加值:当月同比(报告期:2025年08月)",
       "event_date": "2025-09-15",
       "event_time": "10:00:00",
@@ -1341,16 +1358,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国：工业增加值:当月同比(报告期:2025年08月)",
         "City": "中国"
       },
-      "created_at": "2025-09-08T14:16:50.275241"
+      "created_at": "2025-09-09T14:14:32.794336"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915100000_-2853076235775319090",
+      "event_id": "em_jjsj_20250915100000_1929269977137856989",
       "original_id": "2025-09-15 10:00:00_中国：工业增加值:环比:季调(报告期:2025年08月)",
       "event_date": "2025-09-15",
       "event_time": "10:00:00",
@@ -1366,16 +1383,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国：工业增加值:环比:季调(报告期:2025年08月)",
         "City": "中国"
       },
-      "created_at": "2025-09-08T14:16:50.275249"
+      "created_at": "2025-09-09T14:14:32.794345"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915100000_6560568242950444676",
+      "event_id": "em_jjsj_20250915100000_5879054755846137170",
       "original_id": "2025-09-15 10:00:00_中国：产量:天然气:累计值(报告期:2025年08月)",
       "event_date": "2025-09-15",
       "event_time": "10:00:00",
@@ -1391,16 +1408,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国：产量:天然气:累计值(报告期:2025年08月)",
         "City": "中国"
       },
-      "created_at": "2025-09-08T14:16:50.275256"
+      "created_at": "2025-09-09T14:14:32.794354"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915100000_4644462859596983018",
+      "event_id": "em_jjsj_20250915100000_-7037475753673014948",
       "original_id": "2025-09-15 10:00:00_中国：产量:生铁:累计值(报告期:2025年08月)",
       "event_date": "2025-09-15",
       "event_time": "10:00:00",
@@ -1416,16 +1433,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国：产量:生铁:累计值(报告期:2025年08月)",
         "City": "中国"
       },
-      "created_at": "2025-09-08T14:16:50.275263"
+      "created_at": "2025-09-09T14:14:32.794361"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915100000_-6599474546123319312",
+      "event_id": "em_jjsj_20250915100000_5988378776815178497",
       "original_id": "2025-09-15 10:00:00_中国：产量:平板玻璃:累计值(报告期:2025年08月)",
       "event_date": "2025-09-15",
       "event_time": "10:00:00",
@@ -1441,16 +1458,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国：产量:平板玻璃:累计值(报告期:2025年08月)",
         "City": "中国"
       },
-      "created_at": "2025-09-08T14:16:50.275271"
+      "created_at": "2025-09-09T14:14:32.794368"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915100000_-6102922045312318343",
+      "event_id": "em_jjsj_20250915100000_-8459790606244448642",
       "original_id": "2025-09-15 10:00:00_中国：产量:原油加工量:累计值(报告期:2025年08月)",
       "event_date": "2025-09-15",
       "event_time": "10:00:00",
@@ -1466,16 +1483,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国：产量:原油加工量:累计值(报告期:2025年08月)",
         "City": "中国"
       },
-      "created_at": "2025-09-08T14:16:50.275278"
+      "created_at": "2025-09-09T14:14:32.794375"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915100000_4909008367348173599",
+      "event_id": "em_jjsj_20250915100000_1866505873364883417",
       "original_id": "2025-09-15 10:00:00_中国：固定资产投资完成额:累计同比(报告期:2025年08月)",
       "event_date": "2025-09-15",
       "event_time": "10:00:00",
@@ -1491,16 +1508,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国：固定资产投资完成额:累计同比(报告期:2025年08月)",
         "City": "中国"
       },
-      "created_at": "2025-09-08T14:16:50.275286"
+      "created_at": "2025-09-09T14:14:32.794382"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915100000_439890905560944194",
+      "event_id": "em_jjsj_20250915100000_-3453864467328525538",
       "original_id": "2025-09-15 10:00:00_中国：社会消费品零售总额:同比(报告期:2025年08月)",
       "event_date": "2025-09-15",
       "event_time": "10:00:00",
@@ -1516,16 +1533,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国：社会消费品零售总额:同比(报告期:2025年08月)",
         "City": "中国"
       },
-      "created_at": "2025-09-08T14:16:50.275293"
+      "created_at": "2025-09-09T14:14:32.794389"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250915163000_-2415514895105803538",
+      "event_id": "em_jjsj_20250915163000_4253203755648016371",
       "original_id": "2025-09-15 16:30:00_中国香港：PPI：制造业：同比(报告期:2025年06月)",
       "event_date": "2025-09-15",
       "event_time": "16:30:00",
@@ -1541,12 +1558,74 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国香港：PPI：制造业：同比(报告期:2025年06月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-08T14:16:50.275301"
+      "created_at": "2025-09-09T14:14:32.794397"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10865020",
+      "original_id": "10865020",
+      "event_date": "2025-09-15",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "《住房租赁条例》自2025年9月15日起施行",
+      "content": "《住房租赁条例》已经2025年6月27日国务院第62次常务会议通过,现予公布,自2025年9月15日起施行。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "fe_code": "10865020",
+        "fe_name": "《住房租赁条例》自2025年9月15日起施行",
+        "start_date": "2025-09-15",
+        "end_date": "2025-09-15",
+        "fe_type": "其他会议",
+        "sponsor": null,
+        "city": null,
+        "content": "《住房租赁条例》已经2025年6月27日国务院第62次常务会议通过,现予公布,自2025年9月15日起施行。"
+      },
+      "created_at": "2025-09-09T14:14:32.799015"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10865021",
+      "original_id": "10865021",
+      "event_date": "2025-09-15",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "《重要军工设施保护条例》自2025年9月15日起施行",
+      "content": "公布《重要军工设施保护条例》,自2025年9月15日起施行。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "fe_code": "10865021",
+        "fe_name": "《重要军工设施保护条例》自2025年9月15日起施行",
+        "start_date": "2025-09-15",
+        "end_date": "2025-09-15",
+        "fe_type": "其他会议",
+        "sponsor": null,
+        "city": null,
+        "content": "公布《重要军工设施保护条例》,自2025年9月15日起施行。"
+      },
+      "created_at": "2025-09-09T14:14:32.799024"
     }
   ]
 }
