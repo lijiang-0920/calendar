@@ -1,14 +1,14 @@
 {
   "date": "2025-10-02",
-  "total_events": 7,
-  "new_events": 0,
+  "total_events": 8,
+  "new_events": 1,
   "platforms": {
-    "eastmoney": 7
+    "eastmoney": 8
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251002000000_-796125408414122226",
+      "event_id": "em_jjsj_20251002000000_-7107373271040226031",
       "original_id": "2025-10-02 00:00:00_韩国：CPI：同比(报告期:2025年09月)",
       "event_date": "2025-10-02",
       "event_time": null,
@@ -24,16 +24,41 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-09",
+      "discovery_date": "2025-09-10",
       "raw_data": {
         "Name": "韩国：CPI：同比(报告期:2025年09月)",
         "City": "韩国"
       },
-      "created_at": "2025-09-09T14:14:32.796431"
+      "created_at": "2025-09-10T14:15:13.947306"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251002170000_8207010044853965019",
+      "event_id": "em_jjsj_20251002143000_-5709591891610380800",
+      "original_id": "2025-10-02 14:30:00_瑞士：消费者物价指数月率(报告期:2025年09月)",
+      "event_date": "2025-10-02",
+      "event_time": "14:30:00",
+      "event_datetime": "2025-10-02 14:30:00",
+      "title": "瑞士：消费者物价指数月率(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "瑞士",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-10",
+      "raw_data": {
+        "Name": "瑞士：消费者物价指数月率(报告期:2025年09月)",
+        "City": "瑞士"
+      },
+      "created_at": "2025-09-10T14:15:13.947313"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251002170000_232705443605212974",
       "original_id": "2025-10-02 17:00:00_中国香港：零售业总销货:价值指数:当月同比(报告期:2025年08月)",
       "event_date": "2025-10-02",
       "event_time": "17:00:00",
@@ -49,16 +74,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-09",
+      "discovery_date": "2025-09-10",
       "raw_data": {
         "Name": "中国香港：零售业总销货:价值指数:当月同比(报告期:2025年08月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-09T14:14:32.796439"
+      "created_at": "2025-09-10T14:15:13.947321"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251002170000_1394046544346064509",
+      "event_id": "em_jjsj_20251002170000_-2189162022998353433",
       "original_id": "2025-10-02 17:00:00_中国香港：零售业总销货:数量指数:当月同比(报告期:2025年08月)",
       "event_date": "2025-10-02",
       "event_time": "17:00:00",
@@ -74,16 +99,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-09",
+      "discovery_date": "2025-09-10",
       "raw_data": {
         "Name": "中国香港：零售业总销货:数量指数:当月同比(报告期:2025年08月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-09T14:14:32.796446"
+      "created_at": "2025-09-10T14:15:13.947328"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251002170000_-9120558943136345473",
+      "event_id": "em_jjsj_20251002170000_-6223708417342303523",
       "original_id": "2025-10-02 17:00:00_意大利：失业率：季调(报告期:2025年08月)",
       "event_date": "2025-10-02",
       "event_time": "17:00:00",
@@ -99,16 +124,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-09",
+      "discovery_date": "2025-09-10",
       "raw_data": {
         "Name": "意大利：失业率：季调(报告期:2025年08月)",
         "City": "意大利"
       },
-      "created_at": "2025-09-09T14:14:32.796453"
+      "created_at": "2025-09-10T14:15:13.947335"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251002170000_-6595258660608492283",
+      "event_id": "em_jjsj_20251002170000_-8247674118723626718",
       "original_id": "2025-10-02 17:00:00_意大利：失业人数：季调(报告期:2025年08月)",
       "event_date": "2025-10-02",
       "event_time": "17:00:00",
@@ -124,16 +149,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-09",
+      "discovery_date": "2025-09-10",
       "raw_data": {
         "Name": "意大利：失业人数：季调(报告期:2025年08月)",
         "City": "意大利"
       },
-      "created_at": "2025-09-09T14:14:32.796461"
+      "created_at": "2025-09-10T14:15:13.947342"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251002170000_-6852198238061505288",
+      "event_id": "em_jjsj_20251002170000_7634666379800606676",
       "original_id": "2025-10-02 17:00:00_德国：失业率：季调(报告期:2025年08月)",
       "event_date": "2025-10-02",
       "event_time": "17:00:00",
@@ -149,16 +174,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-09",
+      "discovery_date": "2025-09-10",
       "raw_data": {
         "Name": "德国：失业率：季调(报告期:2025年08月)",
         "City": "德国"
       },
-      "created_at": "2025-09-09T14:14:32.796468"
+      "created_at": "2025-09-10T14:15:13.947350"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251002170000_-1157622703960395894",
+      "event_id": "em_jjsj_20251002170000_2870656177816270729",
       "original_id": "2025-10-02 17:00:00_欧盟27国：失业率：季调(报告期:2025年08月)",
       "event_date": "2025-10-02",
       "event_time": "17:00:00",
@@ -174,12 +199,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-09",
+      "discovery_date": "2025-09-10",
       "raw_data": {
         "Name": "欧盟27国：失业率：季调(报告期:2025年08月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-09T14:14:32.796476"
+      "created_at": "2025-09-10T14:15:13.947370"
     }
   ]
 }

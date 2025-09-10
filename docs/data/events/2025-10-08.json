@@ -1,14 +1,14 @@
 {
   "date": "2025-10-08",
   "total_events": 3,
-  "new_events": 2,
+  "new_events": 0,
   "platforms": {
     "eastmoney": 3
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251008000000_9009822747735430912",
+      "event_id": "em_jjsj_20251008000000_3020322517171347288",
       "original_id": "2025-10-08 00:00:00_中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年09月)",
       "event_date": "2025-10-08",
       "event_time": null,
@@ -23,17 +23,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-09",
+      "is_new": false,
+      "discovery_date": "2025-09-10",
       "raw_data": {
         "Name": "中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-09T14:14:32.796725"
+      "created_at": "2025-09-10T14:15:13.947609"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251008000000_-3318370470449051844",
+      "event_id": "em_jjsj_20251008000000_-9133381574620653922",
       "original_id": "2025-10-08 00:00:00_中国香港：楼宇买卖合约：数量：当月值(报告期:2025年09月)",
       "event_date": "2025-10-08",
       "event_time": null,
@@ -48,17 +48,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-09",
+      "is_new": false,
+      "discovery_date": "2025-09-10",
       "raw_data": {
         "Name": "中国香港：楼宇买卖合约：数量：当月值(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-09T14:14:32.796732"
+      "created_at": "2025-09-10T14:15:13.947616"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251008030000_5226083668150557287",
+      "event_id": "em_jjsj_20251008030000_6001031879170940691",
       "original_id": "2025-10-08 03:00:00_美国：消费信贷总计：折年率：季调(报告期:2025年08月)",
       "event_date": "2025-10-08",
       "event_time": "03:00:00",
@@ -74,12 +74,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-09",
+      "discovery_date": "2025-09-10",
       "raw_data": {
         "Name": "美国：消费信贷总计：折年率：季调(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-09-09T14:14:32.796739"
+      "created_at": "2025-09-10T14:15:13.947624"
     }
   ]
 }
