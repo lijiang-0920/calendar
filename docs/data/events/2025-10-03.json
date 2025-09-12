@@ -1,12 +1,167 @@
 {
   "date": "2025-10-03",
-  "total_events": 33,
-  "new_events": 0,
+  "total_events": 62,
+  "new_events": 27,
   "platforms": {
-    "investing": 17,
+    "investing": 46,
     "eastmoney": 16
   },
   "events": [
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003070000",
+      "original_id": "eventRowId_531833",
+      "event_date": "2025-10-03",
+      "event_time": "07:00",
+      "event_datetime": "2025/10/03 07:00:00",
+      "title": "Manufacturing & Services PMI (月度环比)  (九月)",
+      "content": "前值: 55.50%",
+      "category": null,
+      "importance": 1,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531833",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 07:00:00",
+        "time": "07:00",
+        "country": "澳大利亚",
+        "importance": 1,
+        "event_name": "Manufacturing & Services PMI (月度环比)  (九月)",
+        "previous": "55.50%"
+      },
+      "created_at": "2025-09-12T14:14:48.353186"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003070000",
+      "original_id": "eventRowId_531832",
+      "event_date": "2025-10-03",
+      "event_time": "07:00",
+      "event_datetime": "2025/10/03 07:00:00",
+      "title": "澳大利亚服务业PMI  (九月)",
+      "content": "前值: 55.8",
+      "category": null,
+      "importance": 1,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531832",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 07:00:00",
+        "time": "07:00",
+        "country": "澳大利亚",
+        "importance": 1,
+        "event_name": "澳大利亚服务业PMI  (九月)",
+        "previous": "55.8"
+      },
+      "created_at": "2025-09-12T14:14:48.353325"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003073000",
+      "original_id": "eventRowId_531835",
+      "event_date": "2025-10-03",
+      "event_time": "07:30",
+      "event_datetime": "2025/10/03 07:30:00",
+      "title": "日本求才求职比  (八月)",
+      "content": "前值: 1.22",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531835",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 07:30:00",
+        "time": "07:30",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本求才求职比  (八月)",
+        "previous": "1.22"
+      },
+      "created_at": "2025-09-12T14:14:48.353444"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003073000",
+      "original_id": "eventRowId_531834",
+      "event_date": "2025-10-03",
+      "event_time": "07:30",
+      "event_datetime": "2025/10/03 07:30:00",
+      "title": "日本失业率  (八月)",
+      "content": "前值: 2.3%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531834",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 07:30:00",
+        "time": "07:30",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本失业率  (八月)",
+        "previous": "2.3%"
+      },
+      "created_at": "2025-09-12T14:14:48.353578"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003083000",
+      "original_id": "eventRowId_531837",
+      "event_date": "2025-10-03",
+      "event_time": "08:30",
+      "event_datetime": "2025/10/03 08:30:00",
+      "title": "Manufacturing & Services PMI (月度环比)  (九月)",
+      "content": "前值: 52.00%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531837",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 08:30:00",
+        "time": "08:30",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "Manufacturing & Services PMI (月度环比)  (九月)",
+        "previous": "52.00%"
+      },
+      "created_at": "2025-09-12T14:14:48.353695"
+    },
     {
       "platform": "investing",
       "event_id": "inv__20251003083000",
@@ -15,7 +170,7 @@
       "event_time": "08:30",
       "event_datetime": "2025/10/03 08:30:00",
       "title": "日本服务业PMI  (九月)",
-      "content": "前值: 53.1",
+      "content": "前值: 52.7",
       "category": null,
       "importance": 2,
       "country": "日本",
@@ -25,7 +180,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531276",
         "event_attr_id": "",
@@ -34,9 +189,71 @@
         "country": "日本",
         "importance": 2,
         "event_name": "日本服务业PMI  (九月)",
-        "previous": "53.1"
+        "previous": "52.7"
       },
-      "created_at": "2025-09-11T14:15:47.872726"
+      "created_at": "2025-09-12T14:14:48.353807"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003130000",
+      "original_id": "eventRowId_531840",
+      "event_date": "2025-10-03",
+      "event_time": "13:00",
+      "event_datetime": "2025/10/03 13:00:00",
+      "title": "新加坡零售销售年率(%) (同比)  (八月)",
+      "content": "前值: 2.4%",
+      "category": null,
+      "importance": 1,
+      "country": "新加坡",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531840",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 13:00:00",
+        "time": "13:00",
+        "country": "新加坡",
+        "importance": 1,
+        "event_name": "新加坡零售销售年率(%) (同比)  (八月)",
+        "previous": "2.4%"
+      },
+      "created_at": "2025-09-12T14:14:48.353918"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003130000",
+      "original_id": "eventRowId_531841",
+      "event_date": "2025-10-03",
+      "event_time": "13:00",
+      "event_datetime": "2025/10/03 13:00:00",
+      "title": "新加坡季调后零售销售月率(%) (月度环比)  (八月)",
+      "content": "前值: 4.1%",
+      "category": null,
+      "importance": 1,
+      "country": "新加坡",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531841",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 13:00:00",
+        "time": "13:00",
+        "country": "新加坡",
+        "importance": 1,
+        "event_name": "新加坡季调后零售销售月率(%) (月度环比)  (八月)",
+        "previous": "4.1%"
+      },
+      "created_at": "2025-09-12T14:14:48.354030"
     },
     {
       "platform": "investing",
@@ -56,7 +273,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531279",
         "event_attr_id": "",
@@ -67,7 +284,7 @@
         "event_name": "西班牙Markit服务业PMI  (九月)",
         "previous": "53.2"
       },
-      "created_at": "2025-09-11T14:15:47.872865"
+      "created_at": "2025-09-12T14:14:48.354140"
     },
     {
       "platform": "investing",
@@ -87,7 +304,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531214",
         "event_attr_id": "",
@@ -98,7 +315,7 @@
         "event_name": "南非汇丰综合PMI  (九月)",
         "previous": "50.1"
       },
-      "created_at": "2025-09-11T14:15:47.872984"
+      "created_at": "2025-09-12T14:14:48.354252"
     },
     {
       "platform": "investing",
@@ -118,7 +335,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531288",
         "event_attr_id": "",
@@ -129,7 +346,7 @@
         "event_name": "意大利综合PMI  (九月)",
         "previous": "51.7"
       },
-      "created_at": "2025-09-11T14:15:47.873100"
+      "created_at": "2025-09-12T14:14:48.354363"
     },
     {
       "platform": "investing",
@@ -149,7 +366,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531282",
         "event_attr_id": "",
@@ -160,7 +377,38 @@
         "event_name": "意大利Markit服务业PMI  (九月)",
         "previous": "51.5"
       },
-      "created_at": "2025-09-11T14:15:47.873212"
+      "created_at": "2025-09-12T14:14:48.354476"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003154500",
+      "original_id": "eventRowId_531865",
+      "event_date": "2025-10-03",
+      "event_time": "15:45",
+      "event_datetime": "2025/10/03 15:45:00",
+      "title": "法国工业产出月率(%) (月度环比)  (八月)",
+      "content": "前值: -1.1%",
+      "category": null,
+      "importance": 1,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531865",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 15:45:00",
+        "time": "15:45",
+        "country": "法国",
+        "importance": 1,
+        "event_name": "法国工业产出月率(%) (月度环比)  (八月)",
+        "previous": "-1.1%"
+      },
+      "created_at": "2025-09-12T14:14:48.354605"
     },
     {
       "platform": "investing",
@@ -180,7 +428,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531286",
         "event_attr_id": "",
@@ -191,7 +439,7 @@
         "event_name": "法国S&P Global综合PMI  (九月)",
         "previous": "49.8"
       },
-      "created_at": "2025-09-11T14:15:47.873326"
+      "created_at": "2025-09-12T14:14:48.354718"
     },
     {
       "platform": "investing",
@@ -211,7 +459,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531287",
         "event_attr_id": "",
@@ -222,7 +470,7 @@
         "event_name": "法国服务业PMI  (九月)",
         "previous": "49.7"
       },
-      "created_at": "2025-09-11T14:15:47.873459"
+      "created_at": "2025-09-12T14:14:48.354833"
     },
     {
       "platform": "investing",
@@ -242,7 +490,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531284",
         "event_attr_id": "",
@@ -253,7 +501,7 @@
         "event_name": "德国Markit综合PMI  (九月)",
         "previous": "50.9"
       },
-      "created_at": "2025-09-11T14:15:47.873574"
+      "created_at": "2025-09-12T14:14:48.354941"
     },
     {
       "platform": "investing",
@@ -273,7 +521,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531285",
         "event_attr_id": "",
@@ -284,7 +532,7 @@
         "event_name": "德国PMI月率(%)  (九月)",
         "previous": "50.1"
       },
-      "created_at": "2025-09-11T14:15:47.873689"
+      "created_at": "2025-09-12T14:14:48.355052"
     },
     {
       "platform": "investing",
@@ -304,7 +552,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531291",
         "event_attr_id": "",
@@ -315,7 +563,7 @@
         "event_name": "欧元区S&P Global综合PMI  (九月)",
         "previous": "51.1"
       },
-      "created_at": "2025-09-11T14:15:47.873802"
+      "created_at": "2025-09-12T14:14:48.355160"
     },
     {
       "platform": "investing",
@@ -335,7 +583,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531292",
         "event_attr_id": "",
@@ -346,7 +594,7 @@
         "event_name": "欧元区Markit服务业PMI  (九月)",
         "previous": "50.7"
       },
-      "created_at": "2025-09-11T14:15:47.873914"
+      "created_at": "2025-09-12T14:14:48.355268"
     },
     {
       "platform": "investing",
@@ -355,7 +603,7 @@
       "event_date": "2025-10-03",
       "event_time": "16:30",
       "event_datetime": "2025/10/03 16:30:00",
-      "title": "英国综合PMI指数  (八月)",
+      "title": "英国综合PMI指数  (九月)",
       "content": "前值: 53.0",
       "category": null,
       "importance": 2,
@@ -366,7 +614,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531359",
         "event_attr_id": "",
@@ -374,10 +622,10 @@
         "time": "16:30",
         "country": "英国",
         "importance": 2,
-        "event_name": "英国综合PMI指数  (八月)",
+        "event_name": "英国综合PMI指数  (九月)",
         "previous": "53.0"
       },
-      "created_at": "2025-09-11T14:15:47.874030"
+      "created_at": "2025-09-12T14:14:48.355377"
     },
     {
       "platform": "investing",
@@ -386,7 +634,7 @@
       "event_date": "2025-10-03",
       "event_time": "16:30",
       "event_datetime": "2025/10/03 16:30:00",
-      "title": "英国Markit服务业PMI  (八月)",
+      "title": "英国Markit服务业PMI  (九月)",
       "content": "前值: 53.6",
       "category": null,
       "importance": 2,
@@ -397,7 +645,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531360",
         "event_attr_id": "",
@@ -405,10 +653,506 @@
         "time": "16:30",
         "country": "英国",
         "importance": 2,
-        "event_name": "英国Markit服务业PMI  (八月)",
+        "event_name": "英国Markit服务业PMI  (九月)",
         "previous": "53.6"
       },
-      "created_at": "2025-09-11T14:15:47.874143"
+      "created_at": "2025-09-12T14:14:48.355485"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003170000",
+      "original_id": "eventRowId_531871",
+      "event_date": "2025-10-03",
+      "event_time": "17:00",
+      "event_datetime": "2025/10/03 17:00:00",
+      "title": "意大利公共赤字占GDP比重(%)  (第二季度)",
+      "content": "前值: 8.5%",
+      "category": null,
+      "importance": 1,
+      "country": "意大利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531871",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 17:00:00",
+        "time": "17:00",
+        "country": "意大利",
+        "importance": 1,
+        "event_name": "意大利公共赤字占GDP比重(%)  (第二季度)",
+        "previous": "8.5%"
+      },
+      "created_at": "2025-09-12T14:14:48.355615"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003180000",
+      "original_id": "eventRowId_531875",
+      "event_date": "2025-10-03",
+      "event_time": "18:00",
+      "event_datetime": "2025/10/03 18:00:00",
+      "title": "欧元区PPI月率(%) (月度环比)  (八月)",
+      "content": "前值: 0.4%",
+      "category": null,
+      "importance": 1,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531875",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 18:00:00",
+        "time": "18:00",
+        "country": "欧元区",
+        "importance": 1,
+        "event_name": "欧元区PPI月率(%) (月度环比)  (八月)",
+        "previous": "0.4%"
+      },
+      "created_at": "2025-09-12T14:14:48.355726"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003180000",
+      "original_id": "eventRowId_531874",
+      "event_date": "2025-10-03",
+      "event_time": "18:00",
+      "event_datetime": "2025/10/03 18:00:00",
+      "title": "欧元区PPI年率(%) (同比)  (八月)",
+      "content": "前值: 0.2%",
+      "category": null,
+      "importance": 1,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531874",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 18:00:00",
+        "time": "18:00",
+        "country": "欧元区",
+        "importance": 1,
+        "event_name": "欧元区PPI年率(%) (同比)  (八月)",
+        "previous": "0.2%"
+      },
+      "created_at": "2025-09-12T14:14:48.355836"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003200000",
+      "original_id": "eventRowId_531878",
+      "event_date": "2025-10-03",
+      "event_time": "20:00",
+      "event_datetime": "2025/10/03 20:00:00",
+      "title": "巴西工业生产指数年率(%) (同比)  (八月)",
+      "content": "前值: 0.2%",
+      "category": null,
+      "importance": 2,
+      "country": "巴西",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531878",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:00:00",
+        "time": "20:00",
+        "country": "巴西",
+        "importance": 2,
+        "event_name": "巴西工业生产指数年率(%) (同比)  (八月)",
+        "previous": "0.2%"
+      },
+      "created_at": "2025-09-12T14:14:48.355946"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003200000",
+      "original_id": "eventRowId_531880",
+      "event_date": "2025-10-03",
+      "event_time": "20:00",
+      "event_datetime": "2025/10/03 20:00:00",
+      "title": "巴西工业产出月率(%) (月度环比)  (八月)",
+      "content": "前值: -0.2%",
+      "category": null,
+      "importance": 1,
+      "country": "巴西",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531880",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:00:00",
+        "time": "20:00",
+        "country": "巴西",
+        "importance": 1,
+        "event_name": "巴西工业产出月率(%) (月度环比)  (八月)",
+        "previous": "-0.2%"
+      },
+      "created_at": "2025-09-12T14:14:48.356105"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003201500",
+      "original_id": "eventRowId_531882",
+      "event_date": "2025-10-03",
+      "event_time": "20:15",
+      "event_datetime": "2025/10/03 20:15:00",
+      "title": "欧元区储备资产总值  (九月)",
+      "content": "前值: 127.9B",
+      "category": null,
+      "importance": 1,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531882",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:15:00",
+        "time": "20:15",
+        "country": "加拿大",
+        "importance": 1,
+        "event_name": "欧元区储备资产总值  (九月)",
+        "previous": "127.9B"
+      },
+      "created_at": "2025-09-12T14:14:48.356219"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003203000",
+      "original_id": "eventRowId_531889",
+      "event_date": "2025-10-03",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/03 20:30:00",
+      "title": "美国平均时薪年率(%) (同比)  (九月)",
+      "content": "前值: 3.7%",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531889",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国平均时薪年率(%) (同比)  (九月)",
+        "previous": "3.7%"
+      },
+      "created_at": "2025-09-12T14:14:48.356330"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003203000",
+      "original_id": "eventRowId_531892",
+      "event_date": "2025-10-03",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/03 20:30:00",
+      "title": "美国平均每小时工资月率(%) (月度环比)  (九月)",
+      "content": "前值: 0.3%",
+      "category": null,
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531892",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 3,
+        "event_name": "美国平均每小时工资月率(%) (月度环比)  (九月)",
+        "previous": "0.3%"
+      },
+      "created_at": "2025-09-12T14:14:48.356437"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003203000",
+      "original_id": "eventRowId_531884",
+      "event_date": "2025-10-03",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/03 20:30:00",
+      "title": "美国平均每周工时(小时)  (九月)",
+      "content": "前值: 34.2",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531884",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国平均每周工时(小时)  (九月)",
+        "previous": "34.2"
+      },
+      "created_at": "2025-09-12T14:14:48.356565"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003203000",
+      "original_id": "eventRowId_531883",
+      "event_date": "2025-10-03",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/03 20:30:00",
+      "title": "美国政府就业人数(人)  (九月)",
+      "content": "前值: -16.0K",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531883",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国政府就业人数(人)  (九月)",
+        "previous": "-16.0K"
+      },
+      "created_at": "2025-09-12T14:14:48.356681"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003203000",
+      "original_id": "eventRowId_531885",
+      "event_date": "2025-10-03",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/03 20:30:00",
+      "title": "美国季调后制造业就业人口变动(人)  (九月)",
+      "content": "前值: -12K",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531885",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国季调后制造业就业人口变动(人)  (九月)",
+        "previous": "-12K"
+      },
+      "created_at": "2025-09-12T14:14:48.356790"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003203000",
+      "original_id": "eventRowId_531887",
+      "event_date": "2025-10-03",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/03 20:30:00",
+      "title": "美国季调后非农就业人口变动  (九月)",
+      "content": "前值: 22K",
+      "category": null,
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531887",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 3,
+        "event_name": "美国季调后非农就业人口变动  (九月)",
+        "previous": "22K"
+      },
+      "created_at": "2025-09-12T14:14:48.356900"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003203000",
+      "original_id": "eventRowId_531890",
+      "event_date": "2025-10-03",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/03 20:30:00",
+      "title": "美国劳动参与率  (九月)",
+      "content": "前值: 62.3%",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531890",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国劳动参与率  (九月)",
+        "previous": "62.3%"
+      },
+      "created_at": "2025-09-12T14:14:48.357008"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003203000",
+      "original_id": "eventRowId_531886",
+      "event_date": "2025-10-03",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/03 20:30:00",
+      "title": "美国私营企业非农就业人数变动  (九月)",
+      "content": "前值: 38K",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531886",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国私营企业非农就业人数变动  (九月)",
+        "previous": "38K"
+      },
+      "created_at": "2025-09-12T14:14:48.357115"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003203000",
+      "original_id": "eventRowId_531891",
+      "event_date": "2025-10-03",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/03 20:30:00",
+      "title": "美国U6失业率(%)  (九月)",
+      "content": "前值: 8.1%",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531891",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国U6失业率(%)  (九月)",
+        "previous": "8.1%"
+      },
+      "created_at": "2025-09-12T14:14:48.357222"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003203000",
+      "original_id": "eventRowId_531888",
+      "event_date": "2025-10-03",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/03 20:30:00",
+      "title": "美国失业率  (九月)",
+      "content": "前值: 4.3%",
+      "category": null,
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531888",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 3,
+        "event_name": "美国失业率  (九月)",
+        "previous": "4.3%"
+      },
+      "created_at": "2025-09-12T14:14:48.357331"
     },
     {
       "platform": "investing",
@@ -428,7 +1172,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531289",
         "event_attr_id": "",
@@ -439,7 +1183,7 @@
         "event_name": "巴西汇丰综合PMI  (九月)",
         "previous": "48.8"
       },
-      "created_at": "2025-09-11T14:15:47.874255"
+      "created_at": "2025-09-12T14:14:48.357439"
     },
     {
       "platform": "investing",
@@ -459,7 +1203,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531290",
         "event_attr_id": "",
@@ -470,7 +1214,7 @@
         "event_name": "巴西汇丰服务业PMI  (九月)",
         "previous": "49.3"
       },
-      "created_at": "2025-09-11T14:15:47.874380"
+      "created_at": "2025-09-12T14:14:48.357570"
     },
     {
       "platform": "investing",
@@ -479,7 +1223,7 @@
       "event_date": "2025-10-03",
       "event_time": "21:45",
       "event_datetime": "2025/10/03 21:45:00",
-      "title": "美国S&P Global综合PMI  (八月)",
+      "title": "美国S&P Global综合PMI  (九月)",
       "content": "前值: 55.4",
       "category": null,
       "importance": 2,
@@ -490,7 +1234,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531318",
         "event_attr_id": "",
@@ -498,10 +1242,10 @@
         "time": "21:45",
         "country": "美国",
         "importance": 2,
-        "event_name": "美国S&P Global综合PMI  (八月)",
+        "event_name": "美国S&P Global综合PMI  (九月)",
         "previous": "55.4"
       },
-      "created_at": "2025-09-11T14:15:47.874495"
+      "created_at": "2025-09-12T14:14:48.357684"
     },
     {
       "platform": "investing",
@@ -510,7 +1254,7 @@
       "event_date": "2025-10-03",
       "event_time": "21:45",
       "event_datetime": "2025/10/03 21:45:00",
-      "title": "美国Markit服务业PMI  (八月)",
+      "title": "美国Markit服务业PMI  (九月)",
       "content": "前值: 55.4",
       "category": null,
       "importance": 3,
@@ -521,7 +1265,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "event_id": "eventRowId_531317",
         "event_attr_id": "",
@@ -529,14 +1273,169 @@
         "time": "21:45",
         "country": "美国",
         "importance": 3,
-        "event_name": "美国Markit服务业PMI  (八月)",
+        "event_name": "美国Markit服务业PMI  (九月)",
         "previous": "55.4"
       },
-      "created_at": "2025-09-11T14:15:47.874608"
+      "created_at": "2025-09-12T14:14:48.357795"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003220000",
+      "original_id": "eventRowId_531897",
+      "event_date": "2025-10-03",
+      "event_time": "22:00",
+      "event_datetime": "2025/10/03 22:00:00",
+      "title": "美国ISM非制造业商业活动指数  (九月)",
+      "content": "前值: 55.0",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531897",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 22:00:00",
+        "time": "22:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国ISM非制造业商业活动指数  (九月)",
+        "previous": "55.0"
+      },
+      "created_at": "2025-09-12T14:14:48.357904"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003220000",
+      "original_id": "eventRowId_531896",
+      "event_date": "2025-10-03",
+      "event_time": "22:00",
+      "event_datetime": "2025/10/03 22:00:00",
+      "title": "美国ISM非制造业就业指数  (九月)",
+      "content": "前值: 46.5",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531896",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 22:00:00",
+        "time": "22:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国ISM非制造业就业指数  (九月)",
+        "previous": "46.5"
+      },
+      "created_at": "2025-09-12T14:14:48.358013"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003220000",
+      "original_id": "eventRowId_531895",
+      "event_date": "2025-10-03",
+      "event_time": "22:00",
+      "event_datetime": "2025/10/03 22:00:00",
+      "title": "美国ISM非制造业新订单指数  (九月)",
+      "content": "前值: 56.0",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531895",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 22:00:00",
+        "time": "22:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国ISM非制造业新订单指数  (九月)",
+        "previous": "56.0"
+      },
+      "created_at": "2025-09-12T14:14:48.358120"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003220000",
+      "original_id": "eventRowId_531899",
+      "event_date": "2025-10-03",
+      "event_time": "22:00",
+      "event_datetime": "2025/10/03 22:00:00",
+      "title": "美国ISM非制造业PMI  (九月)",
+      "content": "前值: 52.0",
+      "category": null,
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531899",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 22:00:00",
+        "time": "22:00",
+        "country": "美国",
+        "importance": 3,
+        "event_name": "美国ISM非制造业PMI  (九月)",
+        "previous": "52.0"
+      },
+      "created_at": "2025-09-12T14:14:48.358230"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251003220000",
+      "original_id": "eventRowId_531898",
+      "event_date": "2025-10-03",
+      "event_time": "22:00",
+      "event_datetime": "2025/10/03 22:00:00",
+      "title": "美国ISM非制造业物价指数  (九月)",
+      "content": "前值: 69.2",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "event_id": "eventRowId_531898",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 22:00:00",
+        "time": "22:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国ISM非制造业物价指数  (九月)",
+        "previous": "69.2"
+      },
+      "created_at": "2025-09-12T14:14:48.358340"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003000000_-3997567602132096188",
+      "event_id": "em_jjsj_20251003000000_8493117246834728680",
       "original_id": "2025-10-03 00:00:00_中国澳门：M2(报告期:2025年08月)",
       "event_date": "2025-10-03",
       "event_time": null,
@@ -552,16 +1451,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "中国澳门：M2(报告期:2025年08月)",
         "City": "中国澳门"
       },
-      "created_at": "2025-09-11T14:16:02.538757"
+      "created_at": "2025-09-12T14:15:02.820177"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003000000_3625307515329755716",
+      "event_id": "em_jjsj_20251003000000_7607630810147551897",
       "original_id": "2025-10-03 00:00:00_日本：失业率：季调(报告期:2025年08月)",
       "event_date": "2025-10-03",
       "event_time": null,
@@ -577,16 +1476,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "日本：失业率：季调(报告期:2025年08月)",
         "City": "日本"
       },
-      "created_at": "2025-09-11T14:16:02.538765"
+      "created_at": "2025-09-12T14:15:02.820185"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003000000_-1592313160100661908",
+      "event_id": "em_jjsj_20251003000000_-1762070739255001315",
       "original_id": "2025-10-03 00:00:00_日本：失业率(报告期:2025年08月)",
       "event_date": "2025-10-03",
       "event_time": null,
@@ -602,16 +1501,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "日本：失业率(报告期:2025年08月)",
         "City": "日本"
       },
-      "created_at": "2025-09-11T14:16:02.538772"
+      "created_at": "2025-09-12T14:15:02.820192"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003163000_2972100253067379412",
+      "event_id": "em_jjsj_20251003163000_1822978805238636725",
       "original_id": "2025-10-03 16:30:00_英国：央行外币储备(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "16:30:00",
@@ -627,16 +1526,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "英国：央行外币储备(报告期:2025年09月)",
         "City": "英国"
       },
-      "created_at": "2025-09-11T14:16:02.538780"
+      "created_at": "2025-09-12T14:15:02.820199"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003170000_3740200006443771393",
+      "event_id": "em_jjsj_20251003170000_4450329120795575042",
       "original_id": "2025-10-03 17:00:00_欧盟:PPI:当月同比(报告期:2025年08月)",
       "event_date": "2025-10-03",
       "event_time": "17:00:00",
@@ -652,16 +1551,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "欧盟:PPI:当月同比(报告期:2025年08月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-11T14:16:02.538788"
+      "created_at": "2025-09-12T14:15:02.820207"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003203000_-8160345500933609754",
+      "event_id": "em_jjsj_20251003203000_-5902226468513214528",
       "original_id": "2025-10-03 20:30:00_美国：新增非农就业人数：当月值：季调(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "20:30:00",
@@ -677,16 +1576,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：新增非农就业人数：当月值：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T14:16:02.538795"
+      "created_at": "2025-09-12T14:15:02.820215"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003203000_-6709899604634129792",
+      "event_id": "em_jjsj_20251003203000_-4275189526718490336",
       "original_id": "2025-10-03 20:30:00_美国：失业率：季调(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "20:30:00",
@@ -702,16 +1601,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：失业率：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T14:16:02.538802"
+      "created_at": "2025-09-12T14:15:02.820222"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003203000_1795968629360947103",
+      "event_id": "em_jjsj_20251003203000_-4900312332159111441",
       "original_id": "2025-10-03 20:30:00_美国：新增就业人数：季调(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "20:30:00",
@@ -727,16 +1626,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：新增就业人数：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T14:16:02.538809"
+      "created_at": "2025-09-12T14:15:02.820229"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003203000_-7042327639381390723",
+      "event_id": "em_jjsj_20251003203000_-4212823763890967791",
       "original_id": "2025-10-03 20:30:00_美国：制造业平均小时工资(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "20:30:00",
@@ -752,16 +1651,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：制造业平均小时工资(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T14:16:02.538816"
+      "created_at": "2025-09-12T14:15:02.820236"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003203000_7855586723436335572",
+      "event_id": "em_jjsj_20251003203000_-5856486703044933207",
       "original_id": "2025-10-03 20:30:00_美国：平均每周制造业工作时间：季调(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "20:30:00",
@@ -777,16 +1676,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：平均每周制造业工作时间：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T14:16:02.538823"
+      "created_at": "2025-09-12T14:15:02.820243"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_-5801889557467332819",
+      "event_id": "em_jjsj_20251003220000_-4394654585650030352",
       "original_id": "2025-10-03 22:00:00_美国：ISM：非制造业PMI：新订单(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -802,16 +1701,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：新订单(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T14:16:02.538831"
+      "created_at": "2025-09-12T14:15:02.820251"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_3212796347246070340",
+      "event_id": "em_jjsj_20251003220000_6990470132550440823",
       "original_id": "2025-10-03 22:00:00_美国：ISM：非制造业PMI：就业(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -827,16 +1726,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：就业(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T14:16:02.538838"
+      "created_at": "2025-09-12T14:15:02.820258"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_1293394560039918582",
+      "event_id": "em_jjsj_20251003220000_1017559411367995705",
       "original_id": "2025-10-03 22:00:00_美国：ISM：服务业PMI(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -852,16 +1751,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：ISM：服务业PMI(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T14:16:02.538845"
+      "created_at": "2025-09-12T14:15:02.820265"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_7992015087603132958",
+      "event_id": "em_jjsj_20251003220000_382503368564310123",
       "original_id": "2025-10-03 22:00:00_美国：ISM：非制造业PMI：库存(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -877,16 +1776,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：库存(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T14:16:02.538852"
+      "created_at": "2025-09-12T14:15:02.820272"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_3688912423055926793",
+      "event_id": "em_jjsj_20251003220000_5742374773764742440",
       "original_id": "2025-10-03 22:00:00_美国：ISM：非制造业PMI：供应商交付(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -902,16 +1801,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：供应商交付(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T14:16:02.538859"
+      "created_at": "2025-09-12T14:15:02.820279"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_6910974203340308145",
+      "event_id": "em_jjsj_20251003220000_-3893689275943607997",
       "original_id": "2025-10-03 22:00:00_美国：ISM：非制造业PMI：物价(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -927,12 +1826,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-11",
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：物价(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T14:16:02.538866"
+      "created_at": "2025-09-12T14:15:02.820286"
     }
   ]
 }
