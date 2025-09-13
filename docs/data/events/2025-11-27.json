@@ -1,14 +1,14 @@
 {
   "date": "2025-11-27",
-  "total_events": 2,
+  "total_events": 4,
   "new_events": 2,
   "platforms": {
-    "eastmoney": 2
+    "eastmoney": 4
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127000000_-1764564872717520639",
+      "event_id": "em_jjsj_20251127000000_-775676608049875209",
       "original_id": "2025-11-27 00:00:00_马来西亚：PPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-27",
       "event_time": null,
@@ -23,17 +23,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-12",
+      "is_new": false,
+      "discovery_date": "2025-09-13",
       "raw_data": {
         "Name": "马来西亚：PPI：同比(报告期:2025年10月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-09-12T14:15:02.822708"
+      "created_at": "2025-09-13T14:11:52.124252"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127093000_-7842137680697280438",
+      "event_id": "em_jjsj_20251127093000_6900869022630314292",
       "original_id": "2025-11-27 09:30:00_中国：工业企业:利润总额:累计值(报告期:2025年10月)",
       "event_date": "2025-11-27",
       "event_time": "09:30:00",
@@ -48,13 +48,63 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-12",
+      "is_new": false,
+      "discovery_date": "2025-09-13",
       "raw_data": {
         "Name": "中国：工业企业:利润总额:累计值(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-09-12T14:15:02.822716"
+      "created_at": "2025-09-13T14:11:52.124260"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251127093000_7766224196524171672",
+      "original_id": "2025-11-27 09:30:00_中国：工业企业:利润总额:累计同比(报告期:2025年10月)",
+      "event_date": "2025-11-27",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-11-27 09:30:00",
+      "title": "中国：工业企业:利润总额:累计同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-13",
+      "raw_data": {
+        "Name": "中国：工业企业:利润总额:累计同比(报告期:2025年10月)",
+        "City": "中国"
+      },
+      "created_at": "2025-09-13T14:11:52.124267"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251127160000_-1005064275223133901",
+      "original_id": "2025-11-27 16:00:00_土耳其：出口金额(报告期:2025年10月)",
+      "event_date": "2025-11-27",
+      "event_time": "16:00:00",
+      "event_datetime": "2025-11-27 16:00:00",
+      "title": "土耳其：出口金额(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "土耳其",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-13",
+      "raw_data": {
+        "Name": "土耳其：出口金额(报告期:2025年10月)",
+        "City": "土耳其"
+      },
+      "created_at": "2025-09-13T14:11:52.124274"
     }
   ]
 }
