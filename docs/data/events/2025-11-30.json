@@ -1,14 +1,14 @@
 {
   "date": "2025-11-30",
-  "total_events": 2,
-  "new_events": 2,
+  "total_events": 3,
+  "new_events": 1,
   "platforms": {
-    "eastmoney": 2
+    "eastmoney": 3
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251130093000_-621330212924257395",
+      "event_id": "em_jjsj_20251130093000_-7183151928359275623",
       "original_id": "2025-11-30 09:30:00_中国：制造业PMI(报告期:2025年11月)",
       "event_date": "2025-11-30",
       "event_time": "09:30:00",
@@ -23,17 +23,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-13",
+      "is_new": false,
+      "discovery_date": "2025-09-14",
       "raw_data": {
         "Name": "中国：制造业PMI(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-09-13T14:11:52.124319"
+      "created_at": "2025-09-14T14:12:39.530408"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251130093000_2446802107430194066",
+      "event_id": "em_jjsj_20251130093000_-5421383608352784932",
       "original_id": "2025-11-30 09:30:00_中国：PMI(报告期:2025年11月)",
       "event_date": "2025-11-30",
       "event_time": "09:30:00",
@@ -48,13 +48,38 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-13",
+      "is_new": false,
+      "discovery_date": "2025-09-14",
       "raw_data": {
         "Name": "中国：PMI(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-09-13T14:11:52.124326"
+      "created_at": "2025-09-14T14:12:39.530415"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251130093000_8417129197284293",
+      "original_id": "2025-11-30 09:30:00_中国：非制造业PMI(报告期:2025年11月)",
+      "event_date": "2025-11-30",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-11-30 09:30:00",
+      "title": "中国：非制造业PMI(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-14",
+      "raw_data": {
+        "Name": "中国：非制造业PMI(报告期:2025年11月)",
+        "City": "中国"
+      },
+      "created_at": "2025-09-14T14:12:39.530422"
     }
   ]
 }
