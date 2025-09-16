@@ -1,14 +1,14 @@
 {
   "date": "2025-12-01",
-  "total_events": 3,
-  "new_events": 0,
+  "total_events": 9,
+  "new_events": 6,
   "platforms": {
-    "eastmoney": 3
+    "eastmoney": 9
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251201180000_504982511490540500",
+      "event_id": "em_jjsj_20251201180000_2591081685532884763",
       "original_id": "2025-12-01 18:00:00_中国香港：零售业总销货:数量指数:当月同比(报告期:2025年10月)",
       "event_date": "2025-12-01",
       "event_time": "18:00:00",
@@ -24,16 +24,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-15",
+      "discovery_date": "2025-09-16",
       "raw_data": {
         "Name": "中国香港：零售业总销货:数量指数:当月同比(报告期:2025年10月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-15T14:16:28.668572"
+      "created_at": "2025-09-16T14:16:30.522038"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251201180000_-315332878041262987",
+      "event_id": "em_jjsj_20251201180000_-7531619689030538044",
       "original_id": "2025-12-01 18:00:00_中国香港：零售业总销货:价值指数:当月同比(报告期:2025年10月)",
       "event_date": "2025-12-01",
       "event_time": "18:00:00",
@@ -49,16 +49,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-15",
+      "discovery_date": "2025-09-16",
       "raw_data": {
         "Name": "中国香港：零售业总销货:价值指数:当月同比(报告期:2025年10月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-15T14:16:28.668579"
+      "created_at": "2025-09-16T14:16:30.522045"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251201230000_6448139366790150813",
+      "event_id": "em_jjsj_20251201230000_-7211525016106431343",
       "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：供应商交付(报告期:2025年11月)",
       "event_date": "2025-12-01",
       "event_time": "23:00:00",
@@ -74,12 +74,162 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-15",
+      "discovery_date": "2025-09-16",
       "raw_data": {
         "Name": "美国：ISM：制造业PMI：供应商交付(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-09-15T14:16:28.668587"
+      "created_at": "2025-09-16T14:16:30.522053"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_-6966220736366270506",
+      "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：自有库存(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM：制造业PMI：自有库存(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-16",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：自有库存(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-16T14:16:30.522060"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_6591369729387019278",
+      "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：产出(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM：制造业PMI：产出(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-16",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：产出(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-16T14:16:30.522067"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_-8961454266426876930",
+      "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：新订单(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM：制造业PMI：新订单(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-16",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：新订单(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-16T14:16:30.522075"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_7955690876914501622",
+      "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：物价(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM：制造业PMI：物价(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-16",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：物价(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-16T14:16:30.522082"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_-4614111147244053550",
+      "original_id": "2025-12-01 23:00:00_美国：ISM:制造业PMI(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM:制造业PMI(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-16",
+      "raw_data": {
+        "Name": "美国：ISM:制造业PMI(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-16T14:16:30.522089"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_-9056342472755320469",
+      "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：就业(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM：制造业PMI：就业(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-16",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：就业(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-16T14:16:30.522097"
     }
   ]
 }

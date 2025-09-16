@@ -1,12 +1,103 @@
 {
   "date": "2025-10-13",
-  "total_events": 4,
-  "new_events": 0,
+  "total_events": 6,
+  "new_events": 2,
   "platforms": {
+    "jiuyangongshe": 2,
     "investing": 1,
     "eastmoney": 3
   },
   "events": [
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_0a0f7f8278d14a1c8f257a4397a29c5e_a6b9a6bbcf4e4c38b9936865cfe8244e_20251013",
+      "original_id": "0a0f7f8278d14a1c8f257a4397a29c5e",
+      "event_date": "2025-10-13",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第十一届全球超宽带高峰论坛",
+      "content": "第十一届全球超宽带高峰论坛将于10月13-14日举行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-16",
+      "raw_data": {
+        "article_id": "0a0f7f8278d14a1c8f257a4397a29c5e",
+        "user_id": "1",
+        "title": "第十一届全球超宽带高峰论坛",
+        "content": "第十一届全球超宽带高峰论坛将于10月13-14日举行。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "0a0f7f8278d14a1c8f257a4397a29c5e",
+          "timeline_id": "a6b9a6bbcf4e4c38b9936865cfe8244e",
+          "date": "2025-10-13",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-09-16 00:37:30",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-16T14:15:45.358761"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_5654e6925d9c4d5a8414155b17f2e349_1df9849ce3474c10b7b4766392330f2e_20251013",
+      "original_id": "5654e6925d9c4d5a8414155b17f2e349",
+      "event_date": "2025-10-13",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "国际核聚变能源大会(西安)",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-16",
+      "raw_data": {
+        "article_id": "5654e6925d9c4d5a8414155b17f2e349",
+        "user_id": "1",
+        "title": "国际核聚变能源大会(西安)",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "5654e6925d9c4d5a8414155b17f2e349",
+          "timeline_id": "1df9849ce3474c10b7b4766392330f2e",
+          "date": "2025-10-13",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-09-16 00:37:48",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-16T14:15:45.358770"
+    },
     {
       "platform": "investing",
       "event_id": "inv__20251013190000",
@@ -25,7 +116,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-15",
+      "discovery_date": "2025-09-16",
       "raw_data": {
         "event_id": "eventRowId_517582",
         "event_attr_id": "",
@@ -35,11 +126,11 @@
         "importance": 2,
         "event_name": "石油输出国组织(OPEC)月报"
       },
-      "created_at": "2025-09-15T14:16:14.738324"
+      "created_at": "2025-09-16T14:16:01.730668"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_-3782196578129046527",
+      "event_id": "em_jjsj_20251013000000_-853498359805645132",
       "original_id": "2025-10-13 00:00:00_中国：出口金额(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -55,16 +146,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-15",
+      "discovery_date": "2025-09-16",
       "raw_data": {
         "Name": "中国：出口金额(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-15T14:16:28.666304"
+      "created_at": "2025-09-16T14:16:30.519807"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_7615586632756948884",
+      "event_id": "em_jjsj_20251013000000_9149407956056156644",
       "original_id": "2025-10-13 00:00:00_中国：进口金额(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -80,16 +171,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-15",
+      "discovery_date": "2025-09-16",
       "raw_data": {
         "Name": "中国：进口金额(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-15T14:16:28.666311"
+      "created_at": "2025-09-16T14:16:30.519814"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_7384172677640933868",
+      "event_id": "em_jjsj_20251013000000_7572594407820081288",
       "original_id": "2025-10-13 00:00:00_中国：进出口金额:当月同比(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -105,12 +196,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-15",
+      "discovery_date": "2025-09-16",
       "raw_data": {
         "Name": "中国：进出口金额:当月同比(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-15T14:16:28.666318"
+      "created_at": "2025-09-16T14:16:30.519822"
     }
   ]
 }
