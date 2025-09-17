@@ -1,11 +1,11 @@
 {
   "date": "2025-10-09",
-  "total_events": 6,
-  "new_events": 3,
+  "total_events": 7,
+  "new_events": 1,
   "platforms": {
     "cls": 2,
     "tonghuashun": 1,
-    "eastmoney": 3
+    "eastmoney": 4
   },
   "events": [
     {
@@ -25,8 +25,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-16",
+      "is_new": false,
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "id": 321541,
         "calendar_time": "2025-10-09 00:00:00",
@@ -42,7 +42,7 @@
         "holiday": null,
         "title": "北交所：10月9日起将为存量股票启用新证券代码"
       },
-      "created_at": "2025-09-16T14:15:40.888279"
+      "created_at": "2025-09-17T14:15:03.187751"
     },
     {
       "platform": "cls",
@@ -61,8 +61,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-16",
+      "is_new": false,
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "id": 320281,
         "calendar_time": "2025-10-09 02:00:00",
@@ -78,7 +78,7 @@
         "holiday": null,
         "title": "美联储公布货币政策会议纪要"
       },
-      "created_at": "2025-09-16T14:15:40.888323"
+      "created_at": "2025-09-17T14:15:03.187761"
     },
     {
       "platform": "tonghuashun",
@@ -102,8 +102,8 @@
       ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-16",
+      "is_new": false,
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "event": [
           "北交所：10月9日起将为存量股票启用新证券代码",
@@ -119,11 +119,11 @@
           }
         ]
       },
-      "created_at": "2025-09-16T14:15:52.696842"
+      "created_at": "2025-09-17T14:15:15.387120"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251009140000_-5864195967781264195",
+      "event_id": "em_jjsj_20251009140000_4528709601819061562",
       "original_id": "2025-10-09 14:00:00_德国：贸易顺差：季调(报告期:2025年08月)",
       "event_date": "2025-10-09",
       "event_time": "14:00:00",
@@ -139,16 +139,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "德国：贸易顺差：季调(报告期:2025年08月)",
         "City": "德国"
       },
-      "created_at": "2025-09-16T14:16:30.519731"
+      "created_at": "2025-09-17T14:15:36.735222"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251009160000_8743562178020316190",
+      "event_id": "em_jjsj_20251009160000_-8105786279458855064",
       "original_id": "2025-10-09 16:00:00_中国台湾：进口总额：同比：美元(报告期:2025年09月)",
       "event_date": "2025-10-09",
       "event_time": "16:00:00",
@@ -164,16 +164,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "中国台湾：进口总额：同比：美元(报告期:2025年09月)",
         "City": "中国台湾"
       },
-      "created_at": "2025-09-16T14:16:30.519739"
+      "created_at": "2025-09-17T14:15:36.735230"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251009190000_5658095111085935517",
+      "event_id": "em_jjsj_20251009190000_-5795835830889843609",
       "original_id": "2025-10-09 19:00:00_巴西：CPI：同比(报告期:2025年09月)",
       "event_date": "2025-10-09",
       "event_time": "19:00:00",
@@ -189,12 +189,43 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "巴西：CPI：同比(报告期:2025年09月)",
         "City": "巴西"
       },
-      "created_at": "2025-09-16T14:16:30.519747"
+      "created_at": "2025-09-17T14:15:36.735237"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10865229",
+      "original_id": "10865229",
+      "event_date": "2025-10-09",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "北交所:10月9日起将为存量股票启用新证券代码",
+      "content": "北京证券交易所(以下简称本所)存量上市公司代码切换工作总体准备就绪。自2025年10月9日起,本所将为存量股票启用新证券代码,投资者对存量股票的交易委托、行情查询,市场主体对存量股票的业务办理等均使用切换后的证券代码。新旧代码对应关系可通过本所官网“服务—新旧代码对照表”栏目查询。请各市场参与人高度重视代码切换工作,按照本所要求做好业务、技术、投资者服务相关工作。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-17",
+      "raw_data": {
+        "fe_code": "10865229",
+        "fe_name": "北交所:10月9日起将为存量股票启用新证券代码",
+        "start_date": "2025-10-09",
+        "end_date": "2025-10-09",
+        "fe_type": "其他会议",
+        "sponsor": null,
+        "city": null,
+        "content": "北京证券交易所(以下简称本所)存量上市公司代码切换工作总体准备就绪。自2025年10月9日起,本所将为存量股票启用新证券代码,投资者对存量股票的交易委托、行情查询,市场主体对存量股票的业务办理等均使用切换后的证券代码。新旧代码对应关系可通过本所官网“服务—新旧代码对照表”栏目查询。请各市场参与人高度重视代码切换工作,按照本所要求做好业务、技术、投资者服务相关工作。"
+      },
+      "created_at": "2025-09-17T14:15:36.739001"
     }
   ]
 }

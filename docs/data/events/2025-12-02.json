@@ -1,14 +1,14 @@
 {
   "date": "2025-12-02",
-  "total_events": 6,
-  "new_events": 6,
+  "total_events": 8,
+  "new_events": 2,
   "platforms": {
-    "eastmoney": 6
+    "eastmoney": 8
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202000000_3257573367408000861",
+      "event_id": "em_jjsj_20251202000000_6987047938796781981",
       "original_id": "2025-12-02 00:00:00_中国香港：港口货物吞吐量：当季同比(报告期:2025年09月)",
       "event_date": "2025-12-02",
       "event_time": null,
@@ -23,17 +23,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-16",
+      "is_new": false,
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "中国香港：港口货物吞吐量：当季同比(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-16T14:16:30.522105"
+      "created_at": "2025-09-17T14:15:36.738492"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202000000_-6869379329089953359",
+      "event_id": "em_jjsj_20251202000000_-3256781981912965614",
       "original_id": "2025-12-02 00:00:00_韩国：CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-02",
       "event_time": null,
@@ -48,17 +48,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-16",
+      "is_new": false,
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "韩国：CPI：同比(报告期:2025年11月)",
         "City": "韩国"
       },
-      "created_at": "2025-09-16T14:16:30.522113"
+      "created_at": "2025-09-17T14:15:36.738500"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202000000_-6256050176356027682",
+      "event_id": "em_jjsj_20251202000000_4431307976916999566",
       "original_id": "2025-12-02 00:00:00_菲律宾：PPI：同比(报告期:2025年10月)",
       "event_date": "2025-12-02",
       "event_time": null,
@@ -73,17 +73,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-16",
+      "is_new": false,
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "菲律宾：PPI：同比(报告期:2025年10月)",
         "City": "菲律宾"
       },
-      "created_at": "2025-09-16T14:16:30.522121"
+      "created_at": "2025-09-17T14:15:36.738507"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202093000_2592752510926549724",
+      "event_id": "em_jjsj_20251202093000_4047297906048266432",
       "original_id": "2025-12-02 09:30:00_澳大利亚：经常项目差额(报告期:2025年09月)",
       "event_date": "2025-12-02",
       "event_time": "09:30:00",
@@ -98,17 +98,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-16",
+      "is_new": false,
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "澳大利亚：经常项目差额(报告期:2025年09月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-09-16T14:16:30.522128"
+      "created_at": "2025-09-17T14:15:36.738515"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202180000_-5322211829032206876",
+      "event_id": "em_jjsj_20251202180000_-8976489132909364539",
       "original_id": "2025-12-02 18:00:00_德国：失业率：季调(报告期:2025年10月)",
       "event_date": "2025-12-02",
       "event_time": "18:00:00",
@@ -123,17 +123,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-16",
+      "is_new": false,
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "德国：失业率：季调(报告期:2025年10月)",
         "City": "德国"
       },
-      "created_at": "2025-09-16T14:16:30.522136"
+      "created_at": "2025-09-17T14:15:36.738522"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202180000_-9033871552230334455",
+      "event_id": "em_jjsj_20251202180000_-3137850062180009548",
       "original_id": "2025-12-02 18:00:00_意大利：失业率：季调(报告期:2025年10月)",
       "event_date": "2025-12-02",
       "event_time": "18:00:00",
@@ -148,13 +148,63 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-16",
+      "is_new": false,
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "意大利：失业率：季调(报告期:2025年10月)",
         "City": "意大利"
       },
-      "created_at": "2025-09-16T14:16:30.522145"
+      "created_at": "2025-09-17T14:15:36.738530"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251202180000_8450945114699900392",
+      "original_id": "2025-12-02 18:00:00_意大利：失业人数：季调(报告期:2025年10月)",
+      "event_date": "2025-12-02",
+      "event_time": "18:00:00",
+      "event_datetime": "2025-12-02 18:00:00",
+      "title": "意大利：失业人数：季调(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "意大利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-17",
+      "raw_data": {
+        "Name": "意大利：失业人数：季调(报告期:2025年10月)",
+        "City": "意大利"
+      },
+      "created_at": "2025-09-17T14:15:36.738537"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251202180000_9135514660943932490",
+      "original_id": "2025-12-02 18:00:00_欧盟27国：失业率：季调(报告期:2025年10月)",
+      "event_date": "2025-12-02",
+      "event_time": "18:00:00",
+      "event_datetime": "2025-12-02 18:00:00",
+      "title": "欧盟27国：失业率：季调(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "欧盟",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-17",
+      "raw_data": {
+        "Name": "欧盟27国：失业率：季调(报告期:2025年10月)",
+        "City": "欧盟"
+      },
+      "created_at": "2025-09-17T14:15:36.738544"
     }
   ]
 }
