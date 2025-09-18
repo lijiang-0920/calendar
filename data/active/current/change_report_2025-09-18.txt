@@ -1,0 +1,127 @@
+{
+  "detection_time": "2025-09-18T14:16:23.486417",
+  "summary": {
+    "total_new": 26,
+    "total_updated": 29,
+    "total_cancelled": 530
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "第四届长春航空展将于9月19日至23日在长春举办",
+        "今日有2300亿元7天期逆回购到期"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 3,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "“煤化工‘十五五’高质量发展大会”暨“第二届新疆煤化工产业高质量发展论坛”‌",
+        "2025 年中国国际摩托车博览会",
+        "2025深圳eVTOL产业发展创新大会"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 3,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "寒武纪：将于9月18日举行2025年半年度业绩说明会",
+        "第四届长春航空展将于9月19日至23日在长春举办",
+        "华为将于9月19日在法国巴黎举办主题为“Ride the Wind”创新产品发布会"
+      ]
+    },
+    "investing": {
+      "new_events": 18,
+      "updated_events": 29,
+      "cancelled_events": 4,
+      "sample_new_titles": [
+        "美国纽约联储主席、FOMC常任票委威廉姆斯(John Williams)讲话",
+        "美国FOMC委员戴利(Daly)讲话",
+        "德国央行月报"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 526,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-19",
+      "title": "第四届长春航空展将于9月19日至23日在长春举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-09-18",
+      "title": "寒武纪：将于9月18日举行2025年半年度业绩说明会",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-09-19",
+      "title": "第四届长春航空展将于9月19日至23日在长春举办",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-09-19",
+      "title": "华为将于9月19日在法国巴黎举办主题为“Ride the Wind”创新产品发布会",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-19",
+      "title": "今日有2300亿元7天期逆回购到期",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-09-22",
+      "title": "美国纽约联储主席、FOMC常任票委威廉姆斯(John Williams)讲话",
+      "importance": 2,
+      "country": "美国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-09-20",
+      "title": "美国FOMC委员戴利(Daly)讲话",
+      "importance": 2,
+      "country": "美国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-09-19",
+      "title": "欧洲央行行长拉加德(Christine Lagarde)讲话",
+      "importance": 2,
+      "country": "欧元区"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-09-23",
+      "title": "英国央行行长贝利(Andrew Bailey)讲话",
+      "importance": 2,
+      "country": "英国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-09-24",
+      "title": "加拿大央行行长麦科勒姆(Tiff Macklem)讲话",
+      "importance": 2,
+      "country": "加拿大"
+    }
+  ]
+}
