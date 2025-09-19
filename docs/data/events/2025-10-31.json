@@ -1,14 +1,45 @@
 {
   "date": "2025-10-31",
-  "total_events": 17,
-  "new_events": 0,
+  "total_events": 18,
+  "new_events": 18,
   "platforms": {
+    "investing": 1,
     "eastmoney": 17
   },
   "events": [
     {
+      "platform": "investing",
+      "event_id": "inv__20251031233000",
+      "original_id": "eventRowId_532290",
+      "event_date": "2025-10-31",
+      "event_time": "23:30",
+      "event_datetime": "2025/10/31 23:30:00",
+      "title": "亚特兰大联储GDPNow经济增长预测  (第四季度)",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
+      "raw_data": {
+        "event_id": "eventRowId_532290",
+        "event_attr_id": "",
+        "datetime": "2025/10/31 23:30:00",
+        "time": "23:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
+      },
+      "created_at": "2025-09-19T14:15:06.738238"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031000000_-4566886787500538724",
+      "event_id": "em_jjsj_20251031000000_-5796746307206660440",
       "original_id": "2025-10-31 00:00:00_中国澳门：M2(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": null,
@@ -23,17 +54,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "中国澳门：M2(报告期:2025年09月)",
         "City": "中国澳门"
       },
-      "created_at": "2025-09-17T14:15:36.736242"
+      "created_at": "2025-09-19T14:15:16.919369"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031000000_-4056881928491090188",
+      "event_id": "em_jjsj_20251031000000_2921737173633885289",
       "original_id": "2025-10-31 00:00:00_日本：失业率：季调(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": null,
@@ -48,17 +79,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "日本：失业率：季调(报告期:2025年09月)",
         "City": "日本"
       },
-      "created_at": "2025-09-17T14:15:36.736250"
+      "created_at": "2025-09-19T14:15:16.919377"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031000000_3366398958926585370",
+      "event_id": "em_jjsj_20251031000000_-1206158435933292035",
       "original_id": "2025-10-31 00:00:00_日本：失业率(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": null,
@@ -73,17 +104,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "日本：失业率(报告期:2025年09月)",
         "City": "日本"
       },
-      "created_at": "2025-09-17T14:15:36.736257"
+      "created_at": "2025-09-19T14:15:16.919384"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031092000_1815135739587594280",
+      "event_id": "em_jjsj_20251031092000_4901119740735351443",
       "original_id": "2025-10-31 09:20:00_中国：人民币汇率(报告期:2025年10月)",
       "event_date": "2025-10-31",
       "event_time": "09:20:00",
@@ -98,17 +129,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "中国：人民币汇率(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-09-17T14:15:36.736265"
+      "created_at": "2025-09-19T14:15:16.919391"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031093000_3859822393201582743",
+      "event_id": "em_jjsj_20251031093000_-5069931362665323206",
       "original_id": "2025-10-31 09:30:00_中国：制造业PMI(报告期:2025年10月)",
       "event_date": "2025-10-31",
       "event_time": "09:30:00",
@@ -123,17 +154,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "中国：制造业PMI(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-09-17T14:15:36.736273"
+      "created_at": "2025-09-19T14:15:16.919399"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031093000_-717859845614458012",
+      "event_id": "em_jjsj_20251031093000_-8508983086522415877",
       "original_id": "2025-10-31 09:30:00_中国：PMI(报告期:2025年10月)",
       "event_date": "2025-10-31",
       "event_time": "09:30:00",
@@ -148,17 +179,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "中国：PMI(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-09-17T14:15:36.736280"
+      "created_at": "2025-09-19T14:15:16.919406"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031093000_2138002283678162737",
+      "event_id": "em_jjsj_20251031093000_-1023429315503784689",
       "original_id": "2025-10-31 09:30:00_中国：非制造业PMI(报告期:2025年10月)",
       "event_date": "2025-10-31",
       "event_time": "09:30:00",
@@ -173,17 +204,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "中国：非制造业PMI(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-09-17T14:15:36.736288"
+      "created_at": "2025-09-19T14:15:16.919413"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031093000_525215858220369525",
+      "event_id": "em_jjsj_20251031093000_-6602188074629052447",
       "original_id": "2025-10-31 09:30:00_澳大利亚：PPI：产出品：同比(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": "09:30:00",
@@ -198,17 +229,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "澳大利亚：PPI：产出品：同比(报告期:2025年09月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-09-17T14:15:36.736295"
+      "created_at": "2025-09-19T14:15:16.919421"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031093000_8776303890635189563",
+      "event_id": "em_jjsj_20251031093000_4229295434513383591",
       "original_id": "2025-10-31 09:30:00_澳大利亚：PPI：产出品：环比(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": "09:30:00",
@@ -223,17 +254,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "澳大利亚：PPI：产出品：环比(报告期:2025年09月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-09-17T14:15:36.736303"
+      "created_at": "2025-09-19T14:15:16.919428"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031150000_-2756798388473222463",
+      "event_id": "em_jjsj_20251031150000_-833801813554495412",
       "original_id": "2025-10-31 15:00:00_土耳其：出口金额(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": "15:00:00",
@@ -248,17 +279,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "土耳其：出口金额(报告期:2025年09月)",
         "City": "土耳其"
       },
-      "created_at": "2025-09-17T14:15:36.736310"
+      "created_at": "2025-09-19T14:15:16.919435"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031170000_-9091091902749301468",
+      "event_id": "em_jjsj_20251031170000_2143399178042271451",
       "original_id": "2025-10-31 17:00:00_中国香港：零售业总销货:价值指数:当月同比(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": "17:00:00",
@@ -273,17 +304,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "中国香港：零售业总销货:价值指数:当月同比(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-17T14:15:36.736318"
+      "created_at": "2025-09-19T14:15:16.919443"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031170000_-1145479187099778021",
+      "event_id": "em_jjsj_20251031170000_-4721733409904645094",
       "original_id": "2025-10-31 17:00:00_中国香港：零售业总销货:数量指数:当月同比(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": "17:00:00",
@@ -298,17 +329,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "中国香港：零售业总销货:数量指数:当月同比(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-17T14:15:36.736326"
+      "created_at": "2025-09-19T14:15:16.919450"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031180000_-2960369762787948159",
+      "event_id": "em_jjsj_20251031180000_-6037801195000417221",
       "original_id": "2025-10-31 18:00:00_意大利：失业人数：季调(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": "18:00:00",
@@ -323,17 +354,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "意大利：失业人数：季调(报告期:2025年09月)",
         "City": "意大利"
       },
-      "created_at": "2025-09-17T14:15:36.736333"
+      "created_at": "2025-09-19T14:15:16.919457"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031203000_-1770982318750846345",
+      "event_id": "em_jjsj_20251031203000_-3575115271373526599",
       "original_id": "2025-10-31 20:30:00_美国：个人总收入：季调(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": "20:30:00",
@@ -348,17 +379,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "美国：个人总收入：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-17T14:15:36.736341"
+      "created_at": "2025-09-19T14:15:16.919465"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031203000_-5829766778039935675",
+      "event_id": "em_jjsj_20251031203000_-5824886144440484461",
       "original_id": "2025-10-31 20:30:00_美国：人均可支配收入:季调(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": "20:30:00",
@@ -373,17 +404,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "美国：人均可支配收入:季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-17T14:15:36.736348"
+      "created_at": "2025-09-19T14:15:16.919472"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031203000_5202527723932507307",
+      "event_id": "em_jjsj_20251031203000_-7713512918530770874",
       "original_id": "2025-10-31 20:30:00_美国：个人消费支出：季调(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": "20:30:00",
@@ -398,17 +429,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "美国：个人消费支出：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-17T14:15:36.736355"
+      "created_at": "2025-09-19T14:15:16.919480"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251031203000_-7819924983708258002",
+      "event_id": "em_jjsj_20251031203000_471128816298105110",
       "original_id": "2025-10-31 20:30:00_美国：核心PCE物价指数：当月同比(报告期:2025年09月)",
       "event_date": "2025-10-31",
       "event_time": "20:30:00",
@@ -423,13 +454,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-17",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "Name": "美国：核心PCE物价指数：当月同比(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-17T14:15:36.736362"
+      "created_at": "2025-09-19T14:15:16.919487"
     }
   ]
 }

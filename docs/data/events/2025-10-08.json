@@ -1,10 +1,11 @@
 {
   "date": "2025-10-08",
-  "total_events": 17,
-  "new_events": 3,
+  "total_events": 23,
+  "new_events": 6,
   "platforms": {
     "cls": 1,
-    "investing": 16
+    "investing": 17,
+    "eastmoney": 5
   },
   "events": [
     {
@@ -25,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "id": 319942,
         "calendar_time": "2025-10-08 00:00:00",
@@ -41,7 +42,37 @@
         "holiday": null,
         "title": "EIA公布月度短期能源展望报告"
       },
-      "created_at": "2025-09-18T14:15:38.476594"
+      "created_at": "2025-09-19T14:14:45.132631"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251008010000",
+      "original_id": "eventRowId_532271",
+      "event_date": "2025-10-08",
+      "event_time": "01:00",
+      "event_datetime": "2025/10/08 01:00:00",
+      "title": "亚特兰大联储GDPNow经济增长预测  (第三季度)",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
+      "raw_data": {
+        "event_id": "eventRowId_532271",
+        "event_attr_id": "",
+        "datetime": "2025/10/08 01:00:00",
+        "time": "01:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "亚特兰大联储GDPNow经济增长预测  (第三季度)"
+      },
+      "created_at": "2025-09-19T14:15:03.207883"
     },
     {
       "platform": "investing",
@@ -61,7 +92,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532035",
         "event_attr_id": "",
@@ -72,7 +103,7 @@
         "event_name": "美国消费信贷(美元)  (八月)",
         "previous": "16.01B"
       },
-      "created_at": "2025-09-18T14:15:55.593307"
+      "created_at": "2025-09-19T14:15:03.208009"
     },
     {
       "platform": "investing",
@@ -92,7 +123,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532036",
         "event_attr_id": "",
@@ -103,7 +134,7 @@
         "event_name": "日本路透短观指数  (十月)",
         "previous": "13"
       },
-      "created_at": "2025-09-18T14:15:55.593437"
+      "created_at": "2025-09-19T14:15:03.208125"
     },
     {
       "platform": "investing",
@@ -123,7 +154,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532039",
         "event_attr_id": "",
@@ -134,7 +165,7 @@
         "event_name": "日本雇员薪资收入总额  (八月)",
         "previous": "4.1%"
       },
-      "created_at": "2025-09-18T14:15:55.593550"
+      "created_at": "2025-09-19T14:15:03.208241"
     },
     {
       "platform": "investing",
@@ -154,7 +185,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532040",
         "event_attr_id": "",
@@ -165,7 +196,7 @@
         "event_name": "日本加班工资年率(%) (同比)  (八月)",
         "previous": "3.30%"
       },
-      "created_at": "2025-09-18T14:15:55.593658"
+      "created_at": "2025-09-19T14:15:03.208354"
     },
     {
       "platform": "investing",
@@ -185,7 +216,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532042",
         "event_attr_id": "",
@@ -196,7 +227,7 @@
         "event_name": "日本季调后经常帐(日元)  (八月)",
         "previous": "188.28T"
       },
-      "created_at": "2025-09-18T14:15:55.593770"
+      "created_at": "2025-09-19T14:15:03.208463"
     },
     {
       "platform": "investing",
@@ -216,7 +247,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532041",
         "event_attr_id": "",
@@ -227,7 +258,7 @@
         "event_name": "日本未季调经常帐(日元)  (八月)",
         "previous": "2.684T"
       },
-      "created_at": "2025-09-18T14:15:55.593881"
+      "created_at": "2025-09-19T14:15:03.208571"
     },
     {
       "platform": "investing",
@@ -247,7 +278,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532048",
         "event_attr_id": "",
@@ -258,7 +289,7 @@
         "event_name": "日本经济观察家前景指数  (九月)",
         "previous": "46.7"
       },
-      "created_at": "2025-09-18T14:15:55.593990"
+      "created_at": "2025-09-19T14:15:03.208699"
     },
     {
       "platform": "investing",
@@ -278,7 +309,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532082",
         "event_attr_id": "",
@@ -289,7 +320,7 @@
         "event_name": "德国季调后工业产出月率(%) (月度环比)  (八月)",
         "previous": "1.3%"
       },
-      "created_at": "2025-09-18T14:15:55.594125"
+      "created_at": "2025-09-19T14:15:03.208810"
     },
     {
       "platform": "investing",
@@ -309,7 +340,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532079",
         "event_attr_id": "",
@@ -320,7 +351,7 @@
         "event_name": "德国季调后工业产出月率(%) (同比)  (八月)",
         "previous": "1.53%"
       },
-      "created_at": "2025-09-18T14:15:55.594261"
+      "created_at": "2025-09-19T14:15:03.208919"
     },
     {
       "platform": "investing",
@@ -340,7 +371,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532109",
         "event_attr_id": "",
@@ -351,38 +382,7 @@
         "event_name": "英国CPI年率(%) (月度环比)  (九月)",
         "previous": "0.46%"
       },
-      "created_at": "2025-09-18T14:15:55.594373"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251008160000",
-      "original_id": "eventRowId_532111",
-      "event_date": "2025-10-08",
-      "event_time": "16:00",
-      "event_datetime": "2025/10/08 16:00:00",
-      "title": "中国台湾CPI月率(%) (月度环比)  (九月)",
-      "content": "前值: 0.12%",
-      "category": null,
-      "importance": 1,
-      "country": "中国台湾",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "raw_data": {
-        "event_id": "eventRowId_532111",
-        "event_attr_id": "",
-        "datetime": "2025/10/08 16:00:00",
-        "time": "16:00",
-        "country": "中国台湾",
-        "importance": 1,
-        "event_name": "中国台湾CPI月率(%) (月度环比)  (九月)",
-        "previous": "0.12%"
-      },
-      "created_at": "2025-09-18T14:15:55.594481"
+      "created_at": "2025-09-19T14:15:03.209031"
     },
     {
       "platform": "investing",
@@ -402,7 +402,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532107",
         "event_attr_id": "",
@@ -413,7 +413,38 @@
         "event_name": "中国台湾地区CPI年率(%) (同比)  (九月)",
         "previous": "1.60%"
       },
-      "created_at": "2025-09-18T14:15:55.594588"
+      "created_at": "2025-09-19T14:15:03.209142"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251008160000",
+      "original_id": "eventRowId_532111",
+      "event_date": "2025-10-08",
+      "event_time": "16:00",
+      "event_datetime": "2025/10/08 16:00:00",
+      "title": "中国台湾CPI月率(%) (月度环比)  (九月)",
+      "content": "前值: 0.12%",
+      "category": null,
+      "importance": 1,
+      "country": "中国台湾",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-09-19",
+      "raw_data": {
+        "event_id": "eventRowId_532111",
+        "event_attr_id": "",
+        "datetime": "2025/10/08 16:00:00",
+        "time": "16:00",
+        "country": "中国台湾",
+        "importance": 1,
+        "event_name": "中国台湾CPI月率(%) (月度环比)  (九月)",
+        "previous": "0.12%"
+      },
+      "created_at": "2025-09-19T14:15:03.209253"
     },
     {
       "platform": "investing",
@@ -433,7 +464,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532112",
         "event_attr_id": "",
@@ -444,7 +475,7 @@
         "event_name": "香港外汇储备(美元)  (九月)",
         "previous": "421.60B"
       },
-      "created_at": "2025-09-18T14:15:55.594694"
+      "created_at": "2025-09-19T14:15:03.209363"
     },
     {
       "platform": "investing",
@@ -463,8 +494,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-18",
+      "is_new": false,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532130",
         "event_attr_id": "",
@@ -475,7 +506,7 @@
         "event_name": "美国汤森路透/益普索主要消费者信心指数  (十月)",
         "previous": "52.37"
       },
-      "created_at": "2025-09-18T14:15:55.594799"
+      "created_at": "2025-09-19T14:15:03.209469"
     },
     {
       "platform": "investing",
@@ -494,8 +525,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-18",
+      "is_new": false,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532131",
         "event_attr_id": "",
@@ -506,7 +537,7 @@
         "event_name": "以色列汤森路透/益普索主要消费者信心指数 (月度环比)  (十月)",
         "previous": "47.79"
       },
-      "created_at": "2025-09-18T14:15:55.594903"
+      "created_at": "2025-09-19T14:15:03.209587"
     },
     {
       "platform": "investing",
@@ -525,8 +556,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-18",
+      "is_new": false,
+      "discovery_date": "2025-09-19",
       "raw_data": {
         "event_id": "eventRowId_532128",
         "event_attr_id": "",
@@ -537,7 +568,132 @@
         "event_name": "巴西汤森路透/益普索主要消费者信心指数  (十月)",
         "previous": "51.66"
       },
-      "created_at": "2025-09-18T14:15:55.595008"
+      "created_at": "2025-09-19T14:15:03.209715"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251008000000_4520922783974353929",
+      "original_id": "2025-10-08 00:00:00_中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年09月)",
+      "event_date": "2025-10-08",
+      "event_time": null,
+      "event_datetime": "2025-10-08 00:00:00",
+      "title": "中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
+      "raw_data": {
+        "Name": "中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年09月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-09-19T14:15:16.918271"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251008000000_-247459768837229252",
+      "original_id": "2025-10-08 00:00:00_中国香港：楼宇买卖合约：数量：当月值(报告期:2025年09月)",
+      "event_date": "2025-10-08",
+      "event_time": null,
+      "event_datetime": "2025-10-08 00:00:00",
+      "title": "中国香港：楼宇买卖合约：数量：当月值(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
+      "raw_data": {
+        "Name": "中国香港：楼宇买卖合约：数量：当月值(报告期:2025年09月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-09-19T14:15:16.918278"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251008030000_-2005068045456111476",
+      "original_id": "2025-10-08 03:00:00_美国：消费信贷总计：折年率：季调(报告期:2025年08月)",
+      "event_date": "2025-10-08",
+      "event_time": "03:00:00",
+      "event_datetime": "2025-10-08 03:00:00",
+      "title": "美国：消费信贷总计：折年率：季调(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
+      "raw_data": {
+        "Name": "美国：消费信贷总计：折年率：季调(报告期:2025年08月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-19T14:15:16.918286"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251008075000_6791433459601646631",
+      "original_id": "2025-10-08 07:50:00_日本：经常项目差额(报告期:2025年08月)",
+      "event_date": "2025-10-08",
+      "event_time": "07:50:00",
+      "event_datetime": "2025-10-08 07:50:00",
+      "title": "日本：经常项目差额(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
+      "raw_data": {
+        "Name": "日本：经常项目差额(报告期:2025年08月)",
+        "City": "日本"
+      },
+      "created_at": "2025-09-19T14:15:16.918294"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251008160000_-5152282504194176756",
+      "original_id": "2025-10-08 16:00:00_中国台湾：CPI：同比(报告期:2025年09月)",
+      "event_date": "2025-10-08",
+      "event_time": "16:00:00",
+      "event_datetime": "2025-10-08 16:00:00",
+      "title": "中国台湾：CPI：同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国台湾",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
+      "raw_data": {
+        "Name": "中国台湾：CPI：同比(报告期:2025年09月)",
+        "City": "中国台湾"
+      },
+      "created_at": "2025-09-19T14:15:16.918302"
     }
   ]
 }
