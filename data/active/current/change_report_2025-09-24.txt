@@ -1,0 +1,126 @@
+{
+  "detection_time": "2025-09-24T14:13:36.065103",
+  "summary": {
+    "total_new": 559,
+    "total_updated": 32,
+    "total_cancelled": 8
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "商务部定于9月25日下午3时举行新闻发布会，介绍近期商务领域重点工作有关情况",
+        "OpenAI：2025年开发者大会将在10月6日旧金山举办"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "商务部定于9月25日下午3时举行新闻发布会，介绍近期商务领域重点工作有关情况",
+        "OpenAI：2025年开发者大会将在10月6日旧金山举办"
+      ]
+    },
+    "investing": {
+      "new_events": 36,
+      "updated_events": 32,
+      "cancelled_events": 3,
+      "sample_new_titles": [
+        "美国联邦储备银行储备金余额",
+        "英国5年期国债拍卖收益率(%)",
+        "意大利2年期CTZ国债拍卖"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 519,
+      "updated_events": 0,
+      "cancelled_events": 5,
+      "sample_new_titles": [
+        "银河磁体停复牌",
+        "冠中生态停复牌",
+        "*ST天茂停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-25",
+      "title": "商务部定于9月25日下午3时举行新闻发布会，介绍近期商务领域重点工作有关情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-06",
+      "title": "OpenAI：2025年开发者大会将在10月6日旧金山举办",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-24",
+      "title": "美国：M2：季调(报告期:2025年08月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-24",
+      "title": "美国：M1：季调(报告期:2025年08月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-24",
+      "title": "德国：Ifo商业景气指数(报告期:2025年09月)",
+      "importance": 4,
+      "country": "德国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-24",
+      "title": "德国：Ifo现况指数(报告期:2025年09月)",
+      "importance": 4,
+      "country": "德国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-24",
+      "title": "美国：新建住房销售(报告期:2025年08月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-24",
+      "title": "美国：新建住房销售：环比(报告期:2025年08月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-24",
+      "title": "美国：DOE原油引申需求:当周值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-24",
+      "title": "美国：DOE燃料乙醇总产量:当周值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}
