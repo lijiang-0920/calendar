@@ -1,14 +1,64 @@
 {
   "date": "2025-11-26",
-  "total_events": 6,
-  "new_events": 6,
+  "total_events": 8,
+  "new_events": 2,
   "platforms": {
-    "eastmoney": 6
+    "eastmoney": 8
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251126213000_-3322936682402693344",
+      "event_id": "em_jjsj_20251126020000_-1524713923666190378",
+      "original_id": "2025-11-26 02:00:00_美国：M2：季调(报告期:2025年10月)",
+      "event_date": "2025-11-26",
+      "event_time": "02:00:00",
+      "event_datetime": "2025-11-26 02:00:00",
+      "title": "美国：M2：季调(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-25",
+      "raw_data": {
+        "Name": "美国：M2：季调(报告期:2025年10月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-25T14:16:42.742766"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251126020000_3299342388290148275",
+      "original_id": "2025-11-26 02:00:00_美国：M1：季调(报告期:2025年10月)",
+      "event_date": "2025-11-26",
+      "event_time": "02:00:00",
+      "event_datetime": "2025-11-26 02:00:00",
+      "title": "美国：M1：季调(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-25",
+      "raw_data": {
+        "Name": "美国：M1：季调(报告期:2025年10月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-25T14:16:42.742773"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251126213000_5071264397329110466",
       "original_id": "2025-11-26 21:30:00_美国：人均可支配收入:季调(报告期:2025年10月)",
       "event_date": "2025-11-26",
       "event_time": "21:30:00",
@@ -23,17 +73,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-24",
+      "is_new": false,
+      "discovery_date": "2025-09-25",
       "raw_data": {
         "Name": "美国：人均可支配收入:季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-24T14:13:36.042922"
+      "created_at": "2025-09-25T14:16:42.742781"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251126213000_710525181074925193",
+      "event_id": "em_jjsj_20251126213000_-6907494480757497496",
       "original_id": "2025-11-26 21:30:00_美国：个人消费支出：季调(报告期:2025年10月)",
       "event_date": "2025-11-26",
       "event_time": "21:30:00",
@@ -48,17 +98,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-24",
+      "is_new": false,
+      "discovery_date": "2025-09-25",
       "raw_data": {
         "Name": "美国：个人消费支出：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-24T14:13:36.042930"
+      "created_at": "2025-09-25T14:16:42.742788"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251126213000_4718713391984334984",
+      "event_id": "em_jjsj_20251126213000_-2077891036187702231",
       "original_id": "2025-11-26 21:30:00_美国：个人总收入：季调(报告期:2025年10月)",
       "event_date": "2025-11-26",
       "event_time": "21:30:00",
@@ -73,17 +123,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-24",
+      "is_new": false,
+      "discovery_date": "2025-09-25",
       "raw_data": {
         "Name": "美国：个人总收入：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-24T14:13:36.042938"
+      "created_at": "2025-09-25T14:16:42.742796"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251126213000_-1442554865568868128",
+      "event_id": "em_jjsj_20251126213000_3201425329227349580",
       "original_id": "2025-11-26 21:30:00_美国：核心PCE物价指数：当月同比(报告期:2025年10月)",
       "event_date": "2025-11-26",
       "event_time": "21:30:00",
@@ -98,17 +148,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-24",
+      "is_new": false,
+      "discovery_date": "2025-09-25",
       "raw_data": {
         "Name": "美国：核心PCE物价指数：当月同比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-24T14:13:36.042946"
+      "created_at": "2025-09-25T14:16:42.742803"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251126230000_7295299806528551322",
+      "event_id": "em_jjsj_20251126230000_-7577898272152229362",
       "original_id": "2025-11-26 23:00:00_美国：新建住房销售(报告期:2025年10月)",
       "event_date": "2025-11-26",
       "event_time": "23:00:00",
@@ -123,17 +173,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-24",
+      "is_new": false,
+      "discovery_date": "2025-09-25",
       "raw_data": {
         "Name": "美国：新建住房销售(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-24T14:13:36.042954"
+      "created_at": "2025-09-25T14:16:42.742810"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251126230000_-2485309864262443750",
+      "event_id": "em_jjsj_20251126230000_-7933514410871355839",
       "original_id": "2025-11-26 23:00:00_美国：新建住房销售：环比(报告期:2025年10月)",
       "event_date": "2025-11-26",
       "event_time": "23:00:00",
@@ -148,13 +198,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-24",
+      "is_new": false,
+      "discovery_date": "2025-09-25",
       "raw_data": {
         "Name": "美国：新建住房销售：环比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-24T14:13:36.042961"
+      "created_at": "2025-09-25T14:16:42.742818"
     }
   ]
 }
