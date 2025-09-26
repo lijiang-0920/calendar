@@ -1,12 +1,12 @@
 {
   "date": "2025-10-23",
-  "total_events": 16,
-  "new_events": 4,
+  "total_events": 21,
+  "new_events": 5,
   "platforms": {
-    "cls": 2,
+    "cls": 3,
     "jiuyangongshe": 5,
-    "tonghuashun": 2,
-    "eastmoney": 7
+    "tonghuashun": 3,
+    "eastmoney": 10
   },
   "events": [
     {
@@ -26,8 +26,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-25",
+      "is_new": false,
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "id": 323302,
         "calendar_time": "2025-10-23 00:00:00",
@@ -43,7 +43,7 @@
         "holiday": null,
         "title": "2025第五届航空航天增材制造大会将于10月23日至24日在上海举办"
       },
-      "created_at": "2025-09-25T14:16:09.435637"
+      "created_at": "2025-09-26T14:13:40.783644"
     },
     {
       "platform": "cls",
@@ -62,8 +62,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-25",
+      "is_new": false,
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "id": 323303,
         "calendar_time": "2025-10-23 00:00:00",
@@ -79,7 +79,43 @@
         "holiday": null,
         "title": "2025上海国际消费电子展将于10月23日举办"
       },
-      "created_at": "2025-09-25T14:16:09.435647"
+      "created_at": "2025-09-26T14:13:40.783653"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_323500_20251023_2",
+      "original_id": "323500",
+      "event_date": "2025-10-23",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-23 00:00:00",
+      "title": "2025（第二十七届）中国国际矿业大会将于10月23日至25日在天津举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "raw_data": {
+        "id": 323500,
+        "calendar_time": "2025-10-23 00:00:00",
+        "data_id": 19359,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025（第二十七届）中国国际矿业大会将于10月23日至25日在天津举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025（第二十七届）中国国际矿业大会将于10月23日至25日在天津举办"
+      },
+      "created_at": "2025-09-26T14:13:40.783663"
     },
     {
       "platform": "jiuyangongshe",
@@ -99,7 +135,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "article_id": "1e46c913a00343f08c1fadc37b3f5486",
         "user_id": "1",
@@ -124,7 +160,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-25T14:16:14.061473"
+      "created_at": "2025-09-26T14:13:45.212616"
     },
     {
       "platform": "jiuyangongshe",
@@ -146,7 +182,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "article_id": "c5e046963ada4eef81e5cded6f40b284",
         "user_id": "1",
@@ -176,7 +212,7 @@
           ]
         }
       },
-      "created_at": "2025-09-25T14:16:14.061481"
+      "created_at": "2025-09-26T14:13:45.212625"
     },
     {
       "platform": "jiuyangongshe",
@@ -196,7 +232,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "article_id": "41626beb9650480d94ee59a8cd3e5040",
         "user_id": "1",
@@ -221,7 +257,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-25T14:16:14.061488"
+      "created_at": "2025-09-26T14:13:45.212634"
     },
     {
       "platform": "jiuyangongshe",
@@ -241,7 +277,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "article_id": "9aed5ebd02a14732b98709b7c46d64a2",
         "user_id": "1",
@@ -266,7 +302,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-25T14:16:14.061495"
+      "created_at": "2025-09-26T14:13:45.212643"
     },
     {
       "platform": "jiuyangongshe",
@@ -288,7 +324,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "article_id": "25bf4d01dec94adba432c610c1896d6b",
         "user_id": "1",
@@ -318,7 +354,7 @@
           ]
         }
       },
-      "created_at": "2025-09-25T14:16:14.061502"
+      "created_at": "2025-09-26T14:13:45.212652"
     },
     {
       "platform": "tonghuashun",
@@ -342,8 +378,8 @@
       ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-25",
+      "is_new": false,
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "event": [
           "2025上海国际消费电子展将于10月23日举办",
@@ -359,7 +395,7 @@
           }
         ]
       },
-      "created_at": "2025-09-25T14:16:21.187404"
+      "created_at": "2025-09-26T14:13:52.475081"
     },
     {
       "platform": "tonghuashun",
@@ -383,8 +419,8 @@
       ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-25",
+      "is_new": false,
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "event": [
           "2025第五届航空航天增材制造大会将于10月23日至24日在上海举办",
@@ -400,11 +436,77 @@
           }
         ]
       },
-      "created_at": "2025-09-25T14:16:21.187414"
+      "created_at": "2025-09-26T14:13:52.475091"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251023_2_ff7665bd",
+      "original_id": "2025-10-23_2",
+      "event_date": "2025-10-23",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025（第二十七届）中国国际矿业大会将于10月23日至25日在天津举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [
+        {
+          "code": "885972",
+          "name": "金属回收"
+        }
+      ],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "raw_data": {
+        "event": [
+          "2025（第二十七届）中国国际矿业大会将于10月23日至25日在天津举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": [
+          {
+            "code": "885972",
+            "name": "金属回收",
+            "py": "jzhs"
+          }
+        ]
+      },
+      "created_at": "2025-09-26T14:13:52.475100"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251023130000_4771417985334712647",
+      "event_id": "em_jjsj_20251023000000_6646797812195811480",
+      "original_id": "2025-10-23 00:00:00_中国：库存:电解铝:保税区(报告期:2025年10月)",
+      "event_date": "2025-10-23",
+      "event_time": null,
+      "event_datetime": "2025-10-23 00:00:00",
+      "title": "中国：库存:电解铝:保税区(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "raw_data": {
+        "Name": "中国：库存:电解铝:保税区(报告期:2025年10月)",
+        "City": "中国"
+      },
+      "created_at": "2025-09-26T14:14:12.540241"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251023130000_5688945042125410703",
       "original_id": "2025-10-23 13:00:00_新加坡：CPI：同比(报告期:2025年09月)",
       "event_date": "2025-10-23",
       "event_time": "13:00:00",
@@ -420,16 +522,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "新加坡：CPI：同比(报告期:2025年09月)",
         "City": "新加坡"
       },
-      "created_at": "2025-09-25T14:16:42.741228"
+      "created_at": "2025-09-26T14:14:12.540249"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251023163000_-2745691583071902668",
+      "event_id": "em_jjsj_20251023163000_-8227567282149712976",
       "original_id": "2025-10-23 16:30:00_中国香港：CPI:综合类(报告期:2025年09月)",
       "event_date": "2025-10-23",
       "event_time": "16:30:00",
@@ -445,16 +547,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "中国香港：CPI:综合类(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-25T14:16:42.741236"
+      "created_at": "2025-09-26T14:14:12.540256"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251023163000_3642155786305457243",
+      "event_id": "em_jjsj_20251023163000_1488310428023356187",
       "original_id": "2025-10-23 16:30:00_中国香港：CPI:综合类:当月同比(报告期:2025年09月)",
       "event_date": "2025-10-23",
       "event_time": "16:30:00",
@@ -470,16 +572,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "中国香港：CPI:综合类:当月同比(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-25T14:16:42.741243"
+      "created_at": "2025-09-26T14:14:12.540264"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251023220000_-948855310438133325",
+      "event_id": "em_jjsj_20251023220000_5872112212189555047",
       "original_id": "2025-10-23 22:00:00_美国：堪萨斯联储制造业指数：季调(报告期:2025年10月)",
       "event_date": "2025-10-23",
       "event_time": "22:00:00",
@@ -495,16 +597,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：堪萨斯联储制造业指数：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T14:16:42.741251"
+      "created_at": "2025-09-26T14:14:12.540273"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251023220000_2079398367129306453",
+      "event_id": "em_jjsj_20251023220000_7490446868767926716",
       "original_id": "2025-10-23 22:00:00_美国：堪萨斯联储制造业指数：产出：季调(报告期:2025年10月)",
       "event_date": "2025-10-23",
       "event_time": "22:00:00",
@@ -520,16 +622,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：堪萨斯联储制造业指数：产出：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T14:16:42.741258"
+      "created_at": "2025-09-26T14:14:12.540280"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251023220000_-6965760445451274028",
+      "event_id": "em_jjsj_20251023220000_7246451505970919690",
       "original_id": "2025-10-23 22:00:00_美国：成屋销售：环比折年率(报告期:2025年09月)",
       "event_date": "2025-10-23",
       "event_time": "22:00:00",
@@ -545,16 +647,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：成屋销售：环比折年率(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T14:16:42.741266"
+      "created_at": "2025-09-26T14:14:12.540287"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251023220000_4495069151191831022",
+      "event_id": "em_jjsj_20251023220000_4386734461681623532",
       "original_id": "2025-10-23 22:00:00_美国：成屋销售折年数(报告期:2025年09月)",
       "event_date": "2025-10-23",
       "event_time": "22:00:00",
@@ -570,12 +672,74 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：成屋销售折年数(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T14:16:42.741273"
+      "created_at": "2025-09-26T14:14:12.540294"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10865441",
+      "original_id": "10865441",
+      "event_date": "2025-10-23",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025上海国际消费电子展将于10月23日举办",
+      "content": "上海国际消费电子展(TechG)将于2025年10月23-25日在上海新国际博览中心举办。展会由上海市人民政府批准,上海市经济和信息化委员会、上海市商务委员会、上海市科学技术委员会、上海市文化和旅游局及上海市科学技术协会指导,上海市国际贸易促进委员会和中国电子商会主办,上海国展展览中心有限公司承办。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "上海",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "raw_data": {
+        "fe_code": "10865441",
+        "fe_name": "2025上海国际消费电子展将于10月23日举办",
+        "start_date": "2025-10-23",
+        "end_date": "2025-10-23",
+        "fe_type": "行业会议",
+        "sponsor": "上海市国际贸易促进委员会,中国电子商会",
+        "city": "上海",
+        "content": "上海国际消费电子展(TechG)将于2025年10月23-25日在上海新国际博览中心举办。展会由上海市人民政府批准,上海市经济和信息化委员会、上海市商务委员会、上海市科学技术委员会、上海市文化和旅游局及上海市科学技术协会指导,上海市国际贸易促进委员会和中国电子商会主办,上海国展展览中心有限公司承办。"
+      },
+      "created_at": "2025-09-26T14:14:12.542743"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10865442",
+      "original_id": "10865442",
+      "event_date": "2025-10-23",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025第五届航空航天增材制造大会将于10月23日至24日在上海举办",
+      "content": "第五届航空航天增材制造大会(AAMC2025)将于2025年10月23-24日在上海闵行白金汉爵大酒店举办。本次大会重点聚焦航空航天增材制造全产业链内容,以“大会+展览+供需对接+合作签约+新品发布+项目路演”为主要框架,拟邀请两院院士、航空航天相关单位、科研院所及大学、行业协会、业界专家、增材制造企业等50位演讲嘉宾做主题报告,预计有50家专业单位参展,将展出行业最新产品、技术或服务,线下参会嘉宾将达到800人,欢迎各有关单位、企业和个人积极报名参加。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "上海",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "raw_data": {
+        "fe_code": "10865442",
+        "fe_name": "2025第五届航空航天增材制造大会将于10月23日至24日在上海举办",
+        "start_date": "2025-10-23",
+        "end_date": "2025-10-24",
+        "fe_type": "行业会议",
+        "sponsor": "中国航天科技集团商业火箭有限公司,中国航发商用航空发动机有限责任公司,中国航天科技集团增材制造工艺技术中心,中国航天科工集团有限公司增材制造工艺中心,中国航空制造技术研究院,中国航发增材制造技术创新中心,中国商飞增材制造技术应用研究中心,中国兵器装备集团增材制造研究应用中心,上海航天设备制造总厂有限公司,上海航天精密机械研究所,上海市增材制造协会",
+        "city": "上海",
+        "content": "第五届航空航天增材制造大会(AAMC2025)将于2025年10月23-24日在上海闵行白金汉爵大酒店举办。本次大会重点聚焦航空航天增材制造全产业链内容,以“大会+展览+供需对接+合作签约+新品发布+项目路演”为主要框架,拟邀请两院院士、航空航天相关单位、科研院所及大学、行业协会、业界专家、增材制造企业等50位演讲嘉宾做主题报告,预计有50家专业单位参展,将展出行业最新产品、技术或服务,线下参会嘉宾将达到800人,欢迎各有关单位、企业和个人积极报名参加。"
+      },
+      "created_at": "2025-09-26T14:14:12.542752"
     }
   ]
 }
