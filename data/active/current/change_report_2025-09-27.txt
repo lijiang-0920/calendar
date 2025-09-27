@@ -1,0 +1,59 @@
+{
+  "detection_time": "2025-09-27T14:12:47.000456",
+  "summary": {
+    "total_new": 2,
+    "total_updated": 25,
+    "total_cancelled": 538
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 2,
+      "updated_events": 25,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "美国商品期货交易委员会投机净仓位-欧元",
+        "美国TIC净长期交易(包括掉期)  (八月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 538,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "investing",
+      "date": "2025-10-04",
+      "title": "美国商品期货交易委员会投机净仓位-欧元",
+      "importance": 2,
+      "country": "欧元区"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-10-18",
+      "title": "美国TIC净长期交易(包括掉期)  (八月)",
+      "importance": 1,
+      "country": "美国"
+    }
+  ]
+}
