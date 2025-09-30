@@ -1,14 +1,46 @@
 {
   "date": "2025-11-04",
-  "total_events": 9,
-  "new_events": 9,
+  "total_events": 10,
+  "new_events": 10,
   "platforms": {
+    "investing": 1,
     "eastmoney": 9
   },
   "events": [
     {
+      "platform": "investing",
+      "event_id": "inv__20251104113000",
+      "original_id": "eventRowId_532904",
+      "event_date": "2025-11-04",
+      "event_time": "11:30",
+      "event_datetime": "2025/11/04 11:30:00",
+      "title": "澳洲联储利率决议  (十一月)",
+      "content": "前值: 3.60%",
+      "category": null,
+      "importance": 3,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "raw_data": {
+        "event_id": "eventRowId_532904",
+        "event_attr_id": "",
+        "datetime": "2025/11/04 11:30:00",
+        "time": "11:30",
+        "country": "澳大利亚",
+        "importance": 3,
+        "event_name": "澳洲联储利率决议  (十一月)",
+        "previous": "3.60%"
+      },
+      "created_at": "2025-09-30T14:16:13.876663"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251104000000_1829734806655670033",
+      "event_id": "em_jjsj_20251104000000_-2977272634436913356",
       "original_id": "2025-11-04 00:00:00_韩国：CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-04",
       "event_time": null,
@@ -24,16 +56,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-28",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "Name": "韩国：CPI：同比(报告期:2025年10月)",
         "City": "韩国"
       },
-      "created_at": "2025-09-28T14:12:03.007632"
+      "created_at": "2025-09-30T14:16:22.602999"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251104000000_8922410091691998930",
+      "event_id": "em_jjsj_20251104000000_-2600415558917508137",
       "original_id": "2025-11-04 00:00:00_中国香港：楼宇买卖合约：数量：当月值(报告期:2025年10月)",
       "event_date": "2025-11-04",
       "event_time": null,
@@ -49,16 +81,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-28",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "Name": "中国香港：楼宇买卖合约：数量：当月值(报告期:2025年10月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-28T14:12:03.007641"
+      "created_at": "2025-09-30T14:16:22.603006"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251104000000_-1792659510874714150",
+      "event_id": "em_jjsj_20251104000000_-3611312972960392836",
       "original_id": "2025-11-04 00:00:00_中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-04",
       "event_time": null,
@@ -74,16 +106,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-28",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "Name": "中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年10月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-28T14:12:03.007648"
+      "created_at": "2025-09-30T14:16:22.603014"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251104213000_6748512372266268193",
+      "event_id": "em_jjsj_20251104213000_7216695433075485311",
       "original_id": "2025-11-04 21:30:00_美国：货物进口金额：当月值(报告期:2025年09月)",
       "event_date": "2025-11-04",
       "event_time": "21:30:00",
@@ -99,16 +131,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-28",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "Name": "美国：货物进口金额：当月值(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-28T14:12:03.007656"
+      "created_at": "2025-09-30T14:16:22.603022"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251104213000_4851063530148857139",
+      "event_id": "em_jjsj_20251104213000_-6491694980734703160",
       "original_id": "2025-11-04 21:30:00_美国：货物出口金额：当月值(报告期:2025年09月)",
       "event_date": "2025-11-04",
       "event_time": "21:30:00",
@@ -124,16 +156,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-28",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "Name": "美国：货物出口金额：当月值(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-28T14:12:03.007664"
+      "created_at": "2025-09-30T14:16:22.603029"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251104213000_6040445447087120848",
+      "event_id": "em_jjsj_20251104213000_4047677611981608605",
       "original_id": "2025-11-04 21:30:00_美国：对外贸易差额(报告期:2025年09月)",
       "event_date": "2025-11-04",
       "event_time": "21:30:00",
@@ -149,16 +181,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-28",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "Name": "美国：对外贸易差额(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-28T14:12:03.007672"
+      "created_at": "2025-09-30T14:16:22.603036"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251104213000_7035848437653937829",
+      "event_id": "em_jjsj_20251104213000_1198647632327883499",
       "original_id": "2025-11-04 21:30:00_加拿大：商品进口金额(报告期:2025年09月)",
       "event_date": "2025-11-04",
       "event_time": "21:30:00",
@@ -174,16 +206,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-28",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "Name": "加拿大：商品进口金额(报告期:2025年09月)",
         "City": "加拿大"
       },
-      "created_at": "2025-09-28T14:12:03.007680"
+      "created_at": "2025-09-30T14:16:22.603074"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251104213000_7703688711777298422",
+      "event_id": "em_jjsj_20251104213000_7213554456451389192",
       "original_id": "2025-11-04 21:30:00_加拿大：商品出口金额(报告期:2025年09月)",
       "event_date": "2025-11-04",
       "event_time": "21:30:00",
@@ -199,16 +231,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-28",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "Name": "加拿大：商品出口金额(报告期:2025年09月)",
         "City": "加拿大"
       },
-      "created_at": "2025-09-28T14:12:03.007687"
+      "created_at": "2025-09-30T14:16:22.603082"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251104213000_8363362035131711801",
+      "event_id": "em_jjsj_20251104213000_8856954638333462372",
       "original_id": "2025-11-04 21:30:00_加拿大：商品贸易顺差(报告期:2025年09月)",
       "event_date": "2025-11-04",
       "event_time": "21:30:00",
@@ -224,12 +256,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-28",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "Name": "加拿大：商品贸易顺差(报告期:2025年09月)",
         "City": "加拿大"
       },
-      "created_at": "2025-09-28T14:12:03.007694"
+      "created_at": "2025-09-30T14:16:22.603089"
     }
   ]
 }

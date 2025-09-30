@@ -1,9 +1,10 @@
 {
   "date": "2025-10-27",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 10,
+  "new_events": 9,
   "platforms": {
-    "investing": 1
+    "investing": 1,
+    "eastmoney": 9
   },
   "events": [
     {
@@ -24,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "event_id": "eventRowId_532288",
         "event_attr_id": "",
@@ -34,7 +35,232 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第三季度)"
       },
-      "created_at": "2025-09-29T14:15:57.140009"
+      "created_at": "2025-09-30T14:16:12.382464"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027093000_-7561506945981675325",
+      "original_id": "2025-10-27 09:30:00_中国：工业企业:利润总额:累计值(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-10-27 09:30:00",
+      "title": "中国：工业企业:利润总额:累计值(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "raw_data": {
+        "Name": "中国：工业企业:利润总额:累计值(报告期:2025年09月)",
+        "City": "中国"
+      },
+      "created_at": "2025-09-30T14:16:22.602541"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027093000_1413223387581117559",
+      "original_id": "2025-10-27 09:30:00_中国：工业企业:利润总额:累计同比(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-10-27 09:30:00",
+      "title": "中国：工业企业:利润总额:累计同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "raw_data": {
+        "Name": "中国：工业企业:利润总额:累计同比(报告期:2025年09月)",
+        "City": "中国"
+      },
+      "created_at": "2025-09-30T14:16:22.602547"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027163000_1593497262252044748",
+      "original_id": "2025-10-27 16:30:00_中国香港：整体出口货值：当月同比(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-10-27 16:30:00",
+      "title": "中国香港：整体出口货值：当月同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "raw_data": {
+        "Name": "中国香港：整体出口货值：当月同比(报告期:2025年09月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-09-30T14:16:22.602555"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027163000_2503945182385430552",
+      "original_id": "2025-10-27 16:30:00_中国香港：商品贸易差额：当月值(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-10-27 16:30:00",
+      "title": "中国香港：商品贸易差额：当月值(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "raw_data": {
+        "Name": "中国香港：商品贸易差额：当月值(报告期:2025年09月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-09-30T14:16:22.602562"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027163000_8898914421645116981",
+      "original_id": "2025-10-27 16:30:00_中国香港：进口货值：同比(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-10-27 16:30:00",
+      "title": "中国香港：进口货值：同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "raw_data": {
+        "Name": "中国香港：进口货值：同比(报告期:2025年09月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-09-30T14:16:22.602570"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027170000_-6768133323940616666",
+      "original_id": "2025-10-27 17:00:00_德国：Ifo现况指数(报告期:2025年10月)",
+      "event_date": "2025-10-27",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-10-27 17:00:00",
+      "title": "德国：Ifo现况指数(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "raw_data": {
+        "Name": "德国：Ifo现况指数(报告期:2025年10月)",
+        "City": "德国"
+      },
+      "created_at": "2025-09-30T14:16:22.602577"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027170000_3628425743999885049",
+      "original_id": "2025-10-27 17:00:00_德国：Ifo商业景气指数(报告期:2025年10月)",
+      "event_date": "2025-10-27",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-10-27 17:00:00",
+      "title": "德国：Ifo商业景气指数(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "raw_data": {
+        "Name": "德国：Ifo商业景气指数(报告期:2025年10月)",
+        "City": "德国"
+      },
+      "created_at": "2025-09-30T14:16:22.602585"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027203000_6795959105981043879",
+      "original_id": "2025-10-27 20:30:00_美国：耐用品订单月率(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "20:30:00",
+      "event_datetime": "2025-10-27 20:30:00",
+      "title": "美国：耐用品订单月率(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "raw_data": {
+        "Name": "美国：耐用品订单月率(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-30T14:16:22.602592"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027203000_-3083946122978020983",
+      "original_id": "2025-10-27 20:30:00_美国：耐用品：新增订单(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "20:30:00",
+      "event_datetime": "2025-10-27 20:30:00",
+      "title": "美国：耐用品：新增订单(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "raw_data": {
+        "Name": "美国：耐用品：新增订单(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-30T14:16:22.602599"
     }
   ]
 }
