@@ -1,9 +1,9 @@
 {
   "date": "2025-10-04",
-  "total_events": 22,
-  "new_events": 0,
+  "total_events": 23,
+  "new_events": 1,
   "platforms": {
-    "investing": 22
+    "investing": 23
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532436",
         "event_attr_id": "",
@@ -35,7 +35,7 @@
         "event_name": "美国当周贝克休斯石油钻井总数(口)",
         "previous": "424"
       },
-      "created_at": "2025-10-02T14:14:58.009467"
+      "created_at": "2025-10-03T14:14:29.193372"
     },
     {
       "platform": "investing",
@@ -55,7 +55,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532437",
         "event_attr_id": "",
@@ -66,7 +66,37 @@
         "event_name": "美国当周贝克休斯总钻井总数(口)",
         "previous": "549"
       },
-      "created_at": "2025-10-02T14:14:58.009598"
+      "created_at": "2025-10-03T14:14:29.193538"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251004013000",
+      "original_id": "eventRowId_533170",
+      "event_date": "2025-10-04",
+      "event_time": "01:30",
+      "event_datetime": "2025/10/04 01:30:00",
+      "title": "美联储Logan讲话",
+      "content": null,
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-03",
+      "raw_data": {
+        "event_id": "eventRowId_533170",
+        "event_attr_id": "",
+        "datetime": "2025/10/04 01:30:00",
+        "time": "01:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美联储Logan讲话"
+      },
+      "created_at": "2025-10-03T14:14:29.193668"
     },
     {
       "platform": "investing",
@@ -86,7 +116,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532770",
         "event_attr_id": "",
@@ -96,7 +126,7 @@
         "importance": 1,
         "event_name": "美联储理事杰斐逊(Philip Jefferson)讲话"
       },
-      "created_at": "2025-10-02T14:14:58.009720"
+      "created_at": "2025-10-03T14:14:29.193788"
     },
     {
       "platform": "investing",
@@ -116,7 +146,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532810",
         "event_attr_id": "",
@@ -127,7 +157,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-英镑",
         "previous": "-2.0K"
       },
-      "created_at": "2025-10-02T14:14:58.009846"
+      "created_at": "2025-10-03T14:14:29.193906"
     },
     {
       "platform": "investing",
@@ -147,7 +177,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532814",
         "event_attr_id": "",
@@ -158,7 +188,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-铝",
         "previous": "0.7K"
       },
-      "created_at": "2025-10-02T14:14:58.009994"
+      "created_at": "2025-10-03T14:14:29.194034"
     },
     {
       "platform": "investing",
@@ -178,7 +208,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532815",
         "event_attr_id": "",
@@ -189,7 +219,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-铜",
         "previous": "30.2K"
       },
-      "created_at": "2025-10-02T14:14:58.010117"
+      "created_at": "2025-10-03T14:14:29.194154"
     },
     {
       "platform": "investing",
@@ -209,7 +239,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532821",
         "event_attr_id": "",
@@ -220,7 +250,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-玉米",
         "previous": "-51.2K"
       },
-      "created_at": "2025-10-02T14:14:58.010239"
+      "created_at": "2025-10-03T14:14:29.194271"
     },
     {
       "platform": "investing",
@@ -240,7 +270,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532818",
         "event_attr_id": "",
@@ -251,7 +281,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-原油",
         "previous": "103.0K"
       },
-      "created_at": "2025-10-02T14:14:58.010355"
+      "created_at": "2025-10-03T14:14:29.194412"
     },
     {
       "platform": "investing",
@@ -271,7 +301,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532816",
         "event_attr_id": "",
@@ -282,7 +312,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-黄金",
         "previous": "266.7K"
       },
-      "created_at": "2025-10-02T14:14:58.010468"
+      "created_at": "2025-10-03T14:14:29.194538"
     },
     {
       "platform": "investing",
@@ -302,7 +332,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532808",
         "event_attr_id": "",
@@ -313,7 +343,7 @@
         "event_name": "商品期货交易委员会投机净仓位-纳斯达克100",
         "previous": "23.4K"
       },
-      "created_at": "2025-10-02T14:14:58.010580"
+      "created_at": "2025-10-03T14:14:29.194665"
     },
     {
       "platform": "investing",
@@ -333,7 +363,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532819",
         "event_attr_id": "",
@@ -344,7 +374,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-天然气",
         "previous": "-128.1K"
       },
-      "created_at": "2025-10-02T14:14:58.010698"
+      "created_at": "2025-10-03T14:14:29.194782"
     },
     {
       "platform": "investing",
@@ -364,7 +394,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532806",
         "event_attr_id": "",
@@ -375,7 +405,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-标普500",
         "previous": "-172.5K"
       },
-      "created_at": "2025-10-02T14:14:58.010810"
+      "created_at": "2025-10-03T14:14:29.194898"
     },
     {
       "platform": "investing",
@@ -395,7 +425,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532817",
         "event_attr_id": "",
@@ -406,7 +436,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-白银",
         "previous": "52.3K"
       },
-      "created_at": "2025-10-02T14:14:58.010943"
+      "created_at": "2025-10-03T14:14:29.195015"
     },
     {
       "platform": "investing",
@@ -426,7 +456,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532822",
         "event_attr_id": "",
@@ -437,7 +467,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-大豆",
         "previous": "5.7K"
       },
-      "created_at": "2025-10-02T14:14:58.011069"
+      "created_at": "2025-10-03T14:14:29.195130"
     },
     {
       "platform": "investing",
@@ -457,7 +487,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532820",
         "event_attr_id": "",
@@ -468,7 +498,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-小麦",
         "previous": "-81.7K"
       },
-      "created_at": "2025-10-02T14:14:58.011183"
+      "created_at": "2025-10-03T14:14:29.195252"
     },
     {
       "platform": "investing",
@@ -488,7 +518,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532812",
         "event_attr_id": "",
@@ -499,7 +529,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-加元",
         "previous": "-114.8K"
       },
-      "created_at": "2025-10-02T14:14:58.011302"
+      "created_at": "2025-10-03T14:14:29.196975"
     },
     {
       "platform": "investing",
@@ -519,7 +549,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532804",
         "event_attr_id": "",
@@ -530,7 +560,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-瑞郎",
         "previous": "-23.0K"
       },
-      "created_at": "2025-10-02T14:14:58.011426"
+      "created_at": "2025-10-03T14:14:29.197113"
     },
     {
       "platform": "investing",
@@ -550,7 +580,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532803",
         "event_attr_id": "",
@@ -561,7 +591,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-澳元",
         "previous": "-59.6K"
       },
-      "created_at": "2025-10-02T14:14:58.011547"
+      "created_at": "2025-10-03T14:14:29.197237"
     },
     {
       "platform": "investing",
@@ -581,7 +611,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532809",
         "event_attr_id": "",
@@ -592,7 +622,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-巴西雷亚尔",
         "previous": "65.5K"
       },
-      "created_at": "2025-10-02T14:14:58.011663"
+      "created_at": "2025-10-03T14:14:29.197357"
     },
     {
       "platform": "investing",
@@ -612,7 +642,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532802",
         "event_attr_id": "",
@@ -623,7 +653,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-日元",
         "previous": "79.5K"
       },
-      "created_at": "2025-10-02T14:14:58.011776"
+      "created_at": "2025-10-03T14:14:29.197520"
     },
     {
       "platform": "investing",
@@ -643,7 +673,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532811",
         "event_attr_id": "",
@@ -654,7 +684,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-纽元",
         "previous": "-21.1K"
       },
-      "created_at": "2025-10-02T14:14:58.011891"
+      "created_at": "2025-10-03T14:14:29.197642"
     },
     {
       "platform": "investing",
@@ -674,7 +704,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-02",
+      "discovery_date": "2025-10-03",
       "raw_data": {
         "event_id": "eventRowId_532813",
         "event_attr_id": "",
@@ -685,7 +715,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-欧元",
         "previous": "114.3K"
       },
-      "created_at": "2025-10-02T14:14:58.012025"
+      "created_at": "2025-10-03T14:14:29.197769"
     }
   ]
 }
