@@ -1,9 +1,10 @@
 {
   "date": "2025-12-18",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 11,
+  "new_events": 10,
   "platforms": {
-    "investing": 1
+    "investing": 1,
+    "eastmoney": 10
   },
   "events": [
     {
@@ -24,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-07",
+      "discovery_date": "2025-10-08",
       "raw_data": {
         "event_id": "eventRowId_532300",
         "event_attr_id": "",
@@ -34,7 +35,257 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-10-07T14:16:35.203424"
+      "created_at": "2025-10-08T14:16:33.837545"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251218000000_-8155377439892791971",
+      "original_id": "2025-12-18 00:00:00_阿根廷：进口金额(报告期:2025年11月)",
+      "event_date": "2025-12-18",
+      "event_time": null,
+      "event_datetime": "2025-12-18 00:00:00",
+      "title": "阿根廷：进口金额(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "阿根廷",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-08",
+      "raw_data": {
+        "Name": "阿根廷：进口金额(报告期:2025年11月)",
+        "City": "阿根廷"
+      },
+      "created_at": "2025-10-08T14:16:38.222040"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251218000000_2671970172249299281",
+      "original_id": "2025-12-18 00:00:00_中国：库存:电解铝:保税区(报告期:2025年12月)",
+      "event_date": "2025-12-18",
+      "event_time": null,
+      "event_datetime": "2025-12-18 00:00:00",
+      "title": "中国：库存:电解铝:保税区(报告期:2025年12月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-08",
+      "raw_data": {
+        "Name": "中国：库存:电解铝:保税区(报告期:2025年12月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-08T14:16:38.222048"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251218093000_-8616582748160044470",
+      "original_id": "2025-12-18 09:30:00_澳大利亚：失业率(报告期:2025年11月)",
+      "event_date": "2025-12-18",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-12-18 09:30:00",
+      "title": "澳大利亚：失业率(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-08",
+      "raw_data": {
+        "Name": "澳大利亚：失业率(报告期:2025年11月)",
+        "City": "澳大利亚"
+      },
+      "created_at": "2025-10-08T14:16:38.222056"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251218093000_3273054892109575635",
+      "original_id": "2025-12-18 09:30:00_澳大利亚：就业人数：季调(报告期:2025年11月)",
+      "event_date": "2025-12-18",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-12-18 09:30:00",
+      "title": "澳大利亚：就业人数：季调(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-08",
+      "raw_data": {
+        "Name": "澳大利亚：就业人数：季调(报告期:2025年11月)",
+        "City": "澳大利亚"
+      },
+      "created_at": "2025-10-08T14:16:38.222063"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251218093000_-6029820896326480748",
+      "original_id": "2025-12-18 09:30:00_澳大利亚：失业率：季调(报告期:2025年11月)",
+      "event_date": "2025-12-18",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-12-18 09:30:00",
+      "title": "澳大利亚：失业率：季调(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-08",
+      "raw_data": {
+        "Name": "澳大利亚：失业率：季调(报告期:2025年11月)",
+        "City": "澳大利亚"
+      },
+      "created_at": "2025-10-08T14:16:38.222070"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251218093000_-1155579298188672973",
+      "original_id": "2025-12-18 09:30:00_澳大利亚：劳动参与率：季调(报告期:2025年11月)",
+      "event_date": "2025-12-18",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-12-18 09:30:00",
+      "title": "澳大利亚：劳动参与率：季调(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-08",
+      "raw_data": {
+        "Name": "澳大利亚：劳动参与率：季调(报告期:2025年11月)",
+        "City": "澳大利亚"
+      },
+      "created_at": "2025-10-08T14:16:38.222077"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251218200000_-2572545208337681650",
+      "original_id": "2025-12-18 20:00:00_英国：央行公布利率决议(报告期:2025年12月)",
+      "event_date": "2025-12-18",
+      "event_time": "20:00:00",
+      "event_datetime": "2025-12-18 20:00:00",
+      "title": "英国：央行公布利率决议(报告期:2025年12月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-08",
+      "raw_data": {
+        "Name": "英国：央行公布利率决议(报告期:2025年12月)",
+        "City": "英国"
+      },
+      "created_at": "2025-10-08T14:16:38.222086"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251218211500_8231273873569993331",
+      "original_id": "2025-12-18 21:15:00_欧盟：央行公布利率决议(报告期:2025年12月)",
+      "event_date": "2025-12-18",
+      "event_time": "21:15:00",
+      "event_datetime": "2025-12-18 21:15:00",
+      "title": "欧盟：央行公布利率决议(报告期:2025年12月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "欧盟",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-08",
+      "raw_data": {
+        "Name": "欧盟：央行公布利率决议(报告期:2025年12月)",
+        "City": "欧盟"
+      },
+      "created_at": "2025-10-08T14:16:38.222094"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251218213000_-467011479268388465",
+      "original_id": "2025-12-18 21:30:00_美国：经常项目收入(报告期:2025年09月)",
+      "event_date": "2025-12-18",
+      "event_time": "21:30:00",
+      "event_datetime": "2025-12-18 21:30:00",
+      "title": "美国：经常项目收入(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-08",
+      "raw_data": {
+        "Name": "美国：经常项目收入(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-08T14:16:38.222103"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251218220000_-5309599040798439843",
+      "original_id": "2025-12-18 22:00:00_美国：月度国际资本流动：净额(报告期:2025年10月)",
+      "event_date": "2025-12-18",
+      "event_time": "22:00:00",
+      "event_datetime": "2025-12-18 22:00:00",
+      "title": "美国：月度国际资本流动：净额(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-08",
+      "raw_data": {
+        "Name": "美国：月度国际资本流动：净额(报告期:2025年10月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-08T14:16:38.222113"
     }
   ]
 }
