@@ -1,12 +1,103 @@
 {
   "date": "2025-11-06",
-  "total_events": 4,
-  "new_events": 3,
+  "total_events": 6,
+  "new_events": 2,
   "platforms": {
+    "jiuyangongshe": 2,
     "investing": 1,
     "eastmoney": 3
   },
   "events": [
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_574c5b4698e446bc81c754754085305b_5c326471850746f9a79a2f9a54846fb8_20251106",
+      "original_id": "574c5b4698e446bc81c754754085305b",
+      "event_date": "2025-11-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "亚洲通用航空展",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "article_id": "574c5b4698e446bc81c754754085305b",
+        "user_id": "1",
+        "title": "亚洲通用航空展",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "574c5b4698e446bc81c754754085305b",
+          "timeline_id": "5c326471850746f9a79a2f9a54846fb8",
+          "date": "2025-11-06",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-10-09 21:46:27",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-10-09T14:15:43.380225"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_6c3e64472244459eb144ec048b169c88_fa62195203c849418fc15e2c1d294642_20251106",
+      "original_id": "6c3e64472244459eb144ec048b169c88",
+      "event_date": "2025-11-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "CINECINE2025钠电及固态电池国际峰会暨展览会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "article_id": "6c3e64472244459eb144ec048b169c88",
+        "user_id": "1",
+        "title": "CINECINE2025钠电及固态电池国际峰会暨展览会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "6c3e64472244459eb144ec048b169c88",
+          "timeline_id": "fa62195203c849418fc15e2c1d294642",
+          "date": "2025-11-06",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-10-09 21:46:44",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-10-09T14:15:43.380234"
+    },
     {
       "platform": "investing",
       "event_id": "inv__20251106190000",
@@ -25,7 +116,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532313",
         "event_attr_id": "",
@@ -36,11 +127,11 @@
         "event_name": "英国央行利率决议",
         "previous": "4.00%"
       },
-      "created_at": "2025-10-08T14:16:25.669676"
+      "created_at": "2025-10-09T14:15:54.329351"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251106000000_-6256847247134342501",
+      "event_id": "em_jjsj_20251106000000_7939789789267512370",
       "original_id": "2025-11-06 00:00:00_中国：库存:电解铝:保税区(报告期:2025年11月)",
       "event_date": "2025-11-06",
       "event_time": null,
@@ -55,17 +146,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "中国：库存:电解铝:保税区(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-10-08T14:16:38.219845"
+      "created_at": "2025-10-09T14:16:04.283273"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251106180000_-8169464043562047574",
+      "event_id": "em_jjsj_20251106180000_6387490164715666499",
       "original_id": "2025-11-06 18:00:00_欧盟:PPI:当月同比(报告期:2025年09月)",
       "event_date": "2025-11-06",
       "event_time": "18:00:00",
@@ -80,17 +171,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "欧盟:PPI:当月同比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-08T14:16:38.219852"
+      "created_at": "2025-10-09T14:16:04.283281"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251106200000_3002598137037100876",
+      "event_id": "em_jjsj_20251106200000_-8924489928380259237",
       "original_id": "2025-11-06 20:00:00_英国：央行公布利率决议(报告期:2025年11月)",
       "event_date": "2025-11-06",
       "event_time": "20:00:00",
@@ -105,13 +196,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "英国：央行公布利率决议(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-10-08T14:16:38.219860"
+      "created_at": "2025-10-09T14:16:04.283289"
     }
   ]
 }

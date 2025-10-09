@@ -1,12 +1,12 @@
 {
   "date": "2025-10-16",
-  "total_events": 79,
-  "new_events": 21,
+  "total_events": 86,
+  "new_events": 8,
   "platforms": {
-    "cls": 2,
+    "cls": 5,
     "jiuyangongshe": 1,
     "tonghuashun": 2,
-    "investing": 59,
+    "investing": 63,
     "eastmoney": 15
   },
   "events": [
@@ -28,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "id": 323300,
         "calendar_time": "2025-10-16 00:00:00",
@@ -44,7 +44,7 @@
         "holiday": null,
         "title": "2025世界智能网联汽车大会将于10月16日至18日在京举办"
       },
-      "created_at": "2025-10-08T14:16:07.539846"
+      "created_at": "2025-10-09T14:15:40.165079"
     },
     {
       "platform": "cls",
@@ -64,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "id": 323785,
         "calendar_time": "2025-10-16 00:00:00",
@@ -80,7 +80,133 @@
         "holiday": null,
         "title": "台积电2025年第三季法人说明会将于10月16日美东时间02:00举行"
       },
-      "created_at": "2025-10-08T14:16:07.539860"
+      "created_at": "2025-10-09T14:15:40.165088"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_325008_20251016_2",
+      "original_id": "325008",
+      "event_date": "2025-10-16",
+      "event_time": "02:00:00",
+      "event_datetime": "2025-10-16 02:00:00",
+      "title": "美联储公布经济状况褐皮书",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "id": 325008,
+        "calendar_time": "2025-10-16 02:00:00",
+        "data_id": 19529,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "美联储公布经济状况褐皮书",
+          "country": "美国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "美联储公布经济状况褐皮书"
+      },
+      "created_at": "2025-10-09T14:15:40.165099"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_324703_20251016_1",
+      "original_id": "324703",
+      "event_date": "2025-10-16",
+      "event_time": "20:30:00",
+      "event_datetime": "2025-10-16 20:30:00",
+      "title": "美国至10月11日当周初请失业金人数(万人)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "id": 324703,
+        "calendar_time": "2025-10-16 20:30:00",
+        "data_id": 54824,
+        "type": 1,
+        "economic": {
+          "title": "美国至10月11日当周初请失业金人数(万人)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 79,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万人",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国至10月11日当周初请失业金人数(万人)"
+      },
+      "created_at": "2025-10-09T14:15:40.165109"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_324712_20251016_1",
+      "original_id": "324712",
+      "event_date": "2025-10-16",
+      "event_time": "20:30:00",
+      "event_datetime": "2025-10-16 20:30:00",
+      "title": "美国9月零售销售月率",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "id": 324712,
+        "calendar_time": "2025-10-16 20:30:00",
+        "data_id": 54833,
+        "type": 1,
+        "economic": {
+          "title": "美国9月零售销售月率",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 194,
+          "front": "0.6%",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国9月零售销售月率"
+      },
+      "created_at": "2025-10-09T14:15:40.165119"
     },
     {
       "platform": "jiuyangongshe",
@@ -100,7 +226,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "article_id": "4e2wfmzg1nt",
         "user_id": "c8cdb5523f5b48c6b1012644d365d7d5",
@@ -125,7 +251,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-08T14:16:09.163993"
+      "created_at": "2025-10-09T14:15:41.814623"
     },
     {
       "platform": "tonghuashun",
@@ -150,7 +276,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event": [
           "2025世界智能网联汽车大会将于10月16日至18日在京举办",
@@ -166,7 +292,7 @@
           }
         ]
       },
-      "created_at": "2025-10-08T14:16:15.059441"
+      "created_at": "2025-10-09T14:15:46.513379"
     },
     {
       "platform": "tonghuashun",
@@ -191,7 +317,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event": [
           "2025世界智能网联汽车大会将于10月16日至18日在京举办",
@@ -207,7 +333,7 @@
           }
         ]
       },
-      "created_at": "2025-10-08T14:16:15.059451"
+      "created_at": "2025-10-09T14:15:46.513478"
     },
     {
       "platform": "investing",
@@ -226,8 +352,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_533403",
         "event_attr_id": "",
@@ -237,7 +363,7 @@
         "importance": 2,
         "event_name": "美联储经济景气报告褐皮书"
       },
-      "created_at": "2025-10-08T14:16:21.020980"
+      "created_at": "2025-10-09T14:15:51.084526"
     },
     {
       "platform": "investing",
@@ -256,8 +382,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_533404",
         "event_attr_id": "",
@@ -268,7 +394,7 @@
         "event_name": "美国当周API原油库存变动(桶)",
         "previous": "2.780M"
       },
-      "created_at": "2025-10-08T14:16:21.021120"
+      "created_at": "2025-10-09T14:15:51.084681"
     },
     {
       "platform": "investing",
@@ -288,7 +414,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532651",
         "event_attr_id": "",
@@ -299,38 +425,7 @@
         "event_name": "新西兰食品价格指数月率(%) (月度环比)  (九月)",
         "previous": "0.3%"
       },
-      "created_at": "2025-10-08T14:16:21.021247"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251016075000",
-      "original_id": "eventRowId_532653",
-      "event_date": "2025-10-16",
-      "event_time": "07:50",
-      "event_datetime": "2025/10/16 07:50:00",
-      "title": "日本核心机械订单月率(%) (月度环比)  (八月)",
-      "content": "前值: -4.6%",
-      "category": null,
-      "importance": 1,
-      "country": "日本",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-08",
-      "raw_data": {
-        "event_id": "eventRowId_532653",
-        "event_attr_id": "",
-        "datetime": "2025/10/16 07:50:00",
-        "time": "07:50",
-        "country": "日本",
-        "importance": 1,
-        "event_name": "日本核心机械订单月率(%) (月度环比)  (八月)",
-        "previous": "-4.6%"
-      },
-      "created_at": "2025-10-08T14:16:21.021370"
+      "created_at": "2025-10-09T14:15:51.084875"
     },
     {
       "platform": "investing",
@@ -350,7 +445,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532652",
         "event_attr_id": "",
@@ -361,7 +456,38 @@
         "event_name": "日本核心机械订单年率(%) (同比)  (八月)",
         "previous": "4.9%"
       },
-      "created_at": "2025-10-08T14:16:21.021486"
+      "created_at": "2025-10-09T14:15:51.085001"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251016075000",
+      "original_id": "eventRowId_532653",
+      "event_date": "2025-10-16",
+      "event_time": "07:50",
+      "event_datetime": "2025/10/16 07:50:00",
+      "title": "日本核心机械订单月率(%) (月度环比)  (八月)",
+      "content": "前值: -4.6%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "event_id": "eventRowId_532653",
+        "event_attr_id": "",
+        "datetime": "2025/10/16 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本核心机械订单月率(%) (月度环比)  (八月)",
+        "previous": "-4.6%"
+      },
+      "created_at": "2025-10-09T14:15:51.085122"
     },
     {
       "platform": "investing",
@@ -381,7 +507,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532657",
         "event_attr_id": "",
@@ -392,7 +518,7 @@
         "event_name": "澳大利亚就业人口(人)  (九月)",
         "previous": "-5.4K"
       },
-      "created_at": "2025-10-08T14:16:21.021603"
+      "created_at": "2025-10-09T14:15:51.085243"
     },
     {
       "platform": "investing",
@@ -412,7 +538,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532655",
         "event_attr_id": "",
@@ -423,7 +549,7 @@
         "event_name": "澳大利亚全职就业人口变动  (九月)",
         "previous": "-40.9K"
       },
-      "created_at": "2025-10-08T14:16:21.021719"
+      "created_at": "2025-10-09T14:15:51.085361"
     },
     {
       "platform": "investing",
@@ -443,7 +569,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532658",
         "event_attr_id": "",
@@ -454,7 +580,7 @@
         "event_name": "澳大利亚季调后就业参与率(%)  (九月)",
         "previous": "66.8%"
       },
-      "created_at": "2025-10-08T14:16:21.021858"
+      "created_at": "2025-10-09T14:15:51.085499"
     },
     {
       "platform": "investing",
@@ -464,7 +590,7 @@
       "event_time": "08:30",
       "event_datetime": "2025/10/16 08:30:00",
       "title": "欧元区储备资产总值  (九月)",
-      "content": "前值: 105,942.0B",
+      "content": "前值: 105.9B",
       "category": null,
       "importance": 1,
       "country": "澳大利亚",
@@ -474,7 +600,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532654",
         "event_attr_id": "",
@@ -483,9 +609,9 @@
         "country": "澳大利亚",
         "importance": 1,
         "event_name": "欧元区储备资产总值  (九月)",
-        "previous": "105,942.0B"
+        "previous": "105.9B"
       },
-      "created_at": "2025-10-08T14:16:21.021980"
+      "created_at": "2025-10-09T14:15:51.085624"
     },
     {
       "platform": "investing",
@@ -505,7 +631,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532656",
         "event_attr_id": "",
@@ -516,7 +642,37 @@
         "event_name": "澳大利亚失业率  (九月)",
         "previous": "4.2%"
       },
-      "created_at": "2025-10-08T14:16:21.022097"
+      "created_at": "2025-10-09T14:15:51.085757"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251016093000",
+      "original_id": "eventRowId_533494",
+      "event_date": "2025-10-16",
+      "event_time": "09:30",
+      "event_datetime": "2025/10/16 09:30:00",
+      "title": "日本央行审议委员田村直树讲话",
+      "content": null,
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "event_id": "eventRowId_533494",
+        "event_attr_id": "",
+        "datetime": "2025/10/16 09:30:00",
+        "time": "09:30",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本央行审议委员田村直树讲话"
+      },
+      "created_at": "2025-10-09T14:15:51.085880"
     },
     {
       "platform": "investing",
@@ -536,7 +692,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532659",
         "event_attr_id": "",
@@ -547,7 +703,7 @@
         "event_name": "新西兰政府债券海外投资者所持比例(%)  (九月)",
         "previous": "59.60%"
       },
-      "created_at": "2025-10-08T14:16:21.022211"
+      "created_at": "2025-10-09T14:15:51.085996"
     },
     {
       "platform": "investing",
@@ -567,7 +723,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532660",
         "event_attr_id": "",
@@ -578,7 +734,7 @@
         "event_name": "第三产业活动指数  (八月)",
         "previous": "1.40"
       },
-      "created_at": "2025-10-08T14:16:21.022330"
+      "created_at": "2025-10-09T14:15:51.086124"
     },
     {
       "platform": "investing",
@@ -598,7 +754,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532662",
         "event_attr_id": "",
@@ -609,7 +765,7 @@
         "event_name": "英国建筑业产出年率(%) (同比)  (八月)",
         "previous": "2.4%"
       },
-      "created_at": "2025-10-08T14:16:21.022449"
+      "created_at": "2025-10-09T14:15:51.086243"
     },
     {
       "platform": "investing",
@@ -629,7 +785,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532663",
         "event_attr_id": "",
@@ -640,7 +796,7 @@
         "event_name": "英国季调后建筑业产出月率(%) (月度环比)  (八月)",
         "previous": "0.2%"
       },
-      "created_at": "2025-10-08T14:16:21.022563"
+      "created_at": "2025-10-09T14:15:51.086365"
     },
     {
       "platform": "investing",
@@ -660,7 +816,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532665",
         "event_attr_id": "",
@@ -671,7 +827,7 @@
         "event_name": "英国GDP月率(%) (月度环比)  (八月)",
         "previous": "0.0%"
       },
-      "created_at": "2025-10-08T14:16:21.022674"
+      "created_at": "2025-10-09T14:15:51.086479"
     },
     {
       "platform": "investing",
@@ -691,7 +847,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532667",
         "event_attr_id": "",
@@ -702,7 +858,7 @@
         "event_name": "日本GDP季率(%) (同比)  (八月)",
         "previous": "1.4%"
       },
-      "created_at": "2025-10-08T14:16:21.022817"
+      "created_at": "2025-10-09T14:15:51.086592"
     },
     {
       "platform": "investing",
@@ -722,7 +878,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532673",
         "event_attr_id": "",
@@ -733,7 +889,7 @@
         "event_name": "英国工业产出月率(%) (月度环比)  (八月)",
         "previous": "-0.9%"
       },
-      "created_at": "2025-10-08T14:16:21.022943"
+      "created_at": "2025-10-09T14:15:51.086711"
     },
     {
       "platform": "investing",
@@ -753,7 +909,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532668",
         "event_attr_id": "",
@@ -764,38 +920,7 @@
         "event_name": "英国工业产出年率(%) (同比)  (八月)",
         "previous": "0.1%"
       },
-      "created_at": "2025-10-08T14:16:21.023055"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251016140000",
-      "original_id": "eventRowId_532664",
-      "event_date": "2025-10-16",
-      "event_time": "14:00",
-      "event_datetime": "2025/10/16 14:00:00",
-      "title": "英国制造业产出月率(%) (月度环比)  (八月)",
-      "content": "前值: -1.3%",
-      "category": null,
-      "importance": 2,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-08",
-      "raw_data": {
-        "event_id": "eventRowId_532664",
-        "event_attr_id": "",
-        "datetime": "2025/10/16 14:00:00",
-        "time": "14:00",
-        "country": "英国",
-        "importance": 2,
-        "event_name": "英国制造业产出月率(%) (月度环比)  (八月)",
-        "previous": "-1.3%"
-      },
-      "created_at": "2025-10-08T14:16:21.023166"
+      "created_at": "2025-10-09T14:15:51.086847"
     },
     {
       "platform": "investing",
@@ -815,7 +940,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532669",
         "event_attr_id": "",
@@ -826,7 +951,38 @@
         "event_name": "英国制造业产出年率(%) (同比)  (八月)",
         "previous": "0.2%"
       },
-      "created_at": "2025-10-08T14:16:21.023283"
+      "created_at": "2025-10-09T14:15:51.086961"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251016140000",
+      "original_id": "eventRowId_532664",
+      "event_date": "2025-10-16",
+      "event_time": "14:00",
+      "event_datetime": "2025/10/16 14:00:00",
+      "title": "英国制造业产出月率(%) (月度环比)  (八月)",
+      "content": "前值: -1.3%",
+      "category": null,
+      "importance": 2,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "event_id": "eventRowId_532664",
+        "event_attr_id": "",
+        "datetime": "2025/10/16 14:00:00",
+        "time": "14:00",
+        "country": "英国",
+        "importance": 2,
+        "event_name": "英国制造业产出月率(%) (月度环比)  (八月)",
+        "previous": "-1.3%"
+      },
+      "created_at": "2025-10-09T14:15:51.087074"
     },
     {
       "platform": "investing",
@@ -846,7 +1002,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532666",
         "event_attr_id": "",
@@ -857,7 +1013,7 @@
         "event_name": "英国3个月滚动GDP月率(%)  (八月)",
         "previous": "0.2%"
       },
-      "created_at": "2025-10-08T14:16:21.023393"
+      "created_at": "2025-10-09T14:15:51.087193"
     },
     {
       "platform": "investing",
@@ -877,7 +1033,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532671",
         "event_attr_id": "",
@@ -888,7 +1044,7 @@
         "event_name": "英国贸易帐(英镑)  (八月)",
         "previous": "-22.24B"
       },
-      "created_at": "2025-10-08T14:16:21.023504"
+      "created_at": "2025-10-09T14:15:51.087310"
     },
     {
       "platform": "investing",
@@ -908,7 +1064,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532670",
         "event_attr_id": "",
@@ -919,7 +1075,67 @@
         "event_name": "英国季调后对非欧盟贸易帐(英镑)  (八月)",
         "previous": "-10.16B"
       },
-      "created_at": "2025-10-08T14:16:21.023622"
+      "created_at": "2025-10-09T14:15:51.087438"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251016150000",
+      "original_id": "eventRowId_533414",
+      "event_date": "2025-10-16",
+      "event_time": "15:00",
+      "event_datetime": "2025/10/16 15:00:00",
+      "title": "瑞士联邦经济总局经济预测",
+      "content": null,
+      "category": null,
+      "importance": 1,
+      "country": "瑞士",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "event_id": "eventRowId_533414",
+        "event_attr_id": "",
+        "datetime": "2025/10/16 15:00:00",
+        "time": "15:00",
+        "country": "瑞士",
+        "importance": 1,
+        "event_name": "瑞士联邦经济总局经济预测"
+      },
+      "created_at": "2025-10-09T14:15:51.087556"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251016150000",
+      "original_id": "eventRowId_533495",
+      "event_date": "2025-10-16",
+      "event_time": "15:00",
+      "event_datetime": "2025/10/16 15:00:00",
+      "title": "瑞士联邦经济总局经济预测",
+      "content": null,
+      "category": null,
+      "importance": 1,
+      "country": "瑞士",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "event_id": "eventRowId_533495",
+        "event_attr_id": "",
+        "datetime": "2025/10/16 15:00:00",
+        "time": "15:00",
+        "country": "瑞士",
+        "importance": 1,
+        "event_name": "瑞士联邦经济总局经济预测"
+      },
+      "created_at": "2025-10-09T14:15:51.087670"
     },
     {
       "platform": "investing",
@@ -929,7 +1145,7 @@
       "event_time": "16:00",
       "event_datetime": "2025/10/16 16:00:00",
       "title": "意大利CPI月率(%) (月度环比)  (九月)",
-      "content": "前值: -0.2%",
+      "content": "预测值: -0.2% | 前值: 0.1%",
       "category": null,
       "importance": 1,
       "country": "意大利",
@@ -939,7 +1155,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532707",
         "event_attr_id": "",
@@ -948,9 +1164,10 @@
         "country": "意大利",
         "importance": 1,
         "event_name": "意大利CPI月率(%) (月度环比)  (九月)",
-        "previous": "-0.2%"
+        "forecast": "-0.2%",
+        "previous": "0.1%"
       },
-      "created_at": "2025-10-08T14:16:21.023734"
+      "created_at": "2025-10-09T14:15:51.087807"
     },
     {
       "platform": "investing",
@@ -960,7 +1177,7 @@
       "event_time": "16:00",
       "event_datetime": "2025/10/16 16:00:00",
       "title": "意大利CPI年率(%) (同比)  (九月)",
-      "content": "前值: 1.6%",
+      "content": "预测值: 1.6% | 前值: 1.6%",
       "category": null,
       "importance": 1,
       "country": "意大利",
@@ -970,7 +1187,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532704",
         "event_attr_id": "",
@@ -979,9 +1196,10 @@
         "country": "意大利",
         "importance": 1,
         "event_name": "意大利CPI年率(%) (同比)  (九月)",
+        "forecast": "1.6%",
         "previous": "1.6%"
       },
-      "created_at": "2025-10-08T14:16:21.023863"
+      "created_at": "2025-10-09T14:15:51.087923"
     },
     {
       "platform": "investing",
@@ -1001,7 +1219,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532705",
         "event_attr_id": "",
@@ -1012,7 +1230,7 @@
         "event_name": "意大利不包括烟草CPI月率 (同比)  (九月)",
         "previous": "1.4%"
       },
-      "created_at": "2025-10-08T14:16:21.023975"
+      "created_at": "2025-10-09T14:15:51.088041"
     },
     {
       "platform": "investing",
@@ -1022,7 +1240,7 @@
       "event_time": "16:00",
       "event_datetime": "2025/10/16 16:00:00",
       "title": "意大利调和CPI年率(%) (同比)  (九月)",
-      "content": "前值: 1.8%",
+      "content": "预测值: 1.8% | 前值: 1.6%",
       "category": null,
       "importance": 1,
       "country": "意大利",
@@ -1032,7 +1250,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532703",
         "event_attr_id": "",
@@ -1041,9 +1259,10 @@
         "country": "意大利",
         "importance": 1,
         "event_name": "意大利调和CPI年率(%) (同比)  (九月)",
-        "previous": "1.8%"
+        "forecast": "1.8%",
+        "previous": "1.6%"
       },
-      "created_at": "2025-10-08T14:16:21.024085"
+      "created_at": "2025-10-09T14:15:51.088155"
     },
     {
       "platform": "investing",
@@ -1053,7 +1272,7 @@
       "event_time": "16:00",
       "event_datetime": "2025/10/16 16:00:00",
       "title": "意大利调和CPI月率(%) (月度环比)  (九月)",
-      "content": "前值: 1.3%",
+      "content": "预测值: 1.3% | 前值: -0.2%",
       "category": null,
       "importance": 1,
       "country": "意大利",
@@ -1063,7 +1282,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532706",
         "event_attr_id": "",
@@ -1072,9 +1291,40 @@
         "country": "意大利",
         "importance": 1,
         "event_name": "意大利调和CPI月率(%) (月度环比)  (九月)",
-        "previous": "1.3%"
+        "forecast": "1.3%",
+        "previous": "-0.2%"
       },
-      "created_at": "2025-10-08T14:16:21.024194"
+      "created_at": "2025-10-09T14:15:51.088275"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251016163000",
+      "original_id": "eventRowId_533496",
+      "event_date": "2025-10-16",
+      "event_time": "16:30",
+      "event_datetime": "2025/10/16 16:30:00",
+      "title": "英国央行信贷状况调查报告",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "event_id": "eventRowId_533496",
+        "event_attr_id": "",
+        "datetime": "2025/10/16 16:30:00",
+        "time": "16:30",
+        "country": "英国",
+        "importance": 2,
+        "event_name": "英国央行信贷状况调查报告"
+      },
+      "created_at": "2025-10-09T14:15:51.088388"
     },
     {
       "platform": "investing",
@@ -1094,7 +1344,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532710",
         "event_attr_id": "",
@@ -1105,7 +1355,7 @@
         "event_name": "意大利贸易帐(亿欧元)  (八月)",
         "previous": "7.908B"
       },
-      "created_at": "2025-10-08T14:16:21.024303"
+      "created_at": "2025-10-09T14:15:51.088500"
     },
     {
       "platform": "investing",
@@ -1125,7 +1375,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532708",
         "event_attr_id": "",
@@ -1136,37 +1386,7 @@
         "event_name": "意大利对欧盟贸易帐(欧元)  (八月)",
         "previous": "1.92B"
       },
-      "created_at": "2025-10-08T14:16:21.024417"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251016170000",
-      "original_id": "eventRowId_533414",
-      "event_date": "2025-10-16",
-      "event_time": "17:00",
-      "event_datetime": "2025/10/16 17:00:00",
-      "title": "瑞士联邦经济总局经济预测",
-      "content": null,
-      "category": null,
-      "importance": 1,
-      "country": "瑞士",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-08",
-      "raw_data": {
-        "event_id": "eventRowId_533414",
-        "event_attr_id": "",
-        "datetime": "2025/10/16 17:00:00",
-        "time": "17:00",
-        "country": "瑞士",
-        "importance": 1,
-        "event_name": "瑞士联邦经济总局经济预测"
-      },
-      "created_at": "2025-10-08T14:16:21.024530"
+      "created_at": "2025-10-09T14:15:51.088612"
     },
     {
       "platform": "investing",
@@ -1186,7 +1406,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532709",
         "event_attr_id": "",
@@ -1197,7 +1417,37 @@
         "event_name": "欧元区贸易帐(欧元)  (八月)",
         "previous": "12.4B"
       },
-      "created_at": "2025-10-08T14:16:21.024645"
+      "created_at": "2025-10-09T14:15:51.088721"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251016180000",
+      "original_id": "eventRowId_533493",
+      "event_date": "2025-10-16",
+      "event_time": "18:00",
+      "event_datetime": "2025/10/16 18:00:00",
+      "title": "国际货币基金组织年会",
+      "content": null,
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "event_id": "eventRowId_533493",
+        "event_attr_id": "",
+        "datetime": "2025/10/16 18:00:00",
+        "time": "18:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "国际货币基金组织年会"
+      },
+      "created_at": "2025-10-09T14:15:51.088851"
     },
     {
       "platform": "investing",
@@ -1216,8 +1466,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_533415",
         "event_attr_id": "",
@@ -1228,7 +1478,7 @@
         "event_name": "英国国家经济社会研究院(NIESR)月度GDP跟踪报告",
         "previous": "0.3%"
       },
-      "created_at": "2025-10-08T14:16:21.024756"
+      "created_at": "2025-10-09T14:15:51.088965"
     },
     {
       "platform": "investing",
@@ -1248,7 +1498,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532717",
         "event_attr_id": "",
@@ -1259,7 +1509,7 @@
         "event_name": "巴西中央银行经济活动指数(IBC-Br)(%)  (八月)",
         "previous": "-0.50%"
       },
-      "created_at": "2025-10-08T14:16:21.024887"
+      "created_at": "2025-10-09T14:15:51.089081"
     },
     {
       "platform": "investing",
@@ -1279,7 +1529,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532718",
         "event_attr_id": "",
@@ -1290,7 +1540,7 @@
         "event_name": "加拿大新屋开工年化总数(户)  (九月)",
         "previous": "245.8K"
       },
-      "created_at": "2025-10-08T14:16:21.024999"
+      "created_at": "2025-10-09T14:15:51.089193"
     },
     {
       "platform": "investing",
@@ -1310,7 +1560,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532725",
         "event_attr_id": "",
@@ -1321,7 +1571,7 @@
         "event_name": "美国核心PPI月率(%) (月度环比)  (九月)",
         "previous": "-0.1%"
       },
-      "created_at": "2025-10-08T14:16:21.025113"
+      "created_at": "2025-10-09T14:15:51.089308"
     },
     {
       "platform": "investing",
@@ -1341,7 +1591,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532722",
         "event_attr_id": "",
@@ -1352,7 +1602,7 @@
         "event_name": "美国核心PPI年率(%) (同比)  (九月)",
         "previous": "2.8%"
       },
-      "created_at": "2025-10-08T14:16:21.025231"
+      "created_at": "2025-10-09T14:15:51.089424"
     },
     {
       "platform": "investing",
@@ -1372,7 +1622,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532721",
         "event_attr_id": "",
@@ -1383,7 +1633,7 @@
         "event_name": "美国核心零售销售月率(%) (月度环比)  (九月)",
         "previous": "0.7%"
       },
-      "created_at": "2025-10-08T14:16:21.025346"
+      "created_at": "2025-10-09T14:15:51.089539"
     },
     {
       "platform": "investing",
@@ -1403,7 +1653,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532727",
         "event_attr_id": "",
@@ -1414,7 +1664,7 @@
         "event_name": "美国费城联储制造业指数  (十月)",
         "previous": "23.2"
       },
-      "created_at": "2025-10-08T14:16:21.025459"
+      "created_at": "2025-10-09T14:15:51.089655"
     },
     {
       "platform": "investing",
@@ -1434,7 +1684,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532726",
         "event_attr_id": "",
@@ -1445,7 +1695,7 @@
         "event_name": "美国费城联储商业情况指数  (十月)",
         "previous": "31.5"
       },
-      "created_at": "2025-10-08T14:16:21.025570"
+      "created_at": "2025-10-09T14:15:51.089781"
     },
     {
       "platform": "investing",
@@ -1465,7 +1715,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532731",
         "event_attr_id": "",
@@ -1476,7 +1726,7 @@
         "event_name": "美国费城联储资本支出前景指数  (十月)",
         "previous": "12.50"
       },
-      "created_at": "2025-10-08T14:16:21.025681"
+      "created_at": "2025-10-09T14:15:51.089897"
     },
     {
       "platform": "investing",
@@ -1496,7 +1746,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532730",
         "event_attr_id": "",
@@ -1507,7 +1757,7 @@
         "event_name": "美国费城联储制造业就业指数  (十月)",
         "previous": "5.6"
       },
-      "created_at": "2025-10-08T14:16:21.025808"
+      "created_at": "2025-10-09T14:15:51.090008"
     },
     {
       "platform": "investing",
@@ -1527,7 +1777,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532728",
         "event_attr_id": "",
@@ -1538,7 +1788,7 @@
         "event_name": "美国费城联储制造业新订单指数  (十月)",
         "previous": "12.4"
       },
-      "created_at": "2025-10-08T14:16:21.025923"
+      "created_at": "2025-10-09T14:15:51.090119"
     },
     {
       "platform": "investing",
@@ -1558,7 +1808,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532729",
         "event_attr_id": "",
@@ -1569,38 +1819,7 @@
         "event_name": "美国费城联储制造业物价支付指数  (十月)",
         "previous": "46.80"
       },
-      "created_at": "2025-10-08T14:16:21.026082"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251016203000",
-      "original_id": "eventRowId_532719",
-      "event_date": "2025-10-16",
-      "event_time": "20:30",
-      "event_datetime": "2025/10/16 20:30:00",
-      "title": "美国PPI月率(%) (月度环比)  (九月)",
-      "content": "前值: -0.1%",
-      "category": null,
-      "importance": 3,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-08",
-      "raw_data": {
-        "event_id": "eventRowId_532719",
-        "event_attr_id": "",
-        "datetime": "2025/10/16 20:30:00",
-        "time": "20:30",
-        "country": "美国",
-        "importance": 3,
-        "event_name": "美国PPI月率(%) (月度环比)  (九月)",
-        "previous": "-0.1%"
-      },
-      "created_at": "2025-10-08T14:16:21.026197"
+      "created_at": "2025-10-09T14:15:51.090228"
     },
     {
       "platform": "investing",
@@ -1620,7 +1839,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532724",
         "event_attr_id": "",
@@ -1631,19 +1850,19 @@
         "event_name": "美国PPI年率(%) (同比)  (九月)",
         "previous": "2.6%"
       },
-      "created_at": "2025-10-08T14:16:21.026307"
+      "created_at": "2025-10-09T14:15:51.090338"
     },
     {
       "platform": "investing",
       "event_id": "inv__20251016203000",
-      "original_id": "eventRowId_532732",
+      "original_id": "eventRowId_532719",
       "event_date": "2025-10-16",
       "event_time": "20:30",
       "event_datetime": "2025/10/16 20:30:00",
-      "title": "美国除食品/能源/运输外PPI年率 (同比)  (九月)",
-      "content": "前值: 2.8%",
+      "title": "美国PPI月率(%) (月度环比)  (九月)",
+      "content": "前值: -0.1%",
       "category": null,
-      "importance": 1,
+      "importance": 3,
       "country": "美国",
       "city": null,
       "stocks": [],
@@ -1651,18 +1870,18 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
-        "event_id": "eventRowId_532732",
+        "event_id": "eventRowId_532719",
         "event_attr_id": "",
         "datetime": "2025/10/16 20:30:00",
         "time": "20:30",
         "country": "美国",
-        "importance": 1,
-        "event_name": "美国除食品/能源/运输外PPI年率 (同比)  (九月)",
-        "previous": "2.8%"
+        "importance": 3,
+        "event_name": "美国PPI月率(%) (月度环比)  (九月)",
+        "previous": "-0.1%"
       },
-      "created_at": "2025-10-08T14:16:21.026417"
+      "created_at": "2025-10-09T14:15:51.090455"
     },
     {
       "platform": "investing",
@@ -1682,7 +1901,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532733",
         "event_attr_id": "",
@@ -1693,7 +1912,38 @@
         "event_name": "美国除食品/能源/运输外PPI月率 (月度环比)  (九月)",
         "previous": "0.3%"
       },
-      "created_at": "2025-10-08T14:16:21.026528"
+      "created_at": "2025-10-09T14:15:51.090567"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251016203000",
+      "original_id": "eventRowId_532732",
+      "event_date": "2025-10-16",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/16 20:30:00",
+      "title": "美国除食品/能源/运输外PPI年率 (同比)  (九月)",
+      "content": "前值: 2.8%",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "event_id": "eventRowId_532732",
+        "event_attr_id": "",
+        "datetime": "2025/10/16 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国除食品/能源/运输外PPI年率 (同比)  (九月)",
+        "previous": "2.8%"
+      },
+      "created_at": "2025-10-09T14:15:51.090678"
     },
     {
       "platform": "investing",
@@ -1713,7 +1963,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532734",
         "event_attr_id": "",
@@ -1724,38 +1974,7 @@
         "event_name": "美国零售业预期月率(%) (月度环比)  (九月)",
         "previous": "0.7%"
       },
-      "created_at": "2025-10-08T14:16:21.026643"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251016203000",
-      "original_id": "eventRowId_532723",
-      "event_date": "2025-10-16",
-      "event_time": "20:30",
-      "event_datetime": "2025/10/16 20:30:00",
-      "title": "美国零售销售月率(%) (月度环比)  (九月)",
-      "content": "前值: 0.6%",
-      "category": null,
-      "importance": 3,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-08",
-      "raw_data": {
-        "event_id": "eventRowId_532723",
-        "event_attr_id": "",
-        "datetime": "2025/10/16 20:30:00",
-        "time": "20:30",
-        "country": "美国",
-        "importance": 3,
-        "event_name": "美国零售销售月率(%) (月度环比)  (九月)",
-        "previous": "0.6%"
-      },
-      "created_at": "2025-10-08T14:16:21.026754"
+      "created_at": "2025-10-09T14:15:51.090809"
     },
     {
       "platform": "investing",
@@ -1775,7 +1994,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532735",
         "event_attr_id": "",
@@ -1786,7 +2005,38 @@
         "event_name": "美国零售销售年率 (同比)  (九月)",
         "previous": "5.00%"
       },
-      "created_at": "2025-10-08T14:16:21.026907"
+      "created_at": "2025-10-09T14:15:51.090926"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251016203000",
+      "original_id": "eventRowId_532723",
+      "event_date": "2025-10-16",
+      "event_time": "20:30",
+      "event_datetime": "2025/10/16 20:30:00",
+      "title": "美国零售销售月率(%) (月度环比)  (九月)",
+      "content": "前值: 0.6%",
+      "category": null,
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
+      "raw_data": {
+        "event_id": "eventRowId_532723",
+        "event_attr_id": "",
+        "datetime": "2025/10/16 20:30:00",
+        "time": "20:30",
+        "country": "美国",
+        "importance": 3,
+        "event_name": "美国零售销售月率(%) (月度环比)  (九月)",
+        "previous": "0.6%"
+      },
+      "created_at": "2025-10-09T14:15:51.091040"
     },
     {
       "platform": "investing",
@@ -1806,7 +2056,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532720",
         "event_attr_id": "",
@@ -1817,7 +2067,7 @@
         "event_name": "美国除去天然气与汽车零售销售月率(%) (月度环比)  (九月)",
         "previous": "0.7%"
       },
-      "created_at": "2025-10-08T14:16:21.027026"
+      "created_at": "2025-10-09T14:15:51.091152"
     },
     {
       "platform": "investing",
@@ -1837,7 +2087,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_533418",
         "event_attr_id": "",
@@ -1848,7 +2098,7 @@
         "event_name": "加拿大新车销量月率 (月度环比)  (八月)",
         "previous": "179.8K"
       },
-      "created_at": "2025-10-08T14:16:21.027138"
+      "created_at": "2025-10-09T14:15:51.091269"
     },
     {
       "platform": "investing",
@@ -1868,7 +2118,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532739",
         "event_attr_id": "",
@@ -1879,7 +2129,7 @@
         "event_name": "美国营运库存月率(%) (月度环比)  (八月)",
         "previous": "0.2%"
       },
-      "created_at": "2025-10-08T14:16:21.027258"
+      "created_at": "2025-10-09T14:15:51.091382"
     },
     {
       "platform": "investing",
@@ -1899,7 +2149,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532738",
         "event_attr_id": "",
@@ -1910,7 +2160,7 @@
         "event_name": "美国NAHB房产市场指数  (十月)",
         "previous": "32"
       },
-      "created_at": "2025-10-08T14:16:21.027366"
+      "created_at": "2025-10-09T14:15:51.091498"
     },
     {
       "platform": "investing",
@@ -1920,7 +2170,7 @@
       "event_time": "22:00",
       "event_datetime": "2025/10/16 22:00:00",
       "title": "美国除汽车外零售库存  (八月)",
-      "content": "前值: 0.3%",
+      "content": "预测值: 0.3% | 前值: 0.1%",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -1930,7 +2180,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-08",
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_532737",
         "event_attr_id": "",
@@ -1939,9 +2189,10 @@
         "country": "美国",
         "importance": 2,
         "event_name": "美国除汽车外零售库存  (八月)",
-        "previous": "0.3%"
+        "forecast": "0.3%",
+        "previous": "0.1%"
       },
-      "created_at": "2025-10-08T14:16:21.027475"
+      "created_at": "2025-10-09T14:15:51.091615"
     },
     {
       "platform": "investing",
@@ -1960,8 +2211,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_533419",
         "event_attr_id": "",
@@ -1971,7 +2222,7 @@
         "importance": 1,
         "event_name": "美国EIA天然气库存(立方英尺)"
       },
-      "created_at": "2025-10-08T14:16:21.027589"
+      "created_at": "2025-10-09T14:15:51.091736"
     },
     {
       "platform": "investing",
@@ -1990,8 +2241,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_533420",
         "event_attr_id": "",
@@ -2001,7 +2252,7 @@
         "importance": 1,
         "event_name": "美国四周期国债拍卖"
       },
-      "created_at": "2025-10-08T14:16:21.027702"
+      "created_at": "2025-10-09T14:15:51.091865"
     },
     {
       "platform": "investing",
@@ -2020,8 +2271,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "event_id": "eventRowId_533421",
         "event_attr_id": "",
@@ -2031,11 +2282,11 @@
         "importance": 1,
         "event_name": "美国8周期国库券拍卖利率(%)"
       },
-      "created_at": "2025-10-08T14:16:21.027834"
+      "created_at": "2025-10-09T14:15:51.091982"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016000000_-217707109631804898",
+      "event_id": "em_jjsj_20251016000000_483635916333700727",
       "original_id": "2025-10-16 00:00:00_中国：库存:电解铝:保税区(报告期:2025年10月)",
       "event_date": "2025-10-16",
       "event_time": null,
@@ -2050,17 +2301,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "中国：库存:电解铝:保税区(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-08T14:16:38.218484"
+      "created_at": "2025-10-09T14:16:04.281951"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016093000_9169578546380769170",
+      "event_id": "em_jjsj_20251016093000_-4742268844182869562",
       "original_id": "2025-10-16 09:30:00_澳大利亚：失业率：季调(报告期:2025年09月)",
       "event_date": "2025-10-16",
       "event_time": "09:30:00",
@@ -2075,17 +2326,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "澳大利亚：失业率：季调(报告期:2025年09月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-10-08T14:16:38.218492"
+      "created_at": "2025-10-09T14:16:04.281959"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016093000_-2248858441533340804",
+      "event_id": "em_jjsj_20251016093000_-6185396156285886464",
       "original_id": "2025-10-16 09:30:00_澳大利亚：劳动参与率：季调(报告期:2025年09月)",
       "event_date": "2025-10-16",
       "event_time": "09:30:00",
@@ -2100,17 +2351,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "澳大利亚：劳动参与率：季调(报告期:2025年09月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-10-08T14:16:38.218499"
+      "created_at": "2025-10-09T14:16:04.281967"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016093000_-2009003130200136036",
+      "event_id": "em_jjsj_20251016093000_2440171408140839536",
       "original_id": "2025-10-16 09:30:00_澳大利亚：就业人数：季调(报告期:2025年09月)",
       "event_date": "2025-10-16",
       "event_time": "09:30:00",
@@ -2125,17 +2376,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "澳大利亚：就业人数：季调(报告期:2025年09月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-10-08T14:16:38.218508"
+      "created_at": "2025-10-09T14:16:04.281974"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016093000_-1838174222202619439",
+      "event_id": "em_jjsj_20251016093000_3460176340835497163",
       "original_id": "2025-10-16 09:30:00_澳大利亚：失业率(报告期:2025年09月)",
       "event_date": "2025-10-16",
       "event_time": "09:30:00",
@@ -2150,17 +2401,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "澳大利亚：失业率(报告期:2025年09月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-10-08T14:16:38.218515"
+      "created_at": "2025-10-09T14:16:04.281981"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016140000_-2768549991060526135",
+      "event_id": "em_jjsj_20251016140000_4684019601113293815",
       "original_id": "2025-10-16 14:00:00_英国：贸易总额：余额：季调(报告期:2025年08月)",
       "event_date": "2025-10-16",
       "event_time": "14:00:00",
@@ -2175,17 +2426,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "英国：贸易总额：余额：季调(报告期:2025年08月)",
         "City": "英国"
       },
-      "created_at": "2025-10-08T14:16:38.218523"
+      "created_at": "2025-10-09T14:16:04.281990"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016201500_-6464768792254408470",
+      "event_id": "em_jjsj_20251016201500_-6495988852510490386",
       "original_id": "2025-10-16 20:15:00_加拿大：新屋开工(报告期:2025年09月)",
       "event_date": "2025-10-16",
       "event_time": "20:15:00",
@@ -2200,17 +2451,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "加拿大：新屋开工(报告期:2025年09月)",
         "City": "加拿大"
       },
-      "created_at": "2025-10-08T14:16:38.218531"
+      "created_at": "2025-10-09T14:16:04.281998"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016203000_2126890611032682100",
+      "event_id": "em_jjsj_20251016203000_9000540929483612161",
       "original_id": "2025-10-16 20:30:00_美国：零售商库存：季调(报告期:2025年08月)",
       "event_date": "2025-10-16",
       "event_time": "20:30:00",
@@ -2225,17 +2476,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "美国：零售商库存：季调(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-10-08T14:16:38.218541"
+      "created_at": "2025-10-09T14:16:04.282007"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016203000_6011648065607724470",
+      "event_id": "em_jjsj_20251016203000_8335107207489833217",
       "original_id": "2025-10-16 20:30:00_美国：核心PPI：季调：环比(报告期:2025年09月)",
       "event_date": "2025-10-16",
       "event_time": "20:30:00",
@@ -2250,17 +2501,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "美国：核心PPI：季调：环比(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-10-08T14:16:38.218549"
+      "created_at": "2025-10-09T14:16:04.282014"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016203000_7789318196326510192",
+      "event_id": "em_jjsj_20251016203000_-4347570215131740284",
       "original_id": "2025-10-16 20:30:00_美国：核心PPI：非季调：同比(报告期:2025年09月)",
       "event_date": "2025-10-16",
       "event_time": "20:30:00",
@@ -2275,17 +2526,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "美国：核心PPI：非季调：同比(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-10-08T14:16:38.218558"
+      "created_at": "2025-10-09T14:16:04.282022"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016203000_5208654573817047792",
+      "event_id": "em_jjsj_20251016203000_178745375096667534",
       "original_id": "2025-10-16 20:30:00_美国：PPI：季调：环比(报告期:2025年09月)",
       "event_date": "2025-10-16",
       "event_time": "20:30:00",
@@ -2300,17 +2551,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "美国：PPI：季调：环比(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-10-08T14:16:38.218565"
+      "created_at": "2025-10-09T14:16:04.282030"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016203000_-5852537130104773726",
+      "event_id": "em_jjsj_20251016203000_6909532980166102994",
       "original_id": "2025-10-16 20:30:00_美国：核心零售总额：季调(报告期:2025年08月)",
       "event_date": "2025-10-16",
       "event_time": "20:30:00",
@@ -2325,17 +2576,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "美国：核心零售总额：季调(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-10-08T14:16:38.218572"
+      "created_at": "2025-10-09T14:16:04.282037"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016203000_3412656252269503046",
+      "event_id": "em_jjsj_20251016203000_2468505616698196700",
       "original_id": "2025-10-16 20:30:00_美国：零售总额：季调(报告期:2025年08月)",
       "event_date": "2025-10-16",
       "event_time": "20:30:00",
@@ -2350,17 +2601,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "美国：零售总额：季调(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-10-08T14:16:38.218579"
+      "created_at": "2025-10-09T14:16:04.282045"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251016220000_6128526276423684842",
+      "event_id": "em_jjsj_20251016220000_-6067648042017149475",
       "original_id": "2025-10-16 22:00:00_美国：零售销售月率(报告期:2025年08月)",
       "event_date": "2025-10-16",
       "event_time": "22:00:00",
@@ -2375,13 +2626,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "Name": "美国：零售销售月率(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-10-08T14:16:38.218592"
+      "created_at": "2025-10-09T14:16:04.282054"
     },
     {
       "platform": "eastmoney",
@@ -2400,8 +2651,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-08",
+      "is_new": false,
+      "discovery_date": "2025-10-09",
       "raw_data": {
         "fe_code": "10865439",
         "fe_name": "2025世界智能网联汽车大会",
@@ -2412,7 +2663,7 @@
         "city": "北京",
         "content": "2025世界智能网联汽车大会由工业和信息化部、交通运输部、北京市人民政府联合主办,将于2025年10月16日至18日在北京亦庄北人亦创国际会展中心召开。本届大会将以“汇智聚能网联无限”为主题,汇聚全球政产学研精英,共绘智能网联汽车产业发展新蓝图。"
       },
-      "created_at": "2025-10-08T14:16:38.222168"
+      "created_at": "2025-10-09T14:16:04.285664"
     }
   ]
 }
