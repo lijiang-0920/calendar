@@ -1,11 +1,10 @@
 {
   "date": "2025-11-05",
-  "total_events": 10,
-  "new_events": 1,
+  "total_events": 2,
+  "new_events": 0,
   "platforms": {
     "jiuyangongshe": 1,
-    "investing": 1,
-    "eastmoney": 8
+    "investing": 1
   },
   "events": [
     {
@@ -25,8 +24,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-09",
+      "is_new": false,
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "article_id": "5de18e6d8e1d4feea41144fed0dd925d",
         "user_id": "1",
@@ -51,7 +50,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-09T14:15:43.380205"
+      "created_at": "2025-10-10T14:15:25.684443"
     },
     {
       "platform": "investing",
@@ -71,7 +70,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_532291",
         "event_attr_id": "",
@@ -81,207 +80,7 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-10-09T14:15:53.980104"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105090000_8662729872257468047",
-      "original_id": "2025-11-05 09:00:00_菲律宾：CPI：同比(报告期:2025年10月)",
-      "event_date": "2025-11-05",
-      "event_time": "09:00:00",
-      "event_datetime": "2025-11-05 09:00:00",
-      "title": "菲律宾：CPI：同比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "菲律宾",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "Name": "菲律宾：CPI：同比(报告期:2025年10月)",
-        "City": "菲律宾"
-      },
-      "created_at": "2025-10-09T14:16:04.283212"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105173000_7430312453916777781",
-      "original_id": "2025-11-05 17:30:00_英国：央行外币储备(报告期:2025年10月)",
-      "event_date": "2025-11-05",
-      "event_time": "17:30:00",
-      "event_datetime": "2025-11-05 17:30:00",
-      "title": "英国：央行外币储备(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "Name": "英国：央行外币储备(报告期:2025年10月)",
-        "City": "英国"
-      },
-      "created_at": "2025-10-09T14:16:04.283221"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_6849135867386042553",
-      "original_id": "2025-11-05 23:00:00_美国：ISM：非制造业PMI：供应商交付(报告期:2025年10月)",
-      "event_date": "2025-11-05",
-      "event_time": "23:00:00",
-      "event_datetime": "2025-11-05 23:00:00",
-      "title": "美国：ISM：非制造业PMI：供应商交付(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "Name": "美国：ISM：非制造业PMI：供应商交付(报告期:2025年10月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-09T14:16:04.283229"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_50552506437083731",
-      "original_id": "2025-11-05 23:00:00_美国：ISM：非制造业PMI：就业(报告期:2025年10月)",
-      "event_date": "2025-11-05",
-      "event_time": "23:00:00",
-      "event_datetime": "2025-11-05 23:00:00",
-      "title": "美国：ISM：非制造业PMI：就业(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "Name": "美国：ISM：非制造业PMI：就业(报告期:2025年10月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-09T14:16:04.283237"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_4348824378153519768",
-      "original_id": "2025-11-05 23:00:00_美国：ISM：服务业PMI(报告期:2025年10月)",
-      "event_date": "2025-11-05",
-      "event_time": "23:00:00",
-      "event_datetime": "2025-11-05 23:00:00",
-      "title": "美国：ISM：服务业PMI(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "Name": "美国：ISM：服务业PMI(报告期:2025年10月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-09T14:16:04.283244"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_-6981889652534037641",
-      "original_id": "2025-11-05 23:00:00_美国：ISM：非制造业PMI：库存(报告期:2025年10月)",
-      "event_date": "2025-11-05",
-      "event_time": "23:00:00",
-      "event_datetime": "2025-11-05 23:00:00",
-      "title": "美国：ISM：非制造业PMI：库存(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "Name": "美国：ISM：非制造业PMI：库存(报告期:2025年10月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-09T14:16:04.283251"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_4662940957440903188",
-      "original_id": "2025-11-05 23:00:00_美国：ISM：非制造业PMI：物价(报告期:2025年10月)",
-      "event_date": "2025-11-05",
-      "event_time": "23:00:00",
-      "event_datetime": "2025-11-05 23:00:00",
-      "title": "美国：ISM：非制造业PMI：物价(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "Name": "美国：ISM：非制造业PMI：物价(报告期:2025年10月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-09T14:16:04.283259"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_575227039005056208",
-      "original_id": "2025-11-05 23:00:00_美国：ISM：非制造业PMI：新订单(报告期:2025年10月)",
-      "event_date": "2025-11-05",
-      "event_time": "23:00:00",
-      "event_datetime": "2025-11-05 23:00:00",
-      "title": "美国：ISM：非制造业PMI：新订单(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "Name": "美国：ISM：非制造业PMI：新订单(报告期:2025年10月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-09T14:16:04.283266"
+      "created_at": "2025-10-10T14:15:36.882691"
     }
   ]
 }

@@ -1,12 +1,11 @@
 {
   "date": "2025-10-28",
-  "total_events": 36,
-  "new_events": 2,
+  "total_events": 34,
+  "new_events": 0,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 4,
-    "investing": 29,
-    "eastmoney": 2
+    "investing": 29
   },
   "events": [
     {
@@ -27,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "id": 322321,
         "calendar_time": "2025-10-28 00:00:00",
@@ -43,7 +42,7 @@
         "holiday": null,
         "title": "第十届中国国际人工智能大会及展示会暨人工智算力与算法高峰论坛将于10月28日至29日举办"
       },
-      "created_at": "2025-10-09T14:15:40.165279"
+      "created_at": "2025-10-10T14:15:22.260953"
     },
     {
       "platform": "jiuyangongshe",
@@ -63,7 +62,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "article_id": "10vvmquwfd2",
         "user_id": "00525773fe47467cac470afac1e73909",
@@ -88,7 +87,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-09T14:15:41.814894"
+      "created_at": "2025-10-10T14:15:23.970161"
     },
     {
       "platform": "jiuyangongshe",
@@ -108,7 +107,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "article_id": "76421b64e2b7413c9e293dde93d2f857",
         "user_id": "1",
@@ -133,7 +132,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-09T14:15:41.814902"
+      "created_at": "2025-10-10T14:15:23.970169"
     },
     {
       "platform": "jiuyangongshe",
@@ -152,8 +151,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-09",
+      "is_new": false,
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "article_id": "04d34105bff149ca962643947513505c",
         "user_id": "1",
@@ -178,7 +177,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-09T14:15:41.814909"
+      "created_at": "2025-10-10T14:15:23.970177"
     },
     {
       "platform": "jiuyangongshe",
@@ -197,8 +196,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-09",
+      "is_new": false,
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "article_id": "bf8175ab8eb846958b72147208c814c4",
         "user_id": "1",
@@ -223,7 +222,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-09T14:15:41.815005"
+      "created_at": "2025-10-10T14:15:23.970271"
     },
     {
       "platform": "investing",
@@ -243,7 +242,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533303",
         "event_attr_id": "",
@@ -254,38 +253,7 @@
         "event_name": "韩国消费者信心指数  (十月)",
         "previous": "110.1"
       },
-      "created_at": "2025-10-09T14:15:53.208610"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251028070000",
-      "original_id": "eventRowId_533304",
-      "event_date": "2025-10-28",
-      "event_time": "07:00",
-      "event_datetime": "2025/10/28 07:00:00",
-      "title": "韩国GDP年率(%) (同比)  (第三季度)",
-      "content": "前值: 0.6%",
-      "category": null,
-      "importance": 1,
-      "country": "韩国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "event_id": "eventRowId_533304",
-        "event_attr_id": "",
-        "datetime": "2025/10/28 07:00:00",
-        "time": "07:00",
-        "country": "韩国",
-        "importance": 1,
-        "event_name": "韩国GDP年率(%) (同比)  (第三季度)",
-        "previous": "0.6%"
-      },
-      "created_at": "2025-10-09T14:15:53.208776"
+      "created_at": "2025-10-10T14:15:36.130249"
     },
     {
       "platform": "investing",
@@ -305,7 +273,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533305",
         "event_attr_id": "",
@@ -316,38 +284,38 @@
         "event_name": "韩国GDP季率 (季度环比)  (第三季度)",
         "previous": "0.7%"
       },
-      "created_at": "2025-10-09T14:15:53.208902"
+      "created_at": "2025-10-10T14:15:36.130395"
     },
     {
       "platform": "investing",
-      "event_id": "inv__20251028120000",
-      "original_id": "eventRowId_533311",
+      "event_id": "inv__20251028070000",
+      "original_id": "eventRowId_533304",
       "event_date": "2025-10-28",
-      "event_time": "12:00",
-      "event_datetime": "2025/10/28 12:00:00",
-      "title": "英国新车登记数月率 (月度环比)  (九月)",
-      "content": "前值: -40.8%",
+      "event_time": "07:00",
+      "event_datetime": "2025/10/28 07:00:00",
+      "title": "韩国GDP年率(%) (同比)  (第三季度)",
+      "content": "前值: 0.6%",
       "category": null,
       "importance": 1,
-      "country": "英国",
+      "country": "韩国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
-        "event_id": "eventRowId_533311",
+        "event_id": "eventRowId_533304",
         "event_attr_id": "",
-        "datetime": "2025/10/28 12:00:00",
-        "time": "12:00",
-        "country": "英国",
+        "datetime": "2025/10/28 07:00:00",
+        "time": "07:00",
+        "country": "韩国",
         "importance": 1,
-        "event_name": "英国新车登记数月率 (月度环比)  (九月)",
-        "previous": "-40.8%"
+        "event_name": "韩国GDP年率(%) (同比)  (第三季度)",
+        "previous": "0.6%"
       },
-      "created_at": "2025-10-09T14:15:53.209017"
+      "created_at": "2025-10-10T14:15:36.130517"
     },
     {
       "platform": "investing",
@@ -367,7 +335,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533312",
         "event_attr_id": "",
@@ -378,7 +346,38 @@
         "event_name": "英国新车登记数月率 (同比)  (九月)",
         "previous": "-2.0%"
       },
-      "created_at": "2025-10-09T14:15:53.209131"
+      "created_at": "2025-10-10T14:15:36.130643"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251028120000",
+      "original_id": "eventRowId_533311",
+      "event_date": "2025-10-28",
+      "event_time": "12:00",
+      "event_datetime": "2025/10/28 12:00:00",
+      "title": "英国新车登记数月率 (月度环比)  (九月)",
+      "content": "前值: -40.8%",
+      "category": null,
+      "importance": 1,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-10",
+      "raw_data": {
+        "event_id": "eventRowId_533311",
+        "event_attr_id": "",
+        "datetime": "2025/10/28 12:00:00",
+        "time": "12:00",
+        "country": "英国",
+        "importance": 1,
+        "event_name": "英国新车登记数月率 (月度环比)  (九月)",
+        "previous": "-40.8%"
+      },
+      "created_at": "2025-10-10T14:15:36.130766"
     },
     {
       "platform": "investing",
@@ -398,7 +397,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533314",
         "event_attr_id": "",
@@ -409,7 +408,7 @@
         "event_name": "意大利新车登记数月率 (月度环比)  (九月)",
         "previous": "-43.2%"
       },
-      "created_at": "2025-10-09T14:15:53.209245"
+      "created_at": "2025-10-10T14:15:36.130914"
     },
     {
       "platform": "investing",
@@ -429,7 +428,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533317",
         "event_attr_id": "",
@@ -440,38 +439,7 @@
         "event_name": "意大利新车登记数月率 (同比)  (九月)",
         "previous": "-2.7%"
       },
-      "created_at": "2025-10-09T14:15:53.209362"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251028120000",
-      "original_id": "eventRowId_533307",
-      "event_date": "2025-10-28",
-      "event_time": "12:00",
-      "event_datetime": "2025/10/28 12:00:00",
-      "title": "德国新车登记数月率 (同比)  (九月)",
-      "content": "前值: 5.0%",
-      "category": null,
-      "importance": 1,
-      "country": "德国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "event_id": "eventRowId_533307",
-        "event_attr_id": "",
-        "datetime": "2025/10/28 12:00:00",
-        "time": "12:00",
-        "country": "德国",
-        "importance": 1,
-        "event_name": "德国新车登记数月率 (同比)  (九月)",
-        "previous": "5.0%"
-      },
-      "created_at": "2025-10-09T14:15:53.209475"
+      "created_at": "2025-10-10T14:15:36.131032"
     },
     {
       "platform": "investing",
@@ -491,7 +459,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533309",
         "event_attr_id": "",
@@ -502,38 +470,38 @@
         "event_name": "德国新车登记数月率 (月度环比)  (九月)",
         "previous": "-21.7%"
       },
-      "created_at": "2025-10-09T14:15:53.209587"
+      "created_at": "2025-10-10T14:15:36.131146"
     },
     {
       "platform": "investing",
       "event_id": "inv__20251028120000",
-      "original_id": "eventRowId_533310",
+      "original_id": "eventRowId_533307",
       "event_date": "2025-10-28",
       "event_time": "12:00",
       "event_datetime": "2025/10/28 12:00:00",
-      "title": "法国新车登记数月率 (月度环比)  (九月)",
-      "content": "前值: -24.5%",
+      "title": "德国新车登记数月率 (同比)  (九月)",
+      "content": "前值: 5.0%",
       "category": null,
       "importance": 1,
-      "country": "法国",
+      "country": "德国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
-        "event_id": "eventRowId_533310",
+        "event_id": "eventRowId_533307",
         "event_attr_id": "",
         "datetime": "2025/10/28 12:00:00",
         "time": "12:00",
-        "country": "法国",
+        "country": "德国",
         "importance": 1,
-        "event_name": "法国新车登记数月率 (月度环比)  (九月)",
-        "previous": "-24.5%"
+        "event_name": "德国新车登记数月率 (同比)  (九月)",
+        "previous": "5.0%"
       },
-      "created_at": "2025-10-09T14:15:53.209699"
+      "created_at": "2025-10-10T14:15:36.131257"
     },
     {
       "platform": "investing",
@@ -553,7 +521,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533308",
         "event_attr_id": "",
@@ -564,7 +532,38 @@
         "event_name": "法国新车登记数月率 (同比)  (九月)",
         "previous": "2.2%"
       },
-      "created_at": "2025-10-09T14:15:53.209829"
+      "created_at": "2025-10-10T14:15:36.131369"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251028120000",
+      "original_id": "eventRowId_533310",
+      "event_date": "2025-10-28",
+      "event_time": "12:00",
+      "event_datetime": "2025/10/28 12:00:00",
+      "title": "法国新车登记数月率 (月度环比)  (九月)",
+      "content": "前值: -24.5%",
+      "category": null,
+      "importance": 1,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-10",
+      "raw_data": {
+        "event_id": "eventRowId_533310",
+        "event_attr_id": "",
+        "datetime": "2025/10/28 12:00:00",
+        "time": "12:00",
+        "country": "法国",
+        "importance": 1,
+        "event_name": "法国新车登记数月率 (月度环比)  (九月)",
+        "previous": "-24.5%"
+      },
+      "created_at": "2025-10-10T14:15:36.131480"
     },
     {
       "platform": "investing",
@@ -584,7 +583,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533336",
         "event_attr_id": "",
@@ -595,7 +594,7 @@
         "event_name": "德国Gfk消费者信心指数  (十一月)",
         "previous": "-22.3"
       },
-      "created_at": "2025-10-09T14:15:53.209944"
+      "created_at": "2025-10-10T14:15:36.131592"
     },
     {
       "platform": "investing",
@@ -615,7 +614,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533338",
         "event_attr_id": "",
@@ -626,7 +625,7 @@
         "event_name": "意大利Istat制造业信心指数  (十月)",
         "previous": "87.3"
       },
-      "created_at": "2025-10-09T14:15:53.210056"
+      "created_at": "2025-10-10T14:15:36.131725"
     },
     {
       "platform": "investing",
@@ -646,7 +645,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533339",
         "event_attr_id": "",
@@ -657,7 +656,7 @@
         "event_name": "意大利Istat消费者信心指数  (十月)",
         "previous": "96.8"
       },
-      "created_at": "2025-10-09T14:15:53.210177"
+      "created_at": "2025-10-10T14:15:36.131865"
     },
     {
       "platform": "investing",
@@ -677,7 +676,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533346",
         "event_attr_id": "",
@@ -688,7 +687,7 @@
         "event_name": "印度累计工业生产指数年率(%)  (九月)",
         "previous": "2.80%"
       },
-      "created_at": "2025-10-09T14:15:53.210294"
+      "created_at": "2025-10-10T14:15:36.131980"
     },
     {
       "platform": "investing",
@@ -708,7 +707,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533348",
         "event_attr_id": "",
@@ -719,7 +718,7 @@
         "event_name": "印度工业生产指数年率(%) (同比)  (九月)",
         "previous": "4.0%"
       },
-      "created_at": "2025-10-09T14:15:53.210408"
+      "created_at": "2025-10-10T14:15:36.132090"
     },
     {
       "platform": "investing",
@@ -739,7 +738,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533347",
         "event_attr_id": "",
@@ -750,7 +749,7 @@
         "event_name": "印度制造业产出月率(%) (月度环比)  (九月)",
         "previous": "3.8%"
       },
-      "created_at": "2025-10-09T14:15:53.210523"
+      "created_at": "2025-10-10T14:15:36.132200"
     },
     {
       "platform": "investing",
@@ -770,7 +769,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533354",
         "event_attr_id": "",
@@ -781,7 +780,7 @@
         "event_name": "美国FHFA房价指数年率(%) (同比)  (八月)",
         "previous": "2.3%"
       },
-      "created_at": "2025-10-09T14:15:53.210636"
+      "created_at": "2025-10-10T14:15:36.132325"
     },
     {
       "platform": "investing",
@@ -801,7 +800,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533357",
         "event_attr_id": "",
@@ -812,7 +811,7 @@
         "event_name": "美国FHFA房价指数月率(%) (月度环比)  (八月)",
         "previous": "-0.1%"
       },
-      "created_at": "2025-10-09T14:15:53.210768"
+      "created_at": "2025-10-10T14:15:36.132435"
     },
     {
       "platform": "investing",
@@ -832,7 +831,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533358",
         "event_attr_id": "",
@@ -843,7 +842,7 @@
         "event_name": "美国FHFA房价指数  (八月)",
         "previous": "433.4"
       },
-      "created_at": "2025-10-09T14:15:53.210888"
+      "created_at": "2025-10-10T14:15:36.132552"
     },
     {
       "platform": "investing",
@@ -863,7 +862,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533355",
         "event_attr_id": "",
@@ -874,7 +873,7 @@
         "event_name": "美国S&P/CS20座大城市季调后房价指数月率(%) (月度环比)  (八月)",
         "previous": "-0.1%"
       },
-      "created_at": "2025-10-09T14:15:53.211007"
+      "created_at": "2025-10-10T14:15:36.132664"
     },
     {
       "platform": "investing",
@@ -894,7 +893,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533353",
         "event_attr_id": "",
@@ -905,7 +904,7 @@
         "event_name": "美国S&P/CS 20座大城市未季调房价指数月率(%) (月度环比)  (八月)",
         "previous": "-0.3%"
       },
-      "created_at": "2025-10-09T14:15:53.211124"
+      "created_at": "2025-10-10T14:15:36.132820"
     },
     {
       "platform": "investing",
@@ -925,7 +924,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533356",
         "event_attr_id": "",
@@ -936,7 +935,7 @@
         "event_name": "美国S&P/CS20座大城市未季调房价指数年率(%) (同比)  (八月)",
         "previous": "1.8%"
       },
-      "created_at": "2025-10-09T14:15:53.211234"
+      "created_at": "2025-10-10T14:15:36.132937"
     },
     {
       "platform": "investing",
@@ -956,7 +955,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533361",
         "event_attr_id": "",
@@ -967,7 +966,7 @@
         "event_name": "美国谘商会消费者信心指数  (十月)",
         "previous": "94.2"
       },
-      "created_at": "2025-10-09T14:15:53.211343"
+      "created_at": "2025-10-10T14:15:36.133052"
     },
     {
       "platform": "investing",
@@ -987,7 +986,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533359",
         "event_attr_id": "",
@@ -998,7 +997,7 @@
         "event_name": "美国里士满联储制造业指数  (十月)",
         "previous": "-17"
       },
-      "created_at": "2025-10-09T14:15:53.211453"
+      "created_at": "2025-10-10T14:15:36.133162"
     },
     {
       "platform": "investing",
@@ -1018,7 +1017,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533362",
         "event_attr_id": "",
@@ -1029,7 +1028,7 @@
         "event_name": "美国里士满联储制造业装船指数  (十月)",
         "previous": "-20"
       },
-      "created_at": "2025-10-09T14:15:53.211563"
+      "created_at": "2025-10-10T14:15:36.133272"
     },
     {
       "platform": "investing",
@@ -1049,7 +1048,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533360",
         "event_attr_id": "",
@@ -1060,7 +1059,7 @@
         "event_name": "美国里士满联储服务业收入指数  (十月)",
         "previous": "1"
       },
-      "created_at": "2025-10-09T14:15:53.211671"
+      "created_at": "2025-10-10T14:15:36.133390"
     },
     {
       "platform": "investing",
@@ -1080,7 +1079,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533364",
         "event_attr_id": "",
@@ -1091,7 +1090,7 @@
         "event_name": "美国达拉斯联储服务业收入指数  (十月)",
         "previous": "-2.4"
       },
-      "created_at": "2025-10-09T14:15:53.211805"
+      "created_at": "2025-10-10T14:15:36.133501"
     },
     {
       "platform": "investing",
@@ -1111,7 +1110,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533363",
         "event_attr_id": "",
@@ -1122,63 +1121,7 @@
         "event_name": "美国德克萨斯州服务业前景指数  (十月)",
         "previous": "-5.6"
       },
-      "created_at": "2025-10-09T14:15:53.211921"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251028070000_2763567489630731666",
-      "original_id": "2025-10-28 07:00:00_韩国：GDP：同比(报告期:2025年09月)",
-      "event_date": "2025-10-28",
-      "event_time": "07:00:00",
-      "event_datetime": "2025-10-28 07:00:00",
-      "title": "韩国：GDP：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "韩国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "Name": "韩国：GDP：同比(报告期:2025年09月)",
-        "City": "韩国"
-      },
-      "created_at": "2025-10-09T14:16:04.282696"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10856301",
-      "original_id": "10856301",
-      "event_date": "2025-10-28",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "美联储议息会议",
-      "content": "",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "fe_code": "10856301",
-        "fe_name": "美联储议息会议",
-        "start_date": "2025-10-28",
-        "end_date": "2025-10-30",
-        "fe_type": "美联储议息会议",
-        "sponsor": null,
-        "city": null,
-        "content": null
-      },
-      "created_at": "2025-10-09T14:16:04.285770"
+      "created_at": "2025-10-10T14:15:36.133611"
     }
   ]
 }
