@@ -1,11 +1,10 @@
 {
   "date": "2025-11-06",
-  "total_events": 7,
+  "total_events": 5,
   "new_events": 1,
   "platforms": {
-    "jiuyangongshe": 3,
-    "investing": 1,
-    "eastmoney": 3
+    "jiuyangongshe": 4,
+    "investing": 1
   },
   "events": [
     {
@@ -26,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-14",
+      "discovery_date": "2025-10-15",
       "raw_data": {
         "article_id": "574c5b4698e446bc81c754754085305b",
         "user_id": "1",
@@ -51,7 +50,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-14T14:16:59.816027"
+      "created_at": "2025-10-15T14:16:38.737405"
     },
     {
       "platform": "jiuyangongshe",
@@ -71,7 +70,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-14",
+      "discovery_date": "2025-10-15",
       "raw_data": {
         "article_id": "6c3e64472244459eb144ec048b169c88",
         "user_id": "1",
@@ -96,7 +95,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-14T14:16:59.816038"
+      "created_at": "2025-10-15T14:16:38.737415"
     },
     {
       "platform": "jiuyangongshe",
@@ -115,8 +114,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-14",
+      "is_new": false,
+      "discovery_date": "2025-10-15",
       "raw_data": {
         "article_id": "37aee7cf29224406acc21fe80c0ef6d6",
         "user_id": "1",
@@ -141,7 +140,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-14T14:16:59.816047"
+      "created_at": "2025-10-15T14:16:38.737424"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_09d7236270854f9eb142cd218bb27411_49185124f64e4929b76c08b1af68f17b_20251106",
+      "original_id": "09d7236270854f9eb142cd218bb27411",
+      "event_date": "2025-11-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025年中国稀土行业协会稀土金属及合金分会年会暨稀土金属及合金在金属材料中的应用研讨会会议",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-15",
+      "raw_data": {
+        "article_id": "09d7236270854f9eb142cd218bb27411",
+        "user_id": "1",
+        "title": "2025年中国稀土行业协会稀土金属及合金分会年会暨稀土金属及合金在金属材料中的应用研讨会会议",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "09d7236270854f9eb142cd218bb27411",
+          "timeline_id": "49185124f64e4929b76c08b1af68f17b",
+          "date": "2025-11-06",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-10-15 21:57:40",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-10-15T14:16:38.737433"
     },
     {
       "platform": "investing",
@@ -161,7 +205,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-14",
+      "discovery_date": "2025-10-15",
       "raw_data": {
         "event_id": "eventRowId_532313",
         "event_attr_id": "",
@@ -172,82 +216,7 @@
         "event_name": "英国央行利率决议",
         "previous": "4.00%"
       },
-      "created_at": "2025-10-14T14:17:11.004860"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251106000000_-6251829678748532496",
-      "original_id": "2025-11-06 00:00:00_中国：库存:电解铝:保税区(报告期:2025年11月)",
-      "event_date": "2025-11-06",
-      "event_time": null,
-      "event_datetime": "2025-11-06 00:00:00",
-      "title": "中国：库存:电解铝:保税区(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-14",
-      "raw_data": {
-        "Name": "中国：库存:电解铝:保税区(报告期:2025年11月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-14T14:17:20.772524"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251106180000_3114249716811640443",
-      "original_id": "2025-11-06 18:00:00_欧盟:PPI:当月同比(报告期:2025年09月)",
-      "event_date": "2025-11-06",
-      "event_time": "18:00:00",
-      "event_datetime": "2025-11-06 18:00:00",
-      "title": "欧盟:PPI:当月同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "欧盟",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-14",
-      "raw_data": {
-        "Name": "欧盟:PPI:当月同比(报告期:2025年09月)",
-        "City": "欧盟"
-      },
-      "created_at": "2025-10-14T14:17:20.772532"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251106200000_1792421858893359059",
-      "original_id": "2025-11-06 20:00:00_英国：央行公布利率决议(报告期:2025年11月)",
-      "event_date": "2025-11-06",
-      "event_time": "20:00:00",
-      "event_datetime": "2025-11-06 20:00:00",
-      "title": "英国：央行公布利率决议(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-14",
-      "raw_data": {
-        "Name": "英国：央行公布利率决议(报告期:2025年11月)",
-        "City": "英国"
-      },
-      "created_at": "2025-10-14T14:17:20.772539"
+      "created_at": "2025-10-15T14:16:54.877715"
     }
   ]
 }
