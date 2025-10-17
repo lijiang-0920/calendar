@@ -1,11 +1,11 @@
 {
   "date": "2025-10-19",
-  "total_events": 4,
-  "new_events": 1,
+  "total_events": 6,
+  "new_events": 2,
   "platforms": {
-    "cls": 1,
+    "cls": 2,
     "jiuyangongshe": 1,
-    "tonghuashun": 1,
+    "tonghuashun": 2,
     "eastmoney": 1
   },
   "events": [
@@ -27,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-16",
+      "discovery_date": "2025-10-17",
       "raw_data": {
         "id": 323499,
         "calendar_time": "2025-10-19 00:00:00",
@@ -43,7 +43,43 @@
         "holiday": null,
         "title": "2025世界VR产业大会将于10月19日至20日在南昌举办"
       },
-      "created_at": "2025-10-16T14:16:04.776366"
+      "created_at": "2025-10-17T14:15:28.805675"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_327121_20251019_2",
+      "original_id": "327121",
+      "event_date": "2025-10-19",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-19 00:00:00",
+      "title": "2025北外滩国际航运论坛将于10月19日至21日在上海举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-17",
+      "raw_data": {
+        "id": 327121,
+        "calendar_time": "2025-10-19 00:00:00",
+        "data_id": 19671,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025北外滩国际航运论坛将于10月19日至21日在上海举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025北外滩国际航运论坛将于10月19日至21日在上海举行"
+      },
+      "created_at": "2025-10-17T14:15:28.805684"
     },
     {
       "platform": "jiuyangongshe",
@@ -65,7 +101,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-16",
+      "discovery_date": "2025-10-17",
       "raw_data": {
         "article_id": "8a89f5350af34b28a023f320efa5eca0",
         "user_id": "1",
@@ -95,12 +131,42 @@
           ]
         }
       },
-      "created_at": "2025-10-16T14:16:06.670978"
+      "created_at": "2025-10-17T14:15:30.654935"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251019_0_2b572371",
+      "event_id": "ths_20251019_0_83cf86de",
       "original_id": "2025-10-19_0",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025北外滩国际航运论坛将于10月19日至21日在上海举行",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-17",
+      "raw_data": {
+        "event": [
+          "2025北外滩国际航运论坛将于10月19日至21日在上海举行",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-10-17T14:15:39.054460"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251019_1_2b572371",
+      "original_id": "2025-10-19_1",
       "event_date": "2025-10-19",
       "event_time": null,
       "event_datetime": null,
@@ -111,11 +177,16 @@
       "country": "中国",
       "city": null,
       "stocks": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "code": "885709",
+          "name": "虚拟现实"
+        }
+      ],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-16",
+      "discovery_date": "2025-10-17",
       "raw_data": {
         "event": [
           "2025世界VR产业大会将于10月19日至20日在南昌举办",
@@ -123,9 +194,15 @@
           "",
           ""
         ],
-        "concept": []
+        "concept": [
+          {
+            "code": "885709",
+            "name": "虚拟现实",
+            "py": "xnxs"
+          }
+        ]
       },
-      "created_at": "2025-10-16T14:16:12.272926"
+      "created_at": "2025-10-17T14:15:39.054470"
     },
     {
       "platform": "eastmoney",
@@ -144,8 +221,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-16",
+      "is_new": false,
+      "discovery_date": "2025-10-17",
       "raw_data": {
         "fe_code": "10865481",
         "fe_name": "2025世界VR产业大会",
@@ -156,7 +233,7 @@
         "city": "南昌市",
         "content": "由江西省人民政府主办,江西省工业和信息化厅、南昌市人民政府、中国电子信息产业发展研究院共同承办的2025世界VR产业大会,将于2025年10月19日至20日在江西省南昌市举办。"
       },
-      "created_at": "2025-10-16T14:16:27.984622"
+      "created_at": "2025-10-17T14:15:59.109842"
     }
   ]
 }

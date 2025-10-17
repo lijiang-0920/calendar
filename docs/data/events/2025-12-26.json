@@ -1,14 +1,14 @@
 {
   "date": "2025-12-26",
-  "total_events": 3,
-  "new_events": 3,
+  "total_events": 8,
+  "new_events": 5,
   "platforms": {
-    "eastmoney": 3
+    "eastmoney": 8
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251226_-5433012216265669223",
+      "event_id": "em_xsap_20251226_2918240934985412920",
       "original_id": "xsap_港股_2025-12-26",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -23,8 +23,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-16",
+      "is_new": false,
+      "discovery_date": "2025-10-17",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "圣诞节后第一个周日",
@@ -33,11 +33,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-10-16T14:16:27.979298"
+      "created_at": "2025-10-17T14:15:59.104555"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251226_-5433012216265669223",
+      "event_id": "em_xsap_20251226_2918240934985412920",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-26",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -52,8 +52,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-16",
+      "is_new": false,
+      "discovery_date": "2025-10-17",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "圣诞节后第一个周日",
@@ -62,11 +62,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-10-16T14:16:27.979307"
+      "created_at": "2025-10-17T14:15:59.104572"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251226_-5433012216265669223",
+      "event_id": "em_xsap_20251226_2918240934985412920",
       "original_id": "xsap_沪股通、深股通_2025-12-26",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -81,8 +81,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-16",
+      "is_new": false,
+      "discovery_date": "2025-10-17",
       "raw_data": {
         "MKT": "沪股通、深股通",
         "HOLIDAY": "圣诞节后第一个周日",
@@ -91,7 +91,132 @@
         "XS": null,
         "FIRST_LETTER": "H"
       },
-      "created_at": "2025-10-16T14:16:27.979315"
+      "created_at": "2025-10-17T14:15:59.104586"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251226000000_-8667592324991623475",
+      "original_id": "2025-12-26 00:00:00_菲律宾：进口额：同比(报告期:2025年11月)",
+      "event_date": "2025-12-26",
+      "event_time": null,
+      "event_datetime": "2025-12-26 00:00:00",
+      "title": "菲律宾：进口额：同比(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "菲律宾",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-17",
+      "raw_data": {
+        "Name": "菲律宾：进口额：同比(报告期:2025年11月)",
+        "City": "菲律宾"
+      },
+      "created_at": "2025-10-17T14:15:59.109667"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251226000000_2589092326860238597",
+      "original_id": "2025-12-26 00:00:00_日本：失业率：季调(报告期:2025年11月)",
+      "event_date": "2025-12-26",
+      "event_time": null,
+      "event_datetime": "2025-12-26 00:00:00",
+      "title": "日本：失业率：季调(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-17",
+      "raw_data": {
+        "Name": "日本：失业率：季调(报告期:2025年11月)",
+        "City": "日本"
+      },
+      "created_at": "2025-10-17T14:15:59.109675"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251226000000_-3159285314148353213",
+      "original_id": "2025-12-26 00:00:00_日本：失业率(报告期:2025年11月)",
+      "event_date": "2025-12-26",
+      "event_time": null,
+      "event_datetime": "2025-12-26 00:00:00",
+      "title": "日本：失业率(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-17",
+      "raw_data": {
+        "Name": "日本：失业率(报告期:2025年11月)",
+        "City": "日本"
+      },
+      "created_at": "2025-10-17T14:15:59.109682"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251226000000_1083253477472180724",
+      "original_id": "2025-12-26 00:00:00_日本：核心CPI：东京：同比(报告期:2025年12月)",
+      "event_date": "2025-12-26",
+      "event_time": null,
+      "event_datetime": "2025-12-26 00:00:00",
+      "title": "日本：核心CPI：东京：同比(报告期:2025年12月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-17",
+      "raw_data": {
+        "Name": "日本：核心CPI：东京：同比(报告期:2025年12月)",
+        "City": "日本"
+      },
+      "created_at": "2025-10-17T14:15:59.109689"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251226000000_-7743534709978497597",
+      "original_id": "2025-12-26 00:00:00_日本：CPI：东京：同比(报告期:2025年12月)",
+      "event_date": "2025-12-26",
+      "event_time": null,
+      "event_datetime": "2025-12-26 00:00:00",
+      "title": "日本：CPI：东京：同比(报告期:2025年12月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-17",
+      "raw_data": {
+        "Name": "日本：CPI：东京：同比(报告期:2025年12月)",
+        "City": "日本"
+      },
+      "created_at": "2025-10-17T14:15:59.109696"
     }
   ]
 }
