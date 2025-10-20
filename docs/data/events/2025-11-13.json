@@ -1,14 +1,154 @@
 {
   "date": "2025-11-13",
-  "total_events": 12,
-  "new_events": 0,
+  "total_events": 16,
+  "new_events": 4,
   "platforms": {
+    "cls": 3,
+    "tonghuashun": 1,
     "eastmoney": 12
   },
   "events": [
     {
+      "platform": "cls",
+      "event_id": "cls_327842_20251113_2",
+      "original_id": "327842",
+      "event_date": "2025-11-13",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-13 00:00:00",
+      "title": "百度世界2025将于11月13日在北京举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-20",
+      "raw_data": {
+        "id": 327842,
+        "calendar_time": "2025-11-13 00:00:00",
+        "data_id": 19728,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "百度世界2025将于11月13日在北京举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "百度世界2025将于11月13日在北京举办"
+      },
+      "created_at": "2025-10-20T14:14:58.511102"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_326307_20251113_2",
+      "original_id": "326307",
+      "event_date": "2025-11-13",
+      "event_time": "01:00:00",
+      "event_datetime": "2025-11-13 01:00:00",
+      "title": "EIA公布月度短期能源展望报告",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-20",
+      "raw_data": {
+        "id": 326307,
+        "calendar_time": "2025-11-13 01:00:00",
+        "data_id": 19612,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "EIA公布月度短期能源展望报告",
+          "country": "美国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "EIA公布月度短期能源展望报告"
+      },
+      "created_at": "2025-10-20T14:14:58.511112"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_326311_20251113_2",
+      "original_id": "326311",
+      "event_date": "2025-11-13",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-11-13 17:00:00",
+      "title": "IEA公布月度原油市场报告",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-20",
+      "raw_data": {
+        "id": 326311,
+        "calendar_time": "2025-11-13 17:00:00",
+        "data_id": 19615,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "IEA公布月度原油市场报告",
+          "country": "法国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "IEA公布月度原油市场报告"
+      },
+      "created_at": "2025-10-20T14:14:58.511122"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251113_0_50c1e83f",
+      "original_id": "2025-11-13_0",
+      "event_date": "2025-11-13",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "百度世界2025将于11月13日在北京举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-20",
+      "raw_data": {
+        "event": [
+          "百度世界2025将于11月13日在北京举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-10-20T14:15:07.944542"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113000000_-3545124754514411478",
+      "event_id": "em_jjsj_20251113000000_4293312963005012436",
       "original_id": "2025-11-13 00:00:00_中国：库存:电解铝:保税区(报告期:2025年11月)",
       "event_date": "2025-11-13",
       "event_time": null,
@@ -24,16 +164,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "中国：库存:电解铝:保税区(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-10-19T14:12:53.722288"
+      "created_at": "2025-10-20T14:15:26.751114"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113093000_2243757591091708107",
+      "event_id": "em_jjsj_20251113093000_6414941508488870888",
       "original_id": "2025-11-13 09:30:00_澳大利亚：失业率(报告期:2025年10月)",
       "event_date": "2025-11-13",
       "event_time": "09:30:00",
@@ -49,16 +189,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "澳大利亚：失业率(报告期:2025年10月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-10-19T14:12:53.722296"
+      "created_at": "2025-10-20T14:15:26.751122"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113093000_-3625703402595215953",
+      "event_id": "em_jjsj_20251113093000_937889205562641099",
       "original_id": "2025-11-13 09:30:00_澳大利亚：劳动参与率：季调(报告期:2025年10月)",
       "event_date": "2025-11-13",
       "event_time": "09:30:00",
@@ -74,16 +214,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "澳大利亚：劳动参与率：季调(报告期:2025年10月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-10-19T14:12:53.722304"
+      "created_at": "2025-10-20T14:15:26.751129"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113093000_7665490537760449673",
+      "event_id": "em_jjsj_20251113093000_7359805760371543517",
       "original_id": "2025-11-13 09:30:00_澳大利亚：就业人数：季调(报告期:2025年10月)",
       "event_date": "2025-11-13",
       "event_time": "09:30:00",
@@ -99,16 +239,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "澳大利亚：就业人数：季调(报告期:2025年10月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-10-19T14:12:53.722311"
+      "created_at": "2025-10-20T14:15:26.751136"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113093000_-5293321134544390097",
+      "event_id": "em_jjsj_20251113093000_-1014048435935180594",
       "original_id": "2025-11-13 09:30:00_澳大利亚：失业率：季调(报告期:2025年10月)",
       "event_date": "2025-11-13",
       "event_time": "09:30:00",
@@ -124,16 +264,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "澳大利亚：失业率：季调(报告期:2025年10月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-10-19T14:12:53.722318"
+      "created_at": "2025-10-20T14:15:26.751144"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113150000_-1510946224984443679",
+      "event_id": "em_jjsj_20251113150000_4035431766556354845",
       "original_id": "2025-11-13 15:00:00_英国：GDP：现价：季调：同比(初值)(报告期:2025年09月)",
       "event_date": "2025-11-13",
       "event_time": "15:00:00",
@@ -149,16 +289,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "英国：GDP：现价：季调：同比(初值)(报告期:2025年09月)",
         "City": "英国"
       },
-      "created_at": "2025-10-19T14:12:53.722327"
+      "created_at": "2025-10-20T14:15:26.751152"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113213000_-8789352303077430005",
+      "event_id": "em_jjsj_20251113213000_7220843168686612655",
       "original_id": "2025-11-13 21:30:00_美国：CPI：当月同比(报告期:2025年10月)",
       "event_date": "2025-11-13",
       "event_time": "21:30:00",
@@ -174,16 +314,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "美国：CPI：当月同比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-19T14:12:53.722334"
+      "created_at": "2025-10-20T14:15:26.751160"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113213000_7681303369441358355",
+      "event_id": "em_jjsj_20251113213000_1854102573086876799",
       "original_id": "2025-11-13 21:30:00_美国：核心CPI：当月同比(报告期:2025年10月)",
       "event_date": "2025-11-13",
       "event_time": "21:30:00",
@@ -199,16 +339,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "美国：核心CPI：当月同比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-19T14:12:53.722342"
+      "created_at": "2025-10-20T14:15:26.751167"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113213000_3297961570503569894",
+      "event_id": "em_jjsj_20251113213000_4569752259822423778",
       "original_id": "2025-11-13 21:30:00_美国：核心CPI(报告期:2025年10月)",
       "event_date": "2025-11-13",
       "event_time": "21:30:00",
@@ -224,16 +364,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "美国：核心CPI(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-19T14:12:53.722349"
+      "created_at": "2025-10-20T14:15:26.751174"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113213000_1176737336313832173",
+      "event_id": "em_jjsj_20251113213000_588093139533077932",
       "original_id": "2025-11-13 21:30:00_美国：核心CPI：季调：当月同比(报告期:2025年10月)",
       "event_date": "2025-11-13",
       "event_time": "21:30:00",
@@ -249,16 +389,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "美国：核心CPI：季调：当月同比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-19T14:12:53.722356"
+      "created_at": "2025-10-20T14:15:26.751181"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113213000_457991381009819634",
+      "event_id": "em_jjsj_20251113213000_-312570473551378345",
       "original_id": "2025-11-13 21:30:00_美国：核心CPI：季调：环比(报告期:2025年10月)",
       "event_date": "2025-11-13",
       "event_time": "21:30:00",
@@ -274,16 +414,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "美国：核心CPI：季调：环比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-19T14:12:53.722363"
+      "created_at": "2025-10-20T14:15:26.751188"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251113213000_2214770235347199425",
+      "event_id": "em_jjsj_20251113213000_5114006638237964700",
       "original_id": "2025-11-13 21:30:00_美国：CPI：季调：环比(报告期:2025年10月)",
       "event_date": "2025-11-13",
       "event_time": "21:30:00",
@@ -299,12 +439,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "美国：CPI：季调：环比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-19T14:12:53.722370"
+      "created_at": "2025-10-20T14:15:26.751196"
     }
   ]
 }
