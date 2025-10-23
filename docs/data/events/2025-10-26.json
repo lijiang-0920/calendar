@@ -1,11 +1,12 @@
 {
   "date": "2025-10-26",
-  "total_events": 3,
-  "new_events": 0,
+  "total_events": 6,
+  "new_events": 3,
   "platforms": {
-    "cls": 1,
+    "cls": 2,
     "jiuyangongshe": 1,
-    "tonghuashun": 1
+    "tonghuashun": 2,
+    "eastmoney": 1
   },
   "events": [
     {
@@ -26,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-22",
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "id": 327124,
         "calendar_time": "2025-10-26 00:00:00",
@@ -42,7 +43,43 @@
         "holiday": null,
         "title": "老铺黄金将于10月26日进行产品调价"
       },
-      "created_at": "2025-10-22T14:17:05.485641"
+      "created_at": "2025-10-23T14:16:17.768205"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_327772_20251026_2",
+      "original_id": "327772",
+      "event_date": "2025-10-26",
+      "event_time": "08:00:00",
+      "event_datetime": "2025-10-26 08:00:00",
+      "title": "第47届东盟峰会举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "马来西亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
+      "raw_data": {
+        "id": 327772,
+        "calendar_time": "2025-10-26 08:00:00",
+        "data_id": 19712,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "第47届东盟峰会举行",
+          "country": "马来西亚",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "第47届东盟峰会举行"
+      },
+      "created_at": "2025-10-23T14:16:17.768215"
     },
     {
       "platform": "jiuyangongshe",
@@ -64,7 +101,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-22",
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "article_id": "aa4238786f6740e9bbbd30f0a028a37b",
         "user_id": "1",
@@ -94,12 +131,42 @@
           ]
         }
       },
-      "created_at": "2025-10-22T14:17:07.983098"
+      "created_at": "2025-10-23T14:16:19.998302"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251026_0_569706ac",
+      "event_id": "ths_20251026_0_cb3baf85",
       "original_id": "2025-10-26_0",
+      "event_date": "2025-10-26",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第47届东盟峰会举行",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
+      "raw_data": {
+        "event": [
+          "第47届东盟峰会举行",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-10-23T14:16:25.657790"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251026_1_569706ac",
+      "original_id": "2025-10-26_1",
       "event_date": "2025-10-26",
       "event_time": null,
       "event_datetime": null,
@@ -114,7 +181,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-22",
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "event": [
           "老铺黄金将于10月26日进行产品调价",
@@ -124,7 +191,38 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-22T14:17:14.117382"
+      "created_at": "2025-10-23T14:16:25.657799"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10865944",
+      "original_id": "10865944",
+      "event_date": "2025-10-26",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "老铺黄金将于10月26日进行产品调价",
+      "content": "10月17日,老铺黄金发布调价预告,将于2025年10月26日进行产品价格调整。产品调价详情,以线上线下门店产品实际标价为准。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
+      "raw_data": {
+        "fe_code": "10865944",
+        "fe_name": "老铺黄金将于10月26日进行产品调价",
+        "start_date": "2025-10-26",
+        "end_date": "2025-10-26",
+        "fe_type": "其他会议",
+        "sponsor": null,
+        "city": null,
+        "content": "10月17日,老铺黄金发布调价预告,将于2025年10月26日进行产品价格调整。产品调价详情,以线上线下门店产品实际标价为准。"
+      },
+      "created_at": "2025-10-23T14:16:55.811224"
     }
   ]
 }

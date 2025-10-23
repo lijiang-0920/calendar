@@ -1,12 +1,49 @@
 {
   "date": "2025-10-25",
-  "total_events": 4,
-  "new_events": 0,
+  "total_events": 5,
+  "new_events": 3,
   "platforms": {
-    "jiuyangongshe": 2,
-    "investing": 2
+    "cls": 1,
+    "jiuyangongshe": 3,
+    "tonghuashun": 1
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_328807_20251025_2",
+      "original_id": "328807",
+      "event_date": "2025-10-25",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-25 00:00:00",
+      "title": "2025卫星应用大会将于10月25日至27日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
+      "raw_data": {
+        "id": 328807,
+        "calendar_time": "2025-10-25 00:00:00",
+        "data_id": 19790,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025卫星应用大会将于10月25日至27日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025卫星应用大会将于10月25日至27日举办"
+      },
+      "created_at": "2025-10-23T14:16:17.768195"
+    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_cd97d32dfa484096adf9f7c625202082_416757db0ba342f682701aefd42e98ec_20251025",
@@ -25,7 +62,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-22",
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "article_id": "cd97d32dfa484096adf9f7c625202082",
         "user_id": "1",
@@ -50,7 +87,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-22T14:17:07.983062"
+      "created_at": "2025-10-23T14:16:19.998272"
     },
     {
       "platform": "jiuyangongshe",
@@ -70,14 +107,14 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-22",
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "article_id": "7348245f818844d1bbf13f814c15a218",
         "user_id": "1",
         "title": "2025国际量子光子学大会(QPhotoniX 2025)",
         "content": "",
-        "like_count": 0,
-        "comment_count": 0,
+        "like_count": 1,
+        "comment_count": 1,
         "forward_count": 0,
         "is_like": 0,
         "is_step": 0,
@@ -95,69 +132,89 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-22T14:17:07.983074"
+      "created_at": "2025-10-23T14:16:19.998279"
     },
     {
-      "platform": "investing",
-      "event_id": "inv__20251025010000",
-      "original_id": "eventRowId_533918",
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_389e0ba6789a4bbdb95ea50d7322637d_429704257e38472d834986f16af907be_20251025",
+      "original_id": "389e0ba6789a4bbdb95ea50d7322637d",
       "event_date": "2025-10-25",
-      "event_time": "01:00",
-      "event_datetime": "2025/10/25 01:00:00",
-      "title": "美国当周贝克休斯石油钻井总数(口)",
-      "content": "前值: 418",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "四川低空经济与应急保障科技创新成果应用大会",
+      "content": "",
       "category": null,
-      "importance": 2,
-      "country": "美国",
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "低空经济"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
+      "raw_data": {
+        "article_id": "389e0ba6789a4bbdb95ea50d7322637d",
+        "user_id": "1",
+        "title": "四川低空经济与应急保障科技创新成果应用大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "389e0ba6789a4bbdb95ea50d7322637d",
+          "timeline_id": "429704257e38472d834986f16af907be",
+          "date": "2025-10-25",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-10-23 21:36:45",
+          "theme_list": [
+            {
+              "timeline_theme_id": "bf041aa2b6524492a7ab6eeb7d7905b0",
+              "name": "低空经济"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-10-23T14:16:19.998286"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251025_0_367e371b",
+      "original_id": "2025-10-25_0",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025卫星应用大会将于10月25日至27日举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-22",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
       "raw_data": {
-        "event_id": "eventRowId_533918",
-        "event_attr_id": "",
-        "datetime": "2025/10/25 01:00:00",
-        "time": "01:00",
-        "country": "美国",
-        "importance": 2,
-        "event_name": "美国当周贝克休斯石油钻井总数(口)",
-        "previous": "418"
+        "event": [
+          "2025卫星应用大会将于10月25日至27日举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
       },
-      "created_at": "2025-10-22T14:17:17.749276"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251025010000",
-      "original_id": "eventRowId_533919",
-      "event_date": "2025-10-25",
-      "event_time": "01:00",
-      "event_datetime": "2025/10/25 01:00:00",
-      "title": "美国当周贝克休斯总钻井总数(口)",
-      "content": "前值: 548",
-      "category": null,
-      "importance": 2,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-22",
-      "raw_data": {
-        "event_id": "eventRowId_533919",
-        "event_attr_id": "",
-        "datetime": "2025/10/25 01:00:00",
-        "time": "01:00",
-        "country": "美国",
-        "importance": 2,
-        "event_name": "美国当周贝克休斯总钻井总数(口)",
-        "previous": "548"
-      },
-      "created_at": "2025-10-22T14:17:17.749422"
+      "created_at": "2025-10-23T14:16:25.657772"
     }
   ]
 }

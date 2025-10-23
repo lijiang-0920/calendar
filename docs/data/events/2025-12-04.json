@@ -1,14 +1,14 @@
 {
   "date": "2025-12-04",
-  "total_events": 8,
-  "new_events": 0,
+  "total_events": 10,
+  "new_events": 10,
   "platforms": {
-    "eastmoney": 8
+    "eastmoney": 10
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204000000_-8678268979649050018",
+      "event_id": "em_jjsj_20251204000000_-6024999766918230632",
       "original_id": "2025-12-04 00:00:00_中国：库存:电解铝:保税区(报告期:2025年12月)",
       "event_date": "2025-12-04",
       "event_time": null,
@@ -23,17 +23,67 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "Name": "中国：库存:电解铝:保税区(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-10-20T14:15:26.752242"
+      "created_at": "2025-10-23T14:16:55.809882"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204210000_3657950074381556029",
+      "event_id": "em_jjsj_20251204000000_-8977348858045658956",
+      "original_id": "2025-12-04 00:00:00_泰国：PPI(报告期:2025年11月)",
+      "event_date": "2025-12-04",
+      "event_time": null,
+      "event_datetime": "2025-12-04 00:00:00",
+      "title": "泰国：PPI(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "泰国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
+      "raw_data": {
+        "Name": "泰国：PPI(报告期:2025年11月)",
+        "City": "泰国"
+      },
+      "created_at": "2025-10-23T14:16:55.809889"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251204120000_5743280442833200633",
+      "original_id": "2025-12-04 12:00:00_泰国：CPI：同比(报告期:2025年11月)",
+      "event_date": "2025-12-04",
+      "event_time": "12:00:00",
+      "event_datetime": "2025-12-04 12:00:00",
+      "title": "泰国：CPI：同比(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "泰国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
+      "raw_data": {
+        "Name": "泰国：CPI：同比(报告期:2025年11月)",
+        "City": "泰国"
+      },
+      "created_at": "2025-10-23T14:16:55.809897"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251204210000_-7405279421972661926",
       "original_id": "2025-12-04 21:00:00_巴西：GDP：现价：同比(报告期:2025年09月)",
       "event_date": "2025-12-04",
       "event_time": "21:00:00",
@@ -48,17 +98,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "Name": "巴西：GDP：现价：同比(报告期:2025年09月)",
         "City": "巴西"
       },
-      "created_at": "2025-10-20T14:15:26.752250"
+      "created_at": "2025-10-23T14:16:55.809904"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_870865683692604722",
+      "event_id": "em_jjsj_20251204213000_5569433032373311281",
       "original_id": "2025-12-04 21:30:00_美国：货物进口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -73,17 +123,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "Name": "美国：货物进口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-20T14:15:26.752258"
+      "created_at": "2025-10-23T14:16:55.809912"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_-7377367730733165007",
+      "event_id": "em_jjsj_20251204213000_7443219204706125881",
       "original_id": "2025-12-04 21:30:00_美国：货物出口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -98,17 +148,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "Name": "美国：货物出口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-20T14:15:26.752265"
+      "created_at": "2025-10-23T14:16:55.809919"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_3463849905744583738",
+      "event_id": "em_jjsj_20251204213000_6227100290224936778",
       "original_id": "2025-12-04 21:30:00_美国：对外贸易差额(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -123,17 +173,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "Name": "美国：对外贸易差额(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-20T14:15:26.752272"
+      "created_at": "2025-10-23T14:16:55.809926"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_-6071893474106214915",
+      "event_id": "em_jjsj_20251204213000_6706244744961482569",
       "original_id": "2025-12-04 21:30:00_加拿大：商品出口金额(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -148,17 +198,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "Name": "加拿大：商品出口金额(报告期:2025年10月)",
         "City": "加拿大"
       },
-      "created_at": "2025-10-20T14:15:26.752280"
+      "created_at": "2025-10-23T14:16:55.809933"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_-7182501317912711434",
+      "event_id": "em_jjsj_20251204213000_-1432451597192810050",
       "original_id": "2025-12-04 21:30:00_加拿大：商品进口金额(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -173,17 +223,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "Name": "加拿大：商品进口金额(报告期:2025年10月)",
         "City": "加拿大"
       },
-      "created_at": "2025-10-20T14:15:26.752287"
+      "created_at": "2025-10-23T14:16:55.809940"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_-2447913569491986344",
+      "event_id": "em_jjsj_20251204213000_-3031448969928456916",
       "original_id": "2025-12-04 21:30:00_加拿大：商品贸易顺差(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -198,13 +248,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-23",
       "raw_data": {
         "Name": "加拿大：商品贸易顺差(报告期:2025年10月)",
         "City": "加拿大"
       },
-      "created_at": "2025-10-20T14:15:26.752294"
+      "created_at": "2025-10-23T14:16:55.809947"
     }
   ]
 }
