@@ -1,11 +1,13 @@
 {
   "date": "2025-10-25",
-  "total_events": 5,
-  "new_events": 3,
+  "total_events": 12,
+  "new_events": 7,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 3,
-    "tonghuashun": 1
+    "tonghuashun": 1,
+    "investing": 2,
+    "eastmoney": 5
   },
   "events": [
     {
@@ -25,8 +27,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-23",
+      "is_new": false,
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "id": 328807,
         "calendar_time": "2025-10-25 00:00:00",
@@ -42,7 +44,7 @@
         "holiday": null,
         "title": "2025卫星应用大会将于10月25日至27日举办"
       },
-      "created_at": "2025-10-23T14:16:17.768195"
+      "created_at": "2025-10-24T14:16:21.627147"
     },
     {
       "platform": "jiuyangongshe",
@@ -62,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "article_id": "cd97d32dfa484096adf9f7c625202082",
         "user_id": "1",
@@ -87,7 +89,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-23T14:16:19.998272"
+      "created_at": "2025-10-24T14:16:24.015849"
     },
     {
       "platform": "jiuyangongshe",
@@ -107,7 +109,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "article_id": "7348245f818844d1bbf13f814c15a218",
         "user_id": "1",
@@ -132,7 +134,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-23T14:16:19.998279"
+      "created_at": "2025-10-24T14:16:24.015857"
     },
     {
       "platform": "jiuyangongshe",
@@ -153,8 +155,8 @@
         "低空经济"
       ],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-23",
+      "is_new": false,
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "article_id": "389e0ba6789a4bbdb95ea50d7322637d",
         "user_id": "1",
@@ -184,7 +186,7 @@
           ]
         }
       },
-      "created_at": "2025-10-23T14:16:19.998286"
+      "created_at": "2025-10-24T14:16:24.015865"
     },
     {
       "platform": "tonghuashun",
@@ -203,8 +205,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-23",
+      "is_new": false,
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "event": [
           "2025卫星应用大会将于10月25日至27日举办",
@@ -214,7 +216,214 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-23T14:16:25.657772"
+      "created_at": "2025-10-24T14:16:30.219704"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251025010000",
+      "original_id": "eventRowId_533918",
+      "event_date": "2025-10-25",
+      "event_time": "01:00",
+      "event_datetime": "2025/10/25 01:00:00",
+      "title": "美国当周贝克休斯石油钻井总数(口)",
+      "content": "前值: 418",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "event_id": "eventRowId_533918",
+        "event_attr_id": "",
+        "datetime": "2025/10/25 01:00:00",
+        "time": "01:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国当周贝克休斯石油钻井总数(口)",
+        "previous": "418"
+      },
+      "created_at": "2025-10-24T14:16:37.171187"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251025010000",
+      "original_id": "eventRowId_533919",
+      "event_date": "2025-10-25",
+      "event_time": "01:00",
+      "event_datetime": "2025/10/25 01:00:00",
+      "title": "美国当周贝克休斯总钻井总数(口)",
+      "content": "前值: 548",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "event_id": "eventRowId_533919",
+        "event_attr_id": "",
+        "datetime": "2025/10/25 01:00:00",
+        "time": "01:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国当周贝克休斯总钻井总数(口)",
+        "previous": "548"
+      },
+      "created_at": "2025-10-24T14:16:37.171336"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_000756_20251025_0",
+      "original_id": "000756",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "新华制药发布公告",
+      "content": "股票代码: 000756, 股票名称: 新华制药",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000756"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "stock_code": "000756",
+        "stock_name": "新华制药",
+        "date": "2025-10-25",
+        "total_count": 2880
+      },
+      "created_at": "2025-10-24T14:16:49.577800"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_002421_20251025_1",
+      "original_id": "002421",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "达实智能发布公告",
+      "content": "股票代码: 002421, 股票名称: 达实智能",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002421"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "stock_code": "002421",
+        "stock_name": "达实智能",
+        "date": "2025-10-25",
+        "total_count": 2880
+      },
+      "created_at": "2025-10-24T14:16:49.577807"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_600539_20251025_2",
+      "original_id": "600539",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "狮头股份发布公告",
+      "content": "股票代码: 600539, 股票名称: 狮头股份",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "600539"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "stock_code": "600539",
+        "stock_name": "狮头股份",
+        "date": "2025-10-25",
+        "total_count": 2880
+      },
+      "created_at": "2025-10-24T14:16:49.577813"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_688778_20251025_3",
+      "original_id": "688778",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "厦钨新能发布公告",
+      "content": "股票代码: 688778, 股票名称: 厦钨新能",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688778"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "stock_code": "688778",
+        "stock_name": "厦钨新能",
+        "date": "2025-10-25",
+        "total_count": 2880
+      },
+      "created_at": "2025-10-24T14:16:49.577820"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_688063_20251025_4",
+      "original_id": "688063",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "派能科技发布公告",
+      "content": "股票代码: 688063, 股票名称: 派能科技",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688063"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "stock_code": "688063",
+        "stock_name": "派能科技",
+        "date": "2025-10-25",
+        "total_count": 2880
+      },
+      "created_at": "2025-10-24T14:16:49.577826"
     }
   ]
 }
