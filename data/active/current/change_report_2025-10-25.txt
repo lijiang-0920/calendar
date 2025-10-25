@@ -1,0 +1,51 @@
+{
+  "detection_time": "2025-10-25T14:13:36.652937",
+  "summary": {
+    "total_new": 1,
+    "total_updated": 24,
+    "total_cancelled": 474
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 6,
+      "sample_new_titles": []
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 1,
+      "updated_events": 24,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "美国未季调CPI月率 (月度环比)  (十月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 467,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "investing",
+      "date": "2025-11-13",
+      "title": "美国未季调CPI月率 (月度环比)  (十月)",
+      "importance": 1,
+      "country": "美国"
+    }
+  ]
+}

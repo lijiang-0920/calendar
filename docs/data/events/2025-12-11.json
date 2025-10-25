@@ -1,10 +1,9 @@
 {
   "date": "2025-12-11",
-  "total_events": 11,
+  "total_events": 4,
   "new_events": 0,
   "platforms": {
-    "investing": 4,
-    "eastmoney": 7
+    "investing": 4
   },
   "events": [
     {
@@ -25,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-24",
+      "discovery_date": "2025-10-25",
       "raw_data": {
         "event_id": "eventRowId_532299",
         "event_attr_id": "",
@@ -35,7 +34,7 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-10-24T14:16:44.104866"
+      "created_at": "2025-10-25T14:13:23.544783"
     },
     {
       "platform": "investing",
@@ -55,7 +54,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-24",
+      "discovery_date": "2025-10-25",
       "raw_data": {
         "event_id": "eventRowId_532137",
         "event_attr_id": "",
@@ -66,7 +65,7 @@
         "event_name": "美国联邦基金利率预测-3年  (第一季度)",
         "previous": "3.1%"
       },
-      "created_at": "2025-10-24T14:16:44.105002"
+      "created_at": "2025-10-25T14:13:23.544922"
     },
     {
       "platform": "investing",
@@ -86,7 +85,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-24",
+      "discovery_date": "2025-10-25",
       "raw_data": {
         "event_id": "eventRowId_514607",
         "event_attr_id": "",
@@ -96,7 +95,7 @@
         "importance": 3,
         "event_name": "美联储利率决议"
       },
-      "created_at": "2025-10-24T14:16:44.105119"
+      "created_at": "2025-10-25T14:13:23.545041"
     },
     {
       "platform": "investing",
@@ -116,7 +115,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-24",
+      "discovery_date": "2025-10-25",
       "raw_data": {
         "event_id": "eventRowId_517584",
         "event_attr_id": "",
@@ -126,182 +125,7 @@
         "importance": 2,
         "event_name": "石油输出国组织(OPEC)月报"
       },
-      "created_at": "2025-10-24T14:16:44.105352"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251211000000_3896811561176689255",
-      "original_id": "2025-12-11 00:00:00_中国：库存:电解铝:保税区(报告期:2025年12月)",
-      "event_date": "2025-12-11",
-      "event_time": null,
-      "event_datetime": "2025-12-11 00:00:00",
-      "title": "中国：库存:电解铝:保税区(报告期:2025年12月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-24",
-      "raw_data": {
-        "Name": "中国：库存:电解铝:保税区(报告期:2025年12月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-24T14:16:49.580456"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251211030000_-8549398566971327064",
-      "original_id": "2025-12-11 03:00:00_美国:联邦基金利率目标:上限(报告期:2025年12月)",
-      "event_date": "2025-12-11",
-      "event_time": "03:00:00",
-      "event_datetime": "2025-12-11 03:00:00",
-      "title": "美国:联邦基金利率目标:上限(报告期:2025年12月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-24",
-      "raw_data": {
-        "Name": "美国:联邦基金利率目标:上限(报告期:2025年12月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-24T14:16:49.580464"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251211030000_-6535758617419405478",
-      "original_id": "2025-12-11 03:00:00_美国:联邦基金利率目标:下限(报告期:2025年12月)",
-      "event_date": "2025-12-11",
-      "event_time": "03:00:00",
-      "event_datetime": "2025-12-11 03:00:00",
-      "title": "美国:联邦基金利率目标:下限(报告期:2025年12月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-24",
-      "raw_data": {
-        "Name": "美国:联邦基金利率目标:下限(报告期:2025年12月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-24T14:16:49.580471"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251211163000_-3600986618577936589",
-      "original_id": "2025-12-11 16:30:00_瑞士：央行公布利率决议(报告期:2025年12月)",
-      "event_date": "2025-12-11",
-      "event_time": "16:30:00",
-      "event_datetime": "2025-12-11 16:30:00",
-      "title": "瑞士：央行公布利率决议(报告期:2025年12月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "瑞士",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-24",
-      "raw_data": {
-        "Name": "瑞士：央行公布利率决议(报告期:2025年12月)",
-        "City": "瑞士"
-      },
-      "created_at": "2025-10-24T14:16:49.580479"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251211213000_-5216618665525604992",
-      "original_id": "2025-12-11 21:30:00_美国：核心PPI：季调：环比(报告期:2025年11月)",
-      "event_date": "2025-12-11",
-      "event_time": "21:30:00",
-      "event_datetime": "2025-12-11 21:30:00",
-      "title": "美国：核心PPI：季调：环比(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-24",
-      "raw_data": {
-        "Name": "美国：核心PPI：季调：环比(报告期:2025年11月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-24T14:16:49.580487"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251211213000_-4544937631692371941",
-      "original_id": "2025-12-11 21:30:00_美国：PPI：季调：环比(报告期:2025年11月)",
-      "event_date": "2025-12-11",
-      "event_time": "21:30:00",
-      "event_datetime": "2025-12-11 21:30:00",
-      "title": "美国：PPI：季调：环比(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-24",
-      "raw_data": {
-        "Name": "美国：PPI：季调：环比(报告期:2025年11月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-24T14:16:49.580495"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251211213000_-3324295662121897493",
-      "original_id": "2025-12-11 21:30:00_美国：核心PPI：非季调：同比(报告期:2025年11月)",
-      "event_date": "2025-12-11",
-      "event_time": "21:30:00",
-      "event_datetime": "2025-12-11 21:30:00",
-      "title": "美国：核心PPI：非季调：同比(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-24",
-      "raw_data": {
-        "Name": "美国：核心PPI：非季调：同比(报告期:2025年11月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-24T14:16:49.580502"
+      "created_at": "2025-10-25T14:13:23.545157"
     }
   ]
 }
