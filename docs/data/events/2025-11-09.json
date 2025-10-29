@@ -1,13 +1,12 @@
 {
   "date": "2025-11-09",
-  "total_events": 17,
-  "new_events": 0,
+  "total_events": 11,
+  "new_events": 2,
   "platforms": {
-    "cls": 2,
+    "cls": 3,
     "jiuyangongshe": 2,
-    "tonghuashun": 2,
-    "investing": 3,
-    "eastmoney": 8
+    "tonghuashun": 3,
+    "investing": 3
   },
   "events": [
     {
@@ -28,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "id": 327839,
         "calendar_time": "2025-11-09 00:00:00",
@@ -44,7 +43,7 @@
         "holiday": null,
         "title": "自11月9日起，上海-德里航线时隔五年复航，每周三班，由空客A330执飞"
       },
-      "created_at": "2025-10-28T14:16:43.594454"
+      "created_at": "2025-10-29T14:16:32.803536"
     },
     {
       "platform": "cls",
@@ -64,7 +63,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "id": 327841,
         "calendar_time": "2025-11-09 00:00:00",
@@ -80,7 +79,43 @@
         "holiday": null,
         "title": "京东宣布联合宁德时代旗下的时代电服和广汽集团，在11月9日共同推出一款新车"
       },
-      "created_at": "2025-10-28T14:16:43.594464"
+      "created_at": "2025-10-29T14:16:32.803546"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_336955_20251109_2",
+      "original_id": "336955",
+      "event_date": "2025-11-09",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-09 00:00:00",
+      "title": "第十五届全国运动会将于11月9日至21日举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "id": 336955,
+        "calendar_time": "2025-11-09 00:00:00",
+        "data_id": 19908,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "第十五届全国运动会将于11月9日至21日举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "第十五届全国运动会将于11月9日至21日举行"
+      },
+      "created_at": "2025-10-29T14:16:32.803555"
     },
     {
       "platform": "jiuyangongshe",
@@ -100,7 +135,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "article_id": "1zu1arcajbh",
         "user_id": "53c4a4d50e1b46d189a181a7801ad5a8",
@@ -125,7 +160,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-28T14:16:47.425703"
+      "created_at": "2025-10-29T14:16:36.998844"
     },
     {
       "platform": "jiuyangongshe",
@@ -145,7 +180,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "article_id": "b1bbd542813b4806af246138cea8d4bb",
         "user_id": "1",
@@ -170,7 +205,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-28T14:16:47.425713"
+      "created_at": "2025-10-29T14:16:36.998852"
     },
     {
       "platform": "tonghuashun",
@@ -195,7 +230,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "event": [
           "自11月9日起，上海-德里航线时隔五年复航，每周三班，由空客A330执飞",
@@ -211,7 +246,7 @@
           }
         ]
       },
-      "created_at": "2025-10-28T14:16:52.057449"
+      "created_at": "2025-10-29T14:16:42.059066"
     },
     {
       "platform": "tonghuashun",
@@ -236,7 +271,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "event": [
           "京东宣布联合宁德时代旗下的时代电服和广汽集团，在11月9日共同推出一款新车",
@@ -252,17 +287,17 @@
           }
         ]
       },
-      "created_at": "2025-10-28T14:16:52.057461"
+      "created_at": "2025-10-29T14:16:42.059076"
     },
     {
-      "platform": "investing",
-      "event_id": "inv__20251109093000",
-      "original_id": "eventRowId_534173",
+      "platform": "tonghuashun",
+      "event_id": "ths_20251109_2_9a4c5210",
+      "original_id": "2025-11-09_2",
       "event_date": "2025-11-09",
-      "event_time": "09:30",
-      "event_datetime": "2025/11/09 09:30:00",
-      "title": "中国CPI月率(%) (月度环比)  (十月)",
-      "content": "前值: 0.1%",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第十五届全国运动会将于11月9日至21日举行",
+      "content": null,
       "category": null,
       "importance": 3,
       "country": "中国",
@@ -271,19 +306,18 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-28",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
       "raw_data": {
-        "event_id": "eventRowId_534173",
-        "event_attr_id": "",
-        "datetime": "2025/11/09 09:30:00",
-        "time": "09:30",
-        "country": "中国",
-        "importance": 3,
-        "event_name": "中国CPI月率(%) (月度环比)  (十月)",
-        "previous": "0.1%"
+        "event": [
+          "第十五届全国运动会将于11月9日至21日举行",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
       },
-      "created_at": "2025-10-28T14:16:57.874446"
+      "created_at": "2025-10-29T14:16:42.059085"
     },
     {
       "platform": "investing",
@@ -303,7 +337,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "event_id": "eventRowId_534174",
         "event_attr_id": "",
@@ -314,7 +348,38 @@
         "event_name": "中国CPI年率(%) (同比)  (十月)",
         "previous": "-0.3%"
       },
-      "created_at": "2025-10-28T14:16:57.874582"
+      "created_at": "2025-10-29T14:16:46.058461"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251109093000",
+      "original_id": "eventRowId_534173",
+      "event_date": "2025-11-09",
+      "event_time": "09:30",
+      "event_datetime": "2025/11/09 09:30:00",
+      "title": "中国CPI月率(%) (月度环比)  (十月)",
+      "content": "前值: 0.1%",
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534173",
+        "event_attr_id": "",
+        "datetime": "2025/11/09 09:30:00",
+        "time": "09:30",
+        "country": "中国",
+        "importance": 3,
+        "event_name": "中国CPI月率(%) (月度环比)  (十月)",
+        "previous": "0.1%"
+      },
+      "created_at": "2025-10-29T14:16:46.058590"
     },
     {
       "platform": "investing",
@@ -334,7 +399,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "event_id": "eventRowId_534175",
         "event_attr_id": "",
@@ -345,219 +410,7 @@
         "event_name": "中国PPI年率(%) (同比)  (十月)",
         "previous": "-2.3%"
       },
-      "created_at": "2025-10-28T14:16:57.874720"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-2437786833134283400",
-      "original_id": "2025-11-09 09:30:00_中国：CPI:累计同比(报告期:2025年10月)",
-      "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：CPI:累计同比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-28",
-      "raw_data": {
-        "Name": "中国：CPI:累计同比(报告期:2025年10月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-28T14:17:18.775055"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-7098096318232400222",
-      "original_id": "2025-11-09 09:30:00_中国：CPI:当月同比(报告期:2025年10月)",
-      "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：CPI:当月同比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-28",
-      "raw_data": {
-        "Name": "中国：CPI:当月同比(报告期:2025年10月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-28T14:17:18.775062"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_7186860056618335229",
-      "original_id": "2025-11-09 09:30:00_中国：CPI:环比(报告期:2025年10月)",
-      "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：CPI:环比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-28",
-      "raw_data": {
-        "Name": "中国：CPI:环比(报告期:2025年10月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-28T14:17:18.775069"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_4593270408492992721",
-      "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
-      "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-28",
-      "raw_data": {
-        "Name": "中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-28T14:17:18.775076"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-9158139251922808001",
-      "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:环比(报告期:2025年10月)",
-      "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：PPI:全部工业品:环比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-28",
-      "raw_data": {
-        "Name": "中国：PPI:全部工业品:环比(报告期:2025年10月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-28T14:17:18.775084"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-1531898032896833613",
-      "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
-      "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-28",
-      "raw_data": {
-        "Name": "中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-28T14:17:18.775091"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10866035",
-      "original_id": "10866035",
-      "event_date": "2025-11-09",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "自11月9日起,上海-德里航线时隔五年复航,每周三班,由空客A330执飞",
-      "content": "东航日前宣布开售中印航线机票,自11月9日起,上海-德里航线时隔五年复航,每周三班,由空客A330执飞。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-28",
-      "raw_data": {
-        "fe_code": "10866035",
-        "fe_name": "自11月9日起,上海-德里航线时隔五年复航,每周三班,由空客A330执飞",
-        "start_date": "2025-11-09",
-        "end_date": "2025-11-09",
-        "fe_type": "其他会议",
-        "sponsor": null,
-        "city": null,
-        "content": "东航日前宣布开售中印航线机票,自11月9日起,上海-德里航线时隔五年复航,每周三班,由空客A330执飞。"
-      },
-      "created_at": "2025-10-28T14:17:18.777746"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10866036",
-      "original_id": "10866036",
-      "event_date": "2025-11-09",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "京东宣布联合宁德时代旗下的时代电服和广汽集团,在11月9日共同推出一款新车",
-      "content": "京东宣布,联合广汽、宁德时代将推出一款汽车,官方将在10月底陆续开启内测版、大众版试驾活动,11月9日新车正式官宣发布。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-28",
-      "raw_data": {
-        "fe_code": "10866036",
-        "fe_name": "京东宣布联合宁德时代旗下的时代电服和广汽集团,在11月9日共同推出一款新车",
-        "start_date": "2025-11-09",
-        "end_date": "2025-11-09",
-        "fe_type": "其他会议",
-        "sponsor": null,
-        "city": null,
-        "content": "京东宣布,联合广汽、宁德时代将推出一款汽车,官方将在10月底陆续开启内测版、大众版试驾活动,11月9日新车正式官宣发布。"
-      },
-      "created_at": "2025-10-28T14:17:18.777755"
+      "created_at": "2025-10-29T14:16:46.058709"
     }
   ]
 }
