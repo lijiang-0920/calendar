@@ -1,11 +1,12 @@
 {
   "date": "2025-11-21",
-  "total_events": 4,
-  "new_events": 3,
+  "total_events": 18,
+  "new_events": 14,
   "platforms": {
     "cls": 2,
     "jiuyangongshe": 1,
-    "tonghuashun": 1
+    "tonghuashun": 1,
+    "eastmoney": 14
   },
   "events": [
     {
@@ -25,8 +26,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-29",
+      "is_new": false,
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "id": 336857,
         "calendar_time": "2025-11-21 00:00:00",
@@ -42,7 +43,7 @@
         "holiday": null,
         "title": "中国稀土学会2025学术年会暨稀土新材料与仪器设备展览会定于11月21日至24日在福建省厦门市召开"
       },
-      "created_at": "2025-10-29T14:16:32.803761"
+      "created_at": "2025-10-30T14:16:27.036098"
     },
     {
       "platform": "cls",
@@ -61,8 +62,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-29",
+      "is_new": false,
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "id": 336860,
         "calendar_time": "2025-11-21 00:00:00",
@@ -78,7 +79,7 @@
         "holiday": null,
         "title": "2025第二十三届广州国际汽车展览会将于11月21日至30日举办"
       },
-      "created_at": "2025-10-29T14:16:32.803771"
+      "created_at": "2025-10-30T14:16:27.036108"
     },
     {
       "platform": "jiuyangongshe",
@@ -100,7 +101,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "article_id": "e8115b7736f64baf91c569ddfbb9069b",
         "user_id": "1",
@@ -130,7 +131,7 @@
           ]
         }
       },
-      "created_at": "2025-10-29T14:16:36.998978"
+      "created_at": "2025-10-30T14:16:31.849414"
     },
     {
       "platform": "tonghuashun",
@@ -149,8 +150,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-29",
+      "is_new": false,
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "event": [
           "2025第二十三届广州国际汽车展览会将于11月21日至30日举办",
@@ -160,7 +161,369 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-29T14:16:42.059283"
+      "created_at": "2025-10-30T14:16:37.518426"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121000000_-7854357980646269228",
+      "original_id": "2025-11-21 00:00:00_俄罗斯：M2(报告期:2025年11月)",
+      "event_date": "2025-11-21",
+      "event_time": null,
+      "event_datetime": "2025-11-21 00:00:00",
+      "title": "俄罗斯：M2(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "俄罗斯",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "俄罗斯：M2(报告期:2025年11月)",
+        "City": "俄罗斯"
+      },
+      "created_at": "2025-10-30T14:16:51.911220"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121000000_3190613395109062640",
+      "original_id": "2025-11-21 00:00:00_中国澳门：CPI：综合：同比(报告期:2025年10月)",
+      "event_date": "2025-11-21",
+      "event_time": null,
+      "event_datetime": "2025-11-21 00:00:00",
+      "title": "中国澳门：CPI：综合：同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国澳门",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "中国澳门：CPI：综合：同比(报告期:2025年10月)",
+        "City": "中国澳门"
+      },
+      "created_at": "2025-10-30T14:16:51.911228"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121050000_-6631006104284569840",
+      "original_id": "2025-11-21 05:00:00_韩国：PPI：同比(报告期:2025年10月)",
+      "event_date": "2025-11-21",
+      "event_time": "05:00:00",
+      "event_datetime": "2025-11-21 05:00:00",
+      "title": "韩国：PPI：同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "韩国：PPI：同比(报告期:2025年10月)",
+        "City": "韩国"
+      },
+      "created_at": "2025-10-30T14:16:51.911236"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121050000_-5567140066035610800",
+      "original_id": "2025-11-21 05:00:00_韩国：PPI：环比 (报告期:2025年10月)",
+      "event_date": "2025-11-21",
+      "event_time": "05:00:00",
+      "event_datetime": "2025-11-21 05:00:00",
+      "title": "韩国：PPI：环比 (报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "韩国：PPI：环比 (报告期:2025年10月)",
+        "City": "韩国"
+      },
+      "created_at": "2025-10-30T14:16:51.911242"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121073000_3534577864325437424",
+      "original_id": "2025-11-21 07:30:00_日本：CPI：同比(报告期:2025年10月)",
+      "event_date": "2025-11-21",
+      "event_time": "07:30:00",
+      "event_datetime": "2025-11-21 07:30:00",
+      "title": "日本：CPI：同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "日本：CPI：同比(报告期:2025年10月)",
+        "City": "日本"
+      },
+      "created_at": "2025-10-30T14:16:51.911250"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121073000_-6302915919904185178",
+      "original_id": "2025-11-21 07:30:00_日本：核心CPI：同比(报告期:2025年10月)",
+      "event_date": "2025-11-21",
+      "event_time": "07:30:00",
+      "event_datetime": "2025-11-21 07:30:00",
+      "title": "日本：核心CPI：同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "日本：核心CPI：同比(报告期:2025年10月)",
+        "City": "日本"
+      },
+      "created_at": "2025-10-30T14:16:51.911257"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121120000_-7840348664241124898",
+      "original_id": "2025-11-21 12:00:00_马来西亚：CPI：同比(报告期:2025年10月)",
+      "event_date": "2025-11-21",
+      "event_time": "12:00:00",
+      "event_datetime": "2025-11-21 12:00:00",
+      "title": "马来西亚：CPI：同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "马来西亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "马来西亚：CPI：同比(报告期:2025年10月)",
+        "City": "马来西亚"
+      },
+      "created_at": "2025-10-30T14:16:51.911264"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121150000_-7860269062091613445",
+      "original_id": "2025-11-21 15:00:00_英国：政府经常账预算(报告期:2025年10月)",
+      "event_date": "2025-11-21",
+      "event_time": "15:00:00",
+      "event_datetime": "2025-11-21 15:00:00",
+      "title": "英国：政府经常账预算(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "英国：政府经常账预算(报告期:2025年10月)",
+        "City": "英国"
+      },
+      "created_at": "2025-10-30T14:16:51.911272"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121150000_-9145935958168553751",
+      "original_id": "2025-11-21 15:00:00_英国：政府净借款(报告期:2025年10月)",
+      "event_date": "2025-11-21",
+      "event_time": "15:00:00",
+      "event_datetime": "2025-11-21 15:00:00",
+      "title": "英国：政府净借款(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "英国：政府净借款(报告期:2025年10月)",
+        "City": "英国"
+      },
+      "created_at": "2025-10-30T14:16:51.911279"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121150000_-1838411278753445416",
+      "original_id": "2025-11-21 15:00:00_英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年10月)",
+      "event_date": "2025-11-21",
+      "event_time": "15:00:00",
+      "event_datetime": "2025-11-21 15:00:00",
+      "title": "英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年10月)",
+        "City": "英国"
+      },
+      "created_at": "2025-10-30T14:16:51.911285"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121150000_-7232221923185223158",
+      "original_id": "2025-11-21 15:00:00_英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年10月)",
+      "event_date": "2025-11-21",
+      "event_time": "15:00:00",
+      "event_datetime": "2025-11-21 15:00:00",
+      "title": "英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年10月)",
+        "City": "英国"
+      },
+      "created_at": "2025-10-30T14:16:51.911293"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251121150000_339397113027555284",
+      "original_id": "2025-11-21 15:00:00_英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年10月)",
+      "event_date": "2025-11-21",
+      "event_time": "15:00:00",
+      "event_datetime": "2025-11-21 15:00:00",
+      "title": "英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年10月)",
+        "City": "英国"
+      },
+      "created_at": "2025-10-30T14:16:51.911300"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866232",
+      "original_id": "10866232",
+      "event_date": "2025-11-21",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中国稀土学会2025学术年会暨稀土新材料与仪器设备展览会",
+      "content": "稀土是战略性矿产资源,为统筹产学研用等各方面力量,积极助力新一代绿色高效采选冶技术研发应用、高端稀土新材料攻关和产业化进程,开展高水平的稀土领域学术、技术、成果及产业信息交流,引领稀土学科发展,推动稀土成果转化和产品推广,推进稀土科技创新和产业创新深度融合,中国稀土学会将于2025年11月21-24日在福建省厦门市举办“中国稀土学会2025学术年会暨稀土新材料与仪器设备展览会”。本次会议将交流稀土领域基础研究、应用研究以及产业技术与市场等方面的最新进展,交流形式包括大会报告、分会场报告、墙报展示等。会议议题内容包括稀土地质、稀土资源开发与环保、稀土化学、稀土新材料及应用、稀土在结构材料和功能材料中应用、稀土新材料与人工智能、产业政策等领域。本次会议设置28个分会场,预计参会人数2000余人。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "厦门市",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "fe_code": "10866232",
+        "fe_name": "中国稀土学会2025学术年会暨稀土新材料与仪器设备展览会",
+        "start_date": "2025-11-21",
+        "end_date": "2025-11-24",
+        "fe_type": "行业会议",
+        "sponsor": "中国稀土学会",
+        "city": "厦门市",
+        "content": "稀土是战略性矿产资源,为统筹产学研用等各方面力量,积极助力新一代绿色高效采选冶技术研发应用、高端稀土新材料攻关和产业化进程,开展高水平的稀土领域学术、技术、成果及产业信息交流,引领稀土学科发展,推动稀土成果转化和产品推广,推进稀土科技创新和产业创新深度融合,中国稀土学会将于2025年11月21-24日在福建省厦门市举办“中国稀土学会2025学术年会暨稀土新材料与仪器设备展览会”。本次会议将交流稀土领域基础研究、应用研究以及产业技术与市场等方面的最新进展,交流形式包括大会报告、分会场报告、墙报展示等。会议议题内容包括稀土地质、稀土资源开发与环保、稀土化学、稀土新材料及应用、稀土在结构材料和功能材料中应用、稀土新材料与人工智能、产业政策等领域。本次会议设置28个分会场,预计参会人数2000余人。"
+      },
+      "created_at": "2025-10-30T14:16:51.914851"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866304",
+      "original_id": "10866304",
+      "event_date": "2025-11-21",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025第二十三届广州国际汽车展览会",
+      "content": "第二十三届广州国际汽车展览会将于2025年11月21日至30日在中国进出口商品交易会展馆举办。自2003年创办以来,广州车展见证了中国汽车产业的发展与壮大,在新形势下,广州车展更将助力中国新能源和智能网联汽车产业加速发展,为全球车市注入新动能,发挥“中国汽车市场发展风向标”的引领作用!",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "广州",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "fe_code": "10866304",
+        "fe_name": "2025第二十三届广州国际汽车展览会",
+        "start_date": "2025-11-21",
+        "end_date": "2025-11-30",
+        "fe_type": "行业会议",
+        "sponsor": "中国对外贸易中心,中国机械工业联合会,中国汽车工业协会,中国国际贸易促进委员会汽车行业分会",
+        "city": "广州",
+        "content": "第二十三届广州国际汽车展览会将于2025年11月21日至30日在中国进出口商品交易会展馆举办。自2003年创办以来,广州车展见证了中国汽车产业的发展与壮大,在新形势下,广州车展更将助力中国新能源和智能网联汽车产业加速发展,为全球车市注入新动能,发挥“中国汽车市场发展风向标”的引领作用!"
+      },
+      "created_at": "2025-10-30T14:16:51.914870"
     }
   ]
 }
