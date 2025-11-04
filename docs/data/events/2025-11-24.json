@@ -1,13 +1,59 @@
 {
   "date": "2025-11-24",
-  "total_events": 16,
-  "new_events": 12,
+  "total_events": 17,
+  "new_events": 2,
   "platforms": {
+    "cls": 1,
     "jiuyangongshe": 1,
     "investing": 12,
     "eastmoney": 3
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_345652_20251124_1",
+      "original_id": "345652",
+      "event_date": "2025-11-24",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-11-24 17:00:00",
+      "title": "德国11月IFO商业景气指数",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-04",
+      "raw_data": {
+        "id": 345652,
+        "calendar_time": "2025-11-24 17:00:00",
+        "data_id": 55942,
+        "type": 1,
+        "economic": {
+          "title": "德国11月IFO商业景气指数",
+          "country": "德国",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 237,
+          "front": "88.4",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "德国11月IFO商业景气指数"
+      },
+      "created_at": "2025-11-04T14:16:26.137388"
+    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_b264dfe588304692921b5d7ac9c9b985_654b123340d5443885378667e4bb0e7f_20251124",
@@ -26,7 +72,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "article_id": "b264dfe588304692921b5d7ac9c9b985",
         "user_id": "1",
@@ -51,7 +97,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-03T14:16:29.012097"
+      "created_at": "2025-11-04T14:16:28.108471"
     },
     {
       "platform": "investing",
@@ -70,8 +116,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_535047",
         "event_attr_id": "",
@@ -82,7 +128,7 @@
         "event_name": "新加坡核心CPI年率 (同比)  (十月)",
         "previous": "0.40%"
       },
-      "created_at": "2025-11-03T14:16:38.921620"
+      "created_at": "2025-11-04T14:16:36.232995"
     },
     {
       "platform": "investing",
@@ -101,8 +147,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_535046",
         "event_attr_id": "",
@@ -113,7 +159,7 @@
         "event_name": "CPI年率(%) (月度环比)  (十月)",
         "previous": "0.40%"
       },
-      "created_at": "2025-11-03T14:16:38.921752"
+      "created_at": "2025-11-04T14:16:36.233145"
     },
     {
       "platform": "investing",
@@ -132,8 +178,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_535048",
         "event_attr_id": "",
@@ -144,7 +190,7 @@
         "event_name": "新加坡CPI年率(%) (同比)  (十月)",
         "previous": "0.7%"
       },
-      "created_at": "2025-11-03T14:16:38.921883"
+      "created_at": "2025-11-04T14:16:36.233268"
     },
     {
       "platform": "investing",
@@ -163,8 +209,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_535060",
         "event_attr_id": "",
@@ -175,7 +221,7 @@
         "event_name": "瑞士非农就业人数(人)  (第三季度)",
         "previous": "5.532M"
       },
-      "created_at": "2025-11-03T14:16:38.921999"
+      "created_at": "2025-11-04T14:16:36.233384"
     },
     {
       "platform": "investing",
@@ -194,8 +240,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_535063",
         "event_attr_id": "",
@@ -206,7 +252,7 @@
         "event_name": "中国台湾失业率(%)  (十月)",
         "previous": "3.35%"
       },
-      "created_at": "2025-11-03T14:16:38.922112"
+      "created_at": "2025-11-04T14:16:36.233523"
     },
     {
       "platform": "investing",
@@ -225,8 +271,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_535064",
         "event_attr_id": "",
@@ -237,7 +283,7 @@
         "event_name": "欧元区货币供应M3年率(%)  (十月)",
         "previous": "66,302.9B"
       },
-      "created_at": "2025-11-03T14:16:38.922222"
+      "created_at": "2025-11-04T14:16:36.233643"
     },
     {
       "platform": "investing",
@@ -256,8 +302,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_535065",
         "event_attr_id": "",
@@ -268,7 +314,7 @@
         "event_name": "中国台湾M2货币供应年率(%)  (十月)",
         "previous": "5.44%"
       },
-      "created_at": "2025-11-03T14:16:38.922331"
+      "created_at": "2025-11-04T14:16:36.233758"
     },
     {
       "platform": "investing",
@@ -287,8 +333,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_535067",
         "event_attr_id": "",
@@ -299,7 +345,7 @@
         "event_name": "德国IFO商业预期指数  (十一月)",
         "previous": "91.6"
       },
-      "created_at": "2025-11-03T14:16:38.922442"
+      "created_at": "2025-11-04T14:16:36.233871"
     },
     {
       "platform": "investing",
@@ -318,8 +364,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_535066",
         "event_attr_id": "",
@@ -330,7 +376,7 @@
         "event_name": "德国IFO商业现况指数  (十一月)",
         "previous": "85.3"
       },
-      "created_at": "2025-11-03T14:16:38.922558"
+      "created_at": "2025-11-04T14:16:36.233982"
     },
     {
       "platform": "investing",
@@ -349,8 +395,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_535070",
         "event_attr_id": "",
@@ -361,38 +407,7 @@
         "event_name": "德国IFO商业景气指数  (十一月)",
         "previous": "88.4"
       },
-      "created_at": "2025-11-03T14:16:38.922670"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251124190000",
-      "original_id": "eventRowId_535077",
-      "event_date": "2025-11-24",
-      "event_time": "19:00",
-      "event_datetime": "2025/11/24 19:00:00",
-      "title": "英国CBI零售销售差值  (十一月)",
-      "content": "前值: -27",
-      "category": null,
-      "importance": 1,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
-      "raw_data": {
-        "event_id": "eventRowId_535077",
-        "event_attr_id": "",
-        "datetime": "2025/11/24 19:00:00",
-        "time": "19:00",
-        "country": "英国",
-        "importance": 1,
-        "event_name": "英国CBI零售销售差值  (十一月)",
-        "previous": "-27"
-      },
-      "created_at": "2025-11-03T14:16:38.922779"
+      "created_at": "2025-11-04T14:16:36.234093"
     },
     {
       "platform": "investing",
@@ -411,8 +426,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_535076",
         "event_attr_id": "",
@@ -423,11 +438,42 @@
         "event_name": "巴西瓦加斯基金会(FGV)消费者信心  (十一月)",
         "previous": "88.5"
       },
-      "created_at": "2025-11-03T14:16:38.922910"
+      "created_at": "2025-11-04T14:16:36.234208"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251124233000",
+      "original_id": "eventRowId_535086",
+      "event_date": "2025-11-24",
+      "event_time": "23:30",
+      "event_datetime": "2025/11/24 23:30:00",
+      "title": "美国达拉斯联储商业活动指数  (十一月)",
+      "content": "前值: -5.0",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-04",
+      "raw_data": {
+        "event_id": "eventRowId_535086",
+        "event_attr_id": "",
+        "datetime": "2025/11/24 23:30:00",
+        "time": "23:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国达拉斯联储商业活动指数  (十一月)",
+        "previous": "-5.0"
+      },
+      "created_at": "2025-11-04T14:16:36.234325"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251124130000_-8499093292228342956",
+      "event_id": "em_jjsj_20251124130000_-1012432254274062589",
       "original_id": "2025-11-24 13:00:00_新加坡：CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-24",
       "event_time": "13:00:00",
@@ -443,16 +489,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "新加坡：CPI：同比(报告期:2025年10月)",
         "City": "新加坡"
       },
-      "created_at": "2025-11-03T14:16:46.782499"
+      "created_at": "2025-11-04T14:16:43.344192"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251124173000_-2398870679402502442",
+      "event_id": "em_jjsj_20251124173000_-7357528556411650608",
       "original_id": "2025-11-24 17:30:00_德国：Ifo商业景气指数(报告期:2025年11月)",
       "event_date": "2025-11-24",
       "event_time": "17:30:00",
@@ -468,16 +514,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "德国：Ifo商业景气指数(报告期:2025年11月)",
         "City": "德国"
       },
-      "created_at": "2025-11-03T14:16:46.782507"
+      "created_at": "2025-11-04T14:16:43.344200"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251124173000_1975328928026148835",
+      "event_id": "em_jjsj_20251124173000_6125413647323822246",
       "original_id": "2025-11-24 17:30:00_德国：Ifo现况指数(报告期:2025年11月)",
       "event_date": "2025-11-24",
       "event_time": "17:30:00",
@@ -493,12 +539,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "德国：Ifo现况指数(报告期:2025年11月)",
         "City": "德国"
       },
-      "created_at": "2025-11-03T14:16:46.782538"
+      "created_at": "2025-11-04T14:16:43.344207"
     }
   ]
 }
