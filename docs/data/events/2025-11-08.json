@@ -1,12 +1,12 @@
 {
   "date": "2025-11-08",
-  "total_events": 15,
-  "new_events": 7,
+  "total_events": 24,
+  "new_events": 16,
   "platforms": {
     "cls": 1,
     "tonghuashun": 2,
-    "investing": 6,
-    "eastmoney": 6
+    "investing": 4,
+    "eastmoney": 17
   },
   "events": [
     {
@@ -27,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "id": 327845,
         "calendar_time": "2025-11-08 00:00:00",
@@ -43,7 +43,7 @@
         "holiday": null,
         "title": "商务部会同海关总署发布关于对超硬材料、稀土设备和原辅料、钬等5种中重稀土、锂电池和人造石墨负极材料相关物项实施出口管制措施的公告，将于11月8日正式实施"
       },
-      "created_at": "2025-11-07T14:16:09.920521"
+      "created_at": "2025-11-08T14:13:10.446494"
     },
     {
       "platform": "tonghuashun",
@@ -63,7 +63,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event": [
           "商务部会同海关总署发布关于对超硬材料、稀土设备和原辅料、钬等5种中重稀土、锂电池和人造石墨负极材料相关物项实施出口管制措施的公告，将于11月8日正式实施",
@@ -73,7 +73,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-07T14:16:15.278408"
+      "created_at": "2025-11-08T14:13:16.353508"
     },
     {
       "platform": "tonghuashun",
@@ -93,7 +93,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event": [
           "商务部会同海关总署发布关于对超硬材料、稀土设备和原辅料、钬等5种中重稀土、锂电池和人造石墨负极材料相关物项实施出口管制措施的公告，将于11月8日正式实施",
@@ -103,7 +103,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-07T14:16:15.278418"
+      "created_at": "2025-11-08T14:13:16.353535"
     },
     {
       "platform": "investing",
@@ -113,7 +113,7 @@
       "event_time": "00:00",
       "event_datetime": "2025/11/08 00:00:00",
       "title": "美国纽约联储1年期消费者通胀预期  (十月)",
-      "content": "前值: 3.4%",
+      "content": "实际值: 3.2% | 前值: 3.4%",
       "category": null,
       "importance": 1,
       "country": "美国",
@@ -123,7 +123,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_534801",
         "event_attr_id": "",
@@ -132,9 +132,10 @@
         "country": "美国",
         "importance": 1,
         "event_name": "美国纽约联储1年期消费者通胀预期  (十月)",
+        "actual": "3.2%",
         "previous": "3.4%"
       },
-      "created_at": "2025-11-07T14:16:17.677084"
+      "created_at": "2025-11-08T14:13:18.686635"
     },
     {
       "platform": "investing",
@@ -144,7 +145,7 @@
       "event_time": "02:00",
       "event_datetime": "2025/11/08 02:00:00",
       "title": "美国当周贝克休斯石油钻井总数(口)",
-      "content": "前值: 414",
+      "content": "实际值: 414 | 预测值: 413 | 前值: 414",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -154,7 +155,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_534678",
         "event_attr_id": "",
@@ -163,9 +164,11 @@
         "country": "美国",
         "importance": 2,
         "event_name": "美国当周贝克休斯石油钻井总数(口)",
+        "actual": "414",
+        "forecast": "413",
         "previous": "414"
       },
-      "created_at": "2025-11-07T14:16:17.677217"
+      "created_at": "2025-11-08T14:13:18.686768"
     },
     {
       "platform": "investing",
@@ -175,7 +178,7 @@
       "event_time": "02:00",
       "event_datetime": "2025/11/08 02:00:00",
       "title": "美国当周贝克休斯总钻井总数(口)",
-      "content": "前值: 546",
+      "content": "实际值: 548 | 前值: 546",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -185,7 +188,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_534679",
         "event_attr_id": "",
@@ -194,9 +197,10 @@
         "country": "美国",
         "importance": 2,
         "event_name": "美国当周贝克休斯总钻井总数(口)",
+        "actual": "548",
         "previous": "546"
       },
-      "created_at": "2025-11-07T14:16:17.677342"
+      "created_at": "2025-11-08T14:13:18.686898"
     },
     {
       "platform": "investing",
@@ -206,7 +210,7 @@
       "event_time": "04:00",
       "event_datetime": "2025/11/08 04:00:00",
       "title": "美国消费信贷(美元)  (九月)",
-      "content": "预测值: 10.40B | 前值: 0.36B",
+      "content": "实际值: 13.09B | 预测值: 10.40B | 前值: 3.13B",
       "category": null,
       "importance": 1,
       "country": "美国",
@@ -216,7 +220,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_534160",
         "event_attr_id": "",
@@ -225,221 +229,468 @@
         "country": "美国",
         "importance": 1,
         "event_name": "美国消费信贷(美元)  (九月)",
+        "actual": "13.09B",
         "forecast": "10.40B",
-        "previous": "0.36B"
+        "previous": "3.13B"
       },
-      "created_at": "2025-11-07T14:16:17.677463"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251108080000",
-      "original_id": "eventRowId_534759",
-      "event_date": "2025-11-08",
-      "event_time": "08:00",
-      "event_datetime": "2025/11/08 08:00:00",
-      "title": "日本路透短观指数  (十一月)",
-      "content": "前值: 8",
-      "category": null,
-      "importance": 1,
-      "country": "日本",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-07",
-      "raw_data": {
-        "event_id": "eventRowId_534759",
-        "event_attr_id": "",
-        "datetime": "2025/11/08 08:00:00",
-        "time": "08:00",
-        "country": "日本",
-        "importance": 1,
-        "event_name": "日本路透短观指数  (十一月)",
-        "previous": "8"
-      },
-      "created_at": "2025-11-07T14:16:17.677582"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251108100000",
-      "original_id": "eventRowId_534802",
-      "event_date": "2025-11-08",
-      "event_time": "10:00",
-      "event_datetime": "2025/11/08 10:00:00",
-      "title": "印度尼西亚摩托车销售量年率(%) (同比)  (十月)",
-      "content": "前值: 7.30%",
-      "category": null,
-      "importance": 1,
-      "country": "印度尼西亚",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-07",
-      "raw_data": {
-        "event_id": "eventRowId_534802",
-        "event_attr_id": "",
-        "datetime": "2025/11/08 10:00:00",
-        "time": "10:00",
-        "country": "印度尼西亚",
-        "importance": 1,
-        "event_name": "印度尼西亚摩托车销售量年率(%) (同比)  (十月)",
-        "previous": "7.30%"
-      },
-      "created_at": "2025-11-07T14:16:17.677747"
+      "created_at": "2025-11-08T14:13:18.687016"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_601555_20251108_0",
-      "original_id": "601555",
+      "event_id": "em_tfpxx_200771_20251108_0",
+      "original_id": "200771",
       "event_date": "2025-11-08",
       "event_time": null,
       "event_datetime": null,
-      "title": "东吴证券发布公告",
-      "content": "股票代码: 601555, 股票名称: 东吴证券",
-      "category": "A股公告",
-      "importance": 3,
+      "title": "杭汽轮B停复牌",
+      "content": "股票代码: 200771, 股票名称: 杭汽轮B",
+      "category": "停复牌信息",
+      "importance": 2,
       "country": "中国",
       "city": null,
       "stocks": [
-        "601555"
+        "200771"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
-        "stock_code": "601555",
-        "stock_name": "东吴证券",
-        "date": "2025-11-08",
-        "total_count": 152
+        "stock_code": "200771",
+        "stock_name": "杭汽轮B",
+        "date": "2025-11-08"
       },
-      "created_at": "2025-11-07T14:16:27.019538"
+      "created_at": "2025-11-08T14:13:27.329045"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_603958_20251108_1",
-      "original_id": "603958",
+      "event_id": "em_tfpxx_920680_20251108_1",
+      "original_id": "920680",
       "event_date": "2025-11-08",
       "event_time": null,
       "event_datetime": null,
-      "title": "哈森股份发布公告",
-      "content": "股票代码: 603958, 股票名称: 哈森股份",
-      "category": "A股公告",
-      "importance": 3,
+      "title": "*ST广道停复牌",
+      "content": "股票代码: 920680, 股票名称: *ST广道",
+      "category": "停复牌信息",
+      "importance": 2,
       "country": "中国",
       "city": null,
       "stocks": [
-        "603958"
+        "920680"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
-        "stock_code": "603958",
-        "stock_name": "哈森股份",
-        "date": "2025-11-08",
-        "total_count": 152
+        "stock_code": "920680",
+        "stock_name": "*ST广道",
+        "date": "2025-11-08"
       },
-      "created_at": "2025-11-07T14:16:27.019545"
+      "created_at": "2025-11-08T14:13:27.329055"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_601236_20251108_2",
-      "original_id": "601236",
+      "event_id": "em_tfpxx_000407_20251108_2",
+      "original_id": "000407",
       "event_date": "2025-11-08",
       "event_time": null,
       "event_datetime": null,
-      "title": "红塔证券发布公告",
-      "content": "股票代码: 601236, 股票名称: 红塔证券",
-      "category": "A股公告",
-      "importance": 3,
+      "title": "胜利股份停复牌",
+      "content": "股票代码: 000407, 股票名称: 胜利股份",
+      "category": "停复牌信息",
+      "importance": 2,
       "country": "中国",
       "city": null,
       "stocks": [
-        "601236"
+        "000407"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
-        "stock_code": "601236",
-        "stock_name": "红塔证券",
-        "date": "2025-11-08",
-        "total_count": 152
+        "stock_code": "000407",
+        "stock_name": "胜利股份",
+        "date": "2025-11-08"
       },
-      "created_at": "2025-11-07T14:16:27.019552"
+      "created_at": "2025-11-08T14:13:27.329062"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_688298_20251108_3",
-      "original_id": "688298",
+      "event_id": "em_tfpxx_600319_20251108_3",
+      "original_id": "600319",
       "event_date": "2025-11-08",
       "event_time": null,
       "event_datetime": null,
-      "title": "东方生物发布公告",
-      "content": "股票代码: 688298, 股票名称: 东方生物",
-      "category": "A股公告",
-      "importance": 3,
+      "title": "亚星化学停复牌",
+      "content": "股票代码: 600319, 股票名称: 亚星化学",
+      "category": "停复牌信息",
+      "importance": 2,
       "country": "中国",
       "city": null,
       "stocks": [
-        "688298"
+        "600319"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
-        "stock_code": "688298",
-        "stock_name": "东方生物",
-        "date": "2025-11-08",
-        "total_count": 152
+        "stock_code": "600319",
+        "stock_name": "亚星化学",
+        "date": "2025-11-08"
       },
-      "created_at": "2025-11-07T14:16:27.019559"
+      "created_at": "2025-11-08T14:13:27.329068"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_605268_20251108_4",
-      "original_id": "605268",
+      "event_id": "em_tfpxx_000851_20251108_4",
+      "original_id": "000851",
       "event_date": "2025-11-08",
       "event_time": null,
       "event_datetime": null,
-      "title": "王力安防发布公告",
-      "content": "股票代码: 605268, 股票名称: 王力安防",
-      "category": "A股公告",
-      "importance": 3,
+      "title": "*ST高鸿停复牌",
+      "content": "股票代码: 000851, 股票名称: *ST高鸿",
+      "category": "停复牌信息",
+      "importance": 2,
       "country": "中国",
       "city": null,
       "stocks": [
-        "605268"
+        "000851"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
-        "stock_code": "605268",
-        "stock_name": "王力安防",
-        "date": "2025-11-08",
-        "total_count": 152
+        "stock_code": "000851",
+        "stock_name": "*ST高鸿",
+        "date": "2025-11-08"
       },
-      "created_at": "2025-11-07T14:16:27.019565"
+      "created_at": "2025-11-08T14:13:27.329074"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251108040000_8682622015001443070",
+      "event_id": "em_tfpxx_003041_20251108_5",
+      "original_id": "003041",
+      "event_date": "2025-11-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "真爱美家停复牌",
+      "content": "股票代码: 003041, 股票名称: 真爱美家",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "003041"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "stock_code": "003041",
+        "stock_name": "真爱美家",
+        "date": "2025-11-08"
+      },
+      "created_at": "2025-11-08T14:13:27.329081"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_603216_20251108_6",
+      "original_id": "603216",
+      "event_date": "2025-11-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "梦天家居停复牌",
+      "content": "股票代码: 603216, 股票名称: 梦天家居",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603216"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "stock_code": "603216",
+        "stock_name": "梦天家居",
+        "date": "2025-11-08"
+      },
+      "created_at": "2025-11-08T14:13:27.329087"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_603843_20251108_7",
+      "original_id": "603843",
+      "event_date": "2025-11-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST正平停复牌",
+      "content": "股票代码: 603843, 股票名称: *ST正平",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603843"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "stock_code": "603843",
+        "stock_name": "*ST正平",
+        "date": "2025-11-08"
+      },
+      "created_at": "2025-11-08T14:13:27.329093"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_688588_20251108_8",
+      "original_id": "688588",
+      "event_date": "2025-11-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "凌志软件停复牌",
+      "content": "股票代码: 688588, 股票名称: 凌志软件",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688588"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "stock_code": "688588",
+        "stock_name": "凌志软件",
+        "date": "2025-11-08"
+      },
+      "created_at": "2025-11-08T14:13:27.329100"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300277_20251108_9",
+      "original_id": "300277",
+      "event_date": "2025-11-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "海联讯停复牌",
+      "content": "股票代码: 300277, 股票名称: 海联讯",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300277"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "stock_code": "300277",
+        "stock_name": "海联讯",
+        "date": "2025-11-08"
+      },
+      "created_at": "2025-11-08T14:13:27.329106"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002387_20251108_10",
+      "original_id": "002387",
+      "event_date": "2025-11-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "维信诺停复牌",
+      "content": "股票代码: 002387, 股票名称: 维信诺",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002387"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "stock_code": "002387",
+        "stock_name": "维信诺",
+        "date": "2025-11-08"
+      },
+      "created_at": "2025-11-08T14:13:27.329112"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_301606_20251108_0",
+      "original_id": "301606",
+      "event_date": "2025-11-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "绿联科技发布公告",
+      "content": "股票代码: 301606, 股票名称: 绿联科技",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "301606"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "stock_code": "301606",
+        "stock_name": "绿联科技",
+        "date": "2025-11-08",
+        "total_count": 1717
+      },
+      "created_at": "2025-11-08T14:13:27.329127"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_300684_20251108_1",
+      "original_id": "300684",
+      "event_date": "2025-11-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中石科技发布公告",
+      "content": "股票代码: 300684, 股票名称: 中石科技",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300684"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "stock_code": "300684",
+        "stock_name": "中石科技",
+        "date": "2025-11-08",
+        "total_count": 1717
+      },
+      "created_at": "2025-11-08T14:13:27.329135"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_300470_20251108_2",
+      "original_id": "300470",
+      "event_date": "2025-11-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中密控股发布公告",
+      "content": "股票代码: 300470, 股票名称: 中密控股",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300470"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "stock_code": "300470",
+        "stock_name": "中密控股",
+        "date": "2025-11-08",
+        "total_count": 1717
+      },
+      "created_at": "2025-11-08T14:13:27.329142"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_300403_20251108_3",
+      "original_id": "300403",
+      "event_date": "2025-11-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "汉宇集团发布公告",
+      "content": "股票代码: 300403, 股票名称: 汉宇集团",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300403"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "stock_code": "300403",
+        "stock_name": "汉宇集团",
+        "date": "2025-11-08",
+        "total_count": 1717
+      },
+      "created_at": "2025-11-08T14:13:27.329148"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_300893_20251108_4",
+      "original_id": "300893",
+      "event_date": "2025-11-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "松原安全发布公告",
+      "content": "股票代码: 300893, 股票名称: 松原安全",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300893"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "stock_code": "300893",
+        "stock_name": "松原安全",
+        "date": "2025-11-08",
+        "total_count": 1717
+      },
+      "created_at": "2025-11-08T14:13:27.329154"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251108040000_-1353885604353502517",
       "original_id": "2025-11-08 04:00:00_美国：消费信贷总计：折年率：季调(报告期:2025年09月)",
       "event_date": "2025-11-08",
       "event_time": "04:00:00",
@@ -455,12 +706,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "Name": "美国：消费信贷总计：折年率：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-11-07T14:16:27.019903"
+      "created_at": "2025-11-08T14:13:27.329173"
     }
   ]
 }
