@@ -1,12 +1,12 @@
 {
   "date": "2025-11-09",
-  "total_events": 38,
+  "total_events": 36,
   "new_events": 15,
   "platforms": {
     "cls": 3,
     "jiuyangongshe": 2,
     "tonghuashun": 6,
-    "investing": 3,
+    "investing": 1,
     "eastmoney": 24
   },
   "events": [
@@ -26,7 +26,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -62,7 +62,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -98,7 +98,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -134,7 +134,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -179,7 +179,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -224,7 +224,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -254,7 +254,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -284,7 +284,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -314,7 +314,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -344,7 +344,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -374,7 +374,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -404,7 +404,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -420,71 +420,6 @@
         "previous": "-0.3%"
       },
       "created_at": "2025-11-09T14:12:53.958903"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251109093000",
-      "original_id": "eventRowId_534173",
-      "event_date": "2025-11-09",
-      "event_time": "09:30",
-      "event_datetime": "2025/11/09 09:30:00",
-      "title": "中国CPI月率(%) (月度环比)  (十月)",
-      "content": "实际值: 0.2% | 前值: 0.1%",
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-09",
-      "raw_data": {
-        "event_id": "eventRowId_534173",
-        "event_attr_id": "",
-        "datetime": "2025/11/09 09:30:00",
-        "time": "09:30",
-        "country": "中国",
-        "importance": 3,
-        "event_name": "中国CPI月率(%) (月度环比)  (十月)",
-        "actual": "0.2%",
-        "previous": "0.1%"
-      },
-      "created_at": "2025-11-09T14:12:53.959037"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251109093000",
-      "original_id": "eventRowId_534175",
-      "event_date": "2025-11-09",
-      "event_time": "09:30",
-      "event_datetime": "2025/11/09 09:30:00",
-      "title": "中国PPI年率(%) (同比)  (十月)",
-      "content": "实际值: -2.1% | 预测值: -2.3% | 前值: -2.3%",
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-09",
-      "raw_data": {
-        "event_id": "eventRowId_534175",
-        "event_attr_id": "",
-        "datetime": "2025/11/09 09:30:00",
-        "time": "09:30",
-        "country": "中国",
-        "importance": 3,
-        "event_name": "中国PPI年率(%) (同比)  (十月)",
-        "actual": "-2.1%",
-        "forecast": "-2.3%",
-        "previous": "-2.3%"
-      },
-      "created_at": "2025-11-09T14:12:53.959180"
     },
     {
       "platform": "eastmoney",
@@ -504,7 +439,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -532,7 +467,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -560,7 +495,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -588,7 +523,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -616,7 +551,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -644,7 +579,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -672,7 +607,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -700,7 +635,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -728,7 +663,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -756,7 +691,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -784,7 +719,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -813,7 +748,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -842,7 +777,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -871,7 +806,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -900,7 +835,7 @@
       ],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": true,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -927,7 +862,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -952,7 +887,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -977,7 +912,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -1002,7 +937,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -1027,7 +962,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -1052,7 +987,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -1077,7 +1012,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -1108,7 +1043,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
@@ -1139,7 +1074,7 @@
       "stocks": [],
       "concepts": [],
       "themes": [],
-      "data_status": "ACTIVE",
+      "data_status": "ARCHIVED",
       "is_new": false,
       "discovery_date": "2025-11-09",
       "raw_data": {
