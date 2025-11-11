@@ -1,13 +1,13 @@
 {
   "date": "2025-11-12",
-  "total_events": 55,
-  "new_events": 4,
+  "total_events": 73,
+  "new_events": 17,
   "platforms": {
-    "cls": 5,
-    "jiuyangongshe": 1,
-    "tonghuashun": 5,
-    "investing": 41,
-    "eastmoney": 3
+    "cls": 8,
+    "jiuyangongshe": 2,
+    "tonghuashun": 6,
+    "investing": 47,
+    "eastmoney": 10
   },
   "events": [
     {
@@ -27,8 +27,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-10",
+      "is_new": false,
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "id": 326056,
         "calendar_time": "2025-11-12 00:00:00",
@@ -44,7 +44,7 @@
         "holiday": null,
         "title": "欧佩克公布月度原油市场报告"
       },
-      "created_at": "2025-11-10T14:16:21.572467"
+      "created_at": "2025-11-11T14:16:28.705935"
     },
     {
       "platform": "cls",
@@ -64,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "id": 336945,
         "calendar_time": "2025-11-12 00:00:00",
@@ -80,7 +80,7 @@
         "holiday": null,
         "title": "2025第四届中国核能高质量发展大会暨深圳国际核能产业创新博览会将于11月12日至14日举办"
       },
-      "created_at": "2025-11-10T14:16:21.572477"
+      "created_at": "2025-11-11T14:16:28.705945"
     },
     {
       "platform": "cls",
@@ -100,7 +100,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "id": 337036,
         "calendar_time": "2025-11-12 00:00:00",
@@ -116,7 +116,115 @@
         "holiday": null,
         "title": "2025世界动力电池大会将于11月12日至13日在四川省宜宾市举行"
       },
-      "created_at": "2025-11-10T14:16:21.572487"
+      "created_at": "2025-11-11T14:16:28.705956"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_369476_20251112_2",
+      "original_id": "369476",
+      "event_date": "2025-11-12",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-12 00:00:00",
+      "title": "上海证券交易所国际投资者大会将于11月12日至13日举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "id": 369476,
+        "calendar_time": "2025-11-12 00:00:00",
+        "data_id": 20108,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "上海证券交易所国际投资者大会将于11月12日至13日举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "上海证券交易所国际投资者大会将于11月12日至13日举行"
+      },
+      "created_at": "2025-11-11T14:16:28.705967"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_369480_20251112_2",
+      "original_id": "369480",
+      "event_date": "2025-11-12",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-12 00:00:00",
+      "title": "2025年中国国际煤炭贸易年会将于11月12日至14日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "id": 369480,
+        "calendar_time": "2025-11-12 00:00:00",
+        "data_id": 20109,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025年中国国际煤炭贸易年会将于11月12日至14日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025年中国国际煤炭贸易年会将于11月12日至14日举办"
+      },
+      "created_at": "2025-11-11T14:16:28.705978"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_369470_20251112_2",
+      "original_id": "369470",
+      "event_date": "2025-11-12",
+      "event_time": "09:20:00",
+      "event_datetime": "2025-11-12 09:20:00",
+      "title": "今日有655亿元7天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "id": 369470,
+        "calendar_time": "2025-11-12 09:20:00",
+        "data_id": 20107,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有655亿元7天期逆回购到期",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2
+        },
+        "holiday": null,
+        "title": "今日有655亿元7天期逆回购到期"
+      },
+      "created_at": "2025-11-11T14:16:28.705988"
     },
     {
       "platform": "cls",
@@ -135,8 +243,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-10",
+      "is_new": false,
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "id": 366588,
         "calendar_time": "2025-11-12 10:00:00",
@@ -152,7 +260,7 @@
         "holiday": null,
         "title": "国务院台湾事务办公室将于11月12日举行新闻发布会，就近期两岸热点问题回答记者提问"
       },
-      "created_at": "2025-11-10T14:16:21.572497"
+      "created_at": "2025-11-11T14:16:28.705999"
     },
     {
       "platform": "cls",
@@ -171,8 +279,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-10",
+      "is_new": false,
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "id": 360642,
         "calendar_time": "2025-11-12 15:00:00",
@@ -197,7 +305,7 @@
         "holiday": null,
         "title": "德国10月CPI月率终值"
       },
-      "created_at": "2025-11-10T14:16:21.572506"
+      "created_at": "2025-11-11T14:16:28.706009"
     },
     {
       "platform": "jiuyangongshe",
@@ -217,7 +325,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "2yttps9jasb",
         "user_id": "07a2aeac7c8145948ddea3f1deb40aa9",
@@ -242,16 +350,61 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T14:16:23.558238"
+      "created_at": "2025-11-11T14:16:30.627701"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_6d0f005b6ce2413c84802f6d084f35b6_a5919e469ede4f1783b520c46736e711_20251112",
+      "original_id": "6d0f005b6ce2413c84802f6d084f35b6",
+      "event_date": "2025-11-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界动力电池大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "article_id": "6d0f005b6ce2413c84802f6d084f35b6",
+        "user_id": "1",
+        "title": "2025世界动力电池大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "6d0f005b6ce2413c84802f6d084f35b6",
+          "timeline_id": "a5919e469ede4f1783b520c46736e711",
+          "date": "2025-11-12",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-10 23:40:53",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-11T14:16:30.627712"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251112_0_1d5ca680",
+      "event_id": "ths_20251112_0_d6b3ebe8",
       "original_id": "2025-11-12_0",
       "event_date": "2025-11-12",
       "event_time": null,
       "event_datetime": null,
-      "title": "2025第四届中国核能高质量发展大会暨深圳国际核能产业创新博览会将于10月12日至14日举办",
+      "title": "2025第四届中国核能高质量发展大会暨深圳国际核能产业创新博览会将于11月12日至14日举办",
       "content": null,
       "category": null,
       "importance": 3,
@@ -261,18 +414,18 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-10",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event": [
-          "2025第四届中国核能高质量发展大会暨深圳国际核能产业创新博览会将于10月12日至14日举办",
+          "2025第四届中国核能高质量发展大会暨深圳国际核能产业创新博览会将于11月12日至14日举办",
           "",
           "",
           ""
         ],
         "concept": []
       },
-      "created_at": "2025-11-10T14:16:27.370443"
+      "created_at": "2025-11-11T14:16:35.463047"
     },
     {
       "platform": "tonghuashun",
@@ -292,7 +445,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event": [
           "2025第四届中国核能高质量发展大会暨深圳国际核能产业创新博览会将于10月12日至14日举办",
@@ -302,16 +455,16 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-10T14:16:27.370452"
+      "created_at": "2025-11-11T14:16:35.463057"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251112_2_8c39acc8",
+      "event_id": "ths_20251112_2_1d5ca680",
       "original_id": "2025-11-12_2",
       "event_date": "2025-11-12",
       "event_time": null,
       "event_datetime": null,
-      "title": "2025世界动力电池大会将于11月12日至13日在四川省宜宾市举行",
+      "title": "2025第四届中国核能高质量发展大会暨深圳国际核能产业创新博览会将于10月12日至14日举办",
       "content": null,
       "category": null,
       "importance": 3,
@@ -322,17 +475,17 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event": [
-          "2025世界动力电池大会将于11月12日至13日在四川省宜宾市举行",
+          "2025第四届中国核能高质量发展大会暨深圳国际核能产业创新博览会将于10月12日至14日举办",
           "",
           "",
           ""
         ],
         "concept": []
       },
-      "created_at": "2025-11-10T14:16:27.370460"
+      "created_at": "2025-11-11T14:16:35.463066"
     },
     {
       "platform": "tonghuashun",
@@ -352,7 +505,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event": [
           "2025世界动力电池大会将于11月12日至13日在四川省宜宾市举行",
@@ -362,12 +515,42 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-10T14:16:27.370468"
+      "created_at": "2025-11-11T14:16:35.463074"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251112_4_93b7009d",
+      "event_id": "ths_20251112_4_8c39acc8",
       "original_id": "2025-11-12_4",
+      "event_date": "2025-11-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界动力电池大会将于11月12日至13日在四川省宜宾市举行",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "event": [
+          "2025世界动力电池大会将于11月12日至13日在四川省宜宾市举行",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-11T14:16:35.463082"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251112_5_93b7009d",
+      "original_id": "2025-11-12_5",
       "event_date": "2025-11-12",
       "event_time": null,
       "event_datetime": null,
@@ -381,8 +564,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-10",
+      "is_new": false,
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event": [
           "国务院台湾事务办公室将于11月12日举行新闻发布会，就近期两岸热点问题回答记者提问",
@@ -392,7 +575,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-10T14:16:27.370476"
+      "created_at": "2025-11-11T14:16:35.463090"
     },
     {
       "platform": "investing",
@@ -412,7 +595,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535562",
         "event_attr_id": "",
@@ -422,7 +605,7 @@
         "importance": 1,
         "event_name": "BoE MPC Member Dhingra Speaks"
       },
-      "created_at": "2025-11-10T14:16:29.923837"
+      "created_at": "2025-11-11T14:16:38.242273"
     },
     {
       "platform": "investing",
@@ -442,7 +625,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535304",
         "event_attr_id": "",
@@ -452,7 +635,7 @@
         "importance": 1,
         "event_name": "澳洲联储行长助理Brad Jones讲话"
       },
-      "created_at": "2025-11-10T14:16:29.923982"
+      "created_at": "2025-11-11T14:16:38.242460"
     },
     {
       "platform": "investing",
@@ -472,7 +655,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534277",
         "event_attr_id": "",
@@ -483,38 +666,7 @@
         "event_name": "韩国失业率  (十月)",
         "previous": "2.5%"
       },
-      "created_at": "2025-11-10T14:16:29.924101"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251112070000",
-      "original_id": "eventRowId_534759",
-      "event_date": "2025-11-12",
-      "event_time": "07:00",
-      "event_datetime": "2025/11/12 07:00:00",
-      "title": "日本路透短观指数  (十一月)",
-      "content": "前值: 8",
-      "category": null,
-      "importance": 1,
-      "country": "日本",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-10",
-      "raw_data": {
-        "event_id": "eventRowId_534759",
-        "event_attr_id": "",
-        "datetime": "2025/11/12 07:00:00",
-        "time": "07:00",
-        "country": "日本",
-        "importance": 1,
-        "event_name": "日本路透短观指数  (十一月)",
-        "previous": "8"
-      },
-      "created_at": "2025-11-10T14:16:29.924215"
+      "created_at": "2025-11-11T14:16:38.242587"
     },
     {
       "platform": "investing",
@@ -534,7 +686,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535305",
         "event_attr_id": "",
@@ -546,7 +698,7 @@
         "forecast": "1.8%",
         "previous": "1.6%"
       },
-      "created_at": "2025-11-10T14:16:29.924328"
+      "created_at": "2025-11-11T14:16:38.242707"
     },
     {
       "platform": "investing",
@@ -566,7 +718,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534279",
         "event_attr_id": "",
@@ -577,7 +729,38 @@
         "event_name": "欧元区M3货币供应量(欧元)  (十月)",
         "previous": "2,228.9B"
       },
-      "created_at": "2025-11-10T14:16:29.924440"
+      "created_at": "2025-11-11T14:16:38.242821"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251112080000",
+      "original_id": "eventRowId_535632",
+      "event_date": "2025-11-12",
+      "event_time": "08:00",
+      "event_datetime": "2025/11/12 08:00:00",
+      "title": "日本路透短观指数  (十一月)",
+      "content": "前值: 8",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "event_id": "eventRowId_535632",
+        "event_attr_id": "",
+        "datetime": "2025/11/12 08:00:00",
+        "time": "08:00",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本路透短观指数  (十一月)",
+        "previous": "8"
+      },
+      "created_at": "2025-11-11T14:16:38.242963"
     },
     {
       "platform": "investing",
@@ -597,7 +780,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535206",
         "event_attr_id": "",
@@ -608,7 +791,7 @@
         "event_name": "澳大利亚季调后房屋贷款许可件数月率(%) (月度环比)  (第三季度)",
         "previous": "2.4%"
       },
-      "created_at": "2025-11-10T14:16:29.924552"
+      "created_at": "2025-11-11T14:16:38.243083"
     },
     {
       "platform": "investing",
@@ -628,7 +811,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534280",
         "event_attr_id": "",
@@ -639,7 +822,7 @@
         "event_name": "欧元区货币供应M3年率(%)  (九月)",
         "previous": "5,947.4B"
       },
-      "created_at": "2025-11-10T14:16:29.924661"
+      "created_at": "2025-11-11T14:16:38.243198"
     },
     {
       "platform": "investing",
@@ -659,7 +842,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534281",
         "event_attr_id": "",
@@ -670,7 +853,7 @@
         "event_name": "韩国M2货币供应量(%)  (九月)",
         "previous": "6.80%"
       },
-      "created_at": "2025-11-10T14:16:29.924769"
+      "created_at": "2025-11-11T14:16:38.243316"
     },
     {
       "platform": "investing",
@@ -690,7 +873,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535397",
         "event_attr_id": "",
@@ -700,7 +883,7 @@
         "importance": 2,
         "event_name": "美联储金融监管副主席巴尔(Michael Barr)讲话"
       },
-      "created_at": "2025-11-10T14:16:29.924894"
+      "created_at": "2025-11-11T14:16:38.243431"
     },
     {
       "platform": "investing",
@@ -720,7 +903,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535207",
         "event_attr_id": "",
@@ -732,7 +915,7 @@
         "forecast": "9.9%",
         "previous": "8.1%"
       },
-      "created_at": "2025-11-10T14:16:29.925008"
+      "created_at": "2025-11-11T14:16:38.243544"
     },
     {
       "platform": "investing",
@@ -742,7 +925,7 @@
       "event_time": "15:00",
       "event_datetime": "2025/11/12 15:00:00",
       "title": "德国CPI月率(%) (月度环比)  (十月)",
-      "content": "预测值: 0.3% | 前值: 0.3%",
+      "content": "预测值: 0.3% | 前值: 0.2%",
       "category": null,
       "importance": 3,
       "country": "德国",
@@ -752,7 +935,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534321",
         "event_attr_id": "",
@@ -762,9 +945,9 @@
         "importance": 3,
         "event_name": "德国CPI月率(%) (月度环比)  (十月)",
         "forecast": "0.3%",
-        "previous": "0.3%"
+        "previous": "0.2%"
       },
-      "created_at": "2025-11-10T14:16:29.925120"
+      "created_at": "2025-11-11T14:16:38.243660"
     },
     {
       "platform": "investing",
@@ -774,7 +957,7 @@
       "event_time": "15:00",
       "event_datetime": "2025/11/12 15:00:00",
       "title": "德国CPI年率(%) (同比)  (十月)",
-      "content": "预测值: 2.3% | 前值: 2.3%",
+      "content": "预测值: 2.3% | 前值: 2.4%",
       "category": null,
       "importance": 2,
       "country": "德国",
@@ -784,7 +967,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534323",
         "event_attr_id": "",
@@ -794,41 +977,9 @@
         "importance": 2,
         "event_name": "德国CPI年率(%) (同比)  (十月)",
         "forecast": "2.3%",
-        "previous": "2.3%"
+        "previous": "2.4%"
       },
-      "created_at": "2025-11-10T14:16:29.925230"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251112150000",
-      "original_id": "eventRowId_534319",
-      "event_date": "2025-11-12",
-      "event_time": "15:00",
-      "event_datetime": "2025/11/12 15:00:00",
-      "title": "德国HICP月率(%) (月度环比)  (十月)",
-      "content": "预测值: 0.3% | 前值: 0.3%",
-      "category": null,
-      "importance": 1,
-      "country": "德国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-10",
-      "raw_data": {
-        "event_id": "eventRowId_534319",
-        "event_attr_id": "",
-        "datetime": "2025/11/12 15:00:00",
-        "time": "15:00",
-        "country": "德国",
-        "importance": 1,
-        "event_name": "德国HICP月率(%) (月度环比)  (十月)",
-        "forecast": "0.3%",
-        "previous": "0.3%"
-      },
-      "created_at": "2025-11-10T14:16:29.925340"
+      "created_at": "2025-11-11T14:16:38.243775"
     },
     {
       "platform": "investing",
@@ -838,7 +989,7 @@
       "event_time": "15:00",
       "event_datetime": "2025/11/12 15:00:00",
       "title": "德国HICP年率(%) (同比)  (十月)",
-      "content": "预测值: 2.3% | 前值: 2.3%",
+      "content": "预测值: 2.3% | 前值: 2.4%",
       "category": null,
       "importance": 1,
       "country": "德国",
@@ -848,7 +999,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534320",
         "event_attr_id": "",
@@ -858,9 +1009,232 @@
         "importance": 1,
         "event_name": "德国HICP年率(%) (同比)  (十月)",
         "forecast": "2.3%",
-        "previous": "2.3%"
+        "previous": "2.4%"
       },
-      "created_at": "2025-11-10T14:16:29.925450"
+      "created_at": "2025-11-11T14:16:38.243914"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251112150000",
+      "original_id": "eventRowId_534319",
+      "event_date": "2025-11-12",
+      "event_time": "15:00",
+      "event_datetime": "2025/11/12 15:00:00",
+      "title": "德国HICP月率(%) (月度环比)  (十月)",
+      "content": "预测值: 0.3% | 前值: 0.2%",
+      "category": null,
+      "importance": 1,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "event_id": "eventRowId_534319",
+        "event_attr_id": "",
+        "datetime": "2025/11/12 15:00:00",
+        "time": "15:00",
+        "country": "德国",
+        "importance": 1,
+        "event_name": "德国HICP月率(%) (月度环比)  (十月)",
+        "forecast": "0.3%",
+        "previous": "0.2%"
+      },
+      "created_at": "2025-11-11T14:16:38.244037"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251112150000",
+      "original_id": "eventRowId_534555",
+      "event_date": "2025-11-12",
+      "event_time": "15:00",
+      "event_datetime": "2025/11/12 15:00:00",
+      "title": "德国WPI月率(%) (月度环比)  (十月)",
+      "content": "预测值: 0.1% | 前值: 0.2%",
+      "category": null,
+      "importance": 1,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "event_id": "eventRowId_534555",
+        "event_attr_id": "",
+        "datetime": "2025/11/12 15:00:00",
+        "time": "15:00",
+        "country": "德国",
+        "importance": 1,
+        "event_name": "德国WPI月率(%) (月度环比)  (十月)",
+        "forecast": "0.1%",
+        "previous": "0.2%"
+      },
+      "created_at": "2025-11-11T14:16:38.244150"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251112150000",
+      "original_id": "eventRowId_534553",
+      "event_date": "2025-11-12",
+      "event_time": "15:00",
+      "event_datetime": "2025/11/12 15:00:00",
+      "title": "德国批发价格指数(WPI)年率(%) (同比)  (十月)",
+      "content": "前值: 1.2%",
+      "category": null,
+      "importance": 1,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "event_id": "eventRowId_534553",
+        "event_attr_id": "",
+        "datetime": "2025/11/12 15:00:00",
+        "time": "15:00",
+        "country": "德国",
+        "importance": 1,
+        "event_name": "德国批发价格指数(WPI)年率(%) (同比)  (十月)",
+        "previous": "1.2%"
+      },
+      "created_at": "2025-11-11T14:16:38.244262"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251112163000",
+      "original_id": "eventRowId_535202",
+      "event_date": "2025-11-12",
+      "event_time": "16:30",
+      "event_datetime": "2025/11/12 16:30:00",
+      "title": "中国M2货币供应年率(%) (同比)  (十月)",
+      "content": "预测值: 8.1% | 前值: 8.4%",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "event_id": "eventRowId_535202",
+        "event_attr_id": "",
+        "datetime": "2025/11/12 16:30:00",
+        "time": "16:30",
+        "country": "中国",
+        "importance": 1,
+        "event_name": "中国M2货币供应年率(%) (同比)  (十月)",
+        "forecast": "8.1%",
+        "previous": "8.4%"
+      },
+      "created_at": "2025-11-11T14:16:38.244380"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251112163000",
+      "original_id": "eventRowId_535201",
+      "event_date": "2025-11-12",
+      "event_time": "16:30",
+      "event_datetime": "2025/11/12 16:30:00",
+      "title": "中国新增人民币贷款(人民币)  (十月)",
+      "content": "预测值: 465.0B | 前值: 1,290.0B",
+      "category": null,
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "event_id": "eventRowId_535201",
+        "event_attr_id": "",
+        "datetime": "2025/11/12 16:30:00",
+        "time": "16:30",
+        "country": "中国",
+        "importance": 2,
+        "event_name": "中国新增人民币贷款(人民币)  (十月)",
+        "forecast": "465.0B",
+        "previous": "1,290.0B"
+      },
+      "created_at": "2025-11-11T14:16:38.244500"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251112163000",
+      "original_id": "eventRowId_535203",
+      "event_date": "2025-11-12",
+      "event_time": "16:30",
+      "event_datetime": "2025/11/12 16:30:00",
+      "title": "中国未偿还贷款增长年率(%) (同比)  (十月)",
+      "content": "预测值: 6.6% | 前值: 6.6%",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "event_id": "eventRowId_535203",
+        "event_attr_id": "",
+        "datetime": "2025/11/12 16:30:00",
+        "time": "16:30",
+        "country": "中国",
+        "importance": 1,
+        "event_name": "中国未偿还贷款增长年率(%) (同比)  (十月)",
+        "forecast": "6.6%",
+        "previous": "6.6%"
+      },
+      "created_at": "2025-11-11T14:16:38.244621"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251112163000",
+      "original_id": "eventRowId_535204",
+      "event_date": "2025-11-12",
+      "event_time": "16:30",
+      "event_datetime": "2025/11/12 16:30:00",
+      "title": "中国社会融资规模(人民币十亿元)  (十月)",
+      "content": "预测值: 1,230.0B | 前值: 3,530.0B",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "event_id": "eventRowId_535204",
+        "event_attr_id": "",
+        "datetime": "2025/11/12 16:30:00",
+        "time": "16:30",
+        "country": "中国",
+        "importance": 1,
+        "event_name": "中国社会融资规模(人民币十亿元)  (十月)",
+        "forecast": "1,230.0B",
+        "previous": "3,530.0B"
+      },
+      "created_at": "2025-11-11T14:16:38.244736"
     },
     {
       "platform": "investing",
@@ -880,7 +1254,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534379",
         "event_attr_id": "",
@@ -892,7 +1266,7 @@
         "forecast": "1.5%",
         "previous": "-2.4%"
       },
-      "created_at": "2025-11-10T14:16:29.925559"
+      "created_at": "2025-11-11T14:16:38.244864"
     },
     {
       "platform": "investing",
@@ -912,7 +1286,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534378",
         "event_attr_id": "",
@@ -923,7 +1297,7 @@
         "event_name": "意大利未季调工业产出年率(%) (同比)  (九月)",
         "previous": "-2.7%"
       },
-      "created_at": "2025-11-10T14:16:29.925668"
+      "created_at": "2025-11-11T14:16:38.244981"
     },
     {
       "platform": "investing",
@@ -943,7 +1317,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535217",
         "event_attr_id": "",
@@ -953,7 +1327,7 @@
         "importance": 2,
         "event_name": "石油输出国组织(OPEC)月报"
       },
-      "created_at": "2025-11-10T14:16:29.925779"
+      "created_at": "2025-11-11T14:16:38.245095"
     },
     {
       "platform": "investing",
@@ -973,7 +1347,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535216",
         "event_attr_id": "",
@@ -983,7 +1357,7 @@
         "importance": 2,
         "event_name": "欧元区财长会议"
       },
-      "created_at": "2025-11-10T14:16:29.925902"
+      "created_at": "2025-11-11T14:16:38.245209"
     },
     {
       "platform": "investing",
@@ -1003,7 +1377,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535208",
         "event_attr_id": "",
@@ -1014,7 +1388,7 @@
         "event_name": "意大利12个月期BOT国债拍卖平均收益率(%)",
         "previous": "2.050%"
       },
-      "created_at": "2025-11-10T14:16:29.926013"
+      "created_at": "2025-11-11T14:16:38.245322"
     },
     {
       "platform": "investing",
@@ -1034,7 +1408,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534384",
         "event_attr_id": "",
@@ -1046,7 +1420,7 @@
         "forecast": "0.48%",
         "previous": "1.54%"
       },
-      "created_at": "2025-11-10T14:16:29.926123"
+      "created_at": "2025-11-11T14:16:38.245433"
     },
     {
       "platform": "investing",
@@ -1066,7 +1440,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535209",
         "event_attr_id": "",
@@ -1077,7 +1451,7 @@
         "event_name": "德国30年期Bund国债拍卖",
         "previous": "3.170%"
       },
-      "created_at": "2025-11-10T14:16:29.926233"
+      "created_at": "2025-11-11T14:16:38.245547"
     },
     {
       "platform": "investing",
@@ -1097,7 +1471,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535552",
         "event_attr_id": "",
@@ -1107,7 +1481,7 @@
         "importance": 2,
         "event_name": "欧洲央行执委施纳贝尔(Isabel Schnabel)讲话"
       },
-      "created_at": "2025-11-10T14:16:29.926341"
+      "created_at": "2025-11-11T14:16:38.245658"
     },
     {
       "platform": "investing",
@@ -1127,7 +1501,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535210",
         "event_attr_id": "",
@@ -1138,7 +1512,7 @@
         "event_name": "印度M3货币供应量(%)",
         "previous": "9.2%"
       },
-      "created_at": "2025-11-10T14:16:29.926448"
+      "created_at": "2025-11-11T14:16:38.245768"
     },
     {
       "platform": "investing",
@@ -1158,7 +1532,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535553",
         "event_attr_id": "",
@@ -1168,7 +1542,7 @@
         "importance": 2,
         "event_name": "欧洲央行金多斯(Guindos)讲话"
       },
-      "created_at": "2025-11-10T14:16:29.926555"
+      "created_at": "2025-11-11T14:16:38.245895"
     },
     {
       "platform": "investing",
@@ -1188,7 +1562,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535263",
         "event_attr_id": "",
@@ -1199,7 +1573,7 @@
         "event_name": "美国MBA30年期固定抵押贷款利率(%)",
         "previous": "6.31%"
       },
-      "created_at": "2025-11-10T14:16:29.926669"
+      "created_at": "2025-11-11T14:16:38.246008"
     },
     {
       "platform": "investing",
@@ -1219,7 +1593,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535264",
         "event_attr_id": "",
@@ -1230,7 +1604,7 @@
         "event_name": "美国MBA抵押贷款申请活动指数周环比(%) (每周)",
         "previous": "-1.9%"
       },
-      "created_at": "2025-11-10T14:16:29.926778"
+      "created_at": "2025-11-11T14:16:38.246123"
     },
     {
       "platform": "investing",
@@ -1250,7 +1624,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535265",
         "event_attr_id": "",
@@ -1261,7 +1635,7 @@
         "event_name": "美国MBA抵押贷款购买指数",
         "previous": "163.3"
       },
-      "created_at": "2025-11-10T14:16:29.926902"
+      "created_at": "2025-11-11T14:16:38.246235"
     },
     {
       "platform": "investing",
@@ -1281,7 +1655,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535266",
         "event_attr_id": "",
@@ -1292,7 +1666,7 @@
         "event_name": "美国MBA抵押贷款申请活动指数",
         "previous": "332.3"
       },
-      "created_at": "2025-11-10T14:16:29.927014"
+      "created_at": "2025-11-11T14:16:38.246346"
     },
     {
       "platform": "investing",
@@ -1312,7 +1686,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535267",
         "event_attr_id": "",
@@ -1323,7 +1697,7 @@
         "event_name": "美国MBA抵押贷款再融资活动指数",
         "previous": "1,290.8"
       },
-      "created_at": "2025-11-10T14:16:29.927121"
+      "created_at": "2025-11-11T14:16:38.246455"
     },
     {
       "platform": "investing",
@@ -1343,7 +1717,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_517583",
         "event_attr_id": "",
@@ -1353,7 +1727,7 @@
         "importance": 2,
         "event_name": "石油输出国组织(OPEC)月报"
       },
-      "created_at": "2025-11-10T14:16:29.927227"
+      "created_at": "2025-11-11T14:16:38.246565"
     },
     {
       "platform": "investing",
@@ -1373,7 +1747,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534396",
         "event_attr_id": "",
@@ -1384,7 +1758,7 @@
         "event_name": "巴西服务业增长月率 (月度环比)  (九月)",
         "previous": "0.1%"
       },
-      "created_at": "2025-11-10T14:16:29.927332"
+      "created_at": "2025-11-11T14:16:38.246678"
     },
     {
       "platform": "investing",
@@ -1404,7 +1778,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534394",
         "event_attr_id": "",
@@ -1415,7 +1789,7 @@
         "event_name": "巴西服务业增长月率 (同比)  (九月)",
         "previous": "2.5%"
       },
-      "created_at": "2025-11-10T14:16:29.927438"
+      "created_at": "2025-11-11T14:16:38.246791"
     },
     {
       "platform": "investing",
@@ -1435,7 +1809,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534395",
         "event_attr_id": "",
@@ -1446,7 +1820,7 @@
         "event_name": "南非预算平衡(南非兰特)",
         "previous": "-317.500B"
       },
-      "created_at": "2025-11-10T14:16:29.927544"
+      "created_at": "2025-11-11T14:16:38.246926"
     },
     {
       "platform": "investing",
@@ -1466,7 +1840,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534393",
         "event_attr_id": "",
@@ -1477,7 +1851,7 @@
         "event_name": "南非预算平衡占GDP比重(%)",
         "previous": "-4.50%"
       },
-      "created_at": "2025-11-10T14:16:29.927691"
+      "created_at": "2025-11-11T14:16:38.247046"
     },
     {
       "platform": "investing",
@@ -1497,7 +1871,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535306",
         "event_attr_id": "",
@@ -1507,7 +1881,7 @@
         "importance": 2,
         "event_name": "英国央行货币政策委员会委员Huw Pill讲话"
       },
-      "created_at": "2025-11-10T14:16:29.927801"
+      "created_at": "2025-11-11T14:16:38.247159"
     },
     {
       "platform": "investing",
@@ -1527,7 +1901,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534397",
         "event_attr_id": "",
@@ -1538,7 +1912,7 @@
         "event_name": "德国未经季调经常帐(欧元)  (九月)",
         "previous": "8.3B"
       },
-      "created_at": "2025-11-10T14:16:29.927925"
+      "created_at": "2025-11-11T14:16:38.247274"
     },
     {
       "platform": "investing",
@@ -1548,7 +1922,7 @@
       "event_time": "21:30",
       "event_datetime": "2025/11/12 21:30:00",
       "title": "加拿大营建许可月率(%) (月度环比)  (九月)",
-      "content": "预测值: 0.9% | 前值: -1.2%",
+      "content": "预测值: 0.8% | 前值: -1.2%",
       "category": null,
       "importance": 2,
       "country": "加拿大",
@@ -1558,7 +1932,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534398",
         "event_attr_id": "",
@@ -1567,10 +1941,10 @@
         "country": "加拿大",
         "importance": 2,
         "event_name": "加拿大营建许可月率(%) (月度环比)  (九月)",
-        "forecast": "0.9%",
+        "forecast": "0.8%",
         "previous": "-1.2%"
       },
-      "created_at": "2025-11-10T14:16:29.928034"
+      "created_at": "2025-11-11T14:16:38.247388"
     },
     {
       "platform": "investing",
@@ -1590,7 +1964,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535213",
         "event_attr_id": "",
@@ -1601,7 +1975,7 @@
         "event_name": "美国红皮书商业零售销售年率(%) (同比)",
         "previous": "5.7%"
       },
-      "created_at": "2025-11-10T14:16:29.928144"
+      "created_at": "2025-11-11T14:16:38.247499"
     },
     {
       "platform": "investing",
@@ -1621,7 +1995,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535307",
         "event_attr_id": "",
@@ -1631,7 +2005,7 @@
         "importance": 2,
         "event_name": "美国纽约联储主席、FOMC常任票委威廉姆斯(John Williams)讲话"
       },
-      "created_at": "2025-11-10T14:16:29.928250"
+      "created_at": "2025-11-11T14:16:38.247608"
     },
     {
       "platform": "investing",
@@ -1651,7 +2025,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535398",
         "event_attr_id": "",
@@ -1661,11 +2035,156 @@
         "importance": 2,
         "event_name": "美联储理事沃勒(Christopher Waller)讲话"
       },
-      "created_at": "2025-11-10T14:16:29.928356"
+      "created_at": "2025-11-11T14:16:38.247724"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251112075000_-4440362420600562129",
+      "event_id": "em_hsgg_000738_20251112_0",
+      "original_id": "000738",
+      "event_date": "2025-11-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "航发控制发布公告",
+      "content": "股票代码: 000738, 股票名称: 航发控制",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000738"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "stock_code": "000738",
+        "stock_name": "航发控制",
+        "date": "2025-11-12",
+        "total_count": 1501
+      },
+      "created_at": "2025-11-11T14:16:47.656986"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_300030_20251112_1",
+      "original_id": "300030",
+      "event_date": "2025-11-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "阳普医疗发布公告",
+      "content": "股票代码: 300030, 股票名称: 阳普医疗",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300030"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "stock_code": "300030",
+        "stock_name": "阳普医疗",
+        "date": "2025-11-12",
+        "total_count": 1501
+      },
+      "created_at": "2025-11-11T14:16:47.656993"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_601888_20251112_2",
+      "original_id": "601888",
+      "event_date": "2025-11-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中国中免发布公告",
+      "content": "股票代码: 601888, 股票名称: 中国中免",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "601888"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "stock_code": "601888",
+        "stock_name": "中国中免",
+        "date": "2025-11-12",
+        "total_count": 1501
+      },
+      "created_at": "2025-11-11T14:16:47.656999"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_603187_20251112_3",
+      "original_id": "603187",
+      "event_date": "2025-11-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "海容冷链发布公告",
+      "content": "股票代码: 603187, 股票名称: 海容冷链",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603187"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "stock_code": "603187",
+        "stock_name": "海容冷链",
+        "date": "2025-11-12",
+        "total_count": 1501
+      },
+      "created_at": "2025-11-11T14:16:47.657006"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_300012_20251112_4",
+      "original_id": "300012",
+      "event_date": "2025-11-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "华测检测发布公告",
+      "content": "股票代码: 300012, 股票名称: 华测检测",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300012"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "stock_code": "300012",
+        "stock_name": "华测检测",
+        "date": "2025-11-12",
+        "total_count": 1501
+      },
+      "created_at": "2025-11-11T14:16:47.657013"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251112075000_-1294345800535983805",
       "original_id": "2025-11-12 07:50:00_日本：M2：实值(报告期:2025年10月)",
       "event_date": "2025-11-12",
       "event_time": "07:50:00",
@@ -1681,12 +2200,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "Name": "日本：M2：实值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-11-10T14:16:38.281699"
+      "created_at": "2025-11-11T14:16:47.657129"
     },
     {
       "platform": "eastmoney",
@@ -1706,7 +2225,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "fe_code": "10866299",
         "fe_name": "2025第四届中国核能高质量发展大会暨深圳国际核能产业创新博览会",
@@ -1717,7 +2236,7 @@
         "city": "深圳",
         "content": "由中国能源研究会、中国广核集团有限公司主办的“中国核能高质量发展大会暨深圳国际核能产业创新博览会”以“推动核能产业高质量发展”为宗旨,以“核聚湾区·能动世界”为主题,以“做世界一流核展”为目标,携手产业共同打造具有全球影响力的核能产业交流盛会,为中国乃至世界核能产业的高质量发展汇聚行业智慧,提供中国方案。"
       },
-      "created_at": "2025-11-10T14:16:38.285748"
+      "created_at": "2025-11-11T14:16:47.660222"
     },
     {
       "platform": "eastmoney",
@@ -1737,7 +2256,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "fe_code": "10866300",
         "fe_name": "2025世界动力电池大会",
@@ -1748,7 +2267,69 @@
         "city": "宜宾市",
         "content": "2025世界动力电池大会是经国务院批准、由四川省人民政府主办,宜宾市人民政府等单位承办的新能源行业国际会议,于2025年11月12日至13日在宜宾市举行,主题为\"新视野·新生态·新机遇\"。这是宜宾自2022年起连续第四年举办该会议,旨在推动动力电池产业国际交流与全链式集群发展。"
       },
-      "created_at": "2025-11-10T14:16:38.285757"
+      "created_at": "2025-11-11T14:16:47.660231"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866573",
+      "original_id": "10866573",
+      "event_date": "2025-11-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第十六届财新峰会",
+      "content": "第十六届财新峰会11月12日-14日在北京举办,主题为:韧性与耐心。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "北京",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "fe_code": "10866573",
+        "fe_name": "第十六届财新峰会",
+        "start_date": "2025-11-12",
+        "end_date": "2025-11-14",
+        "fe_type": "高峰论坛",
+        "sponsor": "财新传媒",
+        "city": "北京",
+        "content": "第十六届财新峰会11月12日-14日在北京举办,主题为:韧性与耐心。"
+      },
+      "created_at": "2025-11-11T14:16:47.660239"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866583",
+      "original_id": "10866583",
+      "event_date": "2025-11-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "国务院台湾事务办公室将于11月12日举行新闻发布会,就近期两岸热点问题回答记者提问",
+      "content": "国务院台湾事务办公室定于2025年11月12日上午10:00在国台办新闻发布厅(广安门南街6-1号广安大厦中门四层)举行例行新闻发布会,发言人就近期两岸热点问题回答记者提问。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "fe_code": "10866583",
+        "fe_name": "国务院台湾事务办公室将于11月12日举行新闻发布会,就近期两岸热点问题回答记者提问",
+        "start_date": "2025-11-12",
+        "end_date": "2025-11-12",
+        "fe_type": "其他会议",
+        "sponsor": null,
+        "city": null,
+        "content": "国务院台湾事务办公室定于2025年11月12日上午10:00在国台办新闻发布厅(广安门南街6-1号广安大厦中门四层)举行例行新闻发布会,发言人就近期两岸热点问题回答记者提问。"
+      },
+      "created_at": "2025-11-11T14:16:47.660248"
     }
   ]
 }
