@@ -1,9 +1,10 @@
 {
   "date": "2025-12-07",
-  "total_events": 5,
-  "new_events": 0,
+  "total_events": 6,
+  "new_events": 1,
   "platforms": {
     "jiuyangongshe": 1,
+    "investing": 1,
     "eastmoney": 4
   },
   "events": [
@@ -25,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-15",
+      "discovery_date": "2025-11-16",
       "raw_data": {
         "article_id": "b33f1965cdc04b8b8a71f0cf09e62569",
         "user_id": "1",
@@ -50,11 +51,42 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-15T14:13:16.738156"
+      "created_at": "2025-11-16T14:13:07.167545"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251207160000",
+      "original_id": "eventRowId_536064",
+      "event_date": "2025-12-07",
+      "event_time": "16:00",
+      "event_datetime": "2025/12/07 16:00:00",
+      "title": "中国外汇储备(美元)  (十一月)",
+      "content": "前值: 3.343T",
+      "category": null,
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-16",
+      "raw_data": {
+        "event_id": "eventRowId_536064",
+        "event_attr_id": "",
+        "datetime": "2025/12/07 16:00:00",
+        "time": "16:00",
+        "country": "中国",
+        "importance": 2,
+        "event_name": "中国外汇储备(美元)  (十一月)",
+        "previous": "3.343T"
+      },
+      "created_at": "2025-11-16T14:13:16.551018"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207000000_7103024512798813194",
+      "event_id": "em_jjsj_20251207000000_4684767215808239762",
       "original_id": "2025-12-07 00:00:00_中国：外汇储备(报告期:2025年11月)",
       "event_date": "2025-12-07",
       "event_time": null,
@@ -70,16 +102,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-15",
+      "discovery_date": "2025-11-16",
       "raw_data": {
         "Name": "中国：外汇储备(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-15T14:13:32.983329"
+      "created_at": "2025-11-16T14:13:23.187095"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_-2861243808393400325",
+      "event_id": "em_jjsj_20251207213000_7193271143708400987",
       "original_id": "2025-12-07 21:30:00_美国：货物进口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -95,16 +127,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-15",
+      "discovery_date": "2025-11-16",
       "raw_data": {
         "Name": "美国：货物进口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-15T14:13:32.983338"
+      "created_at": "2025-11-16T14:13:23.187102"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_6449000905741111211",
+      "event_id": "em_jjsj_20251207213000_-2623057914638481386",
       "original_id": "2025-12-07 21:30:00_美国：货物出口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -120,16 +152,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-15",
+      "discovery_date": "2025-11-16",
       "raw_data": {
         "Name": "美国：货物出口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-15T14:13:32.983345"
+      "created_at": "2025-11-16T14:13:23.187109"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_2185693451185538347",
+      "event_id": "em_jjsj_20251207213000_3934713609880680943",
       "original_id": "2025-12-07 21:30:00_美国：对外贸易差额(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -145,12 +177,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-15",
+      "discovery_date": "2025-11-16",
       "raw_data": {
         "Name": "美国：对外贸易差额(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-15T14:13:32.983353"
+      "created_at": "2025-11-16T14:13:23.187116"
     }
   ]
 }
