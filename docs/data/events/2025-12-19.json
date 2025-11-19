@@ -1,9 +1,10 @@
 {
   "date": "2025-12-19",
-  "total_events": 21,
-  "new_events": 0,
+  "total_events": 22,
+  "new_events": 1,
   "platforms": {
     "cls": 1,
+    "jiuyangongshe": 1,
     "tonghuashun": 1,
     "investing": 1,
     "eastmoney": 18
@@ -27,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "id": 371643,
         "calendar_time": "2025-12-19 00:00:00",
@@ -43,7 +44,52 @@
         "holiday": null,
         "title": "2025进博优品交易会将于12月19日至21日在上海举办"
       },
-      "created_at": "2025-11-18T14:16:12.618188"
+      "created_at": "2025-11-19T14:16:08.202769"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_cd214dd5efb24fa0b26e896a2c33123a_2d76a58e4bda4c3f8487da2ecb91ea86_20251219",
+      "original_id": "cd214dd5efb24fa0b26e896a2c33123a",
+      "event_date": "2025-12-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "首届香港国际AI艺术节",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "article_id": "cd214dd5efb24fa0b26e896a2c33123a",
+        "user_id": "1",
+        "title": "首届香港国际AI艺术节",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "cd214dd5efb24fa0b26e896a2c33123a",
+          "timeline_id": "2d76a58e4bda4c3f8487da2ecb91ea86",
+          "date": "2025-12-19",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-18 22:28:34",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-19T14:16:12.639714"
     },
     {
       "platform": "tonghuashun",
@@ -63,7 +109,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "event": [
           "2025进博优品交易会将于12月19日至21日在上海举办",
@@ -73,7 +119,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-18T14:16:20.879783"
+      "created_at": "2025-11-19T14:16:17.424032"
     },
     {
       "platform": "investing",
@@ -93,7 +139,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "event_id": "eventRowId_516881",
         "event_attr_id": "",
@@ -104,11 +150,11 @@
         "event_name": "日本央行利率决议",
         "previous": "0.50%"
       },
-      "created_at": "2025-11-18T14:16:27.195217"
+      "created_at": "2025-11-19T14:16:22.816764"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219000000_4137501377789217090",
+      "event_id": "em_jjsj_20251219000000_5795431845791189880",
       "original_id": "2025-12-19 00:00:00_美国：成屋销售：环比折年率(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": null,
@@ -124,16 +170,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "美国：成屋销售：环比折年率(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-18T14:16:30.524866"
+      "created_at": "2025-11-19T14:16:26.221531"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219000000_6884692785219816852",
+      "event_id": "em_jjsj_20251219000000_-2600807032341869338",
       "original_id": "2025-12-19 00:00:00_美国：成屋销售折年数(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": null,
@@ -149,16 +195,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "美国：成屋销售折年数(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-18T14:16:30.524873"
+      "created_at": "2025-11-19T14:16:26.221538"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219000000_8952348389131286860",
+      "event_id": "em_jjsj_20251219000000_8259157791949324022",
       "original_id": "2025-12-19 00:00:00_阿根廷：进口金额(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": null,
@@ -174,16 +220,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "阿根廷：进口金额(报告期:2025年11月)",
         "City": "阿根廷"
       },
-      "created_at": "2025-11-18T14:16:30.524881"
+      "created_at": "2025-11-19T14:16:26.221546"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219000000_6709483519413194344",
+      "event_id": "em_jjsj_20251219000000_290378055460986958",
       "original_id": "2025-12-19 00:00:00_中国澳门：CPI：综合：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": null,
@@ -199,16 +245,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "中国澳门：CPI：综合：同比(报告期:2025年11月)",
         "City": "中国澳门"
       },
-      "created_at": "2025-11-18T14:16:30.524889"
+      "created_at": "2025-11-19T14:16:26.221554"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219050000_-2388588385755066935",
+      "event_id": "em_jjsj_20251219050000_-333790835878812751",
       "original_id": "2025-12-19 05:00:00_韩国：PPI：环比 (报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "05:00:00",
@@ -224,16 +270,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "韩国：PPI：环比 (报告期:2025年11月)",
         "City": "韩国"
       },
-      "created_at": "2025-11-18T14:16:30.524897"
+      "created_at": "2025-11-19T14:16:26.221562"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219050000_-6990080835487941826",
+      "event_id": "em_jjsj_20251219050000_-7446723836621640936",
       "original_id": "2025-12-19 05:00:00_韩国：PPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "05:00:00",
@@ -249,16 +295,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "韩国：PPI：同比(报告期:2025年11月)",
         "City": "韩国"
       },
-      "created_at": "2025-11-18T14:16:30.524904"
+      "created_at": "2025-11-19T14:16:26.221569"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219073000_-8703842584000840687",
+      "event_id": "em_jjsj_20251219073000_9194165459869218876",
       "original_id": "2025-12-19 07:30:00_日本：CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "07:30:00",
@@ -274,16 +320,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "日本：CPI：同比(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-11-18T14:16:30.524912"
+      "created_at": "2025-11-19T14:16:26.221577"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219073000_5266766144228776782",
+      "event_id": "em_jjsj_20251219073000_1206502544131611368",
       "original_id": "2025-12-19 07:30:00_日本：核心CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "07:30:00",
@@ -299,16 +345,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "日本：核心CPI：同比(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-11-18T14:16:30.524919"
+      "created_at": "2025-11-19T14:16:26.221584"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219110000_-1983884162992802802",
+      "event_id": "em_jjsj_20251219110000_-7034691830191891744",
       "original_id": "2025-12-19 11:00:00_日本：央行公布利率决议(报告期:2025年12月)",
       "event_date": "2025-12-19",
       "event_time": "11:00:00",
@@ -324,16 +370,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "日本：央行公布利率决议(报告期:2025年12月)",
         "City": "日本"
       },
-      "created_at": "2025-11-18T14:16:30.524927"
+      "created_at": "2025-11-19T14:16:26.221592"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219120000_8295583866097093452",
+      "event_id": "em_jjsj_20251219120000_-9193689471026106186",
       "original_id": "2025-12-19 12:00:00_马来西亚：对外贸易：贸易差额(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "12:00:00",
@@ -349,16 +395,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "马来西亚：对外贸易：贸易差额(报告期:2025年11月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-11-18T14:16:30.524935"
+      "created_at": "2025-11-19T14:16:26.221600"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219150000_-7900376339873045168",
+      "event_id": "em_jjsj_20251219150000_2999573066665759894",
       "original_id": "2025-12-19 15:00:00_英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "15:00:00",
@@ -374,16 +420,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-11-18T14:16:30.524944"
+      "created_at": "2025-11-19T14:16:26.221608"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219150000_-2253916069138015670",
+      "event_id": "em_jjsj_20251219150000_-3358192463979954238",
       "original_id": "2025-12-19 15:00:00_英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "15:00:00",
@@ -399,16 +445,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-11-18T14:16:30.524951"
+      "created_at": "2025-11-19T14:16:26.221615"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219150000_1235167521412857041",
+      "event_id": "em_jjsj_20251219150000_4742191488093840860",
       "original_id": "2025-12-19 15:00:00_英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "15:00:00",
@@ -424,16 +470,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-11-18T14:16:30.524959"
+      "created_at": "2025-11-19T14:16:26.221622"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219213000_-1194937944145481316",
+      "event_id": "em_jjsj_20251219213000_-6495705689892453252",
       "original_id": "2025-12-19 21:30:00_美国：个人总收入：季调(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "21:30:00",
@@ -449,16 +495,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "美国：个人总收入：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-18T14:16:30.524967"
+      "created_at": "2025-11-19T14:16:26.221631"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219213000_5933036496496614204",
+      "event_id": "em_jjsj_20251219213000_-1754402106143367315",
       "original_id": "2025-12-19 21:30:00_美国：个人消费支出：季调(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "21:30:00",
@@ -474,16 +520,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "美国：个人消费支出：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-18T14:16:30.524974"
+      "created_at": "2025-11-19T14:16:26.221638"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219213000_691619829240855475",
+      "event_id": "em_jjsj_20251219213000_-359189028687612556",
       "original_id": "2025-12-19 21:30:00_美国：人均可支配收入:季调(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "21:30:00",
@@ -499,16 +545,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "美国：人均可支配收入:季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-18T14:16:30.524982"
+      "created_at": "2025-11-19T14:16:26.221646"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219213000_-1714719084474027345",
+      "event_id": "em_jjsj_20251219213000_2496732363633893465",
       "original_id": "2025-12-19 21:30:00_美国：核心PCE物价指数：当月同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "21:30:00",
@@ -524,12 +570,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "美国：核心PCE物价指数：当月同比(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-18T14:16:30.524989"
+      "created_at": "2025-11-19T14:16:26.221653"
     },
     {
       "platform": "eastmoney",
@@ -549,7 +595,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "fe_code": "10866645",
         "fe_name": "2025进博优品交易会",
@@ -560,7 +606,7 @@
         "city": "上海",
         "content": "2025进博优品交易会将于2025年12月19日至21日在国家会展中心(上海)举办。欧莱雅、三星、金光集团APP、佳农、百联集团、东方国际等一大批进博会的明星企业将亮相本届展会。2025进博优品交易会面向普通消费者,交易模式将以现场销售为主,兼顾看样订货,既有现场零售,也可以线上下单、线下提货。届时,将对第八届进博会首发新品进行专门集中展示,还将设置非遗老字号专区,并举办优品发布、供需对接、鉴赏互动、文化展演、试吃打卡、文旅推介等文旅商体展紧密联动的系列活动。"
       },
-      "created_at": "2025-11-18T14:16:30.525738"
+      "created_at": "2025-11-19T14:16:26.222457"
     }
   ]
 }
