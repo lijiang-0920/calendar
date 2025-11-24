@@ -1,9 +1,9 @@
 {
   "date": "2025-12-17",
-  "total_events": 26,
-  "new_events": 0,
+  "total_events": 27,
+  "new_events": 1,
   "platforms": {
-    "cls": 1,
+    "cls": 2,
     "jiuyangongshe": 2,
     "tonghuashun": 1,
     "eastmoney": 22
@@ -27,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "id": 388557,
         "calendar_time": "2025-12-17 00:00:00",
@@ -43,7 +43,43 @@
         "holiday": null,
         "title": "2025小米人车家全生态合作伙伴大会将于12月17日举办"
       },
-      "created_at": "2025-11-23T14:13:29.462447"
+      "created_at": "2025-11-24T14:16:35.314535"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_396959_20251217_2",
+      "original_id": "396959",
+      "event_date": "2025-12-17",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-17 00:00:00",
+      "title": "2025中国人工智能产业创新发展大会将于12月17日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "id": 396959,
+        "calendar_time": "2025-12-17 00:00:00",
+        "data_id": 20295,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025中国人工智能产业创新发展大会将于12月17日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025中国人工智能产业创新发展大会将于12月17日举办"
+      },
+      "created_at": "2025-11-24T14:16:35.314546"
     },
     {
       "platform": "jiuyangongshe",
@@ -63,7 +99,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "article_id": "b59f5140dafd46ba993f7494f54e27b1",
         "user_id": "1",
@@ -88,7 +124,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-23T14:13:33.194559"
+      "created_at": "2025-11-24T14:16:39.463412"
     },
     {
       "platform": "jiuyangongshe",
@@ -108,7 +144,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "article_id": "35394ff671874ff69f7a140d5302cbd4",
         "user_id": "1",
@@ -133,7 +169,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-23T14:13:33.194567"
+      "created_at": "2025-11-24T14:16:39.463420"
     },
     {
       "platform": "tonghuashun",
@@ -153,7 +189,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "event": [
           "2025小米人车家全生态合作伙伴大会将于12月17日举办",
@@ -163,11 +199,11 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-23T14:13:38.526483"
+      "created_at": "2025-11-24T14:16:44.332091"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217075000_-595905771660854388",
+      "event_id": "em_jjsj_20251217075000_8733876241634233151",
       "original_id": "2025-12-17 07:50:00_日本：贸易差额：当月值(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "07:50:00",
@@ -183,16 +219,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "日本：贸易差额：当月值(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-11-23T14:13:47.312559"
+      "created_at": "2025-11-24T14:16:52.594895"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217075000_4029006891465502289",
+      "event_id": "em_jjsj_20251217075000_-8819897440007413237",
       "original_id": "2025-12-17 07:50:00_日本：出口金额：当月值(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "07:50:00",
@@ -208,16 +244,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "日本：出口金额：当月值(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-11-23T14:13:47.312566"
+      "created_at": "2025-11-24T14:16:52.594902"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217075000_808155442577812419",
+      "event_id": "em_jjsj_20251217075000_-7938142383451350546",
       "original_id": "2025-12-17 07:50:00_日本：进口金额：当月值(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "07:50:00",
@@ -233,16 +269,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "日本：进口金额：当月值(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-11-23T14:13:47.312574"
+      "created_at": "2025-11-24T14:16:52.594909"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217150000_7247542334494027176",
+      "event_id": "em_jjsj_20251217150000_899694286077136683",
       "original_id": "2025-12-17 15:00:00_英国：核心CPI：环比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "15:00:00",
@@ -258,16 +294,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "英国：核心CPI：环比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-11-23T14:13:47.312582"
+      "created_at": "2025-11-24T14:16:52.594916"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217150000_-3197548960244162855",
+      "event_id": "em_jjsj_20251217150000_8126182298411430728",
       "original_id": "2025-12-17 15:00:00_英国：核心CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "15:00:00",
@@ -283,16 +319,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "英国：核心CPI：同比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-11-23T14:13:47.312589"
+      "created_at": "2025-11-24T14:16:52.594923"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217150000_6292809822230116069",
+      "event_id": "em_jjsj_20251217150000_-3490246634841381326",
       "original_id": "2025-12-17 15:00:00_英国：CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "15:00:00",
@@ -308,16 +344,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "英国：CPI：同比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-11-23T14:13:47.312596"
+      "created_at": "2025-11-24T14:16:52.594930"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217150000_9105215874265984278",
+      "event_id": "em_jjsj_20251217150000_3730561171304213758",
       "original_id": "2025-12-17 15:00:00_英国：CPI：环比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "15:00:00",
@@ -333,16 +369,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "英国：CPI：环比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-11-23T14:13:47.312603"
+      "created_at": "2025-11-24T14:16:52.594943"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217150000_-1773156064080029525",
+      "event_id": "em_jjsj_20251217150000_1552222836397702763",
       "original_id": "2025-12-17 15:00:00_英国：RPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "15:00:00",
@@ -358,16 +394,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "英国：RPI：同比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-11-23T14:13:47.312610"
+      "created_at": "2025-11-24T14:16:52.594950"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217180000_-5730961807739061067",
+      "event_id": "em_jjsj_20251217180000_3510374583461471250",
       "original_id": "2025-12-17 18:00:00_意大利：HICP：环比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "18:00:00",
@@ -383,16 +419,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "意大利：HICP：环比(报告期:2025年11月)",
         "City": "意大利"
       },
-      "created_at": "2025-11-23T14:13:47.312618"
+      "created_at": "2025-11-24T14:16:52.594958"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217180000_1995892900457573137",
+      "event_id": "em_jjsj_20251217180000_9125359917685402328",
       "original_id": "2025-12-17 18:00:00_意大利：HICP：同比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "18:00:00",
@@ -408,16 +444,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "意大利：HICP：同比(报告期:2025年11月)",
         "City": "意大利"
       },
-      "created_at": "2025-11-23T14:13:47.312625"
+      "created_at": "2025-11-24T14:16:52.594964"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217180000_6897316618953895903",
+      "event_id": "em_jjsj_20251217180000_-4194470456260686748",
       "original_id": "2025-12-17 18:00:00_德国：HICP：同比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "18:00:00",
@@ -433,16 +469,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "德国：HICP：同比(报告期:2025年11月)",
         "City": "德国"
       },
-      "created_at": "2025-11-23T14:13:47.312632"
+      "created_at": "2025-11-24T14:16:52.594972"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217180000_-5558750892749719975",
+      "event_id": "em_jjsj_20251217180000_6602825847713805916",
       "original_id": "2025-12-17 18:00:00_德国：HICP：环比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "18:00:00",
@@ -458,16 +494,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "德国：HICP：环比(报告期:2025年11月)",
         "City": "德国"
       },
-      "created_at": "2025-11-23T14:13:47.312639"
+      "created_at": "2025-11-24T14:16:52.594979"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217180000_-4389694844386141236",
+      "event_id": "em_jjsj_20251217180000_8371538008259881114",
       "original_id": "2025-12-17 18:00:00_欧元区：CPI：当月同比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "18:00:00",
@@ -483,16 +519,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "欧元区：CPI：当月同比(报告期:2025年11月)",
         "City": "欧盟"
       },
-      "created_at": "2025-11-23T14:13:47.312648"
+      "created_at": "2025-11-24T14:16:52.594986"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217180000_-3768292483251721908",
+      "event_id": "em_jjsj_20251217180000_6591023255131932870",
       "original_id": "2025-12-17 18:00:00_欧元区：CPI(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "18:00:00",
@@ -508,16 +544,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "欧元区：CPI(报告期:2025年11月)",
         "City": "欧盟"
       },
-      "created_at": "2025-11-23T14:13:47.312656"
+      "created_at": "2025-11-24T14:16:52.594993"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217180000_3300013117626320372",
+      "event_id": "em_jjsj_20251217180000_1307874686182451156",
       "original_id": "2025-12-17 18:00:00_欧元区:CPI:环比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "18:00:00",
@@ -533,16 +569,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "欧元区:CPI:环比(报告期:2025年11月)",
         "City": "欧盟"
       },
-      "created_at": "2025-11-23T14:13:47.312663"
+      "created_at": "2025-11-24T14:16:52.595000"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217180000_-3406490125307268847",
+      "event_id": "em_jjsj_20251217180000_-8377343703971279899",
       "original_id": "2025-12-17 18:00:00_欧元区：核心CPI：环比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "18:00:00",
@@ -558,16 +594,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "欧元区：核心CPI：环比(报告期:2025年11月)",
         "City": "欧盟"
       },
-      "created_at": "2025-11-23T14:13:47.312671"
+      "created_at": "2025-11-24T14:16:52.595007"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217180000_-2326975757982596564",
+      "event_id": "em_jjsj_20251217180000_7888680970156657378",
       "original_id": "2025-12-17 18:00:00_欧元区：核心CPI：当月同比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "18:00:00",
@@ -583,16 +619,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "欧元区：核心CPI：当月同比(报告期:2025年11月)",
         "City": "欧盟"
       },
-      "created_at": "2025-11-23T14:13:47.312679"
+      "created_at": "2025-11-24T14:16:52.595014"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217180000_4691701276196994993",
+      "event_id": "em_jjsj_20251217180000_1439853075554683968",
       "original_id": "2025-12-17 18:00:00_欧盟：核心CPI：环比(报告期:2025年11月)",
       "event_date": "2025-12-17",
       "event_time": "18:00:00",
@@ -608,16 +644,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "欧盟：核心CPI：环比(报告期:2025年11月)",
         "City": "欧盟"
       },
-      "created_at": "2025-11-23T14:13:47.312686"
+      "created_at": "2025-11-24T14:16:52.595021"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217213000_2192970176182152588",
+      "event_id": "em_jjsj_20251217213000_5531984439094966899",
       "original_id": "2025-12-17 21:30:00_美国：零售商库存：季调(报告期:2025年10月)",
       "event_date": "2025-12-17",
       "event_time": "21:30:00",
@@ -633,16 +669,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "美国：零售商库存：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-23T14:13:47.312694"
+      "created_at": "2025-11-24T14:16:52.595029"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217213000_-5469957622742858673",
+      "event_id": "em_jjsj_20251217213000_-1665286938421104220",
       "original_id": "2025-12-17 21:30:00_美国：核心零售总额：季调(报告期:2025年10月)",
       "event_date": "2025-12-17",
       "event_time": "21:30:00",
@@ -658,16 +694,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "美国：核心零售总额：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-23T14:13:47.312702"
+      "created_at": "2025-11-24T14:16:52.595036"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251217213000_-3805764750750475194",
+      "event_id": "em_jjsj_20251217213000_7420628118739303108",
       "original_id": "2025-12-17 21:30:00_美国：零售总额：季调(报告期:2025年10月)",
       "event_date": "2025-12-17",
       "event_time": "21:30:00",
@@ -683,12 +719,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "美国：零售总额：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-23T14:13:47.312709"
+      "created_at": "2025-11-24T14:16:52.595043"
     },
     {
       "platform": "eastmoney",
@@ -708,7 +744,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "fe_code": "10866807",
         "fe_name": "2025小米人车家全生态合作伙伴大会",
@@ -719,7 +755,7 @@
         "city": "北京",
         "content": "11月19日,小米公司正式宣布,将于12月17日在北京国家会议中心举办2025年“人车家全生态”合作伙伴大会。本次大会聚焦软硬件领域的前沿技术,深入探讨行业发展趋势,旨在推动生态协同创新。活动将设有一场主论坛和九场分论坛,内容覆盖小米澎湃OS、互联网服务、IoT及生态链业务,并首次纳入汽车CarIoT生态板块,全面呈现人在家中、出行及日常生活三大场景下的智能融合生态体系,为合作伙伴提供一个开放协作与联合创新的交流平台。"
       },
-      "created_at": "2025-11-23T14:13:47.313460"
+      "created_at": "2025-11-24T14:16:52.595726"
     }
   ]
 }
