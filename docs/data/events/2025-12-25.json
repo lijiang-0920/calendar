@@ -1,14 +1,51 @@
 {
   "date": "2025-12-25",
-  "total_events": 4,
-  "new_events": 0,
+  "total_events": 5,
+  "new_events": 1,
   "platforms": {
+    "cls": 1,
     "eastmoney": 4
   },
   "events": [
     {
+      "platform": "cls",
+      "event_id": "cls_400443_20251225_2",
+      "original_id": "400443",
+      "event_date": "2025-12-25",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-25 00:00:00",
+      "title": "第十六届物联网产业与智慧城市发展年会将于12月25日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "id": 400443,
+        "calendar_time": "2025-12-25 00:00:00",
+        "data_id": 20361,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "第十六届物联网产业与智慧城市发展年会将于12月25日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "第十六届物联网产业与智慧城市发展年会将于12月25日举办"
+      },
+      "created_at": "2025-11-26T14:17:44.841029"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251225_-2029828910639357213",
+      "event_id": "em_xsap_20251225_3320978174654792967",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-25",
       "event_date": "2025-12-25",
       "event_time": null,
@@ -24,7 +61,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "圣诞节",
@@ -33,11 +70,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-11-25T14:17:22.031455"
+      "created_at": "2025-11-26T14:18:04.370288"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251225_-2029828910639357213",
+      "event_id": "em_xsap_20251225_3320978174654792967",
       "original_id": "xsap_港股_2025-12-25",
       "event_date": "2025-12-25",
       "event_time": null,
@@ -53,7 +90,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "圣诞节",
@@ -62,11 +99,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-11-25T14:17:22.031463"
+      "created_at": "2025-11-26T14:18:04.370296"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251225_-2029828910639357213",
+      "event_id": "em_xsap_20251225_3320978174654792967",
       "original_id": "xsap_沪股通、深股通_2025-12-25",
       "event_date": "2025-12-25",
       "event_time": null,
@@ -82,7 +119,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "MKT": "沪股通、深股通",
         "HOLIDAY": "圣诞节",
@@ -91,11 +128,11 @@
         "XS": null,
         "FIRST_LETTER": "H"
       },
-      "created_at": "2025-11-25T14:17:22.031471"
+      "created_at": "2025-11-26T14:18:04.370304"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251225000000_666475776337877459",
+      "event_id": "em_jjsj_20251225000000_-4565271442413676653",
       "original_id": "2025-12-25 00:00:00_中国：库存:电解铝:保税区(报告期:2025年12月)",
       "event_date": "2025-12-25",
       "event_time": null,
@@ -111,12 +148,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "Name": "中国：库存:电解铝:保税区(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-11-25T14:17:22.033814"
+      "created_at": "2025-11-26T14:18:04.373888"
     }
   ]
 }
