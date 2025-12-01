@@ -2,10 +2,10 @@
   "platform": "investing",
   "year": 2025,
   "month": 11,
-  "total_events": 489,
+  "total_events": 491,
   "data_status": "ARCHIVED",
   "date_type": "HISTORICAL",
-  "last_update": "2025-11-30T14:14:18.766758",
+  "last_update": "2025-12-01T14:18:00.850790",
   "immutable": true,
   "events": [
     {
@@ -15544,6 +15544,68 @@
         "previous": "6,555B"
       },
       "created_at": "2025-11-29T14:14:20.244263"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251130093000",
+      "original_id": "eventRowId_535568",
+      "event_date": "2025-11-30",
+      "event_time": "09:30",
+      "event_datetime": "2025/11/30 09:30:00",
+      "title": "中国官方综合PMI  (十一月)",
+      "content": "实际值: 49.7 | 前值: 50.0",
+      "category": null,
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2025-11-30",
+      "raw_data": {
+        "event_id": "eventRowId_535568",
+        "event_attr_id": "",
+        "datetime": "2025/11/30 09:30:00",
+        "time": "09:30",
+        "country": "中国",
+        "importance": 2,
+        "event_name": "中国官方综合PMI  (十一月)",
+        "actual": "49.7",
+        "previous": "50.0"
+      },
+      "created_at": "2025-11-30T14:14:28.841533"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251130180000",
+      "original_id": "eventRowId_537043",
+      "event_date": "2025-11-30",
+      "event_time": "18:00",
+      "event_datetime": "2025/11/30 18:00:00",
+      "title": "石油输出国组织(OPEC)会议",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2025-11-30",
+      "raw_data": {
+        "event_id": "eventRowId_537043",
+        "event_attr_id": "",
+        "datetime": "2025/11/30 18:00:00",
+        "time": "18:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "石油输出国组织(OPEC)会议"
+      },
+      "created_at": "2025-11-30T14:14:28.841923"
     }
   ]
 }
