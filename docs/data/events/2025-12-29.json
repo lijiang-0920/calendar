@@ -1,9 +1,10 @@
 {
   "date": "2025-12-29",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 6,
+  "new_events": 5,
   "platforms": {
-    "jiuyangongshe": 1
+    "jiuyangongshe": 1,
+    "eastmoney": 5
   },
   "events": [
     {
@@ -26,7 +27,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-03",
+      "discovery_date": "2025-12-04",
       "raw_data": {
         "article_id": "0d376a65077f4d01a0faa2fb0afb3ddc",
         "user_id": "1",
@@ -56,7 +57,132 @@
           ]
         }
       },
-      "created_at": "2025-12-03T14:17:29.527134"
+      "created_at": "2025-12-04T14:17:54.304516"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251229000000_-4194108224169689565",
+      "original_id": "2025-12-29 00:00:00_马来西亚：PPI：同比(报告期:2025年11月)",
+      "event_date": "2025-12-29",
+      "event_time": null,
+      "event_datetime": "2025-12-29 00:00:00",
+      "title": "马来西亚：PPI：同比(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "马来西亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-04",
+      "raw_data": {
+        "Name": "马来西亚：PPI：同比(报告期:2025年11月)",
+        "City": "马来西亚"
+      },
+      "created_at": "2025-12-04T14:18:03.676259"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251229163000_-993094836953311530",
+      "original_id": "2025-12-29 16:30:00_中国香港：商品贸易差额：当月值(报告期:2025年11月)",
+      "event_date": "2025-12-29",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-12-29 16:30:00",
+      "title": "中国香港：商品贸易差额：当月值(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-04",
+      "raw_data": {
+        "Name": "中国香港：商品贸易差额：当月值(报告期:2025年11月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-12-04T14:18:03.676267"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251229163000_580206525840588256",
+      "original_id": "2025-12-29 16:30:00_中国香港：整体出口货值：当月同比(报告期:2025年11月)",
+      "event_date": "2025-12-29",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-12-29 16:30:00",
+      "title": "中国香港：整体出口货值：当月同比(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-04",
+      "raw_data": {
+        "Name": "中国香港：整体出口货值：当月同比(报告期:2025年11月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-12-04T14:18:03.676275"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251229163000_-1348195124856010576",
+      "original_id": "2025-12-29 16:30:00_中国香港：进口货值：同比(报告期:2025年11月)",
+      "event_date": "2025-12-29",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-12-29 16:30:00",
+      "title": "中国香港：进口货值：同比(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-04",
+      "raw_data": {
+        "Name": "中国香港：进口货值：同比(报告期:2025年11月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-12-04T14:18:03.676282"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251229230000_195790767884579314",
+      "original_id": "2025-12-29 23:00:00_美国：成屋签约销售指数(报告期:2025年11月)",
+      "event_date": "2025-12-29",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-29 23:00:00",
+      "title": "美国：成屋签约销售指数(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-04",
+      "raw_data": {
+        "Name": "美国：成屋签约销售指数(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-12-04T14:18:03.676290"
     }
   ]
 }
