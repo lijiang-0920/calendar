@@ -1,11 +1,11 @@
 {
   "date": "2025-12-07",
-  "total_events": 7,
-  "new_events": 5,
+  "total_events": 8,
+  "new_events": 1,
   "platforms": {
     "jiuyangongshe": 2,
     "investing": 1,
-    "eastmoney": 4
+    "eastmoney": 5
   },
   "events": [
     {
@@ -26,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "article_id": "b33f1965cdc04b8b8a71f0cf09e62569",
         "user_id": "1",
@@ -51,7 +51,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-04T14:17:54.304112"
+      "created_at": "2025-12-05T14:17:18.746454"
     },
     {
       "platform": "jiuyangongshe",
@@ -70,8 +70,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-04",
+      "is_new": false,
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "article_id": "8bb46c8d0cab457cb458ce1cec05cfda",
         "user_id": "1",
@@ -96,7 +96,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-04T14:17:54.304120"
+      "created_at": "2025-12-05T14:17:18.746464"
     },
     {
       "platform": "investing",
@@ -116,7 +116,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event_id": "eventRowId_536064",
         "event_attr_id": "",
@@ -127,11 +127,11 @@
         "event_name": "中国外汇储备(美元)  (十一月)",
         "previous": "3.343T"
       },
-      "created_at": "2025-12-04T14:17:57.115334"
+      "created_at": "2025-12-05T14:17:22.193091"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207000000_-8242428029567060555",
+      "event_id": "em_jjsj_20251207000000_3416067038088871145",
       "original_id": "2025-12-07 00:00:00_中国：外汇储备(报告期:2025年11月)",
       "event_date": "2025-12-07",
       "event_time": null,
@@ -146,17 +146,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-04",
+      "is_new": false,
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "Name": "中国：外汇储备(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-12-04T14:18:03.674969"
+      "created_at": "2025-12-05T14:17:27.438544"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_5688656830846633367",
+      "event_id": "em_jjsj_20251207213000_-7722787478107052358",
       "original_id": "2025-12-07 21:30:00_美国：货物进口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -171,17 +171,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-04",
+      "is_new": false,
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "Name": "美国：货物进口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-12-04T14:18:03.674977"
+      "created_at": "2025-12-05T14:17:27.438552"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_4355050376502290809",
+      "event_id": "em_jjsj_20251207213000_48373260220857230",
       "original_id": "2025-12-07 21:30:00_美国：货物出口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -196,17 +196,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-04",
+      "is_new": false,
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "Name": "美国：货物出口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-12-04T14:18:03.674984"
+      "created_at": "2025-12-05T14:17:27.438559"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_5989722323175714804",
+      "event_id": "em_jjsj_20251207213000_3420432906809702222",
       "original_id": "2025-12-07 21:30:00_美国：对外贸易差额(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -221,13 +221,44 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-04",
+      "is_new": false,
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "Name": "美国：对外贸易差额(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-12-04T14:18:03.674991"
+      "created_at": "2025-12-05T14:17:27.438566"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10867025",
+      "original_id": "10867025",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "和讯财经中国2025年会",
+      "content": "12月7日,“和讯财经中国2025年会”在北京举行,主题为“寻找中国经济破局之路”。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "北京市",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-05",
+      "raw_data": {
+        "fe_code": "10867025",
+        "fe_name": "和讯财经中国2025年会",
+        "start_date": "2025-12-07",
+        "end_date": "2025-12-07",
+        "fe_type": "行业会议",
+        "sponsor": "和讯",
+        "city": "北京市",
+        "content": "12月7日,“和讯财经中国2025年会”在北京举行,主题为“寻找中国经济破局之路”。"
+      },
+      "created_at": "2025-12-05T14:17:27.440225"
     }
   ]
 }
