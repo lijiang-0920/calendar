@@ -1,11 +1,11 @@
 {
   "date": "2025-12-07",
-  "total_events": 8,
-  "new_events": 0,
+  "total_events": 29,
+  "new_events": 22,
   "platforms": {
     "jiuyangongshe": 2,
     "investing": 1,
-    "eastmoney": 5
+    "eastmoney": 26
   },
   "events": [
     {
@@ -26,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-06",
+      "discovery_date": "2025-12-07",
       "raw_data": {
         "article_id": "b33f1965cdc04b8b8a71f0cf09e62569",
         "user_id": "1",
@@ -51,7 +51,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-06T14:13:51.476028"
+      "created_at": "2025-12-07T14:14:13.276880"
     },
     {
       "platform": "jiuyangongshe",
@@ -71,7 +71,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-06",
+      "discovery_date": "2025-12-07",
       "raw_data": {
         "article_id": "8bb46c8d0cab457cb458ce1cec05cfda",
         "user_id": "1",
@@ -96,17 +96,17 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-06T14:13:51.476039"
+      "created_at": "2025-12-07T14:14:13.276938"
     },
     {
       "platform": "investing",
-      "event_id": "inv__20251207160000",
+      "event_id": "inv__20251207110000",
       "original_id": "eventRowId_536064",
       "event_date": "2025-12-07",
-      "event_time": "16:00",
-      "event_datetime": "2025/12/07 16:00:00",
+      "event_time": "11:00",
+      "event_datetime": "2025/12/07 11:00:00",
       "title": "中国外汇储备(美元)  (十一月)",
-      "content": "前值: 3.343T",
+      "content": "实际值: 3.346T | 预测值: 3.360T | 前值: 3.343T",
       "category": null,
       "importance": 2,
       "country": "中国",
@@ -115,23 +115,613 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-06",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
       "raw_data": {
         "event_id": "eventRowId_536064",
         "event_attr_id": "",
-        "datetime": "2025/12/07 16:00:00",
-        "time": "16:00",
+        "datetime": "2025/12/07 11:00:00",
+        "time": "11:00",
         "country": "中国",
         "importance": 2,
         "event_name": "中国外汇储备(美元)  (十一月)",
+        "actual": "3.346T",
+        "forecast": "3.360T",
         "previous": "3.343T"
       },
-      "created_at": "2025-12-06T14:13:54.985787"
+      "created_at": "2025-12-07T14:14:17.164503"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207000000_-7706981186543547580",
+      "event_id": "em_tfpxx_300710_20251207_0",
+      "original_id": "300710",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "万隆光电停复牌",
+      "content": "股票代码: 300710, 股票名称: 万隆光电",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300710"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "300710",
+        "stock_name": "万隆光电",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864267"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300165_20251207_1",
+      "original_id": "300165",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "ST天瑞停复牌",
+      "content": "股票代码: 300165, 股票名称: ST天瑞",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300165"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "300165",
+        "stock_name": "ST天瑞",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864275"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_920680_20251207_2",
+      "original_id": "920680",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST广道停复牌",
+      "content": "股票代码: 920680, 股票名称: *ST广道",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "920680"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "920680",
+        "stock_name": "*ST广道",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864282"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300379_20251207_3",
+      "original_id": "300379",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST东通停复牌",
+      "content": "股票代码: 300379, 股票名称: *ST东通",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300379"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "300379",
+        "stock_name": "*ST东通",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864289"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_601198_20251207_4",
+      "original_id": "601198",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "东兴证券停复牌",
+      "content": "股票代码: 601198, 股票名称: 东兴证券",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "601198"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "601198",
+        "stock_name": "东兴证券",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864296"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_600222_20251207_5",
+      "original_id": "600222",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "太龙药业停复牌",
+      "content": "股票代码: 600222, 股票名称: 太龙药业",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "600222"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "600222",
+        "stock_name": "太龙药业",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864302"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_600165_20251207_6",
+      "original_id": "600165",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST宁科停复牌",
+      "content": "股票代码: 600165, 股票名称: *ST宁科",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "600165"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "600165",
+        "stock_name": "*ST宁科",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864309"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_600800_20251207_7",
+      "original_id": "600800",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "渤海化学停复牌",
+      "content": "股票代码: 600800, 股票名称: 渤海化学",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "600800"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "600800",
+        "stock_name": "渤海化学",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864315"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_200771_20251207_8",
+      "original_id": "200771",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "杭汽轮B停复牌",
+      "content": "股票代码: 200771, 股票名称: 杭汽轮B",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "200771"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "200771",
+        "stock_name": "杭汽轮B",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864323"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_600200_20251207_9",
+      "original_id": "600200",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST苏吴停复牌",
+      "content": "股票代码: 600200, 股票名称: *ST苏吴",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "600200"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "600200",
+        "stock_name": "*ST苏吴",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864329"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002235_20251207_10",
+      "original_id": "002235",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "安妮股份停复牌",
+      "content": "股票代码: 002235, 股票名称: 安妮股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002235"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "002235",
+        "stock_name": "安妮股份",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864336"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_001331_20251207_11",
+      "original_id": "001331",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "胜通能源停复牌",
+      "content": "股票代码: 001331, 股票名称: 胜通能源",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "001331"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "001331",
+        "stock_name": "胜通能源",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864343"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_601995_20251207_12",
+      "original_id": "601995",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中金公司停复牌",
+      "content": "股票代码: 601995, 股票名称: 中金公司",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "601995"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "601995",
+        "stock_name": "中金公司",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864349"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002812_20251207_13",
+      "original_id": "002812",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "恩捷股份停复牌",
+      "content": "股票代码: 002812, 股票名称: 恩捷股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002812"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "002812",
+        "stock_name": "恩捷股份",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864356"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_688536_20251207_14",
+      "original_id": "688536",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "思瑞浦停复牌",
+      "content": "股票代码: 688536, 股票名称: 思瑞浦",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688536"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "688536",
+        "stock_name": "思瑞浦",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864363"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002742_20251207_15",
+      "original_id": "002742",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST三圣停复牌",
+      "content": "股票代码: 002742, 股票名称: *ST三圣",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002742"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "002742",
+        "stock_name": "*ST三圣",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864370"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002769_20251207_16",
+      "original_id": "002769",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "普路通停复牌",
+      "content": "股票代码: 002769, 股票名称: 普路通",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002769"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "002769",
+        "stock_name": "普路通",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864376"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002200_20251207_17",
+      "original_id": "002200",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST交投停复牌",
+      "content": "股票代码: 002200, 股票名称: *ST交投",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002200"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "002200",
+        "stock_name": "*ST交投",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864383"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300270_20251207_18",
+      "original_id": "300270",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中威电子停复牌",
+      "content": "股票代码: 300270, 股票名称: 中威电子",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300270"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "300270",
+        "stock_name": "中威电子",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864490"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_688766_20251207_19",
+      "original_id": "688766",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "普冉股份停复牌",
+      "content": "股票代码: 688766, 股票名称: 普冉股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688766"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "688766",
+        "stock_name": "普冉股份",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864499"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_601059_20251207_20",
+      "original_id": "601059",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "信达证券停复牌",
+      "content": "股票代码: 601059, 股票名称: 信达证券",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "601059"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-07",
+      "raw_data": {
+        "stock_code": "601059",
+        "stock_name": "信达证券",
+        "date": "2025-12-07"
+      },
+      "created_at": "2025-12-07T14:14:21.864505"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251207000000_-7478735954912971028",
       "original_id": "2025-12-07 00:00:00_中国：外汇储备(报告期:2025年11月)",
       "event_date": "2025-12-07",
       "event_time": null,
@@ -147,16 +737,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-06",
+      "discovery_date": "2025-12-07",
       "raw_data": {
         "Name": "中国：外汇储备(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-12-06T14:13:59.968913"
+      "created_at": "2025-12-07T14:14:21.864567"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_-7517814820289201084",
+      "event_id": "em_jjsj_20251207213000_-1904151436256740360",
       "original_id": "2025-12-07 21:30:00_美国：货物进口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -172,16 +762,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-06",
+      "discovery_date": "2025-12-07",
       "raw_data": {
         "Name": "美国：货物进口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-12-06T14:13:59.968921"
+      "created_at": "2025-12-07T14:14:21.864576"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_-9045261557963749924",
+      "event_id": "em_jjsj_20251207213000_8370967546467559322",
       "original_id": "2025-12-07 21:30:00_美国：货物出口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -197,16 +787,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-06",
+      "discovery_date": "2025-12-07",
       "raw_data": {
         "Name": "美国：货物出口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-12-06T14:13:59.968929"
+      "created_at": "2025-12-07T14:14:21.864585"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_6170906186652505152",
+      "event_id": "em_jjsj_20251207213000_4451780326925835772",
       "original_id": "2025-12-07 21:30:00_美国：对外贸易差额(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -222,12 +812,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-06",
+      "discovery_date": "2025-12-07",
       "raw_data": {
         "Name": "美国：对外贸易差额(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-12-06T14:13:59.968937"
+      "created_at": "2025-12-07T14:14:21.864592"
     },
     {
       "platform": "eastmoney",
@@ -247,7 +837,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-06",
+      "discovery_date": "2025-12-07",
       "raw_data": {
         "fe_code": "10867025",
         "fe_name": "和讯财经中国2025年会",
@@ -258,7 +848,7 @@
         "city": "北京市",
         "content": "12月7日,“和讯财经中国2025年会”在北京举行,主题为“寻找中国经济破局之路”。"
       },
-      "created_at": "2025-12-06T14:13:59.970768"
+      "created_at": "2025-12-07T14:14:21.866262"
     }
   ]
 }
