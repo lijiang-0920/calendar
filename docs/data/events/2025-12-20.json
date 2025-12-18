@@ -1,10 +1,9 @@
 {
   "date": "2025-12-20",
-  "total_events": 24,
-  "new_events": 19,
+  "total_events": 23,
+  "new_events": 0,
   "platforms": {
-    "investing": 23,
-    "eastmoney": 1
+    "investing": 23
   },
   "events": [
     {
@@ -15,7 +14,7 @@
       "event_time": "02:00",
       "event_datetime": "2025/12/20 02:00:00",
       "title": "美国当周贝克休斯石油钻井总数(口)",
-      "content": null,
+      "content": "前值: 414",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -25,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_537673",
         "event_attr_id": "",
@@ -33,9 +32,10 @@
         "time": "02:00",
         "country": "美国",
         "importance": 2,
-        "event_name": "美国当周贝克休斯石油钻井总数(口)"
+        "event_name": "美国当周贝克休斯石油钻井总数(口)",
+        "previous": "414"
       },
-      "created_at": "2025-12-17T14:18:34.320637"
+      "created_at": "2025-12-18T14:18:42.447367"
     },
     {
       "platform": "investing",
@@ -45,7 +45,7 @@
       "event_time": "02:00",
       "event_datetime": "2025/12/20 02:00:00",
       "title": "美国当周贝克休斯总钻井总数(口)",
-      "content": null,
+      "content": "前值: 548",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -55,7 +55,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_537674",
         "event_attr_id": "",
@@ -63,9 +63,10 @@
         "time": "02:00",
         "country": "美国",
         "importance": 2,
-        "event_name": "美国当周贝克休斯总钻井总数(口)"
+        "event_name": "美国当周贝克休斯总钻井总数(口)",
+        "previous": "548"
       },
-      "created_at": "2025-12-17T14:18:34.320756"
+      "created_at": "2025-12-18T14:18:42.447510"
     },
     {
       "platform": "investing",
@@ -84,8 +85,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538139",
         "event_attr_id": "",
@@ -96,7 +97,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-英镑",
         "previous": "-93.2K"
       },
-      "created_at": "2025-12-17T14:18:34.320858"
+      "created_at": "2025-12-18T14:18:42.447638"
     },
     {
       "platform": "investing",
@@ -115,8 +116,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538143",
         "event_attr_id": "",
@@ -127,7 +128,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-铝",
         "previous": "-2.1K"
       },
-      "created_at": "2025-12-17T14:18:34.320956"
+      "created_at": "2025-12-18T14:18:42.447755"
     },
     {
       "platform": "investing",
@@ -146,8 +147,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538144",
         "event_attr_id": "",
@@ -158,7 +159,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-铜",
         "previous": "43.6K"
       },
-      "created_at": "2025-12-17T14:18:34.321066"
+      "created_at": "2025-12-18T14:18:42.447876"
     },
     {
       "platform": "investing",
@@ -177,8 +178,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538150",
         "event_attr_id": "",
@@ -189,7 +190,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-玉米",
         "previous": "58.7K"
       },
-      "created_at": "2025-12-17T14:18:34.321164"
+      "created_at": "2025-12-18T14:18:42.447999"
     },
     {
       "platform": "investing",
@@ -208,8 +209,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538147",
         "event_attr_id": "",
@@ -220,7 +221,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-原油",
         "previous": "55.0K"
       },
-      "created_at": "2025-12-17T14:18:34.321263"
+      "created_at": "2025-12-18T14:18:42.448118"
     },
     {
       "platform": "investing",
@@ -239,8 +240,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538145",
         "event_attr_id": "",
@@ -251,7 +252,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-黄金",
         "previous": "204.6K"
       },
-      "created_at": "2025-12-17T14:18:34.321361"
+      "created_at": "2025-12-18T14:18:42.448235"
     },
     {
       "platform": "investing",
@@ -270,8 +271,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538137",
         "event_attr_id": "",
@@ -282,7 +283,7 @@
         "event_name": "商品期货交易委员会投机净仓位-纳斯达克100",
         "previous": "57.4K"
       },
-      "created_at": "2025-12-17T14:18:34.321462"
+      "created_at": "2025-12-18T14:18:42.448366"
     },
     {
       "platform": "investing",
@@ -301,8 +302,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538148",
         "event_attr_id": "",
@@ -313,7 +314,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-天然气",
         "previous": "-138.4K"
       },
-      "created_at": "2025-12-17T14:18:34.321561"
+      "created_at": "2025-12-18T14:18:42.448491"
     },
     {
       "platform": "investing",
@@ -332,8 +333,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538135",
         "event_attr_id": "",
@@ -344,7 +345,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-标普500",
         "previous": "-155.3K"
       },
-      "created_at": "2025-12-17T14:18:34.321660"
+      "created_at": "2025-12-18T14:18:42.448607"
     },
     {
       "platform": "investing",
@@ -363,8 +364,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538146",
         "event_attr_id": "",
@@ -375,7 +376,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-白银",
         "previous": "32.2K"
       },
-      "created_at": "2025-12-17T14:18:34.321762"
+      "created_at": "2025-12-18T14:18:42.448726"
     },
     {
       "platform": "investing",
@@ -394,8 +395,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538151",
         "event_attr_id": "",
@@ -406,7 +407,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-大豆",
         "previous": "239.8K"
       },
-      "created_at": "2025-12-17T14:18:34.321861"
+      "created_at": "2025-12-18T14:18:42.448841"
     },
     {
       "platform": "investing",
@@ -425,8 +426,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538149",
         "event_attr_id": "",
@@ -437,7 +438,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-小麦",
         "previous": "-35.4K"
       },
-      "created_at": "2025-12-17T14:18:34.321958"
+      "created_at": "2025-12-18T14:18:42.448961"
     },
     {
       "platform": "investing",
@@ -456,8 +457,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538141",
         "event_attr_id": "",
@@ -468,7 +469,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-加元",
         "previous": "-150.4K"
       },
-      "created_at": "2025-12-17T14:18:34.322064"
+      "created_at": "2025-12-18T14:18:42.449075"
     },
     {
       "platform": "investing",
@@ -487,8 +488,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538133",
         "event_attr_id": "",
@@ -499,7 +500,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-瑞郎",
         "previous": "-35.4K"
       },
-      "created_at": "2025-12-17T14:18:34.322164"
+      "created_at": "2025-12-18T14:18:42.449188"
     },
     {
       "platform": "investing",
@@ -518,8 +519,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538132",
         "event_attr_id": "",
@@ -530,7 +531,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-澳元",
         "previous": "-84.2K"
       },
-      "created_at": "2025-12-17T14:18:34.322264"
+      "created_at": "2025-12-18T14:18:42.449305"
     },
     {
       "platform": "investing",
@@ -549,8 +550,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538138",
         "event_attr_id": "",
@@ -561,7 +562,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-巴西雷亚尔",
         "previous": "56.8K"
       },
-      "created_at": "2025-12-17T14:18:34.322363"
+      "created_at": "2025-12-18T14:18:42.449452"
     },
     {
       "platform": "investing",
@@ -580,8 +581,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538131",
         "event_attr_id": "",
@@ -592,7 +593,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-日元",
         "previous": "26.5K"
       },
-      "created_at": "2025-12-17T14:18:34.322460"
+      "created_at": "2025-12-18T14:18:42.449573"
     },
     {
       "platform": "investing",
@@ -611,8 +612,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538140",
         "event_attr_id": "",
@@ -623,7 +624,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-纽元",
         "previous": "-52.1K"
       },
-      "created_at": "2025-12-17T14:18:34.322557"
+      "created_at": "2025-12-18T14:18:42.449695"
     },
     {
       "platform": "investing",
@@ -642,8 +643,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_538142",
         "event_attr_id": "",
@@ -654,7 +655,7 @@
         "event_name": "美国商品期货交易委员会投机净仓位-欧元",
         "previous": "94.1K"
       },
-      "created_at": "2025-12-17T14:18:34.322655"
+      "created_at": "2025-12-18T14:18:42.449812"
     },
     {
       "platform": "investing",
@@ -674,7 +675,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_537798",
         "event_attr_id": "",
@@ -685,7 +686,7 @@
         "event_name": "中国央行贷款市场报价利率(LPR)  (十二月)",
         "previous": "3.50%"
       },
-      "created_at": "2025-12-17T14:18:34.322756"
+      "created_at": "2025-12-18T14:18:42.449928"
     },
     {
       "platform": "investing",
@@ -705,7 +706,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_537799",
         "event_attr_id": "",
@@ -716,38 +717,7 @@
         "event_name": "中国央行贷款市场报价利率(LPR)",
         "previous": "3.00%"
       },
-      "created_at": "2025-12-17T14:18:34.322858"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10867581",
-      "original_id": "10867581",
-      "event_date": "2025-12-20",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "DSMC 2025第六届中国制造业华北数智峰会",
-      "content": "",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "北京市",
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-17",
-      "raw_data": {
-        "fe_code": "10867581",
-        "fe_name": "DSMC 2025第六届中国制造业华北数智峰会",
-        "start_date": "2025-12-20",
-        "end_date": "2025-12-20",
-        "fe_type": "行业会议",
-        "sponsor": "信息侠",
-        "city": "北京市",
-        "content": null
-      },
-      "created_at": "2025-12-17T14:18:37.172001"
+      "created_at": "2025-12-18T14:18:42.450044"
     }
   ]
 }

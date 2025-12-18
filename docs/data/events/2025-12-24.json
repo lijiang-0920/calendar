@@ -1,12 +1,11 @@
 {
   "date": "2025-12-24",
   "total_events": 15,
-  "new_events": 1,
+  "new_events": 6,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
-    "investing": 7,
-    "eastmoney": 6
+    "investing": 13
   },
   "events": [
     {
@@ -27,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "id": 396962,
         "calendar_time": "2025-12-24 00:00:00",
@@ -43,7 +42,7 @@
         "holiday": null,
         "title": "第二十三届中国食品安全大会暨2025全国食品工业科技进步大会将于12月24日至28日举办"
       },
-      "created_at": "2025-12-17T14:18:28.270551"
+      "created_at": "2025-12-18T14:18:37.137005"
     },
     {
       "platform": "jiuyangongshe",
@@ -63,7 +62,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "article_id": "f18193f32aaf480fa92e694573a9c442",
         "user_id": "1",
@@ -88,7 +87,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-17T14:18:30.055661"
+      "created_at": "2025-12-18T14:18:39.271017"
     },
     {
       "platform": "investing",
@@ -107,8 +106,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-17",
+      "is_new": false,
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_532302",
         "event_attr_id": "",
@@ -120,7 +119,7 @@
         "forecast": "3.5%",
         "previous": "3.5%"
       },
-      "created_at": "2025-12-17T14:18:34.811685"
+      "created_at": "2025-12-18T14:18:43.160169"
     },
     {
       "platform": "investing",
@@ -140,7 +139,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_537366",
         "event_attr_id": "",
@@ -151,7 +150,7 @@
         "event_name": "韩国消费者信心指数  (十二月)",
         "previous": "112.4"
       },
-      "created_at": "2025-12-17T14:18:34.811806"
+      "created_at": "2025-12-18T14:18:43.160313"
     },
     {
       "platform": "investing",
@@ -171,7 +170,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_537471",
         "event_attr_id": "",
@@ -182,7 +181,193 @@
         "event_name": "中国台湾地区工业产出指数年率(%) (同比)  (十一月)",
         "previous": "14.50%"
       },
-      "created_at": "2025-12-17T14:18:34.811904"
+      "created_at": "2025-12-18T14:18:43.160454"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224193000",
+      "original_id": "eventRowId_538260",
+      "event_date": "2025-12-24",
+      "event_time": "19:30",
+      "event_datetime": "2025/12/24 19:30:00",
+      "title": "印度M3货币供应量(%)",
+      "content": "前值: 9.9%",
+      "category": null,
+      "importance": 1,
+      "country": "印度",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-18",
+      "raw_data": {
+        "event_id": "eventRowId_538260",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 19:30:00",
+        "time": "19:30",
+        "country": "印度",
+        "importance": 1,
+        "event_name": "印度M3货币供应量(%)",
+        "previous": "9.9%"
+      },
+      "created_at": "2025-12-18T14:18:43.160581"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224200000",
+      "original_id": "eventRowId_538275",
+      "event_date": "2025-12-24",
+      "event_time": "20:00",
+      "event_datetime": "2025/12/24 20:00:00",
+      "title": "美国MBA30年期固定抵押贷款利率(%)",
+      "content": "前值: 6.38%",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-18",
+      "raw_data": {
+        "event_id": "eventRowId_538275",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 20:00:00",
+        "time": "20:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国MBA30年期固定抵押贷款利率(%)",
+        "previous": "6.38%"
+      },
+      "created_at": "2025-12-18T14:18:43.160749"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224200000",
+      "original_id": "eventRowId_538271",
+      "event_date": "2025-12-24",
+      "event_time": "20:00",
+      "event_datetime": "2025/12/24 20:00:00",
+      "title": "美国MBA抵押贷款申请活动指数周环比(%) (每周)",
+      "content": "前值: -3.8%",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-18",
+      "raw_data": {
+        "event_id": "eventRowId_538271",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 20:00:00",
+        "time": "20:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国MBA抵押贷款申请活动指数周环比(%) (每周)",
+        "previous": "-3.8%"
+      },
+      "created_at": "2025-12-18T14:18:43.160873"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224200000",
+      "original_id": "eventRowId_538273",
+      "event_date": "2025-12-24",
+      "event_time": "20:00",
+      "event_datetime": "2025/12/24 20:00:00",
+      "title": "美国MBA抵押贷款购买指数",
+      "content": "前值: 176.5",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-18",
+      "raw_data": {
+        "event_id": "eventRowId_538273",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 20:00:00",
+        "time": "20:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国MBA抵押贷款购买指数",
+        "previous": "176.5"
+      },
+      "created_at": "2025-12-18T14:18:43.161036"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224200000",
+      "original_id": "eventRowId_538272",
+      "event_date": "2025-12-24",
+      "event_time": "20:00",
+      "event_datetime": "2025/12/24 20:00:00",
+      "title": "美国MBA抵押贷款申请活动指数",
+      "content": "前值: 315.6",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-18",
+      "raw_data": {
+        "event_id": "eventRowId_538272",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 20:00:00",
+        "time": "20:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国MBA抵押贷款申请活动指数",
+        "previous": "315.6"
+      },
+      "created_at": "2025-12-18T14:18:43.161158"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224200000",
+      "original_id": "eventRowId_538274",
+      "event_date": "2025-12-24",
+      "event_time": "20:00",
+      "event_datetime": "2025/12/24 20:00:00",
+      "title": "美国MBA抵押贷款再融资活动指数",
+      "content": "前值: 1,148.3",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-18",
+      "raw_data": {
+        "event_id": "eventRowId_538274",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 20:00:00",
+        "time": "20:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国MBA抵押贷款再融资活动指数",
+        "previous": "1,148.3"
+      },
+      "created_at": "2025-12-18T14:18:43.161274"
     },
     {
       "platform": "investing",
@@ -202,7 +387,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_537482",
         "event_attr_id": "",
@@ -213,7 +398,7 @@
         "event_name": "美国扣除运输耐用品订单月率(%) (月度环比)  (十月)",
         "previous": "0.6%"
       },
-      "created_at": "2025-12-17T14:18:34.812011"
+      "created_at": "2025-12-18T14:18:43.161422"
     },
     {
       "platform": "investing",
@@ -233,7 +418,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_537485",
         "event_attr_id": "",
@@ -244,7 +429,7 @@
         "event_name": "美国耐用品订单月率(%) (月度环比)  (十月)",
         "previous": "0.5%"
       },
-      "created_at": "2025-12-17T14:18:34.812110"
+      "created_at": "2025-12-18T14:18:43.161541"
     },
     {
       "platform": "investing",
@@ -264,7 +449,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_537483",
         "event_attr_id": "",
@@ -275,7 +460,7 @@
         "event_name": "美国扣除国防耐用品订单月率(%) (月度环比)  (十月)",
         "previous": "0.1%"
       },
-      "created_at": "2025-12-17T14:18:34.812209"
+      "created_at": "2025-12-18T14:18:43.161664"
     },
     {
       "platform": "investing",
@@ -295,7 +480,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-17",
+      "discovery_date": "2025-12-18",
       "raw_data": {
         "event_id": "eventRowId_537484",
         "event_attr_id": "",
@@ -306,165 +491,7 @@
         "event_name": "美国扣除飞机非国防资本耐用品订单月率(%) (月度环比)  (十月)",
         "previous": "0.9%"
       },
-      "created_at": "2025-12-17T14:18:34.812306"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_xsap_20251224_4445838553629205504",
-      "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-24",
-      "event_date": "2025-12-24",
-      "event_time": null,
-      "event_datetime": "2025-12-24 00:00:00",
-      "title": "港股通(沪)、港股通(深) - 圣诞前夕(13:00收市)",
-      "content": null,
-      "category": "休市安排",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-17",
-      "raw_data": {
-        "MKT": "港股通(沪)、港股通(深)",
-        "HOLIDAY": "圣诞前夕(13:00收市)",
-        "SDATE": "2025-12-24 00:00:00",
-        "EDATE": "2025-12-24 00:00:00",
-        "XS": null,
-        "FIRST_LETTER": "G"
-      },
-      "created_at": "2025-12-17T14:18:37.170040"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_xsap_20251224_4445838553629205504",
-      "original_id": "xsap_港股_2025-12-24",
-      "event_date": "2025-12-24",
-      "event_time": null,
-      "event_datetime": "2025-12-24 00:00:00",
-      "title": "港股 - 圣诞前夕(13:00收市)",
-      "content": null,
-      "category": "休市安排",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-17",
-      "raw_data": {
-        "MKT": "港股",
-        "HOLIDAY": "圣诞前夕(13:00收市)",
-        "SDATE": "2025-12-24 00:00:00",
-        "EDATE": "2025-12-24 00:00:00",
-        "XS": "1",
-        "FIRST_LETTER": "G"
-      },
-      "created_at": "2025-12-17T14:18:37.170049"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224020000_-768499410555584451",
-      "original_id": "2025-12-24 02:00:00_美国：M2：季调(报告期:2025年11月)",
-      "event_date": "2025-12-24",
-      "event_time": "02:00:00",
-      "event_datetime": "2025-12-24 02:00:00",
-      "title": "美国：M2：季调(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-17",
-      "raw_data": {
-        "Name": "美国：M2：季调(报告期:2025年11月)",
-        "City": "美国"
-      },
-      "created_at": "2025-12-17T14:18:37.171415"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224020000_6477928107324001882",
-      "original_id": "2025-12-24 02:00:00_美国：M1：季调(报告期:2025年11月)",
-      "event_date": "2025-12-24",
-      "event_time": "02:00:00",
-      "event_datetime": "2025-12-24 02:00:00",
-      "title": "美国：M1：季调(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-17",
-      "raw_data": {
-        "Name": "美国：M1：季调(报告期:2025年11月)",
-        "City": "美国"
-      },
-      "created_at": "2025-12-17T14:18:37.171424"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224213000_-1689160421568562009",
-      "original_id": "2025-12-24 21:30:00_美国：耐用品订单月率(报告期:2025年11月)",
-      "event_date": "2025-12-24",
-      "event_time": "21:30:00",
-      "event_datetime": "2025-12-24 21:30:00",
-      "title": "美国：耐用品订单月率(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-17",
-      "raw_data": {
-        "Name": "美国：耐用品订单月率(报告期:2025年11月)",
-        "City": "美国"
-      },
-      "created_at": "2025-12-17T14:18:37.171436"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224213000_1596739917615874638",
-      "original_id": "2025-12-24 21:30:00_美国：耐用品：新增订单(报告期:2025年11月)",
-      "event_date": "2025-12-24",
-      "event_time": "21:30:00",
-      "event_datetime": "2025-12-24 21:30:00",
-      "title": "美国：耐用品：新增订单(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-17",
-      "raw_data": {
-        "Name": "美国：耐用品：新增订单(报告期:2025年11月)",
-        "City": "美国"
-      },
-      "created_at": "2025-12-17T14:18:37.171444"
+      "created_at": "2025-12-18T14:18:43.161784"
     }
   ]
 }
