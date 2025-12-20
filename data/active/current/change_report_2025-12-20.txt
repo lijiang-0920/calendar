@@ -1,0 +1,122 @@
+{
+  "detection_time": "2025-12-20T14:14:42.048103",
+  "summary": {
+    "total_new": 30,
+    "total_updated": 10,
+    "total_cancelled": 3
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "纳斯达克公布纳斯达克100指数年度成分股调整结果，调整将于12月22日（星期一）开盘前生效"
+      ]
+    },
+    "investing": {
+      "new_events": 7,
+      "updated_events": 10,
+      "cancelled_events": 3,
+      "sample_new_titles": [
+        "澳洲联储货币政策会议纪要",
+        "ADP就业人数周度变动",
+        "中国央行贷款市场报价利率(LPR)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 22,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "福能东方停复牌",
+        "贵州百灵停复牌",
+        "*ST新研停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "tonghuashun",
+      "date": "2025-12-22",
+      "title": "纳斯达克公布纳斯达克100指数年度成分股调整结果，调整将于12月22日（星期一）开盘前生效",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-12-22",
+      "title": "中国央行贷款市场报价利率(LPR)",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-20",
+      "title": "中国高科发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-20",
+      "title": "海油工程发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-20",
+      "title": "道通科技发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-20",
+      "title": "中再资环发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-20",
+      "title": "*ST沪科发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-22",
+      "title": "智元机器人将于12月22日举办擎天租平台发布会",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-22",
+      "title": "华为nova·15系列及全场景新品发布会",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-12-23",
+      "title": "澳洲联储货币政策会议纪要",
+      "importance": 2,
+      "country": "澳大利亚"
+    }
+  ]
+}
