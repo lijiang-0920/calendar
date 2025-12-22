@@ -1,10 +1,10 @@
 {
   "date": "2025-12-29",
-  "total_events": 13,
-  "new_events": 0,
+  "total_events": 14,
+  "new_events": 1,
   "platforms": {
     "jiuyangongshe": 1,
-    "investing": 7,
+    "investing": 8,
     "eastmoney": 5
   },
   "events": [
@@ -28,7 +28,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "article_id": "0d376a65077f4d01a0faa2fb0afb3ddc",
         "user_id": "1",
@@ -58,7 +58,37 @@
           ]
         }
       },
-      "created_at": "2025-12-21T14:15:11.333693"
+      "created_at": "2025-12-22T14:17:32.412233"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251229075000",
+      "original_id": "eventRowId_538450",
+      "event_date": "2025-12-29",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/29 07:50:00",
+      "title": "日本央行货币政策会议委员意见摘要",
+      "content": null,
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-22",
+      "raw_data": {
+        "event_id": "eventRowId_538450",
+        "event_attr_id": "",
+        "datetime": "2025/12/29 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本央行货币政策会议委员意见摘要"
+      },
+      "created_at": "2025-12-22T14:17:36.301637"
     },
     {
       "platform": "investing",
@@ -78,7 +108,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "event_id": "eventRowId_538059",
         "event_attr_id": "",
@@ -89,7 +119,7 @@
         "event_name": "泰国工业生产指数年率 (同比)  (十一月)",
         "previous": "-0.08%"
       },
-      "created_at": "2025-12-21T14:15:15.512254"
+      "created_at": "2025-12-22T14:17:36.301767"
     },
     {
       "platform": "investing",
@@ -109,7 +139,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "event_id": "eventRowId_537682",
         "event_attr_id": "",
@@ -120,7 +150,7 @@
         "event_name": "中国香港出口月率(%) (月度环比)  (十一月)",
         "previous": "17.5%"
       },
-      "created_at": "2025-12-21T14:15:15.512405"
+      "created_at": "2025-12-22T14:17:36.301906"
     },
     {
       "platform": "investing",
@@ -140,7 +170,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "event_id": "eventRowId_537681",
         "event_attr_id": "",
@@ -151,7 +181,7 @@
         "event_name": "中国香港进口月率(%) (月度环比)  (十一月)",
         "previous": "18.3%"
       },
-      "created_at": "2025-12-21T14:15:15.512533"
+      "created_at": "2025-12-22T14:17:36.302026"
     },
     {
       "platform": "investing",
@@ -171,7 +201,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "event_id": "eventRowId_537683",
         "event_attr_id": "",
@@ -182,7 +212,7 @@
         "event_name": "巴西市场综合物价指数月率(%) (月度环比)  (十二月)",
         "previous": "0.27%"
       },
-      "created_at": "2025-12-21T14:15:15.512676"
+      "created_at": "2025-12-22T14:17:36.302142"
     },
     {
       "platform": "investing",
@@ -202,7 +232,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "event_id": "eventRowId_537686",
         "event_attr_id": "",
@@ -213,7 +243,7 @@
         "event_name": "美国季调后成屋签约销售指数月率(%) (月度环比)  (十一月)",
         "previous": "1.9%"
       },
-      "created_at": "2025-12-21T14:15:15.512802"
+      "created_at": "2025-12-22T14:17:36.302257"
     },
     {
       "platform": "investing",
@@ -233,7 +263,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "event_id": "eventRowId_537687",
         "event_attr_id": "",
@@ -244,7 +274,7 @@
         "event_name": "美国季调后成屋签约销售指数  (十一月)",
         "previous": "76.3"
       },
-      "created_at": "2025-12-21T14:15:15.512927"
+      "created_at": "2025-12-22T14:17:36.302372"
     },
     {
       "platform": "investing",
@@ -264,7 +294,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "event_id": "eventRowId_537689",
         "event_attr_id": "",
@@ -275,11 +305,11 @@
         "event_name": "美国达拉斯联储商业活动指数  (十二月)",
         "previous": "-10.4"
       },
-      "created_at": "2025-12-21T14:15:15.513044"
+      "created_at": "2025-12-22T14:17:36.302491"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229000000_8220443299790482700",
+      "event_id": "em_jjsj_20251229000000_-283182146473461205",
       "original_id": "2025-12-29 00:00:00_马来西亚：PPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-29",
       "event_time": null,
@@ -295,16 +325,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "Name": "马来西亚：PPI：同比(报告期:2025年11月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-12-21T14:15:17.615778"
+      "created_at": "2025-12-22T14:17:37.645092"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229163000_4600612280195947756",
+      "event_id": "em_jjsj_20251229163000_829573543068163327",
       "original_id": "2025-12-29 16:30:00_中国香港：商品贸易差额：当月值(报告期:2025年11月)",
       "event_date": "2025-12-29",
       "event_time": "16:30:00",
@@ -320,16 +350,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "Name": "中国香港：商品贸易差额：当月值(报告期:2025年11月)",
         "City": "中国香港"
       },
-      "created_at": "2025-12-21T14:15:17.615787"
+      "created_at": "2025-12-22T14:17:37.645100"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229163000_1027859054612224340",
+      "event_id": "em_jjsj_20251229163000_-3423911320213588279",
       "original_id": "2025-12-29 16:30:00_中国香港：整体出口货值：当月同比(报告期:2025年11月)",
       "event_date": "2025-12-29",
       "event_time": "16:30:00",
@@ -345,16 +375,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "Name": "中国香港：整体出口货值：当月同比(报告期:2025年11月)",
         "City": "中国香港"
       },
-      "created_at": "2025-12-21T14:15:17.615794"
+      "created_at": "2025-12-22T14:17:37.645108"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229163000_1001422588917400829",
+      "event_id": "em_jjsj_20251229163000_536446016823028086",
       "original_id": "2025-12-29 16:30:00_中国香港：进口货值：同比(报告期:2025年11月)",
       "event_date": "2025-12-29",
       "event_time": "16:30:00",
@@ -370,16 +400,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "Name": "中国香港：进口货值：同比(报告期:2025年11月)",
         "City": "中国香港"
       },
-      "created_at": "2025-12-21T14:15:17.615801"
+      "created_at": "2025-12-22T14:17:37.645115"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229230000_770089240074727686",
+      "event_id": "em_jjsj_20251229230000_2110823548714344209",
       "original_id": "2025-12-29 23:00:00_美国：成屋签约销售指数(报告期:2025年11月)",
       "event_date": "2025-12-29",
       "event_time": "23:00:00",
@@ -395,12 +425,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-21",
+      "discovery_date": "2025-12-22",
       "raw_data": {
         "Name": "美国：成屋签约销售指数(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-12-21T14:15:17.615810"
+      "created_at": "2025-12-22T14:17:37.645123"
     }
   ]
 }
