@@ -1,13 +1,13 @@
 {
   "date": "2025-12-26",
-  "total_events": 41,
-  "new_events": 0,
+  "total_events": 47,
+  "new_events": 6,
   "platforms": {
     "cls": 3,
     "jiuyangongshe": 2,
-    "tonghuashun": 1,
-    "investing": 20,
-    "eastmoney": 15
+    "tonghuashun": 2,
+    "investing": 23,
+    "eastmoney": 17
   },
   "events": [
     {
@@ -28,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "id": 449511,
         "calendar_time": "2025-12-26 00:00:00",
@@ -44,7 +44,7 @@
         "holiday": null,
         "title": "星宸科技2025开发者大会暨产品发布会将于12月26日举办"
       },
-      "created_at": "2025-12-23T14:17:39.797336"
+      "created_at": "2025-12-24T14:16:27.941242"
     },
     {
       "platform": "cls",
@@ -64,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "id": 449514,
         "calendar_time": "2025-12-26 00:00:00",
@@ -80,7 +80,7 @@
         "holiday": null,
         "title": "北京市机器人产业协会成立大会将于12月26日召开"
       },
-      "created_at": "2025-12-23T14:17:39.797347"
+      "created_at": "2025-12-24T14:16:27.941252"
     },
     {
       "platform": "cls",
@@ -100,7 +100,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "id": 444243,
         "calendar_time": "2025-12-26 17:20:00",
@@ -116,7 +116,7 @@
         "holiday": null,
         "title": "今日有562亿元7天期逆回购到期"
       },
-      "created_at": "2025-12-23T14:17:39.797358"
+      "created_at": "2025-12-24T14:16:27.941262"
     },
     {
       "platform": "jiuyangongshe",
@@ -136,7 +136,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "article_id": "20224e5796b64d468060a254c5d05399",
         "user_id": "1",
@@ -161,7 +161,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-23T14:17:42.051076"
+      "created_at": "2025-12-24T14:16:30.475093"
     },
     {
       "platform": "jiuyangongshe",
@@ -181,7 +181,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "article_id": "5a975a0d7b074bfb8ebdcfd1c37afb72",
         "user_id": "1",
@@ -206,7 +206,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-23T14:17:42.051084"
+      "created_at": "2025-12-24T14:16:30.475104"
     },
     {
       "platform": "tonghuashun",
@@ -226,7 +226,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event": [
           "星宸科技2025开发者大会暨产品发布会将于12月26日举办",
@@ -236,7 +236,37 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-23T14:17:48.775842"
+      "created_at": "2025-12-24T14:16:33.430583"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251226_1_5420694b",
+      "original_id": "2025-12-26_1",
+      "event_date": "2025-12-26",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "北京市机器人产业协会成立大会将于12月26日召开",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-24",
+      "raw_data": {
+        "event": [
+          "北京市机器人产业协会成立大会将于12月26日召开",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-12-24T14:16:33.430592"
     },
     {
       "platform": "investing",
@@ -256,7 +286,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537567",
         "event_attr_id": "",
@@ -267,7 +297,7 @@
         "event_name": "英国CPI年率(%) (同比)  (十二月)",
         "previous": "1.6%"
       },
-      "created_at": "2025-12-23T14:17:49.912345"
+      "created_at": "2025-12-24T14:16:35.031006"
     },
     {
       "platform": "investing",
@@ -287,7 +317,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537569",
         "event_attr_id": "",
@@ -299,7 +329,7 @@
         "forecast": "1.18",
         "previous": "1.18"
       },
-      "created_at": "2025-12-23T14:17:49.912482"
+      "created_at": "2025-12-24T14:16:35.031182"
     },
     {
       "platform": "investing",
@@ -319,7 +349,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537570",
         "event_attr_id": "",
@@ -331,7 +361,7 @@
         "forecast": "2.5%",
         "previous": "2.8%"
       },
-      "created_at": "2025-12-23T14:17:49.912604"
+      "created_at": "2025-12-24T14:16:35.031309"
     },
     {
       "platform": "investing",
@@ -351,7 +381,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537571",
         "event_attr_id": "",
@@ -362,7 +392,7 @@
         "event_name": "日本东京CPI年率(%) (同比)  (十二月)",
         "previous": "2.7%"
       },
-      "created_at": "2025-12-23T14:17:49.912729"
+      "created_at": "2025-12-24T14:16:35.031426"
     },
     {
       "platform": "investing",
@@ -382,7 +412,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537566",
         "event_attr_id": "",
@@ -393,7 +423,7 @@
         "event_name": "日本东京不包括食品和能源CPI (月度环比)  (十二月)",
         "previous": "0.1%"
       },
-      "created_at": "2025-12-23T14:17:49.912863"
+      "created_at": "2025-12-24T14:16:35.031547"
     },
     {
       "platform": "investing",
@@ -413,7 +443,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537568",
         "event_attr_id": "",
@@ -425,7 +455,7 @@
         "forecast": "2.6%",
         "previous": "2.6%"
       },
-      "created_at": "2025-12-23T14:17:49.912981"
+      "created_at": "2025-12-24T14:16:35.031664"
     },
     {
       "platform": "investing",
@@ -445,7 +475,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537576",
         "event_attr_id": "",
@@ -457,7 +487,7 @@
         "forecast": "-1.9%",
         "previous": "1.5%"
       },
-      "created_at": "2025-12-23T14:17:49.913097"
+      "created_at": "2025-12-24T14:16:35.031784"
     },
     {
       "platform": "investing",
@@ -477,7 +507,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537574",
         "event_attr_id": "",
@@ -488,7 +518,7 @@
         "event_name": "日本工业生产一个月预估值月率(%) (月度环比)  (十二月)",
         "previous": "-1.2%"
       },
-      "created_at": "2025-12-23T14:17:49.913214"
+      "created_at": "2025-12-24T14:16:35.031903"
     },
     {
       "platform": "investing",
@@ -508,7 +538,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537575",
         "event_attr_id": "",
@@ -519,7 +549,7 @@
         "event_name": "日本工业生产两个月预估值月率(%) (月度环比)  (一月)",
         "previous": "-2.0%"
       },
-      "created_at": "2025-12-23T14:17:49.913332"
+      "created_at": "2025-12-24T14:16:35.032021"
     },
     {
       "platform": "investing",
@@ -539,7 +569,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_538463",
         "event_attr_id": "",
@@ -550,7 +580,7 @@
         "event_name": "日本大型零售商销售月率 (月度环比)  (十一月)",
         "previous": "1.6%"
       },
-      "created_at": "2025-12-23T14:17:49.913455"
+      "created_at": "2025-12-24T14:16:35.032158"
     },
     {
       "platform": "investing",
@@ -570,7 +600,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537573",
         "event_attr_id": "",
@@ -581,7 +611,7 @@
         "event_name": "大型零售企业零售额年率 (同比)  (十一月)",
         "previous": "5.0%"
       },
-      "created_at": "2025-12-23T14:17:49.913570"
+      "created_at": "2025-12-24T14:16:35.032275"
     },
     {
       "platform": "investing",
@@ -601,7 +631,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537572",
         "event_attr_id": "",
@@ -613,7 +643,100 @@
         "forecast": "0.9%",
         "previous": "1.7%"
       },
-      "created_at": "2025-12-23T14:17:49.913684"
+      "created_at": "2025-12-24T14:16:35.032398"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251226113000",
+      "original_id": "eventRowId_538062",
+      "event_date": "2025-12-26",
+      "event_time": "11:30",
+      "event_datetime": "2025/12/26 11:30:00",
+      "title": "泰国海关出口年率(%)  (十一月)",
+      "content": "前值: 5.70%",
+      "category": null,
+      "importance": 1,
+      "country": "泰国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-24",
+      "raw_data": {
+        "event_id": "eventRowId_538062",
+        "event_attr_id": "",
+        "datetime": "2025/12/26 11:30:00",
+        "time": "11:30",
+        "country": "泰国",
+        "importance": 1,
+        "event_name": "泰国海关出口年率(%)  (十一月)",
+        "previous": "5.70%"
+      },
+      "created_at": "2025-12-24T14:16:35.032513"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251226113000",
+      "original_id": "eventRowId_538060",
+      "event_date": "2025-12-26",
+      "event_time": "11:30",
+      "event_datetime": "2025/12/26 11:30:00",
+      "title": "泰国海关进口年率(%)  (十一月)",
+      "content": "前值: 16.30%",
+      "category": null,
+      "importance": 1,
+      "country": "泰国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-24",
+      "raw_data": {
+        "event_id": "eventRowId_538060",
+        "event_attr_id": "",
+        "datetime": "2025/12/26 11:30:00",
+        "time": "11:30",
+        "country": "泰国",
+        "importance": 1,
+        "event_name": "泰国海关进口年率(%)  (十一月)",
+        "previous": "16.30%"
+      },
+      "created_at": "2025-12-24T14:16:35.032627"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251226113000",
+      "original_id": "eventRowId_538061",
+      "event_date": "2025-12-26",
+      "event_time": "11:30",
+      "event_datetime": "2025/12/26 11:30:00",
+      "title": "泰国海关贸易帐(美元)  (十一月)",
+      "content": "前值: -3.440B",
+      "category": null,
+      "importance": 1,
+      "country": "泰国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-24",
+      "raw_data": {
+        "event_id": "eventRowId_538061",
+        "event_attr_id": "",
+        "datetime": "2025/12/26 11:30:00",
+        "time": "11:30",
+        "country": "泰国",
+        "importance": 1,
+        "event_name": "泰国海关贸易帐(美元)  (十一月)",
+        "previous": "-3.440B"
+      },
+      "created_at": "2025-12-24T14:16:35.032740"
     },
     {
       "platform": "investing",
@@ -633,7 +756,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537583",
         "event_attr_id": "",
@@ -645,7 +768,7 @@
         "forecast": "14.2%",
         "previous": "29.1%"
       },
-      "created_at": "2025-12-23T14:17:49.913815"
+      "created_at": "2025-12-24T14:16:35.032854"
     },
     {
       "platform": "investing",
@@ -665,7 +788,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537582",
         "event_attr_id": "",
@@ -676,7 +799,7 @@
         "event_name": "新加坡季调后工业产值月率(%) (月度环比)  (十一月)",
         "previous": "11.5%"
       },
-      "created_at": "2025-12-23T14:17:49.913944"
+      "created_at": "2025-12-24T14:16:35.032965"
     },
     {
       "platform": "investing",
@@ -696,7 +819,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_538472",
         "event_attr_id": "",
@@ -707,7 +830,7 @@
         "event_name": "泰国外币掉期交易(美元)",
         "previous": "23.6B"
       },
-      "created_at": "2025-12-23T14:17:49.914062"
+      "created_at": "2025-12-24T14:16:35.033087"
     },
     {
       "platform": "investing",
@@ -727,7 +850,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_538471",
         "event_attr_id": "",
@@ -738,7 +861,7 @@
         "event_name": "泰国外汇储备(美元)",
         "previous": "277.5B"
       },
-      "created_at": "2025-12-23T14:17:49.914176"
+      "created_at": "2025-12-24T14:16:35.033221"
     },
     {
       "platform": "investing",
@@ -758,7 +881,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_538387",
         "event_attr_id": "",
@@ -769,7 +892,7 @@
         "event_name": "印度银行贷款增长(%)",
         "previous": "11.5%"
       },
-      "created_at": "2025-12-23T14:17:49.914295"
+      "created_at": "2025-12-24T14:16:35.033336"
     },
     {
       "platform": "investing",
@@ -789,7 +912,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_538386",
         "event_attr_id": "",
@@ -800,7 +923,7 @@
         "event_name": "印度存款增长年率(%)",
         "previous": "10.2%"
       },
-      "created_at": "2025-12-23T14:17:49.914411"
+      "created_at": "2025-12-24T14:16:35.033446"
     },
     {
       "platform": "investing",
@@ -820,7 +943,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_538388",
         "event_attr_id": "",
@@ -831,7 +954,7 @@
         "event_name": "印度外汇储备(美元)",
         "previous": "688.95B"
       },
-      "created_at": "2025-12-23T14:17:49.914524"
+      "created_at": "2025-12-24T14:16:35.033563"
     },
     {
       "platform": "investing",
@@ -851,7 +974,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "event_id": "eventRowId_537600",
         "event_attr_id": "",
@@ -862,11 +985,11 @@
         "event_name": "巴西银行贷款月率(%) (月度环比)  (十一月)",
         "previous": "0.9%"
       },
-      "created_at": "2025-12-23T14:17:49.914644"
+      "created_at": "2025-12-24T14:16:35.033675"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251226_4969123810334526297",
+      "event_id": "em_xsap_20251226_384467159205038717",
       "original_id": "xsap_港股_2025-12-26",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -882,7 +1005,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "圣诞节后第一个周日",
@@ -891,11 +1014,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-23T14:17:52.334059"
+      "created_at": "2025-12-24T14:16:39.408824"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251226_4969123810334526297",
+      "event_id": "em_xsap_20251226_384467159205038717",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-26",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -911,7 +1034,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "圣诞节后第一个周日",
@@ -920,11 +1043,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-23T14:17:52.334070"
+      "created_at": "2025-12-24T14:16:39.408835"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251226_4969123810334526297",
+      "event_id": "em_xsap_20251226_384467159205038717",
       "original_id": "xsap_沪股通、深股通_2025-12-26",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -940,7 +1063,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "MKT": "沪股通、深股通",
         "HOLIDAY": "圣诞节后第一个周日",
@@ -949,11 +1072,11 @@
         "XS": null,
         "FIRST_LETTER": "H"
       },
-      "created_at": "2025-12-23T14:17:52.334081"
+      "created_at": "2025-12-24T14:16:39.408844"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_2906387521673898945",
+      "event_id": "em_jjsj_20251226000000_-5082589038470346492",
       "original_id": "2025-12-26 00:00:00_菲律宾：进口额：同比(报告期:2025年11月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -969,16 +1092,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "Name": "菲律宾：进口额：同比(报告期:2025年11月)",
         "City": "菲律宾"
       },
-      "created_at": "2025-12-23T14:17:52.334674"
+      "created_at": "2025-12-24T14:16:39.409411"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_-1662090608810685728",
+      "event_id": "em_jjsj_20251226000000_-430176176003911778",
       "original_id": "2025-12-26 00:00:00_日本：失业率：季调(报告期:2025年11月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -994,16 +1117,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "Name": "日本：失业率：季调(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-12-23T14:17:52.334683"
+      "created_at": "2025-12-24T14:16:39.409423"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_-6690664512331562517",
+      "event_id": "em_jjsj_20251226000000_-3968088367581437081",
       "original_id": "2025-12-26 00:00:00_日本：失业率(报告期:2025年11月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1019,16 +1142,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "Name": "日本：失业率(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-12-23T14:17:52.334690"
+      "created_at": "2025-12-24T14:16:39.409432"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_844423037821703218",
+      "event_id": "em_jjsj_20251226000000_-7347119446753744695",
       "original_id": "2025-12-26 00:00:00_日本：核心CPI：东京：同比(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1044,16 +1167,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "Name": "日本：核心CPI：东京：同比(报告期:2025年12月)",
         "City": "日本"
       },
-      "created_at": "2025-12-23T14:17:52.334697"
+      "created_at": "2025-12-24T14:16:39.409443"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_6194161722527985908",
+      "event_id": "em_jjsj_20251226000000_7444434049302840085",
       "original_id": "2025-12-26 00:00:00_日本：CPI：东京：同比(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1069,16 +1192,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "Name": "日本：CPI：东京：同比(报告期:2025年12月)",
         "City": "日本"
       },
-      "created_at": "2025-12-23T14:17:52.334704"
+      "created_at": "2025-12-24T14:16:39.409451"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_-2767019697945616439",
+      "event_id": "em_jjsj_20251226000000_6333960411947943875",
       "original_id": "2025-12-26 00:00:00_中国澳门：澳门:失业率(报告期:2025年11月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1094,16 +1217,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "Name": "中国澳门：澳门:失业率(报告期:2025年11月)",
         "City": "中国澳门"
       },
-      "created_at": "2025-12-23T14:17:52.334712"
+      "created_at": "2025-12-24T14:16:39.409459"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_829362493183046665",
+      "event_id": "em_jjsj_20251226000000_-8978448390077103936",
       "original_id": "2025-12-26 00:00:00_中国：库存:贸易矿:46港(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1119,16 +1242,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "Name": "中国：库存:贸易矿:46港(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-23T14:17:52.334720"
+      "created_at": "2025-12-24T14:16:39.409467"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_-1904089984970187080",
+      "event_id": "em_jjsj_20251226000000_-4410307620268858687",
       "original_id": "2025-12-26 00:00:00_中国：库存:球团:46港(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1144,16 +1267,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "Name": "中国：库存:球团:46港(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-23T14:17:52.334727"
+      "created_at": "2025-12-24T14:16:39.409475"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_-486703593887126273",
+      "event_id": "em_jjsj_20251226000000_5098811886692044185",
       "original_id": "2025-12-26 00:00:00_中国：库存:铁矿石:46港(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1169,16 +1292,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "Name": "中国：库存:铁矿石:46港(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-23T14:17:52.334734"
+      "created_at": "2025-12-24T14:16:39.409482"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_-2452879775030637913",
+      "event_id": "em_jjsj_20251226000000_3288236574768511160",
       "original_id": "2025-12-26 00:00:00_中国：库存:精粉:46港(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1194,16 +1317,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "Name": "中国：库存:精粉:46港(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-23T14:17:52.334742"
+      "created_at": "2025-12-24T14:16:39.409490"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_5548906426123541348",
+      "event_id": "em_jjsj_20251226000000_-5489996923758437081",
       "original_id": "2025-12-26 00:00:00_中国：库存:块矿:46港(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1219,12 +1342,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "Name": "中国：库存:块矿:46港(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-23T14:17:52.334750"
+      "created_at": "2025-12-24T14:16:39.409497"
     },
     {
       "platform": "eastmoney",
@@ -1244,7 +1367,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-23",
+      "discovery_date": "2025-12-24",
       "raw_data": {
         "fe_code": "10867026",
         "fe_name": "2025全球文化IP产业发展大会",
@@ -1255,7 +1378,69 @@
         "city": "上海市",
         "content": "2025全球文化IP产业发展大会于2025年12月26-27日在上海举行。主题为“IP无界·智创未来——文化IP与科技融合的全球化探索”。"
       },
-      "created_at": "2025-12-23T14:17:52.334926"
+      "created_at": "2025-12-24T14:16:39.409756"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10868134",
+      "original_id": "10868134",
+      "event_date": "2025-12-26",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "星宸科技2025开发者大会暨产品发布会",
+      "content": "当前,AI技术正加速从云端向终端迁移,端侧智能逐渐成为推动产业智能化转型的关键力量,在此背景下,星宸科技将于12月26日在深圳湾万丽酒店举办2025开发者大会暨产品发布会。大会设置一场主论坛、两场专题分论坛以及全景生态展区,系统呈现星宸科技以及合作伙伴在端侧智能领域的技术积累与生态共建成果。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "深圳市",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-24",
+      "raw_data": {
+        "fe_code": "10868134",
+        "fe_name": "星宸科技2025开发者大会暨产品发布会",
+        "start_date": "2025-12-26",
+        "end_date": "2025-12-26",
+        "fe_type": "行业会议",
+        "sponsor": null,
+        "city": "深圳市",
+        "content": "当前,AI技术正加速从云端向终端迁移,端侧智能逐渐成为推动产业智能化转型的关键力量,在此背景下,星宸科技将于12月26日在深圳湾万丽酒店举办2025开发者大会暨产品发布会。大会设置一场主论坛、两场专题分论坛以及全景生态展区,系统呈现星宸科技以及合作伙伴在端侧智能领域的技术积累与生态共建成果。"
+      },
+      "created_at": "2025-12-24T14:16:39.409767"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10868159",
+      "original_id": "10868159",
+      "event_date": "2025-12-26",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "北京市机器人产业协会成立大会",
+      "content": "当智能科技浪潮席卷全球,机器人产业正成为驱动经济升级、赋能千行百业的核心力量。为贯彻落实《北京市机器人产业创新发展行动方案(2023—2025年)》及相关扶持政策,加速产业创新资源整合与产业链协同发展,中国电子信息产业发展研究院(赛迪研究院)、北京人形机器人创新中心有限公司等多家单位将联合发起成立北京市机器人产业协会,成立大会将于12月26日(周五)在北京昌平区科兴来福城宴会厅召开。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "北京市",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-24",
+      "raw_data": {
+        "fe_code": "10868159",
+        "fe_name": "北京市机器人产业协会成立大会",
+        "start_date": "2025-12-26",
+        "end_date": "2025-12-26",
+        "fe_type": "行业会议",
+        "sponsor": null,
+        "city": "北京市",
+        "content": "当智能科技浪潮席卷全球,机器人产业正成为驱动经济升级、赋能千行百业的核心力量。为贯彻落实《北京市机器人产业创新发展行动方案(2023—2025年)》及相关扶持政策,加速产业创新资源整合与产业链协同发展,中国电子信息产业发展研究院(赛迪研究院)、北京人形机器人创新中心有限公司等多家单位将联合发起成立北京市机器人产业协会,成立大会将于12月26日(周五)在北京昌平区科兴来福城宴会厅召开。"
+      },
+      "created_at": "2025-12-24T14:16:39.409780"
     }
   ]
 }
