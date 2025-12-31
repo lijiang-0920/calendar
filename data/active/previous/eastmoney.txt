@@ -1,14 +1,14 @@
 {
   "platform": "eastmoney",
-  "total_events": 16,
+  "total_events": 15,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-12-30T14:17:39.731926",
+  "last_updated": "2025-12-31T14:16:32.391352",
   "immutable": false,
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251231_-1127149867712817628",
+      "event_id": "em_xsap_20251231_69800508227928338",
       "original_id": "xsap_港股_2025-12-31",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "元旦前夕(13:00收市)",
@@ -33,11 +33,11 @@
         "XS": "1",
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-29T14:18:08.097011"
+      "created_at": "2025-12-30T14:17:49.340128"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251231_-6329120739405288363",
+      "event_id": "em_xsap_20251231_-4334619377274410456",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-31",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -53,7 +53,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "新年前夕半日市",
@@ -62,156 +62,156 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-29T14:18:08.097040"
+      "created_at": "2025-12-30T14:17:49.340168"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_601857_20251230_0",
-      "original_id": "601857",
-      "event_date": "2025-12-30",
+      "event_id": "em_hsgg_000550_20251231_0",
+      "original_id": "000550",
+      "event_date": "2025-12-31",
       "event_time": null,
       "event_datetime": null,
-      "title": "中国石油发布公告",
-      "content": "股票代码: 601857, 股票名称: 中国石油",
+      "title": "江铃汽车发布公告",
+      "content": "股票代码: 000550, 股票名称: 江铃汽车",
       "category": "A股公告",
       "importance": 3,
       "country": "中国",
       "city": null,
       "stocks": [
-        "601857"
+        "000550"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
-        "stock_code": "601857",
-        "stock_name": "中国石油",
-        "date": "2025-12-30",
-        "total_count": 2586
+        "stock_code": "000550",
+        "stock_name": "江铃汽车",
+        "date": "2025-12-31",
+        "total_count": 2769
       },
-      "created_at": "2025-12-29T14:18:08.097203"
+      "created_at": "2025-12-30T14:17:49.340344"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_605300_20251230_1",
-      "original_id": "605300",
-      "event_date": "2025-12-30",
+      "event_id": "em_hsgg_000860_20251231_1",
+      "original_id": "000860",
+      "event_date": "2025-12-31",
       "event_time": null,
       "event_datetime": null,
-      "title": "佳禾食品发布公告",
-      "content": "股票代码: 605300, 股票名称: 佳禾食品",
+      "title": "顺鑫农业发布公告",
+      "content": "股票代码: 000860, 股票名称: 顺鑫农业",
       "category": "A股公告",
       "importance": 3,
       "country": "中国",
       "city": null,
       "stocks": [
-        "605300"
+        "000860"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
-        "stock_code": "605300",
-        "stock_name": "佳禾食品",
-        "date": "2025-12-30",
-        "total_count": 2586
+        "stock_code": "000860",
+        "stock_name": "顺鑫农业",
+        "date": "2025-12-31",
+        "total_count": 2769
       },
-      "created_at": "2025-12-29T14:18:08.097211"
+      "created_at": "2025-12-30T14:17:49.340351"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_002822_20251230_2",
-      "original_id": "002822",
-      "event_date": "2025-12-30",
+      "event_id": "em_hsgg_300506_20251231_2",
+      "original_id": "300506",
+      "event_date": "2025-12-31",
       "event_time": null,
       "event_datetime": null,
-      "title": "*ST中装发布公告",
-      "content": "股票代码: 002822, 股票名称: *ST中装",
+      "title": "*ST名家发布公告",
+      "content": "股票代码: 300506, 股票名称: *ST名家",
       "category": "A股公告",
       "importance": 3,
       "country": "中国",
       "city": null,
       "stocks": [
-        "002822"
+        "300506"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
-        "stock_code": "002822",
-        "stock_name": "*ST中装",
-        "date": "2025-12-30",
-        "total_count": 2586
+        "stock_code": "300506",
+        "stock_name": "*ST名家",
+        "date": "2025-12-31",
+        "total_count": 2769
       },
-      "created_at": "2025-12-29T14:18:08.097218"
+      "created_at": "2025-12-30T14:17:49.340359"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_002121_20251230_3",
-      "original_id": "002121",
-      "event_date": "2025-12-30",
+      "event_id": "em_hsgg_000829_20251231_3",
+      "original_id": "000829",
+      "event_date": "2025-12-31",
       "event_time": null,
       "event_datetime": null,
-      "title": "科陆电子发布公告",
-      "content": "股票代码: 002121, 股票名称: 科陆电子",
+      "title": "天音控股发布公告",
+      "content": "股票代码: 000829, 股票名称: 天音控股",
       "category": "A股公告",
       "importance": 3,
       "country": "中国",
       "city": null,
       "stocks": [
-        "002121"
+        "000829"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
-        "stock_code": "002121",
-        "stock_name": "科陆电子",
-        "date": "2025-12-30",
-        "total_count": 2586
+        "stock_code": "000829",
+        "stock_name": "天音控股",
+        "date": "2025-12-31",
+        "total_count": 2769
       },
-      "created_at": "2025-12-29T14:18:08.097225"
+      "created_at": "2025-12-30T14:17:49.340366"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_001331_20251230_4",
-      "original_id": "001331",
-      "event_date": "2025-12-30",
+      "event_id": "em_hsgg_603300_20251231_4",
+      "original_id": "603300",
+      "event_date": "2025-12-31",
       "event_time": null,
       "event_datetime": null,
-      "title": "胜通能源发布公告",
-      "content": "股票代码: 001331, 股票名称: 胜通能源",
+      "title": "海南华铁发布公告",
+      "content": "股票代码: 603300, 股票名称: 海南华铁",
       "category": "A股公告",
       "importance": 3,
       "country": "中国",
       "city": null,
       "stocks": [
-        "001331"
+        "603300"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
-        "stock_code": "001331",
-        "stock_name": "胜通能源",
-        "date": "2025-12-30",
-        "total_count": 2586
+        "stock_code": "603300",
+        "stock_name": "海南华铁",
+        "date": "2025-12-31",
+        "total_count": 2769
       },
-      "created_at": "2025-12-29T14:18:08.097240"
+      "created_at": "2025-12-30T14:17:49.340373"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231000000_3141059956924930908",
+      "event_id": "em_jjsj_20251231000000_6119101621777257516",
       "original_id": "2025-12-31 00:00:00_韩国：CPI：同比(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -227,16 +227,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
         "Name": "韩国：CPI：同比(报告期:2025年12月)",
         "City": "韩国"
       },
-      "created_at": "2025-12-29T14:18:08.097399"
+      "created_at": "2025-12-30T14:17:49.340390"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231092000_1908971955436708026",
+      "event_id": "em_jjsj_20251231092000_-2465444546701614486",
       "original_id": "2025-12-31 09:20:00_中国：人民币汇率(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:20:00",
@@ -252,16 +252,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
         "Name": "中国：人民币汇率(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-29T14:18:08.097407"
+      "created_at": "2025-12-30T14:17:49.340400"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_3107386299208363305",
+      "event_id": "em_jjsj_20251231093000_-4530282165568802181",
       "original_id": "2025-12-31 09:30:00_中国：制造业PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -277,16 +277,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
         "Name": "中国：制造业PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-29T14:18:08.097415"
+      "created_at": "2025-12-30T14:17:49.340409"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_-5919882732414110565",
+      "event_id": "em_jjsj_20251231093000_-8365119608298526718",
       "original_id": "2025-12-31 09:30:00_中国：PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -302,16 +302,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
         "Name": "中国：PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-29T14:18:08.097423"
+      "created_at": "2025-12-30T14:17:49.340419"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_131848138254645061",
+      "event_id": "em_jjsj_20251231093000_430674450894140164",
       "original_id": "2025-12-31 09:30:00_中国：非制造业PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -327,16 +327,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
         "Name": "中国：非制造业PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-29T14:18:08.097430"
+      "created_at": "2025-12-30T14:17:49.340427"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231160000_-3174801056157682037",
+      "event_id": "em_jjsj_20251231160000_7939036256032230618",
       "original_id": "2025-12-31 16:00:00_土耳其：出口金额(报告期:2025年11月)",
       "event_date": "2025-12-31",
       "event_time": "16:00:00",
@@ -352,16 +352,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
         "Name": "土耳其：出口金额(报告期:2025年11月)",
         "City": "土耳其"
       },
-      "created_at": "2025-12-29T14:18:08.097438"
+      "created_at": "2025-12-30T14:17:49.340436"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231213000_4816486039415488679",
+      "event_id": "em_jjsj_20251231213000_3287184763729940128",
       "original_id": "2025-12-31 21:30:00_美国:四周移动平均首次申请失业金人数:季调:初值(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "21:30:00",
@@ -377,16 +377,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
         "Name": "美国:四周移动平均首次申请失业金人数:季调:初值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-29T14:18:08.097446"
+      "created_at": "2025-12-30T14:17:49.340447"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231213000_-7065291468576932271",
+      "event_id": "em_jjsj_20251231213000_-295752150131915703",
       "original_id": "2025-12-31 21:30:00_美国:当周首次申请失业金人数:季调:初值(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "21:30:00",
@@ -402,43 +402,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-29",
+      "discovery_date": "2025-12-30",
       "raw_data": {
         "Name": "美国:当周首次申请失业金人数:季调:初值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-29T14:18:08.097454"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10868407",
-      "original_id": "10868407",
-      "event_date": "2025-12-30",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025中国绿氢产业大会",
-      "content": "《氢能装备》全球能源转型之际,中国绿氢产业将迎来重要发展机遇期!由俊瑞绿氢能源集团总冠名并由多部门联合举办的2025中国绿氢产业大会将于12月30日在京举行!欢迎全国绿氢产业链企业来京参会,共话中国绿氢产业发展机遇,共迎全球绿氢产业发展未来!",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "北京市",
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-29",
-      "raw_data": {
-        "fe_code": "10868407",
-        "fe_name": "2025中国绿氢产业大会",
-        "start_date": "2025-12-30",
-        "end_date": "2025-12-30",
-        "fe_type": "行业会议",
-        "sponsor": null,
-        "city": "北京市",
-        "content": "《氢能装备》全球能源转型之际,中国绿氢产业将迎来重要发展机遇期!由俊瑞绿氢能源集团总冠名并由多部门联合举办的2025中国绿氢产业大会将于12月30日在京举行!欢迎全国绿氢产业链企业来京参会,共话中国绿氢产业发展机遇,共迎全球绿氢产业发展未来!"
-      },
-      "created_at": "2025-12-29T14:18:08.097516"
+      "created_at": "2025-12-30T14:17:49.340455"
     }
   ]
 }

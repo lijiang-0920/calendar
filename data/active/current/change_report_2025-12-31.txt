@@ -1,0 +1,124 @@
+{
+  "detection_time": "2025-12-31T14:16:39.561838",
+  "summary": {
+    "total_new": 26,
+    "total_updated": 12,
+    "total_cancelled": 9
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "中证指数有限公司将于1月5日首次发布中证全债指数（全价）等15条债券全价指数"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 1,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "京东与宇树科技正式推出首家线下门店，12月31日正式开业"
+      ]
+    },
+    "investing": {
+      "new_events": 3,
+      "updated_events": 11,
+      "cancelled_events": 3,
+      "sample_new_titles": [
+        "美国当周贝克休斯总钻井总数(口)",
+        "新加坡银行贷款(美元)  (十一月)",
+        "美国EIA汽油库存变动(桶)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 21,
+      "updated_events": 0,
+      "cancelled_events": 5,
+      "sample_new_titles": [
+        "美克家居停复牌",
+        "ST柯利达停复牌",
+        "紫光国微停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-01-05",
+      "title": "中证指数有限公司将于1月5日首次发布中证全债指数（全价）等15条债券全价指数",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-12-31",
+      "title": "京东与宇树科技正式推出首家线下门店，12月31日正式开业",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-31",
+      "title": "*ST亚太发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-31",
+      "title": "电工合金发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-31",
+      "title": "新开普发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-31",
+      "title": "国林科技发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-31",
+      "title": "沪江材料发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-31",
+      "title": "第十二届全国大众冰雪季暨陕西省第十二届滑雪大会启动仪式",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-12-31",
+      "title": "美国当周贝克休斯总钻井总数(口)",
+      "importance": 2,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-31",
+      "title": "美克家居停复牌",
+      "importance": 2,
+      "country": "中国"
+    }
+  ]
+}
