@@ -1,56 +1,11 @@
 {
   "date": "2026-01-14",
-  "total_events": 4,
-  "new_events": 4,
+  "total_events": 2,
+  "new_events": 0,
   "platforms": {
-    "cls": 4
+    "cls": 2
   },
   "events": [
-    {
-      "platform": "cls",
-      "event_id": "cls_458118_20260114_1",
-      "original_id": "458118",
-      "event_date": "2026-01-14",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-01-14 00:00:00",
-      "title": "中国12月贸易帐(亿元)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-09",
-      "raw_data": {
-        "id": 458118,
-        "calendar_time": "2026-01-14 00:00:00",
-        "data_id": 58008,
-        "type": 1,
-        "economic": {
-          "title": "中国12月贸易帐(亿元)",
-          "country": "中国",
-          "country_icon": "",
-          "star": 3,
-          "indicator_id": 987,
-          "front": "0",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "亿元",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "中国12月贸易帐(亿元)"
-      },
-      "created_at": "2026-01-09T14:20:13.715063"
-    },
     {
       "platform": "cls",
       "event_id": "cls_473895_20260114_2",
@@ -68,8 +23,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-09",
+      "is_new": false,
+      "discovery_date": "2026-01-10",
       "raw_data": {
         "id": 473895,
         "calendar_time": "2026-01-14 08:00:00",
@@ -85,7 +40,7 @@
         "holiday": null,
         "title": "欧佩克公布月度原油市场报告"
       },
-      "created_at": "2026-01-09T14:20:13.715074"
+      "created_at": "2026-01-10T14:15:17.410026"
     },
     {
       "platform": "cls",
@@ -104,8 +59,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-09",
+      "is_new": false,
+      "discovery_date": "2026-01-10",
       "raw_data": {
         "id": 483968,
         "calendar_time": "2026-01-14 17:20:00",
@@ -121,52 +76,7 @@
         "holiday": null,
         "title": "今日有286亿元7天期逆回购到期"
       },
-      "created_at": "2026-01-09T14:20:13.715084"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_458171_20260114_1",
-      "original_id": "458171",
-      "event_date": "2026-01-14",
-      "event_time": "23:30:00",
-      "event_datetime": "2026-01-14 23:30:00",
-      "title": "美国至1月9日当周EIA原油库存(万桶)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-09",
-      "raw_data": {
-        "id": 458171,
-        "calendar_time": "2026-01-14 23:30:00",
-        "data_id": 58034,
-        "type": 1,
-        "economic": {
-          "title": "美国至1月9日当周EIA原油库存(万桶)",
-          "country": "美国",
-          "country_icon": "",
-          "star": 4,
-          "indicator_id": 111,
-          "front": "0",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "万桶",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "美国至1月9日当周EIA原油库存(万桶)"
-      },
-      "created_at": "2026-01-09T14:20:13.715094"
+      "created_at": "2026-01-10T14:15:17.410037"
     }
   ]
 }
