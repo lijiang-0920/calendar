@@ -1,11 +1,119 @@
 {
   "date": "2026-01-22",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 3,
   "platforms": {
-    "cls": 1
+    "cls": 4
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_458461_20260122_2",
+      "original_id": "458461",
+      "event_date": "2026-01-22",
+      "event_time": "01:00:00",
+      "event_datetime": "2026-01-22 01:00:00",
+      "title": "IEA公布月度原油市场报告",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-19",
+      "raw_data": {
+        "id": 458461,
+        "calendar_time": "2026-01-22 01:00:00",
+        "data_id": 20696,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "IEA公布月度原油市场报告",
+          "country": "法国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "IEA公布月度原油市场报告"
+      },
+      "created_at": "2026-01-19T14:23:34.686978"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_507921_20260122_2",
+      "original_id": "507921",
+      "event_date": "2026-01-22",
+      "event_time": "15:00:00",
+      "event_datetime": "2026-01-22 15:00:00",
+      "title": "商务部定于1月22日举行新闻发布会近期商务领域重点工作有关情况",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-19",
+      "raw_data": {
+        "id": 507921,
+        "calendar_time": "2026-01-22 15:00:00",
+        "data_id": 20971,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "商务部定于1月22日举行新闻发布会近期商务领域重点工作有关情况",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "商务部定于1月22日举行新闻发布会近期商务领域重点工作有关情况"
+      },
+      "created_at": "2026-01-19T14:23:34.686993"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_500637_20260122_2",
+      "original_id": "500637",
+      "event_date": "2026-01-22",
+      "event_time": "17:20:00",
+      "event_datetime": "2026-01-22 17:20:00",
+      "title": "今日有1793亿元7天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-19",
+      "raw_data": {
+        "id": 500637,
+        "calendar_time": "2026-01-22 17:20:00",
+        "data_id": 20929,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有1793亿元7天期逆回购到期",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2
+        },
+        "holiday": null,
+        "title": "今日有1793亿元7天期逆回购到期"
+      },
+      "created_at": "2026-01-19T14:23:34.687007"
+    },
     {
       "platform": "cls",
       "event_id": "cls_500832_20260122_1",
@@ -24,7 +132,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-18",
+      "discovery_date": "2026-01-19",
       "raw_data": {
         "id": 500832,
         "calendar_time": "2026-01-22 21:30:00",
@@ -49,7 +157,7 @@
         "holiday": null,
         "title": "美国11月核心PCE物价指数年率"
       },
-      "created_at": "2026-01-18T14:15:10.789174"
+      "created_at": "2026-01-19T14:23:34.687021"
     }
   ]
 }
