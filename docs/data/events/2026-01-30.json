@@ -1,41 +1,77 @@
 {
   "date": "2026-01-30",
-  "total_events": 1,
-  "new_events": 1,
+  "total_events": 2,
+  "new_events": 2,
   "platforms": {
-    "cls": 1
+    "cls": 2
   },
   "events": [
     {
       "platform": "cls",
-      "event_id": "cls_466377_20260130_1",
-      "original_id": "466377",
+      "event_id": "cls_523711_20260130_2",
+      "original_id": "523711",
       "event_date": "2026-01-30",
-      "event_time": "21:00:00",
-      "event_datetime": "2026-01-30 21:00:00",
-      "title": "德国1月CPI月率初值",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-30 00:00:00",
+      "title": "大商所豆粕、玉米系列期权将于1月30日晚挂牌",
       "content": null,
-      "category": "经济数据",
-      "importance": 3,
-      "country": "德国",
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2026-01-23",
+      "discovery_date": "2026-01-28",
       "raw_data": {
-        "id": 466377,
-        "calendar_time": "2026-01-30 21:00:00",
-        "data_id": 58529,
+        "id": 523711,
+        "calendar_time": "2026-01-30 00:00:00",
+        "data_id": 21120,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "大商所豆粕、玉米系列期权将于1月30日晚挂牌",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "大商所豆粕、玉米系列期权将于1月30日晚挂牌"
+      },
+      "created_at": "2026-01-28T14:25:42.316010"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_515555_20260130_1",
+      "original_id": "515555",
+      "event_date": "2026-01-30",
+      "event_time": "21:30:00",
+      "event_datetime": "2026-01-30 21:30:00",
+      "title": "美国12月PPI年率",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-28",
+      "raw_data": {
+        "id": 515555,
+        "calendar_time": "2026-01-30 21:30:00",
+        "data_id": 58557,
         "type": 1,
         "economic": {
-          "title": "德国1月CPI月率初值",
-          "country": "德国",
+          "title": "美国12月PPI年率",
+          "country": "美国",
           "country_icon": "",
           "star": 3,
-          "indicator_id": 847,
+          "indicator_id": 178,
           "front": "--",
           "fix": "--",
           "consensus": "--",
@@ -47,9 +83,9 @@
         },
         "event": null,
         "holiday": null,
-        "title": "德国1月CPI月率初值"
+        "title": "美国12月PPI年率"
       },
-      "created_at": "2026-01-23T14:21:31.943767"
+      "created_at": "2026-01-28T14:25:42.316020"
     }
   ]
 }
