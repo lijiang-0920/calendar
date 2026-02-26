@@ -1,9 +1,9 @@
 {
   "date": "2026-03-02",
-  "total_events": 3,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 1,
   "platforms": {
-    "cls": 3
+    "cls": 4
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-25",
+      "discovery_date": "2026-02-26",
       "raw_data": {
         "id": 577590,
         "calendar_time": "2026-03-02 00:00:00",
@@ -40,7 +40,7 @@
         "holiday": null,
         "title": "江西铜业收购索尔黄金方案将于3月2日经英国法院进行裁决庭审"
       },
-      "created_at": "2026-02-25T14:44:19.589948"
+      "created_at": "2026-02-26T14:43:01.539490"
     },
     {
       "platform": "cls",
@@ -60,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-25",
+      "discovery_date": "2026-02-26",
       "raw_data": {
         "id": 577607,
         "calendar_time": "2026-03-02 00:00:00",
@@ -76,7 +76,43 @@
         "holiday": null,
         "title": "芝加哥商品交易所（CME）计划于3月2日推出四款南亚食用油期货合约"
       },
-      "created_at": "2026-02-25T14:44:19.589958"
+      "created_at": "2026-02-26T14:43:01.539501"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_582318_20260302_2",
+      "original_id": "582318",
+      "event_date": "2026-03-02",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-02 00:00:00",
+      "title": "巴塞罗那世界移动通信大会（MWC 2026）将于3月2日至5日在西班牙巴塞罗那开幕",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "西班牙",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-26",
+      "raw_data": {
+        "id": 582318,
+        "calendar_time": "2026-03-02 00:00:00",
+        "data_id": 21474,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "巴塞罗那世界移动通信大会（MWC 2026）将于3月2日至5日在西班牙巴塞罗那开幕",
+          "country": "西班牙",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "巴塞罗那世界移动通信大会（MWC 2026）将于3月2日至5日在西班牙巴塞罗那开幕"
+      },
+      "created_at": "2026-02-26T14:43:01.539511"
     },
     {
       "platform": "cls",
@@ -96,7 +132,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-25",
+      "discovery_date": "2026-02-26",
       "raw_data": {
         "id": 530004,
         "calendar_time": "2026-03-02 23:00:00",
@@ -121,7 +157,7 @@
         "holiday": null,
         "title": "美国2月ISM制造业PMI"
       },
-      "created_at": "2026-02-25T14:44:19.589968"
+      "created_at": "2026-02-26T14:43:01.539522"
     }
   ]
 }
