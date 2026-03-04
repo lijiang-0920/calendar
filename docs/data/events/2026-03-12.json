@@ -1,7 +1,7 @@
 {
   "date": "2026-03-12",
   "total_events": 4,
-  "new_events": 2,
+  "new_events": 1,
   "platforms": {
     "cls": 4
   },
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-03",
+      "discovery_date": "2026-03-04",
       "raw_data": {
         "id": 579805,
         "calendar_time": "2026-03-12 00:00:00",
@@ -40,7 +40,7 @@
         "holiday": null,
         "title": "中国家电及消费电子博览会将于3月12日至15日在上海举办"
       },
-      "created_at": "2026-03-03T14:40:47.186050"
+      "created_at": "2026-03-04T14:35:46.127339"
     },
     {
       "platform": "cls",
@@ -59,8 +59,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-03-03",
+      "is_new": false,
+      "discovery_date": "2026-03-04",
       "raw_data": {
         "id": 593719,
         "calendar_time": "2026-03-12 00:00:00",
@@ -76,7 +76,7 @@
         "holiday": null,
         "title": "2026上海商业航天大会暨展览会将于3月12日至14日举办"
       },
-      "created_at": "2026-03-03T14:40:47.186060"
+      "created_at": "2026-03-04T14:35:46.127348"
     },
     {
       "platform": "cls",
@@ -95,8 +95,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-03-03",
+      "is_new": false,
+      "discovery_date": "2026-03-04",
       "raw_data": {
         "id": 593721,
         "calendar_time": "2026-03-12 00:00:00",
@@ -112,52 +112,52 @@
         "holiday": null,
         "title": "GAIC全球人工智能大会将于3月12日至14日在杭州举行"
       },
-      "created_at": "2026-03-03T14:40:47.186069"
+      "created_at": "2026-03-04T14:35:46.127358"
     },
     {
       "platform": "cls",
-      "event_id": "cls_551327_20260312_1",
-      "original_id": "551327",
+      "event_id": "cls_551309_20260312_1",
+      "original_id": "551309",
       "event_date": "2026-03-12",
       "event_time": "20:30:00",
       "event_datetime": "2026-03-12 20:30:00",
-      "title": "美国至3月7日当周初请失业金人数(万人)",
+      "title": "美国2月PPI月率",
       "content": null,
       "category": "经济数据",
-      "importance": 4,
+      "importance": 3,
       "country": "美国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-03",
+      "is_new": true,
+      "discovery_date": "2026-03-04",
       "raw_data": {
-        "id": 551327,
+        "id": 551309,
         "calendar_time": "2026-03-12 20:30:00",
-        "data_id": 60022,
+        "data_id": 60005,
         "type": 1,
         "economic": {
-          "title": "美国至3月7日当周初请失业金人数(万人)",
+          "title": "美国2月PPI月率",
           "country": "美国",
           "country_icon": "",
-          "star": 4,
-          "indicator_id": 79,
-          "front": "0",
+          "star": 3,
+          "indicator_id": 177,
+          "front": "--",
           "fix": "--",
           "consensus": "--",
           "actual": "--",
-          "unit": "万人",
+          "unit": "%",
           "flag": "--",
           "interpret": "",
           "interpret_img": []
         },
         "event": null,
         "holiday": null,
-        "title": "美国至3月7日当周初请失业金人数(万人)"
+        "title": "美国2月PPI月率"
       },
-      "created_at": "2026-03-03T14:40:47.186080"
+      "created_at": "2026-03-04T14:35:46.127369"
     }
   ]
 }
