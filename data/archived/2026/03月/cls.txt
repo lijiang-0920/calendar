@@ -2,10 +2,10 @@
   "platform": "cls",
   "year": 2026,
   "month": 3,
-  "total_events": 36,
+  "total_events": 37,
   "data_status": "ARCHIVED",
   "date_type": "HISTORICAL",
-  "last_update": "2026-03-07T14:20:05.913659",
+  "last_update": "2026-03-08T14:21:23.047269",
   "immutable": true,
   "events": [
     {
@@ -1357,6 +1357,42 @@
         "title": "美国2月季调后非农就业人口(万人)"
       },
       "created_at": "2026-03-06T14:34:01.049428"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_599896_20260307_2",
+      "original_id": "599896",
+      "event_date": "2026-03-07",
+      "event_time": "10:00:00",
+      "event_datetime": "2026-03-07 10:00:00",
+      "title": "十四届全国人大四次会议将于3月7日上午10时举行民生主题记者会",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2026-03-07",
+      "raw_data": {
+        "id": 599896,
+        "calendar_time": "2026-03-07 10:00:00",
+        "data_id": 21606,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "十四届全国人大四次会议将于3月7日上午10时举行民生主题记者会",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "十四届全国人大四次会议将于3月7日上午10时举行民生主题记者会"
+      },
+      "created_at": "2026-03-07T14:20:07.291021"
     }
   ]
 }
