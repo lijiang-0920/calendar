@@ -1,9 +1,9 @@
 {
   "date": "2026-03-24",
-  "total_events": 4,
-  "new_events": 3,
+  "total_events": 2,
+  "new_events": 0,
   "platforms": {
-    "cls": 4
+    "cls": 2
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-12",
+      "discovery_date": "2026-03-13",
       "raw_data": {
         "id": 579857,
         "calendar_time": "2026-03-24 00:00:00",
@@ -40,7 +40,7 @@
         "holiday": null,
         "title": "博鳌亚洲论坛2026年年会将于3月24日至27日举办"
       },
-      "created_at": "2026-03-12T14:43:55.893071"
+      "created_at": "2026-03-13T14:39:26.391583"
     },
     {
       "platform": "cls",
@@ -59,8 +59,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-03-12",
+      "is_new": false,
+      "discovery_date": "2026-03-13",
       "raw_data": {
         "id": 610729,
         "calendar_time": "2026-03-24 00:00:00",
@@ -76,97 +76,7 @@
         "holiday": null,
         "title": "Arm宣布将于3月24日举办芯片活动"
       },
-      "created_at": "2026-03-12T14:43:55.893082"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_598969_20260324_1",
-      "original_id": "598969",
-      "event_date": "2026-03-24",
-      "event_time": "07:30:00",
-      "event_datetime": "2026-03-24 07:30:00",
-      "title": "日本2月核心CPI年率",
-      "content": null,
-      "category": "经济数据",
-      "importance": 3,
-      "country": "日本",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-03-12",
-      "raw_data": {
-        "id": 598969,
-        "calendar_time": "2026-03-24 07:30:00",
-        "data_id": 60381,
-        "type": 1,
-        "economic": {
-          "title": "日本2月核心CPI年率",
-          "country": "日本",
-          "country_icon": "",
-          "star": 3,
-          "indicator_id": 275,
-          "front": "--",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "%",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "日本2月核心CPI年率"
-      },
-      "created_at": "2026-03-12T14:43:55.893092"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_598987_20260324_1",
-      "original_id": "598987",
-      "event_date": "2026-03-24",
-      "event_time": "17:00:00",
-      "event_datetime": "2026-03-24 17:00:00",
-      "title": "欧元区3月制造业PMI初值",
-      "content": null,
-      "category": "经济数据",
-      "importance": 3,
-      "country": "欧元区",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-03-12",
-      "raw_data": {
-        "id": 598987,
-        "calendar_time": "2026-03-24 17:00:00",
-        "data_id": 60393,
-        "type": 1,
-        "economic": {
-          "title": "欧元区3月制造业PMI初值",
-          "country": "欧元区",
-          "country_icon": "",
-          "star": 3,
-          "indicator_id": 624,
-          "front": "0",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "欧元区3月制造业PMI初值"
-      },
-      "created_at": "2026-03-12T14:43:55.893102"
+      "created_at": "2026-03-13T14:39:26.391593"
     }
   ]
 }
