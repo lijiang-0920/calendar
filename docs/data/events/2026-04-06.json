@@ -1,9 +1,9 @@
 {
   "date": "2026-04-06",
-  "total_events": 1,
+  "total_events": 2,
   "new_events": 1,
   "platforms": {
-    "cls": 1
+    "cls": 2
   },
   "events": [
     {
@@ -23,8 +23,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-04-01",
+      "is_new": false,
+      "discovery_date": "2026-04-02",
       "raw_data": {
         "id": 650831,
         "calendar_time": "2026-04-06 00:00:00",
@@ -40,7 +40,43 @@
         "holiday": null,
         "title": "白宫：特朗普希望4月6日前与伊朗达成协议"
       },
-      "created_at": "2026-04-01T15:00:21.856276"
+      "created_at": "2026-04-02T14:51:50.885938"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_652448_20260406_2",
+      "original_id": "652448",
+      "event_date": "2026-04-06",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-04-06 00:00:00",
+      "title": "2026年浙江省城市足球联赛赛程首轮赛事将于4月6日正式开赛",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-04-02",
+      "raw_data": {
+        "id": 652448,
+        "calendar_time": "2026-04-06 00:00:00",
+        "data_id": 21971,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026年浙江省城市足球联赛赛程首轮赛事将于4月6日正式开赛",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026年浙江省城市足球联赛赛程首轮赛事将于4月6日正式开赛"
+      },
+      "created_at": "2026-04-02T14:51:50.885948"
     }
   ]
 }
