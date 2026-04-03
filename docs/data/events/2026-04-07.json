@@ -1,9 +1,9 @@
 {
   "date": "2026-04-07",
-  "total_events": 5,
-  "new_events": 4,
+  "total_events": 7,
+  "new_events": 2,
   "platforms": {
-    "cls": 5
+    "cls": 7
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-04-02",
+      "discovery_date": "2026-04-03",
       "raw_data": {
         "id": 610781,
         "calendar_time": "2026-04-07 00:00:00",
@@ -40,7 +40,7 @@
         "holiday": null,
         "title": "证监会发布《关于短线交易监管的若干规定》，自4月7日起施行"
       },
-      "created_at": "2026-04-02T14:51:50.885958"
+      "created_at": "2026-04-03T14:39:21.411124"
     },
     {
       "platform": "cls",
@@ -59,8 +59,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-04-02",
+      "is_new": false,
+      "discovery_date": "2026-04-03",
       "raw_data": {
         "id": 652685,
         "calendar_time": "2026-04-07 00:00:00",
@@ -76,7 +76,7 @@
         "holiday": null,
         "title": "谷歌推出Veo 3.1 Lite版本，将视频模型成本降低50%，将自4月7日起下调Veo 3.1 Fast版本定价"
       },
-      "created_at": "2026-04-02T14:51:50.885969"
+      "created_at": "2026-04-03T14:39:21.411156"
     },
     {
       "platform": "cls",
@@ -95,8 +95,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-04-02",
+      "is_new": false,
+      "discovery_date": "2026-04-03",
       "raw_data": {
         "id": 652687,
         "calendar_time": "2026-04-07 00:00:00",
@@ -112,7 +112,7 @@
         "holiday": null,
         "title": "东南亚网约车平台Grab将于4月7日起上调燃油附加费"
       },
-      "created_at": "2026-04-02T14:51:50.885978"
+      "created_at": "2026-04-03T14:39:21.411168"
     },
     {
       "platform": "cls",
@@ -131,8 +131,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-04-02",
+      "is_new": false,
+      "discovery_date": "2026-04-03",
       "raw_data": {
         "id": 652689,
         "calendar_time": "2026-04-07 00:00:00",
@@ -148,7 +148,79 @@
         "holiday": null,
         "title": "中国国民党主席郑丽文将于4月7日至12日到江苏、上海、北京参观访问"
       },
-      "created_at": "2026-04-02T14:51:50.885988"
+      "created_at": "2026-04-03T14:39:21.411179"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_654866_20260407_2",
+      "original_id": "654866",
+      "event_date": "2026-04-07",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-04-07 00:00:00",
+      "title": "中国亚洲国际精酿啤酒会议暨展览会将于4月7日至9日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-04-03",
+      "raw_data": {
+        "id": 654866,
+        "calendar_time": "2026-04-07 00:00:00",
+        "data_id": 21984,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "中国亚洲国际精酿啤酒会议暨展览会将于4月7日至9日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "中国亚洲国际精酿啤酒会议暨展览会将于4月7日至9日举办"
+      },
+      "created_at": "2026-04-03T14:39:21.411189"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_654989_20260407_2",
+      "original_id": "654989",
+      "event_date": "2026-04-07",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-04-07 00:00:00",
+      "title": "智元将于4月7日开启 “智元AI发布周”",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-04-03",
+      "raw_data": {
+        "id": 654989,
+        "calendar_time": "2026-04-07 00:00:00",
+        "data_id": 21985,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "智元将于4月7日开启 “智元AI发布周”",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "智元将于4月7日开启 “智元AI发布周”"
+      },
+      "created_at": "2026-04-03T14:39:21.411199"
     },
     {
       "platform": "cls",
@@ -167,8 +239,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-04-02",
+      "is_new": false,
+      "discovery_date": "2026-04-03",
       "raw_data": {
         "id": 648434,
         "calendar_time": "2026-04-07 17:20:00",
@@ -184,7 +256,7 @@
         "holiday": null,
         "title": "今日有2695亿元7天期逆回购到期"
       },
-      "created_at": "2026-04-02T14:51:50.885998"
+      "created_at": "2026-04-03T14:39:21.411210"
     }
   ]
 }

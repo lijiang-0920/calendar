@@ -1,9 +1,9 @@
 {
   "date": "2026-04-09",
-  "total_events": 5,
-  "new_events": 0,
+  "total_events": 6,
+  "new_events": 1,
   "platforms": {
-    "cls": 5
+    "cls": 6
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-04-02",
+      "discovery_date": "2026-04-03",
       "raw_data": {
         "id": 637812,
         "calendar_time": "2026-04-09 00:00:00",
@@ -40,7 +40,7 @@
         "holiday": null,
         "title": "中欧合作“微笑卫星”完成发射场最后准备，计划4月9日发射"
       },
-      "created_at": "2026-04-02T14:51:50.886008"
+      "created_at": "2026-04-03T14:39:21.411253"
     },
     {
       "platform": "cls",
@@ -60,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-04-02",
+      "discovery_date": "2026-04-03",
       "raw_data": {
         "id": 637842,
         "calendar_time": "2026-04-09 00:00:00",
@@ -76,7 +76,7 @@
         "holiday": null,
         "title": "2026第三届AI算力产业大会暨展览会将于4月9日至11日在深圳举办"
       },
-      "created_at": "2026-04-02T14:51:50.886018"
+      "created_at": "2026-04-03T14:39:21.411262"
     },
     {
       "platform": "cls",
@@ -96,7 +96,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-04-02",
+      "discovery_date": "2026-04-03",
       "raw_data": {
         "id": 647069,
         "calendar_time": "2026-04-09 00:00:00",
@@ -112,7 +112,7 @@
         "holiday": null,
         "title": "2026第十四届深圳国际半导体产业及应用展览会将于4月9日至11日举办"
       },
-      "created_at": "2026-04-02T14:51:50.886028"
+      "created_at": "2026-04-03T14:39:21.411272"
     },
     {
       "platform": "cls",
@@ -132,7 +132,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-04-02",
+      "discovery_date": "2026-04-03",
       "raw_data": {
         "id": 650895,
         "calendar_time": "2026-04-09 00:00:00",
@@ -148,7 +148,7 @@
         "holiday": null,
         "title": "第十四届中国电子信息博览会将于4月9日至11日举办"
       },
-      "created_at": "2026-04-02T14:51:50.886038"
+      "created_at": "2026-04-03T14:39:21.411282"
     },
     {
       "platform": "cls",
@@ -168,7 +168,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-04-02",
+      "discovery_date": "2026-04-03",
       "raw_data": {
         "id": 605641,
         "calendar_time": "2026-04-09 10:00:00",
@@ -184,7 +184,43 @@
         "holiday": null,
         "title": "美联储公布货币政策会议纪要"
       },
-      "created_at": "2026-04-02T14:51:50.886048"
+      "created_at": "2026-04-03T14:39:21.411291"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_653661_20260409_2",
+      "original_id": "653661",
+      "event_date": "2026-04-09",
+      "event_time": "17:20:00",
+      "event_datetime": "2026-04-09 17:20:00",
+      "title": "今日有5亿元7天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-04-03",
+      "raw_data": {
+        "id": 653661,
+        "calendar_time": "2026-04-09 17:20:00",
+        "data_id": 21980,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有5亿元7天期逆回购到期",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2
+        },
+        "holiday": null,
+        "title": "今日有5亿元7天期逆回购到期"
+      },
+      "created_at": "2026-04-03T14:39:21.411301"
     }
   ]
 }
